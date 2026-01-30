@@ -3,7 +3,10 @@
     "name": "Containment Cell",
     "description": "You are in a cold, concrete cell. The heavy iron door is slightly ajar, and a faint, rhythmic scraping sound echoes from the hall. A single, flickering light bulb casts long shadows across a hard cot and a small, stained table.",
     "exits": {
-      "east": "hallway_a"
+      "east": {
+        "destination": "hallway_a",
+        "door_level": 1
+      }
     },
     "details": {
       "cot": "A simple metal frame with a thin, uncomfortable mattress. This is where you sleep.",
@@ -18,8 +21,14 @@
     "name": "Dim Hallway",
     "description": "You are in a long, dimly lit hallway. A guard stands by the east wall, alert and armed. The scraping sound is louder here. To the west is your cell. The hallway continues to the east.",
     "exits": {
-      "west": "cell",
-      "east": "hallway_b"
+      "west": {
+        "destination": "cell",
+        "door_level": 1
+      },
+      "east": {
+        "destination": "hallway_b",
+        "door_level": 0
+      }
     },
     "entities": [
       "guard"
@@ -29,9 +38,18 @@
     "name": "Dreadful Hallway",
     "description": "The hallway continues. The scraping is very close now. You feel a sense of dread. There is a door to the north and the hallway continues east. A broom is propped up against the wall.",
     "exits": {
-      "west": "hallway_a",
-      "east": "storage_room",
-      "north": "control_room"
+      "west": {
+        "destination": "hallway_a",
+        "door_level": 0
+      },
+      "east": {
+        "destination": "storage_room",
+        "door_level": 0
+      },
+      "north": {
+        "destination": "control_room",
+        "door_level": 2
+      }
     },
     "items": [
       "broom"
@@ -41,7 +59,10 @@
     "name": "Storage Room",
     "description": "You've entered a small storage room. It's filled with dusty boxes and discarded equipment. It smells of mold and decay.",
     "exits": {
-      "west": "hallway_b"
+      "west": {
+        "destination": "hallway_b",
+        "door_level": 0
+      }
     },
     "details": {
       "boxes": "They are mostly empty, but some contain broken machine parts and old uniforms.",
@@ -52,7 +73,10 @@
     "name": "Security Control Room",
     "description": "This appears to be a security control room. Most of the monitors are shattered. One flickering screen shows a blurry image of a statue-like figure. A security terminal sits on a console, and a keycard is lying next to it.",
     "exits": {
-      "south": "hallway_b"
+      "south": {
+        "destination": "hallway_b",
+        "door_level": 2
+      }
     },
     "details": {
       "monitors": "Dozens of screens, all smashed except for one. The floor is covered in glass.",

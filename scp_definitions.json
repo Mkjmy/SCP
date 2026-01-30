@@ -1,0 +1,16 @@
+{
+  "scp_173": {
+    "class_name": "SCP173",
+    "name": "SCP-173 The Sculpture",
+    "object_class": "Keter",
+    "initial_room": "hallway_a",
+    "description": "A statue that moves when not observed."
+  },
+  "scp_049": {
+    "class_name": "SCP049",
+    "name": "SCP-049 The Plague Doctor",
+    "object_class": "Euclid",
+    "initial_room": "control_room",
+    "description": "A humanoid entity resembling a medieval plague doctor."
+  }
+}

@@ -18,26 +18,30 @@ DEBUFF_VALUES = {
 }
 
 class Player:
-    def __init__(self, start_location):
+    def __init__(self, start_location, name="D-9341", role="D-Class",
+                 clearance_level=0, max_health=100, health=None,
+                 max_stamina=100, stamina=None, max_morale=100, morale=None,
+                 attributes=None, knowledge=None, origin="Unknown", personality="Determined", specialty="Survival"):
+        
         self.location = start_location
         self.inventory = [] # This is now the backpack
-        self.role = "D-Class"
-        self.name = "D-9341"
-        self.clearance_level = 0
+        self.role = role
+        self.name = name
+        self.clearance_level = clearance_level
         self.level = 1 # Added for debug display
         
         self.left_hand = None
         self.right_hand = None
 
-        self.max_health = 100
-        self.health = self.max_health
-        self.max_stamina = 100
-        self.stamina = self.max_stamina
+        self.max_health = max_health
+        self.health = health if health is not None else self.max_health
+        self.max_stamina = max_stamina
+        self.stamina = stamina if stamina is not None else self.max_stamina
 
-        self.max_morale = 100
-        self.morale = self.max_morale
+        self.max_morale = max_morale
+        self.morale = morale if morale is not None else self.max_morale
 
-        self.attributes = {
+        self.attributes = attributes if attributes is not None else {
             'strength': random.randint(3, 6),
             'dexterity': random.randint(3, 6),
             'intelligence': random.randint(3, 6)
@@ -47,7 +51,12 @@ class Player:
         self.body_parts = {part: 'uninjured' for part in BODY_PARTS}
 
         # Skill & Knowledge System
-        self.knowledge = set()
+        self.knowledge = set(knowledge) if knowledge is not None else set()
+
+        # Additional descriptive attributes, might not be configurable initially but good to have
+        self.origin = origin
+        self.personality = personality
+        self.specialty = specialty
 
     def get_description(self, debug=False):
         """Returns a string with the player's details, including stats."""

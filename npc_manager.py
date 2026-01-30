@@ -87,6 +87,13 @@ class NPCManager:
                 )
             return "\n".join(all_npc_status)
 
+    def get_npcs_in_room(self, room_id):
+        """
+        Returns a list of NPC info dictionaries for NPCs in the specified room.
+        Each dictionary contains {"character": Character_obj, "current_room": "room_id", ...}
+        """
+        return [info for info in self._npcs.values() if info["current_room"] == room_id]
+
 # For testing (can be removed later)
 if __name__ == "__main__":
     from map_visualizer import load_map_data, generate_ascii_map
