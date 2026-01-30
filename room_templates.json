@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cell",
+    "name": "Containment Cell",
+    "description": "A spartan containment cell. The walls are bare, and a single cot is bolted to the floor.",
+    "exits": ["north"],
+    "tags": ["start", "end"],
+    "details": {
+      "cot": {
+        "description": "An uncomfortable metal cot."
+      },
+      "wall_scratchings": {
+        "description": "Faint scratchings on the wall read: 'They're always watching.'",
+        "learns_knowledge": "foundation_paranoia_hint"
+      }
+    }
+  },
+  {
+    "id": "hallway_ns",
+    "name": "Sterile Hallway",
+    "description": "A long, sterile hallway stretching to the north and south.",
+    "exits": ["north", "south"],
+    "tags": ["hallway"],
+    "details": {}
+  },
+  {
+    "id": "hallway_ew",
+    "name": "Sterile Hallway",
+    "description": "A long, sterile hallway stretching to the east and west.",
+    "exits": ["east", "west"],
+    "tags": ["hallway"],
+    "details": {}
+  },
+  {
+    "id": "corner_ne",
+    "name": "Hallway Corner",
+    "description": "The hallway turns here, leading north and east.",
+    "exits": ["north", "east"],
+    "tags": ["corner"],
+    "details": {}
+  },
+  {
+    "id": "corner_nw",
+    "name": "Hallway Corner",
+    "description": "The hallway turns here, leading north and west.",
+    "exits": ["north", "west"],
+    "tags": ["corner"],
+    "details": {}
+  },
+  {
+    "id": "corner_se",
+    "name": "Hallway Corner",
+    "description": "The hallway turns here, leading south and east.",
+    "exits": ["south", "east"],
+    "tags": ["corner"],
+    "details": {}
+  },
+  {
+    "id": "corner_sw",
+    "name": "Hallway Corner",
+    "description": "The hallway turns here, leading south and west.",
+    "exits": ["south", "west"],
+    "tags": ["corner"],
+    "details": {}
+  },
+  {
+    "id": "room_office",
+    "name": "Vacant Office",
+    "description": "A small, tidy office. A single desk sits in the corner. The computer terminal is dark.",
+    "exits": ["south"],
+    "tags": ["end"],
+    "details": {
+      "desk": {
+        "description": "A standard office desk. The drawers are empty."
+      },
+      "terminal": {
+        "description": "The computer terminal is offline. A sticky note on the monitor has 'skill_basic_lockpicking' written on it.",
+        "learns_knowledge": "skill_basic_lockpicking"
+      }
+    }
+  }
+]

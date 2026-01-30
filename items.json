@@ -1,0 +1,27 @@
+{
+    "keycard_l1": {
+        "name": "Level 1 Keycard",
+        "description": "A standard issue Level 1 keycard. It looks like it could open some basic doors.",
+        "takeable": true
+    },
+    "coffee_cup": {
+        "name": "Stained Coffee Cup",
+        "description": "A cold, half-empty coffee cup with the Foundation logo on it. The coffee inside looks like tar.",
+        "takeable": true
+    },
+    "broom": {
+        "name": "Broom",
+        "description": "A dusty old broom leaning against the wall. It doesn't look very useful.",
+        "takeable": false
+    },
+    "terminal": {
+        "name": "Security Terminal",
+        "description": "The screen is shattered and dark. It's completely useless.",
+        "takeable": false
+    },
+    "cot": {
+        "name": "Hard Cot",
+        "description": "A simple metal frame with a thin, uncomfortable mattress. This is where you sleep.",
+        "takeable": false
+    }
+}
