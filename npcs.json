@@ -1,0 +1,14 @@
+{
+  "npc_001": {
+    "role": "Guard",
+    "name": "Guard Smith",
+    "current_room": "hallway_a",
+    "last_moved_at": "2026-01-30T10:00:00Z"
+  },
+  "npc_002": {
+    "role": "Scientist",
+    "name": "Dr. Miller",
+    "current_room": "control_room",
+    "last_moved_at": "2026-01-30T10:05:00Z"
+  }
+}
