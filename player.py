@@ -21,6 +21,7 @@ class Player:
     def __init__(self, start_location, name="D-9341", role="D-Class",
                  clearance_level=0, max_health=100, health=None,
                  max_stamina=100, stamina=None, max_morale=100, morale=None,
+                 max_sanity=100, sanity=None,
                  attributes=None, knowledge=None, origin="Unknown", personality="Determined", specialty="Survival"):
         
         self.location = start_location
@@ -40,6 +41,9 @@ class Player:
 
         self.max_morale = max_morale
         self.morale = morale if morale is not None else self.max_morale
+
+        self.max_sanity = max_sanity
+        self.sanity = sanity if sanity is not None else self.max_sanity
 
         self.attributes = attributes if attributes is not None else {
             'strength': random.randint(3, 6),
@@ -66,6 +70,7 @@ class Player:
             f"  Health: {self.health}/{self.max_health}",
             f"  Stamina: {self.stamina}/{self.max_stamina}",
             f"  Morale: {self.morale}/{self.max_morale}",
+            f"  Sanity: {self.sanity}/{self.max_sanity}",
             f"  Attributes:",
             f"    Strength: {self.attributes['strength']}",
             f"    Dexterity: {self.attributes['dexterity']}",
@@ -138,6 +143,16 @@ class Player:
             return f"Your morale improved by {self.morale - old_morale}!"
         elif self.morale < old_morale:
             return f"Your morale dropped by {old_morale - self.morale}!"
+        return "" # No change
+
+    def change_sanity(self, amount):
+        """Adjusts player sanity within bounds."""
+        old_sanity = self.sanity
+        self.sanity = max(0, min(self.max_sanity, self.sanity + amount))
+        if self.sanity > old_sanity:
+            return f"Your sanity improved by {self.sanity - old_sanity}!"
+        elif self.sanity < old_sanity:
+            return f"Your sanity dropped by {old_sanity - self.sanity}!"
         return "" # No change
 
     def get_morale_effect(self, stat_type):

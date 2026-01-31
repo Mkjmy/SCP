@@ -206,6 +206,35 @@ def generate_ascii_map(map_data, entity_locations=None):
     # 5. Convert canvas to string
     return "\n".join("".join(row).rstrip() for row in canvas)
 
+def generate_simple_map_view(map_data):
+    """Generates a simple text-based map view."""
+    if not map_data:
+        return "Map data is empty."
+
+    output = ["--- Simple Map View ---"]
+    drawn_connections = set()
+
+    for room_id, room_info in map_data.items():
+        room_name = room_info.get("name", room_id)
+        for direction, exit_info in room_info.get("exits", {}).items():
+            if isinstance(exit_info, dict):
+                destination_room_id = exit_info.get("destination")
+            else: # old string format
+                destination_room_id = exit_info
+            
+            if not destination_room_id:
+                continue
+
+            destination_name = map_data.get(destination_room_id, {}).get("name", destination_room_id)
+            
+            # Use a sorted tuple to uniquely identify a connection
+            connection = tuple(sorted((room_id, destination_room_id)))
+            if connection not in drawn_connections:
+                output.append(f"[{room_name}] --- [{destination_name}]")
+                drawn_connections.add(connection)
+                
+    return "\n".join(output)
+
 def main():
     """Main function to generate and print the map."""
     # Temporarily import NPCManager and SCPManager for testing combined display
