@@ -185,7 +185,7 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
     stdscr.keypad(True) # Enable special keys (like arrow keys)
 
     # Load game configuration
-    config_file = "game_config.json"
+    config_file = "data/game_config.json"
     try:
         with open(config_file, 'r') as f:
             game_config = json.load(f)
@@ -227,7 +227,7 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
 
     # --- Load Items ---
     try:
-        with open('items.json', 'r') as f:
+        with open('data/items.json', 'r') as f:
             all_items = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError) as e:
         display_message(stdscr, f"Error loading items.json: {e}. Game may have issues.", is_danger=True)
@@ -285,7 +285,7 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
 
     # --- Initialize SCPs ---
     scp_settings = game_config.get("scps", {})
-    scp_definitions_file = scp_settings.get("definitions_file", "scp_definitions.json")
+    scp_definitions_file = scp_settings.get("definitions_file", "data/scp_definitions.json")
     
     if os.path.exists(scp_definitions_file):
         scp_manager.load_scps_from_definitions(scp_definitions_file)
@@ -311,7 +311,29 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
             npcs_in_room = npc_manager.get_npcs_in_room(current_room_id)
             scps_in_room = scp_manager.get_scps_in_room(current_room_id) # Also get SCPs in room
 
-                    
+            # --- TURN START (Primitive Engine) ---
+            turn_messages = []
+            for scp in scp_manager._scps.values():
+                turn_messages.extend(scp.on_turn_start(player, None))
+                turn_messages.extend(scp.on_tick(player, None))
+                turn_messages.extend(scp.on_atmosphere_check(player, None))
+            
+            # Sanity-based atmosphere mood shift
+            if player.sanity < 30:
+                turn_messages.append("The air vibrates with chaotic energy. [Mood: High Energy]")
+            elif player.sanity < 60:
+                turn_messages.append("The silence feels heavy and introspective. [Mood: Introspective]")
+            else:
+                turn_messages.append("The environment is calm and minimal. [Mood: Minimal]")
+            
+            # --- PERCEPTION (Primitive Engine) ---
+            for scp in scps_in_room:
+                turn_messages.extend(scp.on_player_perceive(player, None))
+                turn_messages.extend(scp.on_player_near(player, None))
+            
+            if turn_messages:
+                message_to_show += "\n".join(turn_messages) + "\n"
+
             # --- Dynamic Option Generation ---
             options = []
             for detail in sorted(current_room.get("details", {}).keys()):
@@ -363,7 +385,10 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
                     for npc_info in npcs_in_room: # npc_info is a dict from NPCManager
                         stdscr.addstr(npc_info["character"].get_description(debug=debug_active) + "\n", npc_color)
                     for scp_instance in scps_in_room: # scp_instance is an SCP object from SCPManager
-                        stdscr.addstr(scp_instance.get_status() + "\n", danger_color)
+                        # Use observe_description for redacted output
+                        scp_status = scp_instance.get_status()
+                        display_status = scp_instance.on_observe_description(player, scp_status)
+                        stdscr.addstr(display_status + "\n", danger_color)
                     stdscr.addstr("\n")
     
                 stdscr.addstr("What do you do?\n", prompt_color)
@@ -487,7 +512,15 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
                     is_dialogue = True
             elif verb == 'go':
                 success, move_message = move(player, target, game_map, door_manager)
-                if not success: message_to_show = move_message
+                if not success: 
+                    message_to_show = move_message
+                else:
+                    # --- MOVEMENT TRIGGER (Primitive Engine) ---
+                    move_results = []
+                    for scp in scp_manager._scps.values():
+                        move_results.extend(scp.on_player_move(player, target, None))
+                    if move_results:
+                        message_to_show = "\n".join(move_results)
             elif verb == 'attack':
                 # Extract Character objects from the list of dictionaries
                 actual_npcs_in_room = [npc_info["character"] for npc_info in npcs_in_room]
@@ -512,7 +545,7 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
                     else:
                         base_stamina_cost = 10
                         morale_effect_stamina = player.get_morale_effect('lockpick')
-                        stamina_cost = base_stamina_cost - morale_effect_stamina
+                        stamina_cost = (base_stamina_cost - morale_effect_stamina) * player.active_rules.get('stamina_cost_multiplier', 1.0)
     
                         if player.stamina < stamina_cost:
                             message_to_show = "You're too exhausted to attempt lockpicking."
@@ -541,6 +574,14 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
                                 if random.random() < 0.2:
                                     injury_msg = player.apply_injury(random.choice(['left_arm', 'right_arm']), 'minor_injury')
                                     message_to_show += f" {injury_msg}"
+            
+            # --- MEMORY TICK (Primitive Engine) ---
+            memory_messages = []
+            for scp in scp_manager._scps.values():
+                memory_messages.extend(scp.on_memory_tick(player, None))
+            if memory_messages:
+                if message_to_show: message_to_show += "\n"
+                message_to_show += "\n".join(memory_messages)
     
             if message_to_show:
                 if action == 'debug': # Check if the debug action generated the message

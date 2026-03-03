@@ -76,6 +76,10 @@
       "south": {
         "destination": "hallway_b",
         "door_level": 2
+      },
+      "east": {
+        "destination": "containment_chamber_239",
+        "door_level": 4
       }
     },
     "details": {
@@ -87,5 +91,15 @@
       "terminal",
       "keycard_l1"
     ]
-  }
-}
+    },
+    "containment_chamber_239": {
+    "name": "Containment Chamber 239",
+    "description": "A room that feels... different. The walls seem to shimmer, and the air is thick with power. A small girl sits in the center, her eyes glowing faintly.",
+    "exits": {
+      "west": {
+        "destination": "control_room",
+        "door_level": 4
+      }
+    }
+    }
+    }

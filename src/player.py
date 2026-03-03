@@ -57,6 +57,16 @@ class Player:
         # Skill & Knowledge System
         self.knowledge = set(knowledge) if knowledge is not None else set()
 
+        # --- New Primitive Engine Concepts ---
+        self.mind_states = set() # e.g., 'terrified', 'obsessed'
+        self.active_rules = {} # e.g., {'stamina_cost_multiplier': 2.0}
+        self.perception = {
+            "attention": None, # Current target of attention
+            "awareness": {}, # {entity_id: awareness_level}
+            "memory": {}, # {entity_id: information}
+            "memory_persistence": {} # {entity_id: duration}
+        }
+
         # Additional descriptive attributes, might not be configurable initially but good to have
         self.origin = origin
         self.personality = personality

@@ -59,7 +59,7 @@ def run(player, characters_in_room, current_room_exits, game_map):
     base_stamina_cost = 20
     stamina_debuff_injury = player.get_debuff(action_type='run')
     morale_effect_stamina = player.get_morale_effect('run') # Morale can affect stamina cost
-    stamina_cost = base_stamina_cost + (stamina_debuff_injury * 2) - morale_effect_stamina # Injuries increase cost, good morale reduces it
+    stamina_cost = (base_stamina_cost + (stamina_debuff_injury * 2) - morale_effect_stamina) * player.active_rules.get('stamina_cost_multiplier', 1.0)
     
     if player.stamina < stamina_cost:
         return "You are too exhausted to run!", False

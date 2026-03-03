@@ -1,0 +1,62 @@
+{
+  "scp_173": {
+    "class_name": "SCP173",
+    "name": "SCP-173 The Sculpture",
+    "object_class": "Keter",
+    "initial_room": "hallway_a",
+    "description": "A statue that moves when not observed. DO NOT BLINK.",
+    "mechanics": [
+      {
+        "type": "Perception",
+        "params": { "cognitohazard": true, "cognitohazard_effect": "panic" }
+      },
+      {
+        "type": "Cognitive",
+        "params": { "fear_aura": true, "radius": 1 }
+      }
+    ]
+  },
+  "scp_049": {
+    "class_name": "SCP049",
+    "name": "SCP-049 The Plague Doctor",
+    "object_class": "Euclid",
+    "initial_room": "control_room",
+    "description": "A humanoid entity resembling a medieval plague doctor. His touch is lethal.",
+    "mechanics": [
+      {
+        "type": "BioPhysical",
+        "params": { "infection": true, "decay_rate": 5 }
+      },
+      {
+        "type": "Information",
+        "params": { "infohazard": true, "required_clearance": 3 }
+      }
+    ]
+  },
+  "scp_055": {
+    "class_name": "SCP055",
+    "name": "SCP-055 [Unknown]",
+    "object_class": "Keter",
+    "initial_room": "hallway_b",
+    "description": "It is not round. It is not square. You can't remember what it is.",
+    "mechanics": [
+      {
+        "type": "Perception",
+        "params": { "antimeme": true }
+      }
+    ]
+  },
+  "scp_239": {
+    "class_name": "SCP239",
+    "name": "SCP-239 The Witch Child",
+    "object_class": "Keter",
+    "initial_room": "containment_chamber_239",
+    "description": "A small girl capable of rewriting reality based on her thoughts.",
+    "mechanics": [
+      {
+        "type": "Reality",
+        "params": { "reality_bending": true, "rule_to_bend": "stamina_cost_multiplier", "bend_value": 0.5 }
+      }
+    ]
+  }
+}

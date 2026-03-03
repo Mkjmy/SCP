@@ -1,4 +1,7 @@
 # test_door_system.py
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
 
 from map_visualizer import load_map_data
 from door_manager import DoorManager

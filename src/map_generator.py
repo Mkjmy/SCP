@@ -9,7 +9,7 @@ OPPOSITE_DIRECTIONS = {
     "west": "east"
 }
 
-def load_room_templates(filename="room_templates.json"):
+def load_room_templates(filename="data/room_templates.json"):
     """Loads room templates from a JSON file."""
     with open(filename, 'r') as f:
         return json.load(f)

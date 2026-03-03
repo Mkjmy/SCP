@@ -39,18 +39,7 @@ class SCPManager:
                 continue
 
             try:
-                # Dynamically import the SCP class. Assumes classes are in 'scps' subdirectory
-                # For now, let's assume specific SCP classes are defined in this file for simplicity,
-                # or in separate modules that can be imported directly.
-                # A more robust system would import from a specific scps package.
-                # For this example, let's assume SCP173, etc. are defined in scp.py or individual files.
-                # If they are in the same file, we can just use globals().
-                # If they are in 'scp_classes' module for example:
-                # module = importlib.import_module(f"scp_classes.{class_name.lower()}")
-                # scp_class = getattr(module, class_name)
-                
-                # As a placeholder, create a base SCP instance
-                # This will be replaced once specific SCP classes are created
+                # Instantiate the base SCP class
                 scp_instance = SCP(
                     scp_id=scp_id,
                     name=def_data.get("name", scp_id),
@@ -58,15 +47,22 @@ class SCPManager:
                     initial_room=def_data.get("initial_room", "unknown_room")
                 )
                 scp_instance.description = def_data.get("description", scp_instance.description)
-                scp_instance.current_room = def_data.get("initial_room", scp_instance.current_room)
                 
+                # Load mechanics
+                mechanic_defs = def_data.get("mechanics", [])
+                for mech_def in mechanic_defs:
+                    mech_type = mech_def.get("type")
+                    mech_params = mech_def.get("params", {})
+                    if mech_type:
+                        scp_instance.add_mechanic(mech_type, mech_params)
+
                 # Check if the room exists in map_data
                 if scp_instance.current_room not in self.map_data:
                     print(f"Warning: SCP {scp_id} defined with initial_room '{scp_instance.current_room}' which does not exist in map data.")
 
 
                 self._scps[scp_id] = scp_instance
-                print(f"Loaded {scp_instance.name} ({scp_id}) into {scp_instance.current_room}.")
+                print(f"Loaded {scp_instance.name} ({scp_id}) into {scp_instance.current_room} with {len(scp_instance.mechanics)} mechanics.")
 
             except Exception as e:
                 print(f"Error loading SCP {scp_id} (class: {class_name}): {e}")

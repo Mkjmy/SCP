@@ -39,7 +39,7 @@
     }
   ],
   "scps": {
-    "definitions_file": "scp_definitions.json"
+    "definitions_file": "data/scp_definitions.json"
   },
   "game_settings": {
     "enable_debug_option": true
