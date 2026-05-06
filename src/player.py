@@ -74,26 +74,33 @@ class Player:
 
     def get_description(self, debug=False):
         """Returns a string with the player's details, including stats."""
-        details = [
-            f"  Name: {self.name} ({self.role})",
-            f"  Clearance Level: {self.clearance_level}",
-            f"  Health: {self.health}/{self.max_health}",
-            f"  Stamina: {self.stamina}/{self.max_stamina}",
-            f"  Morale: {self.morale}/{self.max_morale}",
-            f"  Sanity: {self.sanity}/{self.max_sanity}",
-            f"  Attributes:",
-            f"    Strength: {self.attributes['strength']}",
-            f"    Dexterity: {self.attributes['dexterity']}",
-            f"    Intelligence: {self.attributes['intelligence']}",
-            f"\n  Hands:",
-            f"    Left: {self.left_hand if self.left_hand else 'Empty'}",
-            f"    Right: {self.right_hand if self.right_hand else 'Empty'}",
-            f"\n  Backpack: {self.inventory if self.inventory else 'Empty'}"
-        ]
-        
-        if debug:
-            details.insert(1, f"  Location ID: {self.location}")
-            details.insert(2, f"  Level: {self.level}")
+        if not debug:
+            details = [
+                f"  Name: {self.name} ({self.role})",
+                f"\n  Hands:",
+                f"    Left: {self.left_hand if self.left_hand else 'Empty'}",
+                f"    Right: {self.right_hand if self.right_hand else 'Empty'}",
+                f"\n  Backpack: {self.inventory if self.inventory else 'Empty'}"
+            ]
+        else:
+            details = [
+                f"  Name: {self.name} ({self.role})",
+                f"  Location ID: {self.location}",
+                f"  Level: {self.level}",
+                f"  Clearance Level: {self.clearance_level}",
+                f"  Health: {self.health}/{self.max_health}",
+                f"  Stamina: {self.stamina}/{self.max_stamina}",
+                f"  Morale: {self.morale}/{self.max_morale}",
+                f"  Sanity: {self.sanity}/{self.max_sanity}",
+                f"  Attributes:",
+                f"    Strength: {self.attributes['strength']}",
+                f"    Dexterity: {self.attributes['dexterity']}",
+                f"    Intelligence: {self.attributes['intelligence']}",
+                f"\n  Hands:",
+                f"    Left: {self.left_hand if self.left_hand else 'Empty'}",
+                f"    Right: {self.right_hand if self.right_hand else 'Empty'}",
+                f"\n  Backpack: {self.inventory if self.inventory else 'Empty'}"
+            ]
 
         injury_status = self.get_injury_status()
         if injury_status:
@@ -101,7 +108,7 @@ class Player:
             details.extend([f"    - {status}" for status in injury_status])
 
         if self.knowledge:
-            details.append("\n  Knowns:")
+            details.append("\n  Knowledge:")
             details.extend([f"    - {k.replace('_', ' ').title()}" for k in self.knowledge])
 
         return "\n".join(details)

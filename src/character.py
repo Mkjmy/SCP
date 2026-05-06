@@ -4,7 +4,7 @@ import random
 FIRST_NAMES = ["James", "John", "Robert", "Michael", "William", "David", "Richard", "Maria", "Olga", "Kenji"]
 LAST_NAMES = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller", "Davis", "Tanaka", "Ivanov"]
 ORIGINS = ["USA", "Russia", "UK", "Germany", "Japan", "Canada", "Australia", "Brazil", "China", "India"]
-PERSONALITIES = ["Stoic", "Nervous", "Aggressive", "By-the-book", "Calm", "Jumpy", "Pragmatic", "Careless"]
+PERSONALITIES = ["Stoic", "Nervous", "Aggressive", "By-the-book", "Calm", "Jumpy", "Pragmatic", "Careless", "Broken", "Manic", "Paranoid"]
 SCIENTIST_SPECIALTIES = ["Memetics", "Anomalous Biology", "Temporal Physics", "Cognitohazards", "Thaumatology", "Robotics"]
 GUARD_SPECIALTIES = ["Containment Specialist", "Tactical Response", "Perimeter Security", "MTF Operative", "Heavy Ordinance"]
 
@@ -17,7 +17,10 @@ DIALOGUE_LINES = {
     "Calm": ["How can I help you?", "Let's all just remain calm.", "There is a rational explanation for everything."],
     "Jumpy": ["Did you hear that?!", "What was that noise?", "I have a bad feeling about this."],
     "Pragmatic": ["Let's focus on the task at hand.", "What's the most logical course of action?", "Wasting time won't help us."],
-    "Careless": ["Eh, whatever.", "I'm supposed to be on break.", "Not my problem."]
+    "Careless": ["Eh, whatever.", "I'm supposed to be on break.", "Not my problem."],
+    "Broken": ["The walls are screaming. Can't you hear them?", "I just want to go home. Why won't they let me go home?", "Everything is red. Why is it all red?"],
+    "Manic": ["Hahaha! Did you see the shadows dance?!", "The Doctor is coming, the Doctor is coming! Free surgery for everyone!", "I can see through time! It's all a loop!"],
+    "Paranoid": ["They're in the vents. Don't look up.", "You're one of them, aren't you? Wearing a human face?", "The cameras... they're blinking in Morse code."]
 }
 
 
@@ -36,11 +39,48 @@ class Character:
         self.stamina = stamina
         self.attributes = attributes
         self.level = 1 # Added for debug display
+        self.current_behavior = self.get_behavioral_description()
+
+    def update_behavior(self):
+        """Updates the character's behavioral description for a new turn."""
+        self.current_behavior = self.get_behavioral_description()
+
+    def get_behavioral_description(self):
+        """Returns a flavor description of what the character is currently doing."""
+        if self.personality == "Broken":
+            return random.choice(["is curled into a ball on a bunk, shivering.", "is staring at their own hands, whispering silently.", "is rocking back and forth slowly."])
+        elif self.personality == "Manic":
+            return random.choice(["is drawing invisible patterns on the wall with their finger.", "is giggling uncontrollably at nothing.", "is pacing in tight, rapid circles."])
+        elif self.personality == "Paranoid":
+            return random.choice(["is staring intensely at the ceiling vents.", "is huddled in a corner, watching everyone with wide eyes.", "is muttering about 'the eyes in the walls'."])
+        elif self.personality == "Aggressive":
+            return random.choice(["is glaring at you with clenched fists.", "is shadow-boxing against a metallic pillar.", "is standing stiffly, looking for a fight."])
+        elif self.personality == "Jumpy":
+            return random.choice(["flinches at every sound from the hallway.", "is nervously tapping their feet against the bed frame.", "is looking around as if expecting something to jump out."])
+        
+        # Default/Sane behaviors
+        if self.role == "Guard":
+            return random.choice(["is standing guard, hand near their holster.", "is checking their radio with a bored expression.", "is scanning the room with clinical detachment."])
+        else:
+            return random.choice(["is sitting quietly on the edge of a bunk.", "is staring at the heavy steel door.", "is resting their head against the cool concrete wall."])
 
     def get_description(self, debug=False):
         """Returns a string with the character's details, including stats."""
+        if not debug:
+            health_percent = self.health / self.max_health
+            if health_percent > 0.9: health_status = "unharmed"
+            elif health_percent > 0.5: health_status = "visibly injured"
+            else: health_status = "critically wounded"
+            
+            mental_state = "seems sane"
+            if self.personality in ["Broken", "Manic", "Paranoid"]:
+                mental_state = "completely lost to madness"
+            
+            return f"{self.name} ({self.role}) {self.current_behavior} They look {health_status} and {mental_state}."
+
         details = [
             f"  Name: {self.name} ({self.role})",
+            f"  Level: {self.level}",
             f"  Clearance Level: {self.clearance_level}",
             f"  Health: {self.health}/{self.max_health}",
             f"  Stamina: {self.stamina}/{self.max_stamina}",
@@ -49,13 +89,9 @@ class Character:
             f"    Dexterity: {self.attributes['dexterity']}",
             f"    Intelligence: {self.attributes['intelligence']}",
             f"  Personality: {self.personality}",
+            f"  Origin: {self.origin}",
+            f"  Specialty: {self.specialty}",
         ]
-        if debug:
-            details.insert(1, f"  Level: {self.level}")
-            details.extend([
-                f"  Origin: {self.origin}",
-                f"  Specialty: {self.specialty}",
-            ])
         return "\n".join(details)
         
     def get_dialogue(self):

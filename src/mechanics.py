@@ -13,7 +13,22 @@ class BaseMechanic:
             return handler(**kwargs)
         return None
 
+    # --- Primitive Primitives (Utility methods for all mechanics) ---
+
+    def damage_player(self, player, amount, reason=None):
+        player.health -= amount
+        msg = f"You took {amount} damage from {self.scp.name}."
+        if reason: msg += f" ({reason})"
+        return msg
+
+    def drain_sanity(self, player, amount, reason=None):
+        return player.change_sanity(-amount)
+
+    def change_morale(self, player, amount):
+        return player.change_morale(amount)
+
 # --- 1. Perception Layer ---
+# ... (rest of classes will be updated and registered below)
 
 class PerceptionMechanic(BaseMechanic):
     """
@@ -112,8 +127,7 @@ class BioPhysicalMechanic(BaseMechanic):
     def on_tick(self, player, game_state):
         if self.params.get("infection"):
             if self.scp.current_room == player.location:
-                player.health -= self.params.get("decay_rate", 1)
-                return f"The {self.scp.name}'s presence is decaying your body."
+                return self.damage_player(player, self.params.get("decay_rate", 1), reason="corrosive infection")
         return None
 
 # --- 6. Information Mechanics ---
@@ -140,15 +154,48 @@ class NarrativeMechanic(BaseMechanic):
     Handles atmosphere, story branches, and meta-narrative.
     Primitives: Atmosphere, Plot armor, Author override, Narrative awareness.
     """
+    def _handle_interaction(self, player, interaction_type):
+        story_key = f"story_{interaction_type}"
+        if story_key in self.params:
+            outcome = self.params[story_key]
+            # Handle optional effects
+            if isinstance(outcome, dict):
+                msg = outcome.get("message", "")
+                if outcome.get("kill"):
+                    player.health = 0
+                elif "damage" in outcome:
+                    self.damage_player(player, outcome["damage"])
+                return msg
+            return outcome
+        return None
+
+    def on_player_attack(self, player, game_state):
+        return self._handle_interaction(player, "attack")
+
+    def on_player_run(self, player, game_state):
+        return self._handle_interaction(player, "run")
+
+    def on_player_talk(self, player, game_state):
+        return self._handle_interaction(player, "talk")
+
     def on_atmosphere_check(self, player, game_state):
         if self.params.get("atmosphere_shift"):
             mood = self.params.get("mood", "minimal")
             return f"The air grows heavy. Current atmosphere: {mood}"
         return None
 
-    def apply_plot_armor(self, player):
-        if self.params.get("plot_armor"):
-            if player.health < 20:
-                player.health = 20
-                return "A narrative coincidence prevents your death... for now."
-        return None
+# --- Registry System ---
+
+MECHANIC_REGISTRY = {
+    "perception": PerceptionMechanic,
+    "reality": RealityMechanic,
+    "spatial": SpatialMechanic,
+    "cognitive": CognitiveMechanic,
+    "biophysical": BioPhysicalMechanic,
+    "information": InformationMechanic,
+    "narrative": NarrativeMechanic
+}
+
+def get_mechanic_class(name):
+    """Returns the mechanic class mapped to the given name."""
+    return MECHANIC_REGISTRY.get(name.lower())

@@ -1,8 +1,19 @@
 import random
 from player import BODY_PARTS # Import BODY_PARTS for random injury selection
 
-def attack(player, characters_in_room):
+def attack(player, characters_in_room, scps_in_room=None):
     """Player attempts to attack."""
+    # Check for SCP-specific attack responses
+    if scps_in_room:
+        for scp in scps_in_room:
+            scp_responses = scp.on_player_attack(player, None)
+            if scp_responses:
+                # If an SCP has a specific deadly response, it might end the game
+                full_response = "\n".join(scp_responses)
+                # Check if any response implies death (for simplicity, check for keywords or a flag)
+                is_deadly = "fades to black" in full_response or "neutralized" in full_response or player.health <= 0
+                return full_response, is_deadly
+
     # Check for severe arm injuries that might prevent attack
     if player.is_part_severely_injured('left_arm') and player.is_part_severely_injured('right_arm'):
         return "Your arms are too severely injured to even attempt an attack!", False
@@ -47,8 +58,16 @@ def attack(player, characters_in_room):
     else:
         return "You swing wildly at the air. There's nothing here to attack.", False
 
-def run(player, characters_in_room, current_room_exits, game_map):
+def run(player, characters_in_room, current_room_exits, game_map, scps_in_room=None):
     """Player attempts to run away."""
+    # Check for SCP-specific run responses (e.g., pursuit, hindrance)
+    if scps_in_room:
+        for scp in scps_in_room:
+            scp_responses = scp.on_player_run(player, None)
+            if scp_responses:
+                # SCP might block the run or cause damage during the attempt
+                return "\n".join(scp_responses), player.health <= 0
+
     # Check for severe leg injuries that might prevent running
     if player.is_part_severely_injured('left_leg') and player.is_part_severely_injured('right_leg'):
         return "Your legs are too severely injured; you can't run!", False

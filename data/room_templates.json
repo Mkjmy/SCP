@@ -1,19 +1,43 @@
 [
   {
     "id": "cell",
-    "name": "Containment Cell",
-    "description": "A spartan containment cell. The walls are bare, and a single cot is bolted to the floor.",
+    "name": "D-Class Dormitory",
+    "description": "A large, sterile dormitory shared by eight D-Class personnel. Rows of metallic bunk beds are bolted to the floor. The air is thick with the smell of sweat and recycled oxygen. A heavy, reinforced door with a high-clearance keypad is the only way out.",
     "exits": ["north"],
     "tags": ["start", "end"],
     "details": {
-      "cot": {
-        "description": "An uncomfortable metal cot."
+      "bunk_beds": {
+        "description": "Spartan bunk beds with thin, gray mattresses. Most are occupied by huddled figures. Tucked under one of the lower mattresses, you feel something hard and plastic."
       },
-      "wall_scratchings": {
-        "description": "Faint scratchings on the wall read: 'They're always watching.'",
-        "learns_knowledge": "foundation_paranoia_hint"
+      "security_keypad": {
+        "description": "A modern biometric and card-based keypad. It glows with a forbidding red light. Level 3 clearance required."
       }
-    }
+    },
+    "items": ["keycard_l3"]
+  },
+  {
+    "id": "dead_end_s",
+    "name": "Storage Nook",
+    "description": "A small dead end with some empty crates.",
+    "exits": ["south"],
+    "tags": ["end"],
+    "details": {}
+  },
+  {
+    "id": "dead_end_e",
+    "name": "Utility Closet",
+    "description": "A cramped closet containing cleaning supplies.",
+    "exits": ["east"],
+    "tags": ["end"],
+    "details": {}
+  },
+  {
+    "id": "dead_end_w",
+    "name": "Observation Deck",
+    "description": "A small platform overlooking a dark maintenance shaft.",
+    "exits": ["west"],
+    "tags": ["end"],
+    "details": {}
   },
   {
     "id": "hallway_ns",
@@ -61,6 +85,103 @@
     "description": "The hallway turns here, leading south and west.",
     "exits": ["south", "west"],
     "tags": ["corner"],
+    "details": {}
+  },
+  {
+    "id": "t_junction_n",
+    "name": "T-Junction",
+    "description": "A three-way junction leading north, east, and west.",
+    "exits": ["north", "east", "west"],
+    "tags": ["junction"],
+    "details": {}
+  },
+  {
+    "id": "t_junction_s",
+    "name": "T-Junction",
+    "description": "A three-way junction leading south, east, and west.",
+    "exits": ["south", "east", "west"],
+    "tags": ["junction"],
+    "details": {}
+  },
+  {
+    "id": "t_junction_e",
+    "name": "T-Junction",
+    "description": "A three-way junction leading north, south, and east.",
+    "exits": ["north", "south", "east"],
+    "tags": ["junction"],
+    "details": {}
+  },
+  {
+    "id": "t_junction_w",
+    "name": "T-Junction",
+    "description": "A three-way junction leading north, south, and west.",
+    "exits": ["north", "south", "west"],
+    "tags": ["junction"],
+    "details": {}
+  },
+  {
+    "id": "crossroads",
+    "name": "Main Intersection",
+    "description": "A major crossroads with hallways leading in all four directions.",
+    "exits": ["north", "south", "east", "west"],
+    "tags": ["junction"],
+    "details": {}
+  },
+  {
+    "id": "security_station",
+    "name": "Security Checkpoint",
+    "description": "A fortified checkpoint with reinforced glass and a monitoring station. A Level 2 keycard is sitting on the desk.",
+    "exits": ["north", "south"],
+    "tags": ["security", "junction"],
+    "details": {
+      "desk": {
+        "description": "A heavy metal desk with several monitors showing static."
+      }
+    },
+    "items": ["keycard_l2"]
+  },
+  {
+    "id": "hallway_ns_alt",
+    "name": "Dimly Lit Hallway",
+    "description": "The lights flicker overhead in this long, north-south hallway. Scrape marks are visible on the floor.",
+    "exits": ["north", "south"],
+    "tags": ["hallway"],
+    "details": {}
+  },
+  {
+    "id": "control_room_small",
+    "name": "Sub-Control Room",
+    "description": "A cramped room filled with server racks and diagnostic terminals.",
+    "exits": ["east"],
+    "tags": ["end", "security"],
+    "details": {}
+  },
+  {
+    "id": "containment_lobby",
+    "name": "Containment Suite Lobby",
+    "description": "A small, sterile entrance area leading to a specific containment unit. A heavy blast door is to the north, and a reinforced glass window looks into a room to the east.",
+    "exits": ["south", "north", "east"],
+    "tags": ["suite", "junction"],
+    "details": {}
+  },
+  {
+    "id": "containment_observation",
+    "name": "Observation Room",
+    "description": "A room filled with monitoring equipment and recording devices. A large pane of ballistic glass provides a view of the containment chamber.",
+    "exits": ["west"],
+    "tags": ["suite", "security", "end"],
+    "details": {
+      "monitors": {
+        "description": "Dozens of screens showing various telemetry and a live video feed of the chamber."
+      }
+    }
+  },
+  {
+    "id": "containment_chamber",
+    "name": "Containment Chamber",
+    "description": "A heavily reinforced chamber designed to hold anomalous entities. The walls are lined with specialized alloys.",
+    "exits": ["south"],
+    "tags": ["suite", "chamber", "end"],
     "details": {}
   },
   {

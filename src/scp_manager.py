@@ -1,6 +1,7 @@
 # scp_manager.py
 import importlib
 import json
+import random
 from scp import SCP # Import the base SCP class
 
 class SCPManager:
@@ -10,62 +11,49 @@ class SCPManager:
 
     def load_scps_from_definitions(self, definitions_file):
         """
-        Loads SCP definitions from a JSON file and instantiates SCP objects.
-        The JSON should map scp_id to a dictionary containing 'class_name', 'name',
-        'object_class', 'initial_room', and other properties.
-        Example:
-        {
-          "scp_173": {
-            "class_name": "SCP173",
-            "name": "SCP-173",
-            "object_class": "Keter",
-            "initial_room": "cell_173",
-            "description": "A statue that moves when not observed."
-          },
-          ...
-        }
+        Loads SCP definitions from a new hierarchical JSON structure.
+        The JSON maps zone_id to a dictionary containing 'entity' and 'structure'.
         """
         try:
             with open(definitions_file, 'r') as f:
-                scp_defs = json.load(f)
+                zone_defs = json.load(f)
         except FileNotFoundError:
             print(f"Error: SCP definitions file '{definitions_file}' not found.")
             return
 
-        for scp_id, def_data in scp_defs.items():
-            class_name = def_data.get("class_name")
-            if not class_name:
-                print(f"Warning: SCP definition for {scp_id} is missing 'class_name'. Skipping.")
+        for zone_id, zone_data in zone_defs.items():
+            entity_data = zone_data.get("entity")
+            if not entity_data:
+                print(f"Warning: Zone {zone_id} is missing 'entity' data. Skipping.")
                 continue
+
+            scp_id = entity_data.get("id", zone_id)
 
             try:
                 # Instantiate the base SCP class
+                # Note: In a procedural map, initial_room will be assigned by the map generator
                 scp_instance = SCP(
                     scp_id=scp_id,
-                    name=def_data.get("name", scp_id),
-                    object_class=def_data.get("object_class", "Euclid"),
-                    initial_room=def_data.get("initial_room", "unknown_room")
+                    name=entity_data.get("name", scp_id),
+                    object_class=entity_data.get("object_class", "Euclid"),
+                    initial_room="pending_assignment"
                 )
-                scp_instance.description = def_data.get("description", scp_instance.description)
+                scp_instance.description = entity_data.get("description", scp_instance.description)
+                scp_instance.activity_level = entity_data.get("activity_level", 0.5)
                 
                 # Load mechanics
-                mechanic_defs = def_data.get("mechanics", [])
+                mechanic_defs = entity_data.get("mechanics", [])
                 for mech_def in mechanic_defs:
                     mech_type = mech_def.get("type")
                     mech_params = mech_def.get("params", {})
                     if mech_type:
                         scp_instance.add_mechanic(mech_type, mech_params)
 
-                # Check if the room exists in map_data
-                if scp_instance.current_room not in self.map_data:
-                    print(f"Warning: SCP {scp_id} defined with initial_room '{scp_instance.current_room}' which does not exist in map data.")
-
-
                 self._scps[scp_id] = scp_instance
-                print(f"Loaded {scp_instance.name} ({scp_id}) into {scp_instance.current_room} with {len(scp_instance.mechanics)} mechanics.")
+                # print(f"Loaded {scp_instance.name} ({scp_id}) with {len(scp_instance.mechanics)} mechanics.")
 
             except Exception as e:
-                print(f"Error loading SCP {scp_id} (class: {class_name}): {e}")
+                print(f"Error loading SCP {scp_id} from {zone_id}: {e}")
 
     def get_scp_by_id(self, scp_id):
         return self._scps.get(scp_id)

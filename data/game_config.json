@@ -1,7 +1,7 @@
 {
   "player": {
     "name": "Player One",
-    "clearance_level": 1,
+    "clearance_level": 0,
     "health": 100,
     "stamina": 100,
     "morale": 100,
@@ -17,31 +17,18 @@
       "right_hand": null
     },
     "knowledge": [],
-    "start_location": "cell"
+    "start_location": "room_0_0"
   },
   "map_settings": {
-    "mode": "load_static",
+    "mode": "generate_random",
     "static_map_file": "debug_output/debug_map.json",
-    "random_map_num_rooms": 15
+    "random_map_num_rooms": 25
   },
-  "npcs": [
-    {
-      "role": "Guard",
-      "initial_room_id": "hallway_a"
-    },
-    {
-      "role": "Scientist",
-      "initial_room_id": "control_room"
-    },
-    {
-      "role": "D-Class",
-      "initial_room_id": "cell"
-    }
-  ],
+  "npcs": [],
   "scps": {
     "definitions_file": "data/scp_definitions.json"
   },
   "game_settings": {
-    "enable_debug_option": true
+    "enable_debug_option": false
   }
 }

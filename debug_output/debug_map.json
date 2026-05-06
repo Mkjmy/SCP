@@ -52,7 +52,8 @@
       }
     },
     "items": [
-      "broom"
+      "broom",
+      "coffee_cup"
     ]
   },
   "storage_room": {
@@ -89,10 +90,11 @@
     },
     "items": [
       "terminal",
+      "keycard_l1",
       "keycard_l1"
     ]
-    },
-    "containment_chamber_239": {
+  },
+  "containment_chamber_239": {
     "name": "Containment Chamber 239",
     "description": "A room that feels... different. The walls seem to shimmer, and the air is thick with power. A small girl sits in the center, her eyes glowing faintly.",
     "exits": {
@@ -101,5 +103,5 @@
         "door_level": 4
       }
     }
-    }
-    }
+  }
+}

@@ -9,16 +9,30 @@ def load_map_data(filename="debug_output/debug_map.json"):
     with open(filename, 'r') as f:
         return json.load(f)
 
-def generate_ascii_map(map_data, entity_locations=None):
+def generate_ascii_map(map_data, entity_locations=None, start_room_id=None, player_location=None):
     """Generates an ASCII representation of the map."""
     if not map_data:
         return "Map data is empty."
 
     # 1. Assign coordinates to rooms
+    if start_room_id is None:
+        # Use player location as start if available to center the map or at least ensure it's included
+        if player_location and player_location in map_data:
+            start_room_id = player_location
+        else:
+            # Try to find a room with "start" tag
+            for rid, rdata in map_data.items():
+                if "start" in rdata.get("tags", []):
+                    start_room_id = rid
+                    break
+            # Fallback to the first room in the dictionary
+            if start_room_id is None:
+                start_room_id = next(iter(map_data.keys()))
+
     room_coords = {}
-    q = [('cell', (0, 0))]  # Start with the initial cell
-    room_coords['cell'] = (0, 0)
-    visited = {'cell'}
+    q = [(start_room_id, (0, 0))]
+    room_coords[start_room_id] = (0, 0)
+    visited = {start_room_id}
 
     head = 0
     while head < len(q):
@@ -169,27 +183,35 @@ def generate_ascii_map(map_data, entity_locations=None):
 
         box_top_y, box_mid_y, box_bot_y = canvas_y, canvas_y + 1, canvas_y + 2
         
+        # Highlight player room with different borders if desired, but for now just [P]
         draw_text(canvas_x, box_top_y, '+' + '-' * (room_width - 2) + '+')
         draw_text(canvas_x, box_mid_y, '|' + ' ' * (room_width - 2) + '|')
         draw_text(canvas_x, box_bot_y, '+' + '-' * (room_width - 2) + '+')
         
-        # --- NPC drawing logic ---
-        entity_markers = ""
+        # --- Entity drawing logic ---
+        entity_markers = []
+        
+        # Add player marker
+        if player_location == room_id:
+            entity_markers.append("P")
+            
+        # Add NPC/SCP markers
         if entity_locations and room_id in entity_locations:
-            for entity_marker in entity_locations[room_id]:
-                entity_markers += f"[{entity_marker}]"
+            entity_markers.extend(entity_locations[room_id])
+        
+        entity_str = "".join(f"[{m}]" for m in entity_markers)
         
         display_text = room_name
-        if entity_markers:
+        if entity_str:
             available_width = room_width - 2 # -2 for the '|' at ends
-            if len(room_name) + 1 + len(entity_markers) <= available_width:
-                display_text = f"{room_name} {entity_markers}"
-            elif len(entity_markers) <= available_width: # if only markers fit
-                display_text = entity_markers
+            if len(room_name) + 1 + len(entity_str) <= available_width:
+                display_text = f"{room_name} {entity_str}"
+            elif len(entity_str) <= available_width: # if only markers fit
+                display_text = entity_str
             else: # neither fit well, just truncate room name
-                display_text = room_name[:available_width - len(entity_markers) - 1] + f" {entity_markers}"
-                if len(display_text) < len(entity_markers):
-                    display_text = entity_markers
+                display_text = room_name[:available_width - len(entity_str) - 1] + f" {entity_str}"
+                if len(display_text) < len(entity_str):
+                    display_text = entity_str
 
 
 

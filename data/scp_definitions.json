@@ -1,62 +1,110 @@
 {
-  "scp_173": {
-    "class_name": "SCP173",
-    "name": "SCP-173 The Sculpture",
-    "object_class": "Keter",
-    "initial_room": "hallway_a",
-    "description": "A statue that moves when not observed. DO NOT BLINK.",
-    "mechanics": [
-      {
-        "type": "Perception",
-        "params": { "cognitohazard": true, "cognitohazard_effect": "panic" }
+  "zone_scp_173": {
+    "entity": {
+      "id": "scp_173",
+      "name": "SCP-173 The Sculpture",
+      "object_class": "Keter",
+      "activity_level": 0.8,
+      "description": "A statue that moves when not observed. DO NOT BLINK.",
+      "mechanics": [
+        { "type": "perception", "params": { "cognitohazard": true, "cognitohazard_effect": "panic" } },
+        { "type": "cognitive", "params": { "fear_aura": true, "radius": 1 } },
+        {
+          "type": "narrative",
+          "params": {
+            "story_attack": {
+              "message": "You try to strike the stone. In the blink of an eye, the statue is behind you. A sharp crack echoes through the room as your neck snaps.",
+              "kill": true
+            }
+          }
+        }
+      ]
+    },
+    "structure": {
+      "lobby": {
+        "name": "Security Checkpoint 173",
+        "description": "A reinforced foyer leading into the 173 containment unit. A guard's console sits empty.",
+        "tags": ["security"]
       },
-      {
-        "type": "Cognitive",
-        "params": { "fear_aura": true, "radius": 1 }
+      "chamber": {
+        "name": "Containment Chamber 173",
+        "description": "A large concrete room. The floor is covered in a mixture of blood and feces. The statue stands in the center.",
+        "tags": ["chamber"]
       }
-    ]
+    }
   },
-  "scp_049": {
-    "class_name": "SCP049",
-    "name": "SCP-049 The Plague Doctor",
-    "object_class": "Euclid",
-    "initial_room": "control_room",
-    "description": "A humanoid entity resembling a medieval plague doctor. His touch is lethal.",
-    "mechanics": [
-      {
-        "type": "BioPhysical",
-        "params": { "infection": true, "decay_rate": 5 }
+  "zone_scp_106": {
+    "entity": {
+      "id": "scp_106",
+      "name": "SCP-106 The Old Man",
+      "object_class": "Keter",
+      "activity_level": 0.2,
+      "description": "An elderly humanoid capable of passing through solid matter and dragging prey into a 'pocket dimension'.",
+      "mechanics": [
+        { "type": "biophysical", "params": { "infection": true, "decay_rate": 3 } },
+        { "type": "spatial", "params": { "non_euclidean": true, "trigger_direction": "north", "target_room": "pocket_dimension" } },
+        {
+          "type": "narrative",
+          "params": {
+            "story_run": {
+               "message": "The Old Man emerges from the floor beneath you. 'Going somewhere?' his eyes seem to mock. You barely dodge a decaying hand.",
+               "damage": 20
+            }
+          }
+        }
+      ]
+    },
+    "structure": {
+      "lobby": {
+        "name": "Containment Lobby 106",
+        "description": "A high-security entrance. The air smells of ozone and decay.",
+        "tags": ["security", "junction"]
       },
-      {
-        "type": "Information",
-        "params": { "infohazard": true, "required_clearance": 3 }
+      "observation": {
+        "name": "Monitoring Station 106",
+        "description": "Computers here monitor the integrity of the lead-lined walls. Static fills the screens.",
+        "tags": ["security"]
+      },
+      "chamber": {
+        "name": "Primary Containment Cell 106",
+        "description": "A lead-lined room suspended by heavy chains. Corrosive sludge leaks from the seams.",
+        "tags": ["chamber"]
       }
-    ]
+    }
   },
-  "scp_055": {
-    "class_name": "SCP055",
-    "name": "SCP-055 [Unknown]",
-    "object_class": "Keter",
-    "initial_room": "hallway_b",
-    "description": "It is not round. It is not square. You can't remember what it is.",
-    "mechanics": [
-      {
-        "type": "Perception",
-        "params": { "antimeme": true }
+  "zone_scp_096": {
+    "entity": {
+      "id": "scp_096",
+      "name": "SCP-096 The Shy Guy",
+      "object_class": "Euclid",
+      "activity_level": 0.3,
+      "description": "A tall, pale humanoid. It is currently sitting in the corner, sobbing.",
+      "mechanics": [
+        { "type": "cognitive", "params": { "fear_aura": true, "radius": 3 } },
+        {
+          "type": "narrative",
+          "params": {
+            "story_talk": "A low, heart-wrenching sob is the only answer. It doesn't look at you."
+          }
+        }
+      ]
+    },
+    "structure": {
+      "lobby": {
+        "name": "Decontamination Antechamber 096",
+        "description": "A sterile entrance leading to the 096 wing. Suit-up stations line the walls.",
+        "tags": ["security"]
+      },
+      "observation": {
+        "name": "Remote Monitoring Station 096",
+        "description": "The video feed is pixelated. A red warning light is flashing on the console.",
+        "tags": ["security"]
+      },
+      "chamber": {
+        "name": "Containment Chamber 096",
+        "description": "A windowless steel cube. The crying from within is almost unbearable.",
+        "tags": ["chamber"]
       }
-    ]
-  },
-  "scp_239": {
-    "class_name": "SCP239",
-    "name": "SCP-239 The Witch Child",
-    "object_class": "Keter",
-    "initial_room": "containment_chamber_239",
-    "description": "A small girl capable of rewriting reality based on her thoughts.",
-    "mechanics": [
-      {
-        "type": "Reality",
-        "params": { "reality_bending": true, "rule_to_bend": "stamina_cost_multiplier", "bend_value": 0.5 }
-      }
-    ]
+    }
   }
 }

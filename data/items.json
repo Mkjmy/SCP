@@ -4,6 +4,16 @@
         "description": "A standard issue Level 1 keycard. It looks like it could open some basic doors.",
         "takeable": true
     },
+    "keycard_l2": {
+        "name": "Level 2 Keycard",
+        "description": "A silver-trimmed Level 2 keycard. It provides access to research and security areas.",
+        "takeable": true
+    },
+    "keycard_l3": {
+        "name": "Level 3 Keycard",
+        "description": "A gold-trimmed Level 3 keycard. It provides high-level access to sensitive containment zones.",
+        "takeable": true
+    },
     "coffee_cup": {
         "name": "Stained Coffee Cup",
         "description": "A cold, half-empty coffee cup with the Foundation logo on it. The coffee inside looks like tar.",

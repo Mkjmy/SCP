@@ -1,79 +1,37 @@
-import random # NEW IMPORT
 import curses
-import sys
-import time
 import json
 import os
+import random
 from player import Player
+from npc_manager import NPCManager
+from scp_manager import SCPManager
+from door_manager import DoorManager
 from navigation import move
 from actions import attack, run
-from map_generator import generate_map, load_room_templates
-from character import generate_character
-from map_visualizer import generate_ascii_map, generate_simple_map_view # Renamed to generate_ascii_map
-from door_manager import DoorManager # NEW IMPORT
-from npc_manager import NPCManager # NEW IMPORT
-from scp_manager import SCPManager # NEW IMPORT
+from map_generator import load_room_templates, generate_map
+from map_visualizer import generate_ascii_map
 
-# ... (Color definitions remain the same) ...
-HIGHLIGHT_PAIR = 1
-DANGER_PAIR = 2
-LOCATION_PAIR = 3
-PROMPT_PAIR = 4
-NPC_PAIR = 5
-DIALOGUE_PAIR = 6
-ITEM_PAIR = 7
+# Color pairs
+LOCATION_PAIR = 1
+PROMPT_PAIR = 2
+HIGHLIGHT_PAIR = 3
+NPC_PAIR = 4
+DANGER_PAIR = 5
+ITEM_PAIR = 6
+DIALOGUE_PAIR = 7
 
-def init_colors():
-    if curses.has_colors():
-        curses.start_color()
-        curses.use_default_colors()
-        curses.init_pair(HIGHLIGHT_PAIR, curses.COLOR_BLACK, curses.COLOR_WHITE)
-        curses.init_pair(DANGER_PAIR, curses.COLOR_RED, -1)
-        curses.init_pair(LOCATION_PAIR, curses.COLOR_YELLOW, -1)
-        curses.init_pair(PROMPT_PAIR, curses.COLOR_CYAN, -1)
-        curses.init_pair(NPC_PAIR, curses.COLOR_GREEN, -1)
-        curses.init_pair(DIALOGUE_PAIR, curses.COLOR_WHITE, -1)
-        curses.init_pair(ITEM_PAIR, curses.COLOR_MAGENTA, -1)
-
-def generate_and_load_data(items_file, debug=False):
-    """
-    Generates a new map or loads a static one for debug mode.
-    Also loads all other game data.
-    """
-    try:
-        if debug:
-            # In debug mode, load the specific debug_map.json with door levels
-            print("DEBUG MODE: Loading 'debug_output/debug_map.json'...")
-            with open('debug_output/debug_map.json', 'r') as f:
-                game_map = json.load(f)
-            start_room_id = 'cell' # Default start for static map
-        else:
-            room_templates = load_room_templates()
-            game_map, start_room_id = generate_map(room_templates, num_rooms=15)
-        
-        with open(items_file, 'r') as f:
-            all_items = json.load(f)
-            
-    except (FileNotFoundError, json.JSONDecodeError) as e:
-        print(f"Error loading data file: {e}")
-        sys.exit(1)
-        
-    # world_npcs is now handled by NPCManager, so no longer returned here
-    return game_map, all_items, start_room_id
-
-# ... (display_message remains mostly the same, can add item color) ...
 def display_message(stdscr, message, is_danger=False, is_dialogue=False, is_item_info=False, is_debug_message=False):
+    """Displays a message to the player and waits for a key press."""
     h, w = stdscr.getmaxyx()
     stdscr.clear()
     
     color = curses.A_NORMAL
-    if curses.has_colors():
-        if is_danger: color = curses.color_pair(DANGER_PAIR)
-        elif is_dialogue: color = curses.color_pair(DIALOGUE_PAIR)
-        elif is_item_info: color = curses.color_pair(ITEM_PAIR)
+    if is_danger: color = curses.color_pair(DANGER_PAIR)
+    elif is_dialogue: color = curses.color_pair(DIALOGUE_PAIR)
+    elif is_item_info: color = curses.color_pair(ITEM_PAIR)
 
     lines = message.split('\n')
-    
+
     # For multi-line messages or debug messages, print from the top
     if len(lines) > 1 or is_debug_message:
         for i, line in enumerate(lines):
@@ -84,26 +42,20 @@ def display_message(stdscr, message, is_danger=False, is_dialogue=False, is_item
             try:
                 stdscr.addstr(i, 0, line_to_print, color)
             except curses.error:
-                # This can happen if the window is very small.
-                # We can just ignore the line if it fails.
                 pass
     else: # For single-line, non-debug messages, center them
         line = lines[0]
         x = (w - len(line)) // 2
         y = h // 2
-        
-        # Ensure coordinates are not negative
         if x < 0: x = 0
         if y < 0: y = 0
-        
         try:
             stdscr.addstr(y, x, line, color)
         except curses.error:
-            # Fallback to top-left if centering fails for any reason
             try:
                 stdscr.addstr(0, 0, line, color)
             except curses.error:
-                pass # Ignore if it still fails
+                pass
 
     # Display continuation prompt
     prompt_y = h - 2
@@ -112,88 +64,112 @@ def display_message(stdscr, message, is_danger=False, is_dialogue=False, is_item
         try:
             stdscr.addstr(prompt_y, prompt_x, "[Press any key to continue]", curses.A_DIM)
         except curses.error:
-            pass # Ignore on very small screens
+            pass
     stdscr.refresh()
-    curses.flushinp() # Flush any pending input
+    curses.flushinp()
     stdscr.getch()
 
 
-def display_status_bar(stdscr, player):
-    """Draws the player's status at the bottom of the screen with no background color."""
+def get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="What is your next move?"):
+    """Generic menu selection function that maintains the narrative UI."""
+    selected_idx = 0
     h, w = stdscr.getmaxyx()
     
-    # --- Strings ---
-    health_str = f"Health: {player.health}/{player.max_health}"
-    stamina_str = f"Stamina: {player.stamina}/{player.max_stamina}"
-    morale_str = f"Morale: {player.morale}/{player.max_morale}"
-    sanity_str = f"Sanity: {player.sanity}/{player.max_sanity}"
-    hands_display = f"Hands: L-{player.left_hand if player.left_hand else 'Empty'} | R-{player.right_hand if player.right_hand else 'Empty'}"
-    
-    injury_messages = player.get_injury_status()
-    injury_line = ""
-    if injury_messages:
-        injury_line = "Injuries: " + ", ".join(injury_messages)
+    loc_color = curses.color_pair(LOCATION_PAIR)
+    prompt_color = curses.color_pair(PROMPT_PAIR)
+    highlight_attr = curses.color_pair(HIGHLIGHT_PAIR)
+    npc_color = curses.color_pair(NPC_PAIR)
+    danger_color = curses.color_pair(DANGER_PAIR)
+    item_color = curses.color_pair(ITEM_PAIR)
 
-    # --- Colors ---
-    health_color = curses.color_pair(NPC_PAIR) if player.health / player.max_health > 0.6 else curses.color_pair(LOCATION_PAIR) if player.health / player.max_health > 0.3 else curses.color_pair(DANGER_PAIR)
-    stamina_color = curses.color_pair(PROMPT_PAIR)
-    morale_color = curses.color_pair(NPC_PAIR) if player.morale / player.max_morale > 0.6 else curses.color_pair(LOCATION_PAIR) if player.morale / player.max_morale > 0.3 else curses.color_pair(DANGER_PAIR)
-    sanity_color = curses.color_pair(NPC_PAIR) if player.sanity / player.max_sanity > 0.6 else curses.color_pair(LOCATION_PAIR) if player.sanity / player.max_sanity > 0.3 else curses.color_pair(DANGER_PAIR)
+    while True:
+        stdscr.clear()
+        # Header
+        stdscr.addstr(0, 0, f"--- {current_room['name']} ---\n\n", loc_color | curses.A_BOLD)
 
-    # --- Render ---
-    # Clear previous status lines to prevent artifacts
-    if h >= 4:
-        stdscr.move(h - 4, 0)
-        stdscr.clrtoeol()
-    if h >= 3:
-        stdscr.move(h - 3, 0)
-        stdscr.clrtoeol()
-    if h >= 2:
-        stdscr.move(h - 2, 0)
-        stdscr.clrtoeol()
-    if h >= 1:
-        stdscr.move(h - 1, 0)
-        stdscr.clrtoeol()
-    
-    # Line 1: Core Stats
-    stats_line = f"{health_str} | {stamina_str} | {morale_str} | {sanity_str}"
-    if h >= 1:
-        stdscr.addstr(h - 1, 0, stats_line)
-        # Re-apply colors over the black/white text
-        stdscr.addstr(h - 1, 0, health_str, health_color)
-        stdscr.addstr(h - 1, len(health_str) + 3, stamina_str, stamina_color)
-        stdscr.addstr(h - 1, len(health_str) + len(stamina_str) + 6, morale_str, morale_color)
-        stdscr.addstr(h - 1, len(health_str) + len(stamina_str) + len(morale_str) + 9, sanity_str, sanity_color)
+        # Narrative
+        stdscr.addstr(2, 0, f"You find yourself in the {current_room['name']}. ", curses.A_NORMAL)
+        desc_words = current_room['description'].split()
+        desc_lines = []; line = ""
+        for word in desc_words:
+            if len(line) + len(word) + 1 < w - 2: line += word + " "
+            else: desc_lines.append(line); line = word + " "
+        desc_lines.append(line)
+        
+        row = 3
+        for l in desc_lines:
+            if row < h - 15: stdscr.addstr(row, 0, l + "\n"); row += 1
+        
+        row += 1
+        room_items = [all_items[item_id]["name"] for item_id in current_room.get("items", [])]
+        if room_items:
+            stdscr.addstr(row, 0, "Nearby, you notice:\n", item_color | curses.A_BOLD); row += 1
+            for item in room_items:
+                if row < h - 12: stdscr.addstr(row, 2, f"• A {item}\n", item_color); row += 1
+            row += 1
 
-    # Line 2: Hands
-    if h >= 2:
-        stdscr.addstr(h - 2, 0, hands_display, curses.color_pair(ITEM_PAIR))
+        if npcs_in_room or scps_in_room:
+            stdscr.addstr(row, 0, "You share this space with:\n", npc_color | curses.A_BOLD); row += 1
+            for npc_info in npcs_in_room:
+                if row < h - 10:
+                    stdscr.addstr(row, 2, f"• {npc_info['character'].get_description()}\n", npc_color); row += 1
+            for scp in scps_in_room:
+                if row < h - 8:
+                    stdscr.addstr(row, 2, f"• {scp.on_observe_description(player, scp.get_status())}\n", danger_color); row += 1
+        
+        row += 1
+        stdscr.addstr(row, 0, f"{header_text}\n", prompt_color | curses.A_UNDERLINE); row += 1
+        for i, opt in enumerate(options):
+            if row < h - 2:
+                stdscr.addstr(row, 0, f"  [{opt.replace('_', ' ').capitalize()}]\n", highlight_attr if i == selected_idx else curses.A_NORMAL)
+                row += 1
 
-    # Line 3: Injuries (if present)
-    if injury_line and h >= 3:
-        stdscr.addstr(h - 3, 0, injury_line, curses.color_pair(DANGER_PAIR))
+        # Narrative Status
+        cond = "Healthy" if player.health > 80 else "Wounded" if player.health > 40 else "In Critical Pain"
+        stamina_text = "Full of Energy" if player.stamina > 80 else "Tired" if player.stamina > 40 else "Exhausted"
+        sensation = "Focused"
+        if player.sanity < 30: sensation = "Terrified"
+        elif player.sanity < 70: sensation = "Nervous"
+        if player.morale < 30: sensation = "Hopeless"
+        
+        hands = f"Left: {player.left_hand or 'Empty'} | Right: {player.right_hand or 'Empty'}"
+        status_line = f"Physical: {cond} | Stamina: {stamina_text} | Feeling: {sensation}"
+        try:
+            stdscr.addstr(h - 2, 0, hands, item_color)
+            stdscr.addstr(h - 1, 0, status_line, curses.A_DIM)
+        except: pass
+
+        stdscr.refresh()
+        key = stdscr.getch()
+        if key == curses.KEY_UP: selected_idx = (selected_idx - 1) % len(options)
+        elif key == curses.KEY_DOWN: selected_idx = (selected_idx + 1) % len(options)
+        elif key in [curses.KEY_ENTER, ord('\n')]: return options[selected_idx]
+        elif key == ord('q'): return 'quit'
 
 
+def main_loop(stdscr):
+    # Initialize colors
+    curses.start_color()
+    curses.use_default_colors()
+    curses.init_pair(LOCATION_PAIR, curses.COLOR_CYAN, -1)
+    curses.init_pair(PROMPT_PAIR, curses.COLOR_YELLOW, -1)
+    curses.init_pair(HIGHLIGHT_PAIR, curses.COLOR_BLACK, curses.COLOR_WHITE)
+    curses.init_pair(NPC_PAIR, curses.COLOR_GREEN, -1)
+    curses.init_pair(DANGER_PAIR, curses.COLOR_RED, -1)
+    curses.init_pair(ITEM_PAIR, curses.COLOR_MAGENTA, -1)
+    curses.init_pair(DIALOGUE_PAIR, curses.COLOR_BLUE, -1)
 
-def main_loop(stdscr): # Removed debug parameter as it will be read from config
-    curses.curs_set(0)
-    init_colors()
+    curses.curs_set(0) # Hide cursor
 
-    # Curses input setup
-    curses.noecho()    # Don't echo keypresses
-    curses.cbreak()    # React to keys instantly, without waiting for Enter
-    stdscr.keypad(True) # Enable special keys (like arrow keys)
-
-    # Load game configuration
-    config_file = "data/game_config.json"
+    # --- Load Configuration ---
+    config_file = 'data/game_config.json'
     try:
         with open(config_file, 'r') as f:
             game_config = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError) as e:
-        display_message(stdscr, f"Error loading game config '{config_file}': {e}. Using default settings.", is_danger=True)
-        game_config = {} # Use an empty dict to fallback to all defaults
+        display_message(stdscr, f"Error loading config: {e}. Exiting.", is_danger=True)
+        return
 
-    # --- Map Loading ---
     map_settings = game_config.get("map_settings", {})
     map_mode = map_settings.get("mode", "generate_random")
     static_map_file = map_settings.get("static_map_file", "debug_output/debug_map.json")
@@ -209,19 +185,17 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
             start_room_id = game_config.get("player", {}).get("start_location", list(game_map.keys())[0] if game_map else "cell")
         except (FileNotFoundError, json.JSONDecodeError) as e:
             display_message(stdscr, f"Warning: Could not load static map '{static_map_file}': {e}. Generating a random map instead.", is_danger=True)
-            map_mode = "generate_random" # Fallback to random generation
+            map_mode = "generate_random"
     
     if map_mode == "generate_random":
         try:
             room_templates = load_room_templates()
-            game_map, start_room_id_generated = generate_map(room_templates, num_rooms=random_map_num_rooms)
-            if start_room_id is None: # Only use generated start_room if not set by player config
-                start_room_id = start_room_id_generated
+            game_map, start_room_id = generate_map(room_templates, num_rooms=random_map_num_rooms)
         except Exception as e:
             display_message(stdscr, f"Error generating random map: {e}. Cannot start game.", is_danger=True)
             return
         
-    if game_map is None: # Final check if map generation failed
+    if game_map is None:
         display_message(stdscr, "Fatal Error: No game map could be loaded or generated.", is_danger=True)
         return
 
@@ -229,373 +203,175 @@ def main_loop(stdscr): # Removed debug parameter as it will be read from config
     try:
         with open('data/items.json', 'r') as f:
             all_items = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError) as e:
-        display_message(stdscr, f"Error loading items.json: {e}. Game may have issues.", is_danger=True)
-        all_items = {} # Provide empty dict as fallback
+    except:
+        all_items = {}
 
     # --- Player Initialization ---
     player_config = game_config.get("player", {})
     player = Player(
         name=player_config.get("name", "Player One"),
         role="Player",
-        origin=player_config.get("origin", "Unknown"),
-        personality=player_config.get("personality", "Determined"),
-        specialty=player_config.get("specialty", "Survival"),
-        clearance_level=player_config.get("clearance_level", 0),
-        health=player_config.get("health", 100),
-        stamina=player_config.get("stamina", 100),
-        attributes=player_config.get("attributes", {"strength": 5, "dexterity": 5, "intelligence": 5}),
-        start_location=player_config.get("start_location", start_room_id)
+        clearance_level=0,
+        start_location=start_room_id
     )
     player.inventory.extend(player_config.get("inventory", []))
-    equipped = player_config.get("equipped_items", {})
-    player.left_hand = equipped.get("left_hand")
-    player.right_hand = equipped.get("right_hand")
-    player.knowledge.update(player_config.get("knowledge", []))
-    player.max_morale = player_config.get("max_morale", 100) # Assuming Player class has default max_morale
-    player.morale = player_config.get("morale", player.max_morale)
-    player.max_sanity = player_config.get("max_sanity", 100)
-    player.sanity = player_config.get("sanity", player.max_sanity)
-    
+
     # Instantiate managers
     door_manager = DoorManager(game_map)
     npc_manager = NPCManager(game_map)
     scp_manager = SCPManager(game_map)
 
-    # Read debug option from config
+    # --- Distribute Items ---
+    all_room_ids = list(game_map.keys())
+    for item_id, item_data in all_items.items():
+        if item_data.get("takeable") and random.random() < 0.4:
+            target = random.choice(all_room_ids)
+            if "items" not in game_map[target]: game_map[target]["items"] = []
+            game_map[target]["items"].append(item_id)
+
     debug_active = game_config.get("game_settings", {}).get("enable_debug_option", False)
     
     # --- Initialize NPCs ---
-    configured_npcs = game_config.get("npcs", [])
-    if not configured_npcs:
-        # Generate some random NPCs if none are configured
-        display_message(stdscr, "No NPCs configured. Generating 3 random NPCs.", is_dialogue=True)
-        all_room_ids = list(game_map.keys())
-        if all_room_ids:
-            for _ in range(3): # Spawn 3 random NPCs
-                random_room = random.choice(all_room_ids)
-                random_role = random.choice(["Guard", "Scientist", "D-Class"])
-                npc_manager.spawn_npc(random_role, random_room)
-    else:
-        for npc_data in configured_npcs:
-            npc_manager.spawn_npc(
-                npc_data.get("role", "D-Class"),
-                npc_data.get("initial_room_id", random.choice(list(game_map.keys())))
-            )
+    for _ in range(7):
+        npc_manager.spawn_npc("D-Class", start_room_id)
+    dorm_npcs = npc_manager.get_npcs_in_room(start_room_id)
+    for i, npc_info in enumerate(dorm_npcs):
+        if i < 2: npc_info["character"].personality = "Broken"
+        elif i < 3: npc_info["character"].personality = "Manic"
 
     # --- Initialize SCPs ---
-    scp_settings = game_config.get("scps", {})
-    scp_definitions_file = scp_settings.get("definitions_file", "data/scp_definitions.json")
-    
+    scp_definitions_file = "data/scp_definitions.json"
     if os.path.exists(scp_definitions_file):
         scp_manager.load_scps_from_definitions(scp_definitions_file)
-    else:
-        display_message(stdscr, f"Warning: SCP definitions file '{scp_definitions_file}' not found. No SCPs loaded.", is_danger=True)
-    
+        assigned_scps = set()
+        for rid, rdata in game_map.items():
+            if "scp_id" in rdata:
+                sid = rdata["scp_id"]
+                if scp_manager.move_scp(sid, rid): assigned_scps.add(sid)
+        for sid, scp in scp_manager._scps.items():
+            if sid not in assigned_scps:
+                possible = [rid for rid in game_map.keys() if rid != start_room_id]
+                if possible: scp_manager.move_scp(sid, random.choice(possible))
+
     game_over = False
-    
     display_message(stdscr, f"You are {player.name}, Clearance Level {player.clearance_level}.", is_item_info=True)
 
+    message_to_show = ""
     while not game_over:
-        message_to_show, is_fatal, is_dialogue, is_item_info = "", False, False, False
-        verb, target = "", "" # Initialize verb and target to prevent UnboundLocalError
+        # --- START OF TURN ---
+        for npc_info in npc_manager._npcs.values():
+            npc_info["character"].update_behavior()
+
+        is_fatal, is_dialogue, is_item_info = False, False, False
+        
+        current_room_id = player.location
+        current_room = game_map[current_room_id]
+        npcs_in_room = npc_manager.get_npcs_in_room(current_room_id)
+        scps_in_room = scp_manager.get_scps_in_room(current_room_id)
 
         if player.health <= 0:
-            if not message_to_show:
-                message_to_show = "Your body gives out. The darkness consumes you."
-            display_message(stdscr, message_to_show, is_danger=True)
+            display_message(stdscr, message_to_show or "Your body gives out.", is_danger=True)
             game_over = True
-        else: # Only proceed with game logic if player health is above 0
-            current_room_id = player.location
-            current_room = game_map[current_room_id]
-            npcs_in_room = npc_manager.get_npcs_in_room(current_room_id)
-            scps_in_room = scp_manager.get_scps_in_room(current_room_id) # Also get SCPs in room
+            continue
 
-            # --- TURN START (Primitive Engine) ---
-            turn_messages = []
-            for scp in scp_manager._scps.values():
-                turn_messages.extend(scp.on_turn_start(player, None))
-                turn_messages.extend(scp.on_tick(player, None))
-                turn_messages.extend(scp.on_atmosphere_check(player, None))
+        if message_to_show:
+            display_message(stdscr, message_to_show, is_danger=is_fatal, is_dialogue=is_dialogue, is_item_info=is_item_info)
+            message_to_show = ""
+            if is_fatal: game_over = True; continue
+
+        # --- Dynamic Option Generation (Primary) ---
+        options = []
+        for detail in sorted(current_room.get("details", {}).keys()): options.append(f"look at {detail}")
+        for item_id in current_room.get("items", []):
+            if all_items.get(item_id, {}).get("takeable"): options.append(f"take {item_id}")
+        for d in sorted(current_room.get('exits', {}).keys()): options.append(f"go {d}")
+        
+        if npcs_in_room or scps_in_room:
+            options.append("talk")
+            options.append("attack")
+        
+        options.extend(["inventory", "run", "quit"])
+        
+        action = get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active)
+
+        verb, *args = action.split(' ', 2)
+        target = ' '.join(args)
+
+        if action == 'quit': message_to_show, is_fatal = "You give up.", True
+        elif verb == 'inventory': message_to_show = player.get_description(); is_item_info = True
+        elif verb == 'look' and target:
+            if target in current_room.get("details", {}):
+                det = current_room["details"][target]
+                message_to_show = det["description"]
+                if "learns_knowledge" in det:
+                    k = player.learn_knowledge(det["learns_knowledge"])
+                    if k: message_to_show += "\n" + k
+            else: message_to_show = f"Nothing special about the {target}."
+        elif verb == 'take':
+            item_data = all_items.get(target)
+            if target in current_room.get("items", []) and item_data and item_data.get("takeable"):
+                if player.right_hand is None: player.right_hand = target; message_to_show = f"Took {item_data['name']} (Right Hand)."
+                elif player.left_hand is None: player.left_hand = target; message_to_show = f"Took {item_data['name']} (Left Hand)."
+                else: player.inventory.append(target); message_to_show = f"Took {item_data['name']} (Backpack)."
+                if "keycard_l1" in target: player.clearance_level = max(player.clearance_level, 1)
+                if "keycard_l2" in target: player.clearance_level = max(player.clearance_level, 2)
+                if "keycard_l3" in target: player.clearance_level = max(player.clearance_level, 3)
+                current_room["items"].remove(target); is_item_info = True
+        elif verb == 'talk':
+            # --- SUB-MENU: CHOOSE TARGET ---
+            target_options = []
+            for s in scps_in_room: target_options.append(s.id.lower().replace('scp_', ''))
+            for n in npcs_in_room: target_options.append(n["character"].name.lower())
+            target_options.append("back")
             
-            # Sanity-based atmosphere mood shift
-            if player.sanity < 30:
-                turn_messages.append("The air vibrates with chaotic energy. [Mood: High Energy]")
-            elif player.sanity < 60:
-                turn_messages.append("The silence feels heavy and introspective. [Mood: Introspective]")
+            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Talk to who?")
+            
+            if chosen_target == "back":
+                continue # Return to main options
+            
+            is_dialogue = True
+            found = False
+            # Check SCPs
+            for s in scps_in_room:
+                if chosen_target in s.id.lower():
+                    res = s.on_player_talk(player, None)
+                    message_to_show = "\n".join(res) or "No response."
+                    found = True; break
+            # Check NPCs
+            if not found:
+                for n_info in npcs_in_room:
+                    npc = n_info["character"]
+                    if chosen_target in npc.name.lower():
+                        message_to_show = f'{npc.name} says: "{npc.get_dialogue()}"'
+                        found = True; break
+        elif verb == 'attack':
+            # --- SUB-MENU: CHOOSE TARGET ---
+            target_options = []
+            for s in scps_in_room: target_options.append(s.id.lower().replace('scp_', ''))
+            for n in npcs_in_room: target_options.append(n["character"].name.lower())
+            target_options.append("back")
+            
+            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Attack who?")
+            
+            if chosen_target == "back":
+                continue
+
+            # Find actual target objects for logic
+            target_scp = next((s for s in scps_in_room if chosen_target in s.id.lower()), None)
+            target_npc = next((n["character"] for n in npcs_in_room if chosen_target in n["character"].name.lower()), None)
+            
+            scps_to_pass = [target_scp] if target_scp else []
+            npcs_to_pass = [target_npc] if target_npc else []
+            
+            message_to_show, is_fatal = attack(player, npcs_to_pass, scps_in_room=scps_to_pass)
+        elif verb == 'go':
+            success, msg = move(player, target, game_map, door_manager)
+            if not success: message_to_show = msg
             else:
-                turn_messages.append("The environment is calm and minimal. [Mood: Minimal]")
-            
-            # --- PERCEPTION (Primitive Engine) ---
-            for scp in scps_in_room:
-                turn_messages.extend(scp.on_player_perceive(player, None))
-                turn_messages.extend(scp.on_player_near(player, None))
-            
-            if turn_messages:
-                message_to_show += "\n".join(turn_messages) + "\n"
-
-            # --- Dynamic Option Generation ---
-            options = []
-            for detail in sorted(current_room.get("details", {}).keys()):
-                options.append(f"look at {detail}")
-            for item_id in current_room.get("items", []):
-                if all_items.get(item_id, {}).get("takeable"): # Use .get for robustness
-                    options.append(f"take {item_id}")
-            for direction in sorted(current_room.get('exits', {}).keys()): # Use .get for robustness
-                options.append(f"go {direction}")
-            if npcs_in_room or scps_in_room: # Can also talk to SCPs maybe?
-                 # For simplicity, only "talk" if actual NPCs are present, not SCPs
-                if npcs_in_room:
-                    options.append("talk")
-            options.extend(["inventory", "attack", "run", "quit"])
-            if player.has_knowledge('skill_basic_lockpicking'):
-                options.append("lockpick")
-            if player.inventory:
-                options.append("equip")
-            if player.left_hand or player.right_hand:
-                options.append("unequip")
-            if debug_active: # Use config for debug option
-                options.append("debug")
-                options.append("debug map")
-            
-            selected_idx = 0
-            action = None
-    
-            while action is None:
-                stdscr.clear()
-                loc_color = curses.color_pair(LOCATION_PAIR)
-                prompt_color = curses.color_pair(PROMPT_PAIR)
-                highlight_attr = curses.color_pair(HIGHLIGHT_PAIR)
-                npc_color = curses.color_pair(NPC_PAIR)
-                danger_color = curses.color_pair(DANGER_PAIR)
-                item_color = curses.color_pair(ITEM_PAIR)
-                desc_color = danger_color if any(c["character"].role == 'Guard' for c in npcs_in_room) else curses.A_NORMAL
-    
-                stdscr.addstr(0, 0, f"Location: {current_room['name']} ({current_room_id})\n", loc_color)
-                stdscr.addstr(current_room['description'] + "\n", desc_color)
-    
-                room_items = [all_items[item_id]["name"] for item_id in current_room.get("items", [])]
-                if room_items:
-                    stdscr.addstr("You see: " + ", ".join(room_items) + ".\n\n", item_color)
-                else:
-                    stdscr.addstr("\n")
-                
-                if npcs_in_room or scps_in_room:
-                    stdscr.addstr("You see someone/something here:\n", npc_color)
-                    for npc_info in npcs_in_room: # npc_info is a dict from NPCManager
-                        stdscr.addstr(npc_info["character"].get_description(debug=debug_active) + "\n", npc_color)
-                    for scp_instance in scps_in_room: # scp_instance is an SCP object from SCPManager
-                        # Use observe_description for redacted output
-                        scp_status = scp_instance.get_status()
-                        display_status = scp_instance.on_observe_description(player, scp_status)
-                        stdscr.addstr(display_status + "\n", danger_color)
-                    stdscr.addstr("\n")
-    
-                stdscr.addstr("What do you do?\n", prompt_color)
-                for i, option in enumerate(options):
-                    stdscr.addstr(f"  > {option.replace('_', ' ').capitalize()}\n", highlight_attr if i == selected_idx else curses.A_NORMAL)
-                
-                display_status_bar(stdscr, player)
-                stdscr.refresh()
-                key = stdscr.getch()
-    
-                if key == curses.KEY_UP: selected_idx = (selected_idx - 1) % len(options)
-                elif key == curses.KEY_DOWN: selected_idx = (selected_idx + 1) % len(options)
-                elif key in [curses.KEY_ENTER, ord('\n')]: action = options[selected_idx]
-                elif key == ord('q'): action = 'quit'
-    
-            
-            verb, *args = action.split(' ', 2)
-            target = ' '.join(args)
-            
-            if verb == 'quit':
-                message_to_show, game_over, is_fatal = "You give up.", True, True
-            elif verb == 'inventory':
-                message_to_show = player.get_description(debug=debug_active) # Show full stats in debug
-                is_item_info = True
-            elif verb == 'debug':
-                if target == 'map':
-                    message_to_show = generate_simple_map_view(game_map)
-                else:
-                    message_to_show = "DEBUG MODE\n" + player.get_description(debug=debug_active)
-                    if npcs_in_room:
-                        for npc_info in npcs_in_room:
-                            message_to_show += "\n\n" + npc_info["character"].get_description(debug=debug_active)
-                
-                    # --- MAP HANDLING ---
-                    # 1. Generate ASCII map
-                    all_entity_locations = {}
-    
-                    # Add NPC locations
-                    npc_locs = npc_manager.get_npc_locations_for_display()
-                    for room_id, markers in npc_locs.items():
-                        if room_id not in all_entity_locations:
-                            all_entity_locations[room_id] = []
-                        all_entity_locations[room_id].extend(markers)
-    
-                    # Add SCP locations
-                    scp_locs = scp_manager.get_scp_locations_for_display()
-                    for room_id, markers in scp_locs.items():
-                        if room_id not in all_entity_locations:
-                            all_entity_locations[room_id] = []
-                        all_entity_locations[room_id].extend(markers)
-    
-                    ascii_map = generate_ascii_map(game_map, all_entity_locations)
-
-                    # 2. Write maps to files
-                    output_dir = "debug_output"
-                    os.makedirs(output_dir, exist_ok=True)
-                    
-                    # Write ASCII map to ascii_map.txt
-                    ascii_map_path = os.path.join(output_dir, "ascii_map.txt")
-                    try:
-                        with open(ascii_map_path, 'w') as f:
-                            f.write(ascii_map)
-                        message_to_show += f"\n\n--- MAPS ---\nASCII map saved to {ascii_map_path}"
-                    except Exception as e:
-                        message_to_show += f"\n\n--- MAPS ---\nFailed to save ASCII map: {e}"
-
-                    # Write full JSON map data to debug_map.json
-                    json_map_path = os.path.join(output_dir, "debug_map.json")
-                    try:
-                        with open(json_map_path, 'w') as f:
-                            json.dump(game_map, f, indent=2)
-                        message_to_show += f"\nJSON map saved to {json_map_path}"
-                    except Exception as e:
-                        message_to_show += f"\nFailed to save JSON map: {e}"
-            elif verb == 'look' and target:
-                 if target in current_room.get("details", {}):
-                     detail_data = current_room["details"][target]
-                     message_to_show = detail_data["description"]
-                     if "learns_knowledge" in detail_data:
-                         knowledge_gained = player.learn_knowledge(detail_data["learns_knowledge"])
-                         if knowledge_gained:
-                             message_to_show += "\n" + knowledge_gained
-                 else:
-                     message_to_show = f"You look closely at the {target}, but see nothing special."
-            elif verb == 'take':
-                item_id_to_take = target
-                item_data = all_items.get(item_id_to_take)
-                if item_id_to_take in current_room.get("items", []) and item_data and item_data.get("takeable"):
-                    if player.right_hand is None:
-                        player.right_hand = item_id_to_take
-                        message_to_show = f'You took the {item_data["name"]} in your right hand.'
-                    elif player.left_hand is None:
-                        player.left_hand = item_id_to_take
-                        message_to_show = f'You took the {item_data["name"]} in your left hand.'
-                    else:
-                        player.inventory.append(item_id_to_take)
-                        message_to_show = f'You took the {item_data["name"]} and put it in your backpack.'
-                    current_room["items"].remove(item_id_to_take)
-                    is_item_info = True
-                else:
-                    message_to_show = f"You can't take the {item_id_to_take}."
-            elif verb == 'equip':
-                parts = target.split(" to ")
-                if len(parts) != 2:
-                    message_to_show = "Use 'equip [item] to [hand]'."
-                else:
-                    item_to_equip, hand_to_equip = parts
-                    message_to_show = player.equip_item(item_to_equip, hand_to_equip)
-            elif verb == 'unequip':
-                if target not in ['left', 'right']:
-                    message_to_show = "Use 'unequip [left/right]'."
-                else:
-                    message_to_show = player.unequip_item(target)
-            elif verb == 'talk':
-                if not npcs_in_room:
-                    message_to_show = "There is no one here to talk to."
-                else:
-                    npc_info = npcs_in_room[0] # Get the first NPC's info dictionary
-                    npc = npc_info["character"] # Extract the Character object
-                    message_to_show = f'{npc.name} says: "{npc.get_dialogue()}"'
-                    is_dialogue = True
-            elif verb == 'go':
-                success, move_message = move(player, target, game_map, door_manager)
-                if not success: 
-                    message_to_show = move_message
-                else:
-                    # --- MOVEMENT TRIGGER (Primitive Engine) ---
-                    move_results = []
-                    for scp in scp_manager._scps.values():
-                        move_results.extend(scp.on_player_move(player, target, None))
-                    if move_results:
-                        message_to_show = "\n".join(move_results)
-            elif verb == 'attack':
-                # Extract Character objects from the list of dictionaries
-                actual_npcs_in_room = [npc_info["character"] for npc_info in npcs_in_room]
-                message_to_show, game_over = attack(player, actual_npcs_in_room)
-                is_fatal = game_over
-            elif verb == 'run':
-                # Extract Character objects from the list of dictionaries
-                actual_npcs_in_room = [npc_info["character"] for npc_info in npcs_in_room]
-                message_to_show, game_over = run(player, actual_npcs_in_room, current_room['exits'], game_map)
-                is_fatal = game_over
-            elif verb == 'lockpick':
-                if not target:
-                    message_to_show = "Lockpick what?"
-                elif target not in current_room.get("details", {}):
-                    message_to_show = f"There's no '{target}' here to lockpick."
-                else:
-                    detail_data = current_room["details"][target]
-                    if not detail_data.get("lockable"):
-                        message_to_show = f"The {target} isn't something you can lockpick."
-                    elif not detail_data.get("locked", True):
-                        message_to_show = f"The {target} is already unlocked."
-                    else:
-                        base_stamina_cost = 10
-                        morale_effect_stamina = player.get_morale_effect('lockpick')
-                        stamina_cost = (base_stamina_cost - morale_effect_stamina) * player.active_rules.get('stamina_cost_multiplier', 1.0)
-    
-                        if player.stamina < stamina_cost:
-                            message_to_show = "You're too exhausted to attempt lockpicking."
-                        else:
-                            player.stamina -= stamina_cost
-                            
-                            dexterity_for_check = player.attributes['dexterity'] - player.get_debuff(attribute='dexterity')
-                            morale_effect_dex = player.get_morale_effect('dexterity')
-                            dexterity_for_check += morale_effect_dex
-                            
-                            lock_difficulty = detail_data.get("lock_difficulty", 5)
-                            
-                            success_chance = max(0.1, min(0.9, 0.5 + (dexterity_for_check - lock_difficulty) * 0.1))
-                            
-                            if random.random() < success_chance:
-                                morale_message = player.change_morale(5)
-                                message_to_show = f"You successfully lockpicked the {target}! It's now unlocked."
-                                if morale_message: message_to_show += f" {morale_message}"
-                                detail_data["locked"] = False
-                                if "unlocked_description" in detail_data:
-                                    detail_data["description"] = detail_data["unlocked_description"]
-                            else:
-                                morale_message = player.change_morale(-5)
-                                message_to_show = f"You fumble with the lock on the {target} but fail to open it. It remains locked."
-                                if morale_message: message_to_show += f" {morale_message}"
-                                if random.random() < 0.2:
-                                    injury_msg = player.apply_injury(random.choice(['left_arm', 'right_arm']), 'minor_injury')
-                                    message_to_show += f" {injury_msg}"
-            
-            # --- MEMORY TICK (Primitive Engine) ---
-            memory_messages = []
-            for scp in scp_manager._scps.values():
-                memory_messages.extend(scp.on_memory_tick(player, None))
-            if memory_messages:
-                if message_to_show: message_to_show += "\n"
-                message_to_show += "\n".join(memory_messages)
-    
-            if message_to_show:
-                if action == 'debug': # Check if the debug action generated the message
-                    display_message(stdscr, message_to_show, is_danger=is_fatal, is_dialogue=is_dialogue, is_item_info=is_item_info, is_debug_message=True)
-                else:
-                    display_message(stdscr, message_to_show, is_danger=is_fatal, is_dialogue=is_dialogue, is_item_info=is_item_info)
-
-
-if __name__ == "__main__":
-    try:
-        curses.wrapper(main_loop) # No debug parameter passed here anymore
-    except curses.error as e:
-        print(f"\nCurses Error: {e}")
-        print("Your terminal might not support curses, or the window is too small.")
-    except KeyboardInterrupt:
-        print("\nGame interrupted by user.")
-
+                for s in scp_manager._scps.values():
+                    res = s.on_player_move(player, target, None)
+                    if res: message_to_show += "\n".join(res)
+        elif verb == 'attack':
+            message_to_show, is_fatal = attack(player, [n["character"] for n in npcs_in_room], scps_in_room=scps_in_room)
+        elif verb == 'run':
+            message_to_show, is_fatal = run(player, [n["character"] for n in npcs_in_room], current_room['exits'], game_map, scps_in_room=scps_in_room)

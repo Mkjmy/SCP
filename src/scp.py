@@ -1,33 +1,53 @@
 # scp.py
 
 import mechanics
+import random
 
 class SCP:
     """
     Base class for all SCP entities.
     Modularly built using 'Mechanics' from the Primitive Engine.
     """
+    
+    # Behavior States
+    STATE_CONTAINED = "contained" # In its cell, quiet
+    STATE_ACTIVE = "active"       # Acting within its cell or near it
+    STATE_BREACHED = "breached"   # Out of its cell, hunting/wandering
+
     def __init__(self, scp_id, name, object_class, initial_room):
         self.id = scp_id
         self.name = name
         self.object_class = object_class # e.g., 'Safe', 'Euclid', 'Keter'
         self.current_room = initial_room
-        self.is_contained = True # True if in its containment cell, False if breached
-        self.description = "A mysterious anomaly." # Default description
-        self.mechanics = [] # List of BaseMechanic-derived objects
+        self.containment_room = initial_room # The specific room where it belongs
+        
+        self.state = self.STATE_CONTAINED
+        self.is_contained = True # Legacy support, maps to state
+        
+        self.activity_level = 0.5 # 0.0 to 1.0, how often it acts when it can
+        self.description = "A mysterious anomaly."
+        self.mechanics = []
 
-    def add_mechanic(self, mechanic_class_name, params=None):
-        """Adds a mechanic to this SCP by class name."""
-        try:
-            # Assuming mechanics are in the 'mechanics' module
-            mechanic_class = getattr(mechanics, f"{mechanic_class_name}Mechanic")
+    def set_state(self, new_state):
+        self.state = new_state
+        self.is_contained = (new_state == self.STATE_CONTAINED)
+
+    def add_mechanic(self, mechanic_key, params=None):
+        """Adds a mechanic to this SCP using its registry key."""
+        mechanic_class = mechanics.get_mechanic_class(mechanic_key)
+        if mechanic_class:
             mechanic_instance = mechanic_class(self, params)
             self.mechanics.append(mechanic_instance)
-        except AttributeError:
-            print(f"Error: Mechanic '{mechanic_class_name}' not found in mechanics module.")
+        else:
+            print(f"Error: Mechanic key '{mechanic_key}' not found in registry.")
 
     def trigger_event(self, event_name, **kwargs):
         """Dispatches an event to all attached mechanics and returns any results."""
+        # Check for activity based on activity_level for turn-based events
+        if event_name in ["tick", "turn_start", "player_move"]:
+            if random.random() > self.activity_level:
+                return [] # Skip this action
+
         results = []
         for mechanic in self.mechanics:
             res = mechanic.on_event(event_name, **kwargs)
@@ -70,6 +90,15 @@ class SCP:
 
     def on_player_near(self, player, game_state):
         return self.trigger_event("player_near", player=player, game_state=game_state)
+
+    def on_player_attack(self, player, game_state):
+        return self.trigger_event("player_attack", player=player, game_state=game_state)
+
+    def on_player_run(self, player, game_state):
+        return self.trigger_event("player_run", player=player, game_state=game_state)
+
+    def on_player_talk(self, player, game_state):
+        return self.trigger_event("player_talk", player=player, game_state=game_state)
 
     def on_atmosphere_check(self, player, game_state):
         return self.trigger_event("atmosphere_check", player=player, game_state=game_state)
