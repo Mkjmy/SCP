@@ -9,6 +9,7 @@ class StoryManager:
         self.active_events = []
         self.completed_events = set()
         self.turn_counter = 0
+        self.facility_code = "GREEN" # Possible: GREEN, YELLOW, RED
 
     def load_storyline(self):
         if not os.path.exists(self.storyline_file):
@@ -19,6 +20,7 @@ class StoryManager:
     def check_events(self, current_turn, player, npc_manager, scp_manager):
         """Checks if any events should trigger this turn."""
         self.turn_counter = current_turn
+        triggered_data = {"messages": [], "event": None}
         
         for chapter_id, chapter_data in self.data.items():
             for event in chapter_data.get("events", []):
@@ -27,14 +29,23 @@ class StoryManager:
                     continue
                 
                 if current_turn == event.get("trigger_turn"):
+                    # Handle state changes immediately
+                    if event.get("type") == "UPDATE_CODE":
+                        self.facility_code = event.get("code", "GREEN")
+                        triggered_data["messages"].append(f"--- SYSTEM NOTIFICATION: SECURITY LEVEL {self.facility_code} ---")
+                        self.completed_events.add(event_id)
+                        continue
+
                     # If it's a CHOICE, we return the whole event to main_loop for processing
                     if event.get("type") == "CHOICE":
-                        return event 
+                        triggered_data["event"] = event
+                        return triggered_data 
                     
-                    self.execute_event(event, player, npc_manager, scp_manager)
+                    res = self.execute_event(event, player, npc_manager, scp_manager)
+                    if res: triggered_data["messages"].append(res)
                     self.completed_events.add(event_id)
         
-        return None
+        return triggered_data
 
     def execute_choice(self, event, choice_id, player, npc_manager):
         """Executes the results of a player choosing an option in an event."""

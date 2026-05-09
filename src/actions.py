@@ -47,7 +47,7 @@ def attack(player, characters_in_room, scps_in_room=None):
             growth_msg = ""
             if not player.is_part_severely_injured('left_arm') and not player.is_part_severely_injured('right_arm'):
                 player.attributes['strength'] += 1
-                growth_msg = f" The thrill of combat makes you feel stronger! Strength is now {player.attributes['strength']}."
+                growth_msg = " The adrenaline coursing through you makes you feel more capable, more dangerous than before."
             
             msg = f"You catch {target.name} off guard with a vicious strike! They stumble back, clutching their side.{growth_msg}"
             if morale_gain: msg += f" {morale_gain}"
@@ -66,7 +66,7 @@ def attack(player, characters_in_room, scps_in_room=None):
             growth_msg = ""
             if severity == 'minor_injury':
                 player.attributes['strength'] += 1
-                growth_msg = f" Despite the pain, you feel your muscles hardening. Strength is now {player.attributes['strength']}."
+                growth_msg = " Despite the searing pain, you feel your muscles tightening, adapting to the violence."
 
             if player.health <= 0:
                 return f"{target.name} delivers a finishing blow. The world fades to black.", True

@@ -71,7 +71,7 @@ def display_message(stdscr, message, is_danger=False, is_dialogue=False, is_item
     stdscr.getch()
 
 
-def get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="What is your next move?", story_messages=None):
+def get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="What is your next move?", story_messages=None, facility_code="GREEN"):
     """Novel-style Narrative UI with structured lists."""
     selected_idx = 0
     h, w = stdscr.getmaxyx()
@@ -82,13 +82,18 @@ def get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps
     npc_color = curses.color_pair(NPC_PAIR)
     danger_color = curses.color_pair(DANGER_PAIR)
     item_color = curses.color_pair(ITEM_PAIR)
+    
+    # Code color
+    code_attr = loc_color
+    if facility_code == "YELLOW": code_attr = prompt_color
+    elif facility_code == "RED": code_attr = danger_color
 
     while True:
         stdscr.clear()
         
         # --- TITLE ---
-        title = f" {current_room['name'].upper()} "
-        stdscr.addstr(0, (w - len(title))//2, title, curses.A_BOLD)
+        title = f" {current_room['name'].upper()} | SECURITY {facility_code} "
+        stdscr.addstr(0, (w - len(title))//2, title, curses.A_BOLD | code_attr)
         stdscr.addstr(1, 0, "─" * (w-1), curses.A_DIM)
 
         # --- THE NOVEL (Narrative) ---
@@ -332,13 +337,16 @@ def main_loop(stdscr):
         turn_counter += 1
         
         # --- STORY ENGINE ---
-        event = story_manager.check_events(turn_counter, player, npc_manager, scp_manager)
-        if event:
-            if isinstance(event, dict) and event.get("type") == "CHOICE":
-                active_story_event = event
-                current_story_msgs.append(event.get("message"))
-            elif isinstance(event, str):
-                current_story_msgs.append(event)
+        triggered_data = story_manager.check_events(turn_counter, player, npc_manager, scp_manager)
+        if triggered_data:
+            # Handle messages
+            for sm in triggered_data.get("messages", []):
+                current_story_msgs.append(sm)
+            
+            # Handle active CHOICE event
+            if triggered_data.get("event"):
+                active_story_event = triggered_data["event"]
+                current_story_msgs.append(active_story_event.get("message"))
 
         # --- START OF TURN (Simulation Engine) ---
         sim_log = npc_manager.process_npc_sim_turn(npc_manager._npcs, player.location, game_map)
@@ -387,7 +395,7 @@ def main_loop(stdscr):
             if o.startswith("CHOICE:"): display_options.append(o.split(":", 2)[2])
             else: display_options.append(o)
 
-        action = get_user_choice(stdscr, display_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, story_messages=current_story_msgs)
+        action = get_user_choice(stdscr, display_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, story_messages=current_story_msgs, facility_code=story_manager.facility_code)
 
         # Handle Choice Execution
         if action in display_options and active_story_event:
@@ -421,7 +429,8 @@ def main_loop(stdscr):
                             f"PERSONNEL FILE: {bio.get('full_name').upper()}",
                             f"Role: {mid.get('professional_file', {}).get('role')} | Gender: {bio.get('gender')}",
                             f"Appearance: {app.get('height_cm')}cm, {app.get('build')}. Eyes: {app.get('physical_features', {}).get('eyes')}.",
-                            f"Mental: IQ {psy.get('iq')}. Dept: {mid.get('professional_file', {}).get('department')}.",
+                            f"Mental: IQ {psy.get('iq')}. Personality: {mid.get('professional_file', {}).get('department')}.",
+                            f"Personal: Hobbies: {', '.join(mid.get('personal_life', {}).get('hobbies', ['None']))}.",
                             f"Background: {bio.get('origin')}.",
                             f"Note: {app.get('physical_features', {}).get('notable_marks', [''])[0]}"
                         ]
@@ -450,19 +459,30 @@ def main_loop(stdscr):
         elif verb == 'talk':
             target_options = []
             for s in scps_in_room: target_options.append(s.id.lower().replace('scp_', ''))
-            # LIMIT: Only show up to 8 nearby NPCs
             for n in npcs_in_room[:8]: target_options.append(n["character"].name.lower())
             target_options.append("back")
-            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Talk to who?", story_messages=current_story_msgs)
+            
+            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Talk to who?", story_messages=current_story_msgs, facility_code=story_manager.facility_code)
+            
             if chosen_target != "back":
+                # --- LEVEL 2: CHOOSE TOPIC ---
+                dialogue_topics = ["ask about current duties", "try to socialize", "ask about facility secrets", "gossip about others", "back"]
+                topic = get_user_choice(stdscr, dialogue_topics, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text=f"What do you want to say to {chosen_target.upper()}?", story_messages=current_story_msgs, facility_code=story_manager.facility_code)
+                
+                if topic == "back":
+                    continue # Return to main loop (which will re-trigger talk and let them pick a new target)
+
                 is_dialogue = True; found = False
+                # Process based on topic (simplified for now)
                 for s in scps_in_room:
                     if chosen_target in s.id.lower():
                         res = s.on_player_talk(player, None); message_to_show = "\n".join(res) or "No response."; found = True; break
                 if not found:
                     for n_info in npcs_in_room:
                         npc = n_info["character"]; 
-                        if chosen_target in npc.name.lower(): message_to_show = f'{npc.name} says: "{npc.get_dialogue()}"'; found = True; break
+                        if chosen_target in npc.name.lower():
+                            message_to_show = npc.get_contextual_dialogue(topic)
+                            found = True; break
                 # After action, clear story
                 current_story_msgs = []
         elif verb == 'attack':
@@ -471,7 +491,7 @@ def main_loop(stdscr):
             # LIMIT: Only show up to 8 nearby NPCs
             for n in npcs_in_room[:8]: target_options.append(n["character"].name.lower())
             target_options.append("back")
-            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Attack who?", story_messages=current_story_msgs)
+            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Attack who?", story_messages=current_story_msgs, facility_code=story_manager.facility_code)
             if chosen_target != "back":
                 target_scp = next((s for s in scps_in_room if chosen_target in s.id.lower()), None)
                 target_npc = next((n["character"] for n in npcs_in_room if chosen_target in n["character"].name.lower()), None)

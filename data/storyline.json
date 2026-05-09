@@ -36,5 +36,49 @@
         ]
       }
     ]
+  },
+  "facility_breach": {
+    "name": "Chapter 2: The Silence at Sector 4",
+    "description": "System failure cascade. Absolute chaos.",
+    "events": [
+      {
+        "id": "power_failure_warning",
+        "trigger_turn": 10,
+        "type": "MESSAGE",
+        "message": "The overhead lights flicker violently. The hum of the facility's power core pitch-shifts into a low, ominous groan. 'Main power failing... backup generators... [REDACTED]'."
+      },
+      {
+        "id": "full_breach",
+        "trigger_turn": 12,
+        "type": "UPDATE_CODE",
+        "code": "RED"
+      },
+      {
+        "id": "breach_encounter",
+        "trigger_turn": 13,
+        "type": "CHOICE",
+        "message": "Total darkness. Then, the backup red emergency lights pulse. A roar echoes from the end of the hall. Your escorting guards freeze, looking at each other in terror. This is your chance.",
+        "options": [
+          {
+            "id": "run_darkness",
+            "text": "Bolt into the darkness of a side hallway.",
+            "effect": { "morale": 10, "sanity": -10 },
+            "log": "D-902 escaped into the maintenance shafts during the initial blackout."
+          },
+          {
+            "id": "disarm_guard",
+            "text": "Lunge for a panicked guard's sidearm.",
+            "effect": { "morale": -5, "health": -20 },
+            "log": "D-902 attempted to disarm security. A struggle ensued."
+          },
+          {
+            "id": "stay_put",
+            "text": "Stay close to the guards and wait for orders.",
+            "effect": { "morale": -10, "sanity": -20 },
+            "log": "D-902 remained stationary, showing absolute submission to authority."
+          }
+        ]
+      }
+    ]
   }
 }

@@ -16,11 +16,11 @@ Personnel are categorized into specialized wings:
 *   **Administration:** Site Director, Facility Manager, Ethics Committee Liaisons.
 *   **Engineering:** Engineers, IT Specialists, Maintenance Crews.
 
-## 3. Internal Security (ISD) & Traitor Mechanics 🛡️
-The **Internal Security Department (ISD)** acts as the facility's secret police.
+## 3. Internal Security (ISD) & Traitor Mechanics
+The Internal Security Department (ISD) acts as the facility's secret police.
 *   **Monitoring:** ISD agents (often disguised) scan for unauthorized violations.
 *   **Violations:** Collecting artifacts, practicing occultism, or leaking documents.
-*   **Consequences:** Detection leads to the **TRAITOR** status, resulting in amnesticization, termination, or defection to the Chaos Insurgency.
+*   **Consequences:** Detection leads to the TRAITOR status, resulting in amnesticization, termination, or defection to the Chaos Insurgency.
 
 ## 4. Data Persistence
-Profiles are stored hierarchically in `data/identities/[department]/npc_[id].json`. A global tracker (`data/global_npc_tracker.json`) monitors real-time locations and activity across the entire 1000-member population.
+Profiles are stored hierarchically in data/identities/[department]/npc_[id].json. A global tracker (data/global_npc_tracker.json) monitors real-time locations and activity across the entire 1000-member population.

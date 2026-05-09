@@ -146,6 +146,48 @@ class Character:
         """Returns a random dialogue line based on personality."""
         return random.choice(DIALOGUE_LINES.get(self.personality, ["..." ]))
 
+    def get_contextual_dialogue(self, topic):
+        """Returns a deep, trait-based response for a specific topic."""
+        mid = getattr(self, 'master_identity', {})
+        bio = mid.get('bio', {})
+        prof = mid.get('professional_file', {})
+        psy = mid.get('psychological_profile', {})
+        sec = mid.get('social_and_secrets', {})
+        life = mid.get('personal_life', {})
+        
+        if topic == "ask about current duties":
+            if self.role == "Scientist":
+                scp = prof.get('assigned_scp', 'various anomalies')
+                return f"I am currently overseeing research on {scp.replace('_', ' ').upper()}. It is... demanding work."
+            elif self.role == "Guard" or self.role == "ISD Agent":
+                return f"My orders are to maintain security in this sector. Standard patrol, nothing more."
+            elif self.role == "D-Class":
+                return "My duties? Cleaning floors and being a human guinea pig. What do you think?"
+            return "Just trying to get through the shift."
+
+        elif topic == "try to socialize":
+            if self.personality in ["Broken", "Manic"]:
+                return self.get_dialogue() # Random insane ramblings
+            
+            hobby = life.get('hobbies', ['working'])[0] if life else "staring at walls"
+            family = sec.get('family', 'no one') if sec else "no one"
+            return f"I'd rather be {hobby.lower()} right now. Back home, I have {family}. I miss them."
+
+        elif topic == "ask about facility secrets":
+            loyalty = sec.get('loyalty_status', 'LOYAL') if sec else "LOYAL"
+            agenda = sec.get('hidden_agenda', 'nothing') if sec else "nothing"
+            
+            if loyalty == "TRAITOR" or self.personality == "Paranoid":
+                return f"You want to know the truth? {agenda}. Don't tell the ISD."
+            return "I don't know what you're talking about. Everything here is strictly classified."
+
+        elif topic == "gossip about others":
+            if self.personality == "Aggressive":
+                return "The people in this Site are incompetent. Especially the engineering crew."
+            return "I heard some researchers in the next wing are hiding something. But people talk too much."
+
+        return self.get_dialogue()
+
 def generate_character(role):
     """Generates a random character object of a given role."""
     role_str = role.lower()
