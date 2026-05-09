@@ -1,57 +1,57 @@
 {
   "id": "npc_162",
   "bio": {
-    "full_name": "Olga Muller",
-    "gender": "Female",
+    "full_name": "Maria Vasiliev",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 57,
-    "blood_type": "B-",
-    "genetic_stability": 0.924,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 48,
+    "blood_type": "B+",
+    "genetic_stability": 0.895,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 83,
-    "build": "Slender",
+    "height_cm": 198,
+    "weight_kg": 95,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 41,
-      "Perception": 21,
-      "Occult_Research": 56
+      "Stealth": 88,
+      "Medicine": 18,
+      "Engineering": 78
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 73,
-      "conscientiousness": 91,
-      "extraversion": 58,
-      "agreeableness": 92,
-      "neuroticism": 67
+      "openness": 23,
+      "conscientiousness": 97,
+      "extraversion": 17,
+      "agreeableness": 14,
+      "neuroticism": 42
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Obsessed with reaching Site-01",

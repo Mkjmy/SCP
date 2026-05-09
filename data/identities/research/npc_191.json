@@ -1,23 +1,23 @@
 {
   "id": "npc_191",
   "bio": {
-    "full_name": "Arjun Davis",
-    "gender": "Male",
+    "full_name": "Richard O'Connor",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 53,
-    "blood_type": "O+",
-    "genetic_stability": 0.924,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.876,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 83,
-    "build": "Average",
+    "height_cm": 168,
+    "weight_kg": 86,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Emerald green",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 39,
-      "Athletics": 34,
-      "Persuasion": 57
+      "Stealth": 51,
+      "Firearms": 79,
+      "Occult_Research": 23
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 50,
-      "extraversion": 9,
-      "agreeableness": 22,
-      "neuroticism": 0
+      "openness": 53,
+      "conscientiousness": 98,
+      "extraversion": 90,
+      "agreeableness": 3,
+      "neuroticism": 35
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

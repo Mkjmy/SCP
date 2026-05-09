@@ -1,23 +1,23 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "Michael Williams",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 34,
-    "blood_type": "O-",
-    "genetic_stability": 0.964,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "James Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 0.977,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 100,
-    "build": "Athletic",
+    "height_cm": 160,
+    "weight_kg": 55,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 68,
-      "Firearms": 69,
-      "Occult_Research": 29
+      "Persuasion": 43,
+      "Stealth": 62,
+      "Engineering": 11
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 85,
-      "extraversion": 85,
-      "agreeableness": 90,
-      "neuroticism": 2
+      "openness": 22,
+      "conscientiousness": 98,
+      "extraversion": 98,
+      "agreeableness": 85,
+      "neuroticism": 30
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

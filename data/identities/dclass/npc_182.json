@@ -1,23 +1,23 @@
 {
   "id": "npc_182",
   "bio": {
-    "full_name": "Robert Tanaka",
-    "gender": "Agender",
+    "full_name": "Michael Garcia",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 25,
-    "blood_type": "O+",
-    "genetic_stability": 0.922,
+    "age": 20,
+    "blood_type": "AB-",
+    "genetic_stability": 0.875,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 64,
+    "height_cm": 192,
+    "weight_kg": 106,
     "build": "Average",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Bald",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 82,
-      "Containment_Logic": 91,
-      "Stealth": 36
+      "Engineering": 28,
+      "Stealth": 87,
+      "Persuasion": 49
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 97,
-      "extraversion": 22,
-      "agreeableness": 35,
-      "neuroticism": 41
+      "openness": 38,
+      "conscientiousness": 87,
+      "extraversion": 7,
+      "agreeableness": 36,
+      "neuroticism": 82
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_171",
   "bio": {
-    "full_name": "Charles Sato",
-    "gender": "Transgender",
+    "full_name": "Chen Brown",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 35,
-    "blood_type": "AB-",
-    "genetic_stability": 0.894,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 21,
+    "blood_type": "O-",
+    "genetic_stability": 0.854,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 108,
-    "build": "Stocky",
+    "height_cm": 183,
+    "weight_kg": 68,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
+      "hair": "Red, Wild and unkempt",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 41,
-      "Firearms": 83,
-      "Perception": 46
+      "Stealth": 10,
+      "Persuasion": 46,
+      "Medicine": 77
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 84,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 82,
-      "extraversion": 76,
-      "agreeableness": 85,
-      "neuroticism": 90
+      "openness": 19,
+      "conscientiousness": 62,
+      "extraversion": 99,
+      "agreeableness": 22,
+      "neuroticism": 21
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

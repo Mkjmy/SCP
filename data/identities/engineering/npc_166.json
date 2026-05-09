@@ -1,60 +1,60 @@
 {
   "id": "npc_166",
   "bio": {
-    "full_name": "David O'Connor",
+    "full_name": "Thomas Schmidt",
     "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 65,
-    "blood_type": "AB+",
-    "genetic_stability": 0.871,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "O-",
+    "genetic_stability": 0.949,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 94,
+    "height_cm": 164,
+    "weight_kg": 98,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Deep brown",
+      "hair": "Brown, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 21,
-      "Medicine": 68,
-      "Engineering": 86
+      "Stealth": 90,
+      "Medicine": 47,
+      "Perception": 88
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 40,
-      "extraversion": 1,
-      "agreeableness": 92,
-      "neuroticism": 98
+      "openness": 4,
+      "conscientiousness": 32,
+      "extraversion": 74,
+      "agreeableness": 69,
+      "neuroticism": 69
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
       "amount": 5000,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

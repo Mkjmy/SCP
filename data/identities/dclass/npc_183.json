@@ -1,23 +1,23 @@
 {
   "id": "npc_183",
   "bio": {
-    "full_name": "Maria Williams",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "A-",
-    "genetic_stability": 0.863,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Thomas Miller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.955,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 60,
-    "build": "Average",
+    "height_cm": 174,
+    "weight_kg": 97,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Silver, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 95,
-      "Medicine": 12,
-      "Athletics": 91
+      "Containment_Logic": 88,
+      "Hacking": 14,
+      "Stealth": 66
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 83,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 11,
-      "extraversion": 29,
-      "agreeableness": 92,
-      "neuroticism": 92
+      "openness": 10,
+      "conscientiousness": 90,
+      "extraversion": 67,
+      "agreeableness": 37,
+      "neuroticism": 95
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_041",
   "bio": {
-    "full_name": "Michael Ivanov",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 32,
-    "blood_type": "AB+",
-    "genetic_stability": 0.876,
+    "full_name": "Thomas Ivanov",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "O+",
+    "genetic_stability": 0.979,
     "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 90,
-    "build": "Heavily Muscular",
+    "height_cm": 173,
+    "weight_kg": 106,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Grey",
+      "hair": "Silver, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 42,
-      "Perception": 49,
-      "Engineering": 60
+      "Firearms": 38,
+      "Perception": 29,
+      "Athletics": 42
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 64,
-      "conscientiousness": 100,
-      "extraversion": 72,
-      "agreeableness": 38,
-      "neuroticism": 94
+      "openness": 91,
+      "conscientiousness": 93,
+      "extraversion": 77,
+      "agreeableness": 41,
+      "neuroticism": 43
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_056",
   "bio": {
-    "full_name": "Richard Williams",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 33,
-    "blood_type": "O-",
-    "genetic_stability": 0.892,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Arjun Davis",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.885,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 96,
-    "build": "Average",
+    "height_cm": 160,
+    "weight_kg": 67,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Hazel",
+      "hair": "Silver, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Occult_Research": 13,
-      "Containment_Logic": 71,
-      "Hacking": 68
+      "Firearms": 68,
+      "Engineering": 90,
+      "Containment_Logic": 95
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 48,
-      "extraversion": 85,
-      "agreeableness": 64,
-      "neuroticism": 8
+      "openness": 11,
+      "conscientiousness": 58,
+      "extraversion": 3,
+      "agreeableness": 33,
+      "neuroticism": 5
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_195",
   "bio": {
-    "full_name": "David Garcia",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 28,
-    "blood_type": "A+",
-    "genetic_stability": 0.961,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Thomas Bakker",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.916,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 72,
+    "height_cm": 181,
+    "weight_kg": 69,
     "build": "Frail",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 41,
-      "Containment_Logic": 71,
-      "Athletics": 28
+      "Stealth": 49,
+      "Firearms": 71,
+      "Perception": 49
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 65,
-      "conscientiousness": 52,
-      "extraversion": 68,
-      "agreeableness": 36,
-      "neuroticism": 28
+      "openness": 55,
+      "conscientiousness": 34,
+      "extraversion": 79,
+      "agreeableness": 89,
+      "neuroticism": 89
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

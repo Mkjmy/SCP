@@ -1,60 +1,60 @@
 {
   "id": "npc_022",
   "bio": {
-    "full_name": "Paul Johnson",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 40,
-    "blood_type": "A+",
-    "genetic_stability": 0.952,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Thomas Garcia",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "A-",
+    "genetic_stability": 0.977,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 100,
-    "build": "Heavily Muscular",
+    "height_cm": 190,
+    "weight_kg": 108,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
+      "hair": "Blonde, Ponytail",
       "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 72,
-      "Engineering": 53,
-      "Stealth": 16
+      "Firearms": 67,
+      "Hacking": 15,
+      "Persuasion": 79
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 23,
-      "conscientiousness": 46,
-      "extraversion": 65,
-      "agreeableness": 78,
-      "neuroticism": 90
+      "openness": 47,
+      "conscientiousness": 26,
+      "extraversion": 99,
+      "agreeableness": 87,
+      "neuroticism": 95
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_034",
   "bio": {
-    "full_name": "Lars Sato",
-    "gender": "Female",
+    "full_name": "William Garcia",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 48,
-    "blood_type": "A-",
-    "genetic_stability": 0.895,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.897,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 53,
-    "build": "Stocky",
+    "height_cm": 183,
+    "weight_kg": 86,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 48,
-      "Medicine": 41,
-      "Firearms": 51
+      "Hacking": 54,
+      "Engineering": 56,
+      "Occult_Research": 66
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 49,
-      "extraversion": 32,
-      "agreeableness": 38,
-      "neuroticism": 6
+      "openness": 53,
+      "conscientiousness": 66,
+      "extraversion": 86,
+      "agreeableness": 73,
+      "neuroticism": 8
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

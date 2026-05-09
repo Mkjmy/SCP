@@ -1,23 +1,23 @@
 {
   "id": "npc_107",
   "bio": {
-    "full_name": "Yuki Wong",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 20,
-    "blood_type": "B-",
-    "genetic_stability": 0.894,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Matthew Williams",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.888,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 74,
-    "build": "Lithe",
+    "height_cm": 197,
+    "weight_kg": 108,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 31,
-      "Occult_Research": 90,
-      "Hacking": 37
+      "Engineering": 86,
+      "Hacking": 29,
+      "Perception": 42
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 95,
+    "iq": 81,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 52,
-      "extraversion": 18,
-      "agreeableness": 10,
-      "neuroticism": 13
+      "openness": 28,
+      "conscientiousness": 11,
+      "extraversion": 45,
+      "agreeableness": 54,
+      "neuroticism": 90
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

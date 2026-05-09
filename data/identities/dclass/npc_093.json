@@ -1,0 +1,60 @@
+{
+  "id": "npc_093",
+  "bio": {
+    "full_name": "Michael Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.888,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 57,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 30,
+      "Occult_Research": 27,
+      "Containment_Logic": 49
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 45,
+      "extraversion": 86,
+      "agreeableness": 80,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

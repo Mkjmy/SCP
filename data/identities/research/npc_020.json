@@ -1,23 +1,23 @@
 {
   "id": "npc_020",
   "bio": {
-    "full_name": "Donald Dubois",
-    "gender": "Agender",
+    "full_name": "Paul Sato",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 34,
-    "blood_type": "AB-",
-    "genetic_stability": 0.916,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 42,
+    "blood_type": "B+",
+    "genetic_stability": 0.991,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 105,
-    "build": "Average",
+    "height_cm": 156,
+    "weight_kg": 86,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Deep brown",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 21,
-      "Engineering": 70,
-      "Stealth": 56
+      "Stealth": 31,
+      "Medicine": 66,
+      "Persuasion": 29
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 143,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 63,
-      "extraversion": 31,
-      "agreeableness": 47,
-      "neuroticism": 53
+      "openness": 18,
+      "conscientiousness": 8,
+      "extraversion": 54,
+      "agreeableness": 71,
+      "neuroticism": 87
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

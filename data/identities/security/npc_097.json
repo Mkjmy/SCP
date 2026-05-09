@@ -1,60 +1,60 @@
 {
   "id": "npc_097",
   "bio": {
-    "full_name": "Michael Johnson",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 37,
-    "blood_type": "A+",
-    "genetic_stability": 0.98,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Anthony Johnson",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 49,
+    "blood_type": "AB+",
+    "genetic_stability": 0.886,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
     "height_cm": 171,
-    "weight_kg": 57,
-    "build": "Stocky",
+    "weight_kg": 78,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Icy blue",
+      "hair": "Red, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Medicine": 54,
-      "Hacking": 29,
-      "Perception": 80
+      "Occult_Research": 13,
+      "Perception": 36,
+      "Engineering": 61
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 99,
-      "conscientiousness": 63,
-      "extraversion": 7,
-      "agreeableness": 30,
-      "neuroticism": 19
+      "openness": 68,
+      "conscientiousness": 60,
+      "extraversion": 19,
+      "agreeableness": 10,
+      "neuroticism": 71
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

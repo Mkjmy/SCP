@@ -1,23 +1,23 @@
 {
   "id": "npc_173",
   "bio": {
-    "full_name": "Michael Vasiliev",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 39,
-    "blood_type": "O+",
-    "genetic_stability": 0.932,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Andrew Gupta",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.972,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 99,
+    "height_cm": 193,
+    "weight_kg": 75,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 50,
-      "Containment_Logic": 16,
-      "Perception": 84
+      "Firearms": 86,
+      "Occult_Research": 88,
+      "Engineering": 83
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 38,
-      "conscientiousness": 55,
-      "extraversion": 61,
-      "agreeableness": 12,
-      "neuroticism": 5
+      "openness": 80,
+      "conscientiousness": 24,
+      "extraversion": 42,
+      "agreeableness": 54,
+      "neuroticism": 53
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

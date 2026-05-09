@@ -1,23 +1,23 @@
 {
   "id": "npc_088",
   "bio": {
-    "full_name": "Paul Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 30,
+    "full_name": "Elena Williams",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 34,
     "blood_type": "A-",
-    "genetic_stability": 0.858,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.931,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 51,
-    "build": "Stocky",
+    "height_cm": 181,
+    "weight_kg": 79,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "Grey, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 14,
-      "Occult_Research": 53,
-      "Firearms": 88
+      "Containment_Logic": 42,
+      "Athletics": 35,
+      "Medicine": 48
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 19,
-      "extraversion": 29,
-      "agreeableness": 52,
-      "neuroticism": 16
+      "openness": 83,
+      "conscientiousness": 53,
+      "extraversion": 62,
+      "agreeableness": 11,
+      "neuroticism": 61
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

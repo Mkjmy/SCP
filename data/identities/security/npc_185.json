@@ -1,23 +1,23 @@
 {
   "id": "npc_185",
   "bio": {
-    "full_name": "Charles Williams",
-    "gender": "Agender",
+    "full_name": "Paul Vasiliev",
+    "gender": "Transgender",
     "orientation": "Heterosexual",
-    "age": 55,
+    "age": 25,
     "blood_type": "A+",
-    "genetic_stability": 0.98,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.867,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 75,
-    "build": "Lithe",
+    "height_cm": 197,
+    "weight_kg": 93,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Grey",
+      "hair": "White, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 85,
-      "Occult_Research": 67,
-      "Firearms": 64
+      "Occult_Research": 90,
+      "Stealth": 32,
+      "Perception": 53
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 92,
-      "extraversion": 1,
-      "agreeableness": 70,
-      "neuroticism": 26
+      "openness": 89,
+      "conscientiousness": 40,
+      "extraversion": 44,
+      "agreeableness": 9,
+      "neuroticism": 65
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
     "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
-      "creditor": "Local Mob"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

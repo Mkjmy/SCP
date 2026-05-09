@@ -1,23 +1,23 @@
 {
   "id": "npc_105",
   "bio": {
-    "full_name": "Joshua Sato",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 36,
-    "blood_type": "A-",
-    "genetic_stability": 0.913,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Donald Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.974,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 50,
-    "build": "Frail",
+    "height_cm": 158,
+    "weight_kg": 61,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Grey, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 71,
-      "Firearms": 92,
-      "Stealth": 35
+      "Containment_Logic": 52,
+      "Athletics": 25,
+      "Stealth": 13
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 66,
-      "extraversion": 19,
-      "agreeableness": 85,
-      "neuroticism": 24
+      "openness": 70,
+      "conscientiousness": 60,
+      "extraversion": 82,
+      "agreeableness": 18,
+      "neuroticism": 3
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

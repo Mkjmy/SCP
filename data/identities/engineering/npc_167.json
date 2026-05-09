@@ -1,60 +1,60 @@
 {
   "id": "npc_167",
   "bio": {
-    "full_name": "Donald Smith",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 60,
-    "blood_type": "O+",
-    "genetic_stability": 0.909,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Lars Muller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "A-",
+    "genetic_stability": 0.893,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 60,
-    "build": "Lithe",
+    "height_cm": 179,
+    "weight_kg": 88,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Grey, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 32,
-      "Perception": 82,
-      "Athletics": 51
+      "Perception": 30,
+      "Persuasion": 60,
+      "Firearms": 42
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 89,
-      "extraversion": 79,
-      "agreeableness": 60,
-      "neuroticism": 40
+      "openness": 73,
+      "conscientiousness": 34,
+      "extraversion": 60,
+      "agreeableness": 90,
+      "neuroticism": 97
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

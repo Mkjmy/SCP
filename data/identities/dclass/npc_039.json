@@ -1,0 +1,60 @@
+{
+  "id": "npc_039",
+  "bio": {
+    "full_name": "John Gupta",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "B+",
+    "genetic_stability": 0.862,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 94,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 17,
+      "Medicine": 22,
+      "Containment_Logic": 90
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 68,
+      "extraversion": 15,
+      "agreeableness": 21,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,60 +1,60 @@
 {
   "id": "npc_023",
   "bio": {
-    "full_name": "Fatima O'Connor",
+    "full_name": "Robert Tanaka",
     "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 63,
-    "blood_type": "AB+",
-    "genetic_stability": 0.876,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.917,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 102,
-    "build": "Stocky",
+    "height_cm": 158,
+    "weight_kg": 73,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Medicine": 13,
-      "Engineering": 34,
-      "Containment_Logic": 88
+      "Engineering": 48,
+      "Stealth": 50,
+      "Hacking": 38
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 66,
-      "extraversion": 33,
-      "agreeableness": 45,
-      "neuroticism": 36
+      "openness": 60,
+      "conscientiousness": 99,
+      "extraversion": 94,
+      "agreeableness": 7,
+      "neuroticism": 17
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

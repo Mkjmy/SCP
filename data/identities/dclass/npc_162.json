@@ -1,23 +1,23 @@
 {
   "id": "npc_162",
   "bio": {
-    "full_name": "Michael Wong",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 34,
-    "blood_type": "A+",
-    "genetic_stability": 0.983,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Matthew Brown",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.933,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 59,
-    "build": "Slender",
+    "height_cm": 171,
+    "weight_kg": 89,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Emerald green",
+      "hair": "White, Buzz cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 48,
-      "Engineering": 21,
-      "Firearms": 33
+      "Hacking": 79,
+      "Engineering": 88,
+      "Medicine": 92
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 34,
+      "openness": 75,
       "conscientiousness": 91,
-      "extraversion": 45,
-      "agreeableness": 81,
-      "neuroticism": 10
+      "extraversion": 79,
+      "agreeableness": 15,
+      "neuroticism": 59
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

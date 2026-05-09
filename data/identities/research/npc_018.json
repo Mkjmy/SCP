@@ -1,23 +1,23 @@
 {
   "id": "npc_018",
   "bio": {
-    "full_name": "Maria Kovacs",
-    "gender": "Male",
+    "full_name": "Daniel Wong",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 37,
-    "blood_type": "A-",
-    "genetic_stability": 0.906,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.903,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 95,
-    "build": "Heavily Muscular",
+    "height_cm": 155,
+    "weight_kg": 63,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Hazel",
+      "hair": "Grey, Bald",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Perception": 27,
-      "Athletics": 49,
-      "Medicine": 10
+      "Persuasion": 45,
+      "Hacking": 83,
+      "Medicine": 70
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 84,
-      "extraversion": 4,
-      "agreeableness": 86,
-      "neuroticism": 94
+      "openness": 13,
+      "conscientiousness": 33,
+      "extraversion": 96,
+      "agreeableness": 43,
+      "neuroticism": 53
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.4
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

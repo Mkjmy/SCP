@@ -1,23 +1,23 @@
 {
   "id": "npc_068",
   "bio": {
-    "full_name": "Arjun O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 45,
-    "blood_type": "O+",
-    "genetic_stability": 0.851,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Yuki Bakker",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.934,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 110,
-    "build": "Average",
+    "height_cm": 158,
+    "weight_kg": 83,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Bald",
+      "hair": "White, Buzz cut",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 32,
-      "Firearms": 27,
-      "Stealth": 63
+      "Engineering": 10,
+      "Persuasion": 25,
+      "Firearms": 43
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 23,
-      "conscientiousness": 38,
-      "extraversion": 52,
+      "openness": 64,
+      "conscientiousness": 72,
+      "extraversion": 4,
       "agreeableness": 36,
-      "neuroticism": 40
+      "neuroticism": 77
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

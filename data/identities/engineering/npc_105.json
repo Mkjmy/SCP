@@ -1,60 +1,60 @@
 {
   "id": "npc_105",
   "bio": {
-    "full_name": "William Jones",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 56,
-    "blood_type": "O+",
-    "genetic_stability": 0.987,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Charles Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "AB-",
+    "genetic_stability": 0.916,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 95,
-    "build": "Average",
+    "height_cm": 198,
+    "weight_kg": 102,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Sharp blue",
+      "hair": "White, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 49,
-      "Hacking": 69,
-      "Medicine": 72
+      "Medicine": 66,
+      "Stealth": 55,
+      "Occult_Research": 46
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 56,
-      "extraversion": 87,
-      "agreeableness": 38,
-      "neuroticism": 39
+      "openness": 9,
+      "conscientiousness": 17,
+      "extraversion": 1,
+      "agreeableness": 14,
+      "neuroticism": 33
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.95
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_038",
   "bio": {
-    "full_name": "Robert Garcia",
+    "full_name": "Olga Smith",
     "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 47,
-    "blood_type": "O+",
-    "genetic_stability": 0.966,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Heterosexual",
+    "age": 57,
+    "blood_type": "B-",
+    "genetic_stability": 0.887,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 67,
-    "build": "Athletic",
+    "height_cm": 169,
+    "weight_kg": 88,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Hacking": 84,
-      "Perception": 12,
-      "Medicine": 73
+      "Firearms": 75,
+      "Persuasion": 23,
+      "Stealth": 30
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 26,
-      "extraversion": 80,
-      "agreeableness": 65,
-      "neuroticism": 12
+      "openness": 9,
+      "conscientiousness": 90,
+      "extraversion": 55,
+      "agreeableness": 47,
+      "neuroticism": 95
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.58
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_029",
   "bio": {
-    "full_name": "Joshua Gupta",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 53,
-    "blood_type": "B-",
-    "genetic_stability": 0.989,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Lars Dubois",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "A+",
+    "genetic_stability": 0.983,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 88,
-    "build": "Athletic",
+    "height_cm": 197,
+    "weight_kg": 57,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "Red, Messy",
+      "eyes": "Grey",
       "notable_marks": [
         "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Athletics": 60,
-      "Hacking": 75,
-      "Perception": 41
+      "Firearms": 62,
+      "Containment_Logic": 77,
+      "Occult_Research": 75
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 61,
-      "extraversion": 58,
-      "agreeableness": 67,
-      "neuroticism": 72
+      "openness": 23,
+      "conscientiousness": 50,
+      "extraversion": 84,
+      "agreeableness": 45,
+      "neuroticism": 21
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
     "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

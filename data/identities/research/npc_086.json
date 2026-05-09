@@ -1,23 +1,23 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Mark Davis",
+    "full_name": "Mark Gupta",
     "gender": "Agender",
     "orientation": "Homosexual",
-    "age": 41,
-    "blood_type": "B+",
-    "genetic_stability": 0.876,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 64,
+    "blood_type": "O+",
+    "genetic_stability": 0.91,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 65,
-    "build": "Average",
+    "height_cm": 181,
+    "weight_kg": 99,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Red, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Stealth": 19,
-      "Engineering": 52,
-      "Hacking": 67
+      "Engineering": 20,
+      "Firearms": 20,
+      "Containment_Logic": 59
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 162,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 30,
-      "conscientiousness": 30,
-      "extraversion": 55,
-      "agreeableness": 70,
-      "neuroticism": 18
+      "openness": 35,
+      "conscientiousness": 5,
+      "extraversion": 48,
+      "agreeableness": 18,
+      "neuroticism": 15
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

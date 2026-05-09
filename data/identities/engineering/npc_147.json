@@ -1,56 +1,56 @@
 {
   "id": "npc_147",
   "bio": {
-    "full_name": "Steven Miller",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 61,
+    "full_name": "Robert Wong",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 32,
     "blood_type": "AB+",
-    "genetic_stability": 0.902,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.955,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 58,
-    "build": "Overweight",
+    "height_cm": 200,
+    "weight_kg": 73,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Deep brown",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 25,
-      "Persuasion": 16,
-      "Athletics": 48
+      "Hacking": 65,
+      "Containment_Logic": 87,
+      "Engineering": 42
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 66,
-      "extraversion": 87,
-      "agreeableness": 72,
-      "neuroticism": 15
+      "openness": 71,
+      "conscientiousness": 11,
+      "extraversion": 36,
+      "agreeableness": 54,
+      "neuroticism": 5
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",

@@ -1,23 +1,23 @@
 {
   "id": "npc_111",
   "bio": {
-    "full_name": "Chen Miller",
-    "gender": "Non-binary",
+    "full_name": "Yuki Vasiliev",
+    "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 65,
-    "blood_type": "B-",
-    "genetic_stability": 0.883,
+    "age": 41,
+    "blood_type": "O-",
+    "genetic_stability": 0.954,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 63,
-    "build": "Stocky",
+    "height_cm": 174,
+    "weight_kg": 58,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
+      "hair": "Dyed green, Manicured",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 76,
-      "Medicine": 43,
-      "Perception": 60
+      "Persuasion": 48,
+      "Stealth": 26,
+      "Firearms": 11
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 85,
-      "extraversion": 72,
-      "agreeableness": 1,
-      "neuroticism": 16
+      "openness": 31,
+      "conscientiousness": 18,
+      "extraversion": 89,
+      "agreeableness": 78,
+      "neuroticism": 76
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

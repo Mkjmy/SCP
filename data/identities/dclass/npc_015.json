@@ -1,0 +1,60 @@
+{
+  "id": "npc_015",
+  "bio": {
+    "full_name": "Lars Tanaka",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 21,
+    "blood_type": "A-",
+    "genetic_stability": 0.906,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 57,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 74,
+      "Hacking": 20,
+      "Perception": 75
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 86,
+      "extraversion": 68,
+      "agreeableness": 21,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

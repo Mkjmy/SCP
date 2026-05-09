@@ -1,23 +1,23 @@
 {
   "id": "npc_186",
   "bio": {
-    "full_name": "William Kovacs",
-    "gender": "Female",
+    "full_name": "Arjun Brown",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 56,
-    "blood_type": "A+",
-    "genetic_stability": 0.95,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.9,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 64,
-    "build": "Heavily Muscular",
+    "height_cm": 163,
+    "weight_kg": 69,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
+      "hair": "Silver, Bald",
       "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Containment_Logic": 85,
-      "Perception": 18,
-      "Persuasion": 17
+      "Perception": 95,
+      "Engineering": 32,
+      "Hacking": 21
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 44,
-      "conscientiousness": 25,
-      "extraversion": 44,
-      "agreeableness": 49,
-      "neuroticism": 15
+      "openness": 49,
+      "conscientiousness": 41,
+      "extraversion": 14,
+      "agreeableness": 40,
+      "neuroticism": 86
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
     "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_151",
   "bio": {
-    "full_name": "John Schmidt",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.906,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Daniel Schmidt",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 54,
+    "blood_type": "AB+",
+    "genetic_stability": 0.937,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 76,
-    "build": "Lithe",
+    "height_cm": 191,
+    "weight_kg": 89,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Messy",
+      "hair": "White, Pompadour",
       "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 65,
-      "Medicine": 71,
-      "Engineering": 17
+      "Engineering": 70,
+      "Athletics": 20,
+      "Persuasion": 20
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 112,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 15,
-      "extraversion": 54,
-      "agreeableness": 28,
-      "neuroticism": 24
+      "openness": 71,
+      "conscientiousness": 69,
+      "extraversion": 61,
+      "agreeableness": 85,
+      "neuroticism": 94
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
       "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_076",
   "bio": {
-    "full_name": "Fatima Gupta",
-    "gender": "Male",
+    "full_name": "Matthew Johnson",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 59,
-    "blood_type": "B-",
-    "genetic_stability": 0.977,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 49,
+    "blood_type": "O+",
+    "genetic_stability": 0.957,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 109,
-    "build": "Heavily Muscular",
+    "height_cm": 183,
+    "weight_kg": 55,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Manicured",
+      "hair": "Grey, Pompadour",
       "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 94,
-      "Persuasion": 89,
-      "Medicine": 74
+      "Firearms": 25,
+      "Engineering": 55,
+      "Athletics": 13
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 62,
-      "extraversion": 57,
-      "agreeableness": 33,
-      "neuroticism": 73
+      "openness": 13,
+      "conscientiousness": 48,
+      "extraversion": 16,
+      "agreeableness": 50,
+      "neuroticism": 28
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

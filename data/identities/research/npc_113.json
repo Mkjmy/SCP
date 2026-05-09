@@ -1,23 +1,23 @@
 {
   "id": "npc_113",
   "bio": {
-    "full_name": "Daniel Tanaka",
+    "full_name": "Yuki Brown",
     "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 56,
-    "blood_type": "AB-",
-    "genetic_stability": 0.903,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "O-",
+    "genetic_stability": 0.899,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 105,
-    "build": "Frail",
+    "height_cm": 158,
+    "weight_kg": 67,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "White, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 34,
-      "Hacking": 78,
-      "Persuasion": 59
+      "Stealth": 60,
+      "Containment_Logic": 69,
+      "Medicine": 68
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 64,
-      "conscientiousness": 62,
-      "extraversion": 17,
-      "agreeableness": 9,
-      "neuroticism": 72
+      "openness": 76,
+      "conscientiousness": 38,
+      "extraversion": 88,
+      "agreeableness": 5,
+      "neuroticism": 71
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_030",
   "bio": {
-    "full_name": "Daniel Muller",
+    "full_name": "Daniel Johnson",
     "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 31,
-    "blood_type": "O+",
-    "genetic_stability": 0.969,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.896,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 109,
+    "height_cm": 184,
+    "weight_kg": 100,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Silver, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Containment_Logic": 31,
-      "Athletics": 23,
-      "Occult_Research": 10
+      "Stealth": 64,
+      "Occult_Research": 59,
+      "Containment_Logic": 30
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 164,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 69,
-      "extraversion": 31,
-      "agreeableness": 20,
-      "neuroticism": 81
+      "openness": 28,
+      "conscientiousness": 94,
+      "extraversion": 22,
+      "agreeableness": 13,
+      "neuroticism": 69
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

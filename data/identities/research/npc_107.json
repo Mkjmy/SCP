@@ -1,23 +1,23 @@
 {
   "id": "npc_107",
   "bio": {
-    "full_name": "Christopher Williams",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 53,
-    "blood_type": "B-",
-    "genetic_stability": 0.9,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Steven O'Connor",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.927,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 95,
-    "build": "Frail",
+    "height_cm": 183,
+    "weight_kg": 65,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Red, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Firearms": 12,
-      "Perception": 14,
-      "Hacking": 59
+      "Persuasion": 87,
+      "Firearms": 44,
+      "Hacking": 67
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 10,
-      "extraversion": 21,
-      "agreeableness": 31,
-      "neuroticism": 29
+      "openness": 91,
+      "conscientiousness": 72,
+      "extraversion": 6,
+      "agreeableness": 24,
+      "neuroticism": 53
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
       "amount": 100000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

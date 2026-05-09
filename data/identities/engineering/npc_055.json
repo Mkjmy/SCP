@@ -1,23 +1,23 @@
 {
   "id": "npc_055",
   "bio": {
-    "full_name": "Arjun Ivanov",
-    "gender": "Transgender",
+    "full_name": "Thomas Smith",
+    "gender": "Non-binary",
     "orientation": "Asexual",
-    "age": 64,
+    "age": 43,
     "blood_type": "O-",
-    "genetic_stability": 0.905,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.875,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 69,
-    "build": "Lithe",
+    "height_cm": 192,
+    "weight_kg": 50,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Black, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 84,
-      "Firearms": 78,
-      "Containment_Logic": 62
+      "Athletics": 77,
+      "Occult_Research": 44,
+      "Containment_Logic": 24
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 58,
-      "extraversion": 29,
-      "agreeableness": 74,
-      "neuroticism": 62
+      "openness": 42,
+      "conscientiousness": 2,
+      "extraversion": 9,
+      "agreeableness": 20,
+      "neuroticism": 26
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

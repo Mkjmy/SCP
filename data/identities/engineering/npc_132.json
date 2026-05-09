@@ -1,23 +1,23 @@
 {
   "id": "npc_132",
   "bio": {
-    "full_name": "Olga Johnson",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 38,
-    "blood_type": "O+",
-    "genetic_stability": 0.908,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Richard O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "A-",
+    "genetic_stability": 0.97,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 89,
-    "build": "Stocky",
+    "height_cm": 192,
+    "weight_kg": 66,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Grey",
+      "hair": "Silver, Ponytail",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 16,
-      "Firearms": 80,
-      "Occult_Research": 74
+      "Stealth": 45,
+      "Occult_Research": 83,
+      "Persuasion": 73
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 27,
-      "extraversion": 83,
-      "agreeableness": 58,
-      "neuroticism": 42
+      "openness": 82,
+      "conscientiousness": 9,
+      "extraversion": 5,
+      "agreeableness": 59,
+      "neuroticism": 64
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

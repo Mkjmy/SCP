@@ -1,57 +1,57 @@
 {
   "id": "npc_158",
   "bio": {
-    "full_name": "Sven Garcia",
-    "gender": "Female",
+    "full_name": "John Muller",
+    "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 31,
-    "blood_type": "AB-",
-    "genetic_stability": 0.88,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 36,
+    "blood_type": "O+",
+    "genetic_stability": 0.931,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 90,
-    "build": "Stocky",
+    "height_cm": 189,
+    "weight_kg": 65,
+    "build": "Average",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 67,
-      "Engineering": 30,
-      "Athletics": 70
+      "Occult_Research": 45,
+      "Medicine": 91,
+      "Containment_Logic": 51
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 50,
-      "extraversion": 86,
-      "agreeableness": 97,
-      "neuroticism": 90
+      "openness": 66,
+      "conscientiousness": 11,
+      "extraversion": 79,
+      "agreeableness": 1,
+      "neuroticism": 84
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Secretly worships the Scarlet King",

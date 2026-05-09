@@ -1,54 +1,54 @@
 {
   "id": "npc_094",
   "bio": {
-    "full_name": "Joseph Davis",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 55,
-    "blood_type": "AB+",
-    "genetic_stability": 0.939,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "James Sato",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.896,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 72,
-    "build": "Frail",
+    "height_cm": 194,
+    "weight_kg": 54,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "Red, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 27,
-      "Medicine": 89,
-      "Hacking": 28
+      "Engineering": 65,
+      "Athletics": 76,
+      "Hacking": 13
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 83,
-      "extraversion": 68,
-      "agreeableness": 83,
-      "neuroticism": 88
+      "openness": 11,
+      "conscientiousness": 28,
+      "extraversion": 85,
+      "agreeableness": 62,
+      "neuroticism": 69
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 20000,
       "creditor": "Local Mob"

@@ -1,23 +1,23 @@
 {
   "id": "npc_004",
   "bio": {
-    "full_name": "Joshua Johnson",
+    "full_name": "James Garcia",
     "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 44,
-    "blood_type": "B+",
-    "genetic_stability": 0.986,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "AB-",
+    "genetic_stability": 0.983,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 67,
-    "build": "Overweight",
+    "height_cm": 189,
+    "weight_kg": 75,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Silver, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 62,
-      "Engineering": 81,
-      "Medicine": 34
+      "Persuasion": 15,
+      "Perception": 42,
+      "Stealth": 92
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 5,
-      "extraversion": 96,
-      "agreeableness": 87,
-      "neuroticism": 67
+      "openness": 1,
+      "conscientiousness": 55,
+      "extraversion": 35,
+      "agreeableness": 42,
+      "neuroticism": 84
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

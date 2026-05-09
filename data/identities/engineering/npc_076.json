@@ -1,59 +1,60 @@
 {
   "id": "npc_076",
   "bio": {
-    "full_name": "Paul O'Connor",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 30,
-    "blood_type": "A-",
-    "genetic_stability": 0.932,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Daniel Wong",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "AB-",
+    "genetic_stability": 0.918,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 107,
-    "build": "Stocky",
+    "height_cm": 174,
+    "weight_kg": 74,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Grey",
+      "hair": "Brown, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 34,
-      "Containment_Logic": 17,
-      "Firearms": 38
+      "Athletics": 45,
+      "Hacking": 18,
+      "Medicine": 14
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 25,
-      "extraversion": 63,
-      "agreeableness": 99,
-      "neuroticism": 85
+      "openness": 31,
+      "conscientiousness": 63,
+      "extraversion": 71,
+      "agreeableness": 88,
+      "neuroticism": 13
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

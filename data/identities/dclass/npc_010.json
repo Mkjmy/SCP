@@ -1,0 +1,60 @@
+{
+  "id": "npc_010",
+  "bio": {
+    "full_name": "Olga Wong",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.935,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 92,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 20,
+      "Containment_Logic": 26,
+      "Athletics": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 58,
+      "extraversion": 0,
+      "agreeableness": 51,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

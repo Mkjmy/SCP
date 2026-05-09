@@ -1,23 +1,23 @@
 {
   "id": "npc_082",
   "bio": {
-    "full_name": "Steven Tanaka",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 63,
-    "blood_type": "A+",
-    "genetic_stability": 0.967,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Daniel Garcia",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "O+",
+    "genetic_stability": 0.883,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 101,
-    "build": "Heavily Muscular",
+    "height_cm": 189,
+    "weight_kg": 96,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Amber",
+      "hair": "Black, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Engineering": 80,
-      "Hacking": 41,
-      "Containment_Logic": 21
+      "Stealth": 82,
+      "Perception": 75,
+      "Persuasion": 17
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 98,
-      "extraversion": 95,
-      "agreeableness": 9,
-      "neuroticism": 45
+      "openness": 52,
+      "conscientiousness": 53,
+      "extraversion": 26,
+      "agreeableness": 88,
+      "neuroticism": 42
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

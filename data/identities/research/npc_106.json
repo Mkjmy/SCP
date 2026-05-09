@@ -1,23 +1,23 @@
 {
   "id": "npc_106",
   "bio": {
-    "full_name": "William Smith",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 60,
-    "blood_type": "A+",
-    "genetic_stability": 0.926,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Donald Garcia",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.961,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 110,
-    "build": "Heavily Muscular",
+    "height_cm": 165,
+    "weight_kg": 92,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Silver, Ponytail",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Hacking": 13,
-      "Perception": 43,
-      "Occult_Research": 79
+      "Athletics": 52,
+      "Hacking": 46,
+      "Medicine": 46
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 51,
-      "conscientiousness": 83,
-      "extraversion": 77,
-      "agreeableness": 99,
-      "neuroticism": 89
+      "openness": 29,
+      "conscientiousness": 31,
+      "extraversion": 24,
+      "agreeableness": 57,
+      "neuroticism": 76
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

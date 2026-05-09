@@ -1,23 +1,23 @@
 {
   "id": "npc_163",
   "bio": {
-    "full_name": "John Brown",
-    "gender": "Transgender",
+    "full_name": "Maria Smith",
+    "gender": "Male",
     "orientation": "Pansexual",
-    "age": 51,
-    "blood_type": "O-",
-    "genetic_stability": 0.875,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.996,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 95,
-    "build": "Stocky",
+    "height_cm": 171,
+    "weight_kg": 51,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 87,
-      "Stealth": 80,
-      "Medicine": 95
+      "Firearms": 28,
+      "Containment_Logic": 58,
+      "Perception": 16
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 16,
-      "extraversion": 16,
-      "agreeableness": 100,
-      "neuroticism": 56
+      "openness": 15,
+      "conscientiousness": 83,
+      "extraversion": 85,
+      "agreeableness": 97,
+      "neuroticism": 84
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
       "amount": 100000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_196",
   "bio": {
-    "full_name": "Elena Ivanov",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 46,
-    "blood_type": "B-",
-    "genetic_stability": 0.901,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Thomas Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "O+",
+    "genetic_stability": 0.903,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 83,
-    "build": "Average",
+    "height_cm": 175,
+    "weight_kg": 93,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
-      "eyes": "Grey",
+      "hair": "Silver, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 79,
-      "Persuasion": 41,
-      "Firearms": 27
+      "Perception": 71,
+      "Athletics": 69,
+      "Persuasion": 13
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 79,
-      "extraversion": 48,
-      "agreeableness": 97,
-      "neuroticism": 9
+      "openness": 15,
+      "conscientiousness": 99,
+      "extraversion": 26,
+      "agreeableness": 34,
+      "neuroticism": 95
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

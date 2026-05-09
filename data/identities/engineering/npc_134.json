@@ -1,60 +1,60 @@
 {
   "id": "npc_134",
   "bio": {
-    "full_name": "Chen Garcia",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 65,
+    "full_name": "Steven Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 62,
     "blood_type": "B-",
-    "genetic_stability": 0.919,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.946,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 88,
-    "build": "Overweight",
+    "height_cm": 177,
+    "weight_kg": 62,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Grey",
+      "hair": "Red, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 72,
-      "Firearms": 68,
-      "Athletics": 59
+      "Occult_Research": 46,
+      "Stealth": 37,
+      "Hacking": 86
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 45,
-      "extraversion": 73,
-      "agreeableness": 39,
-      "neuroticism": 25
+      "openness": 21,
+      "conscientiousness": 19,
+      "extraversion": 87,
+      "agreeableness": 88,
+      "neuroticism": 100
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
       "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

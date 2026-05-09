@@ -1,60 +1,60 @@
 {
   "id": "npc_144",
   "bio": {
-    "full_name": "Charles Jones",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 64,
-    "blood_type": "O+",
-    "genetic_stability": 0.992,
+    "full_name": "Arjun Johnson",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.961,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 51,
-    "build": "Heavily Muscular",
+    "height_cm": 164,
+    "weight_kg": 94,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 88,
-      "Containment_Logic": 19,
-      "Stealth": 84
+      "Hacking": 53,
+      "Occult_Research": 10,
+      "Medicine": 78
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 11,
-      "extraversion": 81,
-      "agreeableness": 78,
-      "neuroticism": 4
+      "openness": 55,
+      "conscientiousness": 45,
+      "extraversion": 94,
+      "agreeableness": 99,
+      "neuroticism": 23
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_025",
   "bio": {
-    "full_name": "Joshua Davis",
+    "full_name": "Sven Schmidt",
     "gender": "Non-binary",
     "orientation": "Heterosexual",
-    "age": 33,
+    "age": 37,
     "blood_type": "A-",
-    "genetic_stability": 0.878,
+    "genetic_stability": 0.989,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 95,
-    "build": "Average",
+    "height_cm": 175,
+    "weight_kg": 85,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
         "Check their watch every 30 seconds"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 24,
-      "Stealth": 26,
-      "Medicine": 25
+      "Occult_Research": 78,
+      "Persuasion": 16,
+      "Stealth": 72
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 58,
-      "extraversion": 38,
-      "agreeableness": 48,
-      "neuroticism": 46
+      "openness": 49,
+      "conscientiousness": 17,
+      "extraversion": 7,
+      "agreeableness": 44,
+      "neuroticism": 45
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

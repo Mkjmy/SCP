@@ -1,23 +1,23 @@
 {
   "id": "npc_006",
   "bio": {
-    "full_name": "Mark Smith",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 24,
-    "blood_type": "B-",
-    "genetic_stability": 0.995,
+    "full_name": "Mark Muller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.91,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 69,
-    "build": "Stocky",
+    "height_cm": 167,
+    "weight_kg": 89,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Grey",
+      "hair": "Red, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 36,
-      "Engineering": 79,
-      "Athletics": 85
+      "Medicine": 39,
+      "Hacking": 54,
+      "Persuasion": 32
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 23,
-      "conscientiousness": 13,
-      "extraversion": 16,
-      "agreeableness": 31,
-      "neuroticism": 66
+      "openness": 96,
+      "conscientiousness": 87,
+      "extraversion": 88,
+      "agreeableness": 58,
+      "neuroticism": 80
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_112",
   "bio": {
-    "full_name": "Anthony O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 52,
-    "blood_type": "AB-",
-    "genetic_stability": 0.908,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Anthony Williams",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.955,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 51,
-    "build": "Athletic",
+    "height_cm": 178,
+    "weight_kg": 59,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Silver, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,32 +25,32 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Athletics": 95,
-      "Firearms": 31,
-      "Medicine": 31
+      "Hacking": 38,
+      "Perception": 68,
+      "Containment_Logic": 63
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 52,
-      "extraversion": 40,
-      "agreeableness": 11,
-      "neuroticism": 38
+      "openness": 42,
+      "conscientiousness": 67,
+      "extraversion": 26,
+      "agreeableness": 36,
+      "neuroticism": 89
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",

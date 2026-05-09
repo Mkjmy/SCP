@@ -1,23 +1,23 @@
 {
   "id": "npc_012",
   "bio": {
-    "full_name": "Thomas Vasiliev",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 26,
-    "blood_type": "AB-",
-    "genetic_stability": 0.949,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "James Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "AB+",
+    "genetic_stability": 0.891,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 50,
-    "build": "Stocky",
+    "height_cm": 192,
+    "weight_kg": 84,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Black, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Engineering": 59,
+      "Athletics": 74,
       "Stealth": 91,
-      "Persuasion": 62
+      "Firearms": 53
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 25,
-      "extraversion": 24,
-      "agreeableness": 6,
-      "neuroticism": 12
+      "openness": 25,
+      "conscientiousness": 23,
+      "extraversion": 47,
+      "agreeableness": 39,
+      "neuroticism": 73
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",

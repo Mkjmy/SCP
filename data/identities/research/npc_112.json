@@ -1,23 +1,23 @@
 {
   "id": "npc_112",
   "bio": {
-    "full_name": "Kenji Bakker",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 31,
-    "blood_type": "AB+",
-    "genetic_stability": 0.894,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Charles Kovacs",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.96,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 74,
-    "build": "Athletic",
+    "height_cm": 168,
+    "weight_kg": 58,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Emerald green",
+      "hair": "Red, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 79,
-      "Persuasion": 55,
-      "Medicine": 59
+      "Perception": 41,
+      "Stealth": 65,
+      "Engineering": 28
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 149,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 93,
-      "extraversion": 79,
-      "agreeableness": 36,
-      "neuroticism": 33
+      "openness": 66,
+      "conscientiousness": 73,
+      "extraversion": 59,
+      "agreeableness": 38,
+      "neuroticism": 91
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

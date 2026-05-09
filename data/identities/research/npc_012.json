@@ -1,23 +1,23 @@
 {
   "id": "npc_012",
   "bio": {
-    "full_name": "Arjun Davis",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 56,
-    "blood_type": "O-",
-    "genetic_stability": 0.955,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Yuki Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.881,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
     "height_cm": 156,
-    "weight_kg": 59,
-    "build": "Slender",
+    "weight_kg": 71,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Ponytail",
+      "hair": "Dyed blue, Pompadour",
       "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Athletics": 44,
-      "Hacking": 67,
-      "Stealth": 93
+      "Stealth": 83,
+      "Engineering": 78,
+      "Containment_Logic": 92
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 34,
-      "extraversion": 23,
-      "agreeableness": 59,
-      "neuroticism": 20
+      "openness": 27,
+      "conscientiousness": 38,
+      "extraversion": 89,
+      "agreeableness": 64,
+      "neuroticism": 23
     },
     "phobias": [
       "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_099",
   "bio": {
-    "full_name": "Olga Miller",
-    "gender": "Female",
+    "full_name": "Elena Williams",
+    "gender": "Non-binary",
     "orientation": "Heterosexual",
-    "age": 34,
-    "blood_type": "B+",
-    "genetic_stability": 0.991,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 24,
+    "blood_type": "O-",
+    "genetic_stability": 0.911,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 104,
-    "build": "Overweight",
+    "height_cm": 173,
+    "weight_kg": 110,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Pompadour",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Smokes heavily"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 87,
-      "Containment_Logic": 66,
-      "Hacking": 14
+      "Medicine": 61,
+      "Persuasion": 52,
+      "Occult_Research": 35
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 36,
-      "conscientiousness": 96,
-      "extraversion": 9,
-      "agreeableness": 54,
-      "neuroticism": 1
+      "openness": 21,
+      "conscientiousness": 5,
+      "extraversion": 25,
+      "agreeableness": 59,
+      "neuroticism": 16
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 20000,
+      "amount": 100000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

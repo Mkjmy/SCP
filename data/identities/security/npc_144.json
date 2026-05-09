@@ -1,60 +1,60 @@
 {
   "id": "npc_144",
   "bio": {
-    "full_name": "Steven Brown",
-    "gender": "Transgender",
+    "full_name": "Elena Bakker",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 24,
-    "blood_type": "A-",
-    "genetic_stability": 0.947,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 58,
+    "blood_type": "A+",
+    "genetic_stability": 0.929,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 92,
-    "build": "Heavily Muscular",
+    "height_cm": 179,
+    "weight_kg": 103,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Red, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Stealth": 33,
-      "Hacking": 92,
-      "Firearms": 85
+      "Stealth": 68,
+      "Persuasion": 11,
+      "Firearms": 36
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 48,
-      "extraversion": 11,
-      "agreeableness": 59,
-      "neuroticism": 81
+      "openness": 24,
+      "conscientiousness": 43,
+      "extraversion": 47,
+      "agreeableness": 84,
+      "neuroticism": 100
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

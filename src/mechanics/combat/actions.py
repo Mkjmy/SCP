@@ -1,31 +1,37 @@
 import random
-from player import BODY_PARTS # Import BODY_PARTS for random injury selection
+from entities.player.player import BODY_PARTS # Import BODY_PARTS for random injury selection
 
 def attack(player, characters_in_room, scps_in_room=None):
-    """Player attempts to attack a specific target."""
-    # 1. SCP Response (Highest priority)
+    """Player attempts to attack a specific target with Momentum and Lethality."""
+    # 0. Check Incapacitated
+    is_mangled, reason = player.is_incapacitated()
+    if is_mangled:
+        return reason, False
+
+    # 1. SCP Response
     if scps_in_room:
         for scp in scps_in_room:
             scp_responses = scp.on_player_attack(player, None)
             if scp_responses:
-                full_response = "\n".join(scp_responses)
-                is_deadly = "fades to black" in full_response or player.health <= 0
-                return full_response, is_deadly
+                return "\n".join(scp_responses), player.health <= 0
 
-    # 2. Check injuries
-    if player.is_part_severely_injured('left_arm') and player.is_part_severely_injured('right_arm'):
-        return "Your arms are too mangled to even lift. You can't attack.", False
+    # 2. Check for Security Intervention (Excessive Violence)
+    # If the player has killed before or is in a room with many witnesses, guards might intervene
+    guards_in_wing = any(c.role == "Guard" for c in characters_in_room)
+    if guards_in_wing and (player.combat_momentum > 1 or random.random() < 0.2):
+        player.health -= 5 # Minor impact from dart
+        player.stamina = 0
+        return "As you prepare to strike, a sharp sting hits your neck. A tranquilizer dart. Your vision blurs as the guards move in to restrain you.", False
 
     # 3. Human Combat Logic
     if characters_in_room:
         target = characters_in_room[0]
         
-        # --- INSTANT DEATH: GUARDS ---
         if target.role == "Guard":
             player.health = 0
-            return f"You attempt to strike {target.name}. Before you can even move, they draw their sidearm and fire. A single shot rings out. The world fades to black.", True
+            return f"You attempt to strike {target.name}. Before you can even move, they draw their sidearm and fire. The world fades to black.", True
 
-        # --- Standard Combat Stats ---
+        # Combat Stats with Momentum
         p_str = player.attributes['strength']
         p_dex = player.attributes['dexterity']
         t_str = target.attributes['strength']
@@ -34,52 +40,53 @@ def attack(player, characters_in_room, scps_in_room=None):
         p_debuff = player.get_debuff(action_type='attack')
         effective_p_str = max(1, p_str - p_debuff)
         
-        # Resolution
-        win_chance = 0.5 + (effective_p_str - t_str) * 0.1 + (p_dex - t_dex) * 0.05
+        # MOMENTUM IMPACT: Each point of momentum adds/removes 10% win chance
+        momentum_bonus = getattr(player, 'combat_momentum', 0) * 0.1
+        
+        win_chance = 0.5 + (effective_p_str - t_str) * 0.1 + (p_dex - t_dex) * 0.05 + momentum_bonus
         win_chance = max(0.05, min(0.95, win_chance))
         
         if random.random() < win_chance:
-            # Player Wins
-            target.health -= 30
-            morale_gain = player.change_morale(10)
+            # Player Wins: Momentum increases
+            player.combat_momentum = min(3, player.combat_momentum + 1)
+            target.health -= 40
             
-            # Strength Gain: If no severe injury present
             growth_msg = ""
             if not player.is_part_severely_injured('left_arm') and not player.is_part_severely_injured('right_arm'):
                 player.attributes['strength'] += 1
-                growth_msg = " The adrenaline coursing through you makes you feel more capable, more dangerous than before."
+                growth_msg = " The adrenaline makes you feel more dangerous."
+
+            if target.health <= 0:
+                player.total_kills += 1
+                return f"You deliver a crushing blow to {target.name}. Their body goes limp. They are no longer breathing.{growth_msg}", False
             
-            msg = f"You catch {target.name} off guard with a vicious strike! They stumble back, clutching their side.{growth_msg}"
-            if morale_gain: msg += f" {morale_gain}"
-            return msg, False
+            return f"You catch {target.name} off guard with a vicious strike! They stumble back, clutching their side.{growth_msg}", False
         else:
-            # Player Loses
+            # Player Loses: Momentum decreases
+            player.combat_momentum = max(-3, player.combat_momentum - 1)
             damage_taken = random.randint(20, 40)
             player.health -= damage_taken
-            player.change_morale(-10)
             
             injured_part = random.choice(BODY_PARTS)
-            severity = 'major_injury' if damage_taken > 30 else 'minor_injury'
+            severity = 'fractured' if damage_taken > 35 else 'bleeding' if damage_taken > 25 else 'bruised'
             injury_msg = player.apply_injury(injured_part, severity)
             
-            # Strength Gain even on loss if not badly mangled
-            growth_msg = ""
-            if severity == 'minor_injury':
-                player.attributes['strength'] += 1
-                growth_msg = " Despite the searing pain, you feel your muscles tightening, adapting to the violence."
-
             if player.health <= 0:
                 return f"{target.name} delivers a finishing blow. The world fades to black.", True
             
-            msg = f"{target.name} strikes back hard, dealing {damage_taken} damage."
-            if growth_msg: msg += f" {growth_msg}"
-            if injury_msg: msg += f" {injury_msg}"
-            return msg, False
+            return f"{target.name} strikes back hard, dealing {damage_taken} damage. Your confidence is shaken. {injury_msg}", False
+
+    return "There's no one here to hit.", False
 
     return "You swing at shadows. There's no one here to hit.", False
 
 def run(player, characters_in_room, current_room_exits, game_map, scps_in_room=None):
     """Player attempts to run away."""
+    # 0. Check Incapacitated
+    is_mangled, reason = player.is_incapacitated()
+    if is_mangled:
+        return reason, False
+
     # Check for SCP-specific run responses (e.g., pursuit, hindrance)
     if scps_in_room:
         for scp in scps_in_room:

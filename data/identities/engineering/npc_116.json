@@ -1,23 +1,23 @@
 {
   "id": "npc_116",
   "bio": {
-    "full_name": "Sven Vasiliev",
+    "full_name": "Arjun Ivanov",
     "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 49,
-    "blood_type": "B-",
-    "genetic_stability": 0.993,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.979,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 73,
-    "build": "Overweight",
+    "height_cm": 159,
+    "weight_kg": 103,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Manicured",
+      "hair": "Silver, Manicured",
       "eyes": "Hazel",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 86,
-      "Persuasion": 45,
-      "Hacking": 21
+      "Persuasion": 94,
+      "Containment_Logic": 66,
+      "Firearms": 88
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 43,
-      "extraversion": 28,
-      "agreeableness": 57,
-      "neuroticism": 20
+      "openness": 51,
+      "conscientiousness": 90,
+      "extraversion": 14,
+      "agreeableness": 83,
+      "neuroticism": 2
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

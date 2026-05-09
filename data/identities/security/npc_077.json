@@ -1,23 +1,23 @@
 {
   "id": "npc_077",
   "bio": {
-    "full_name": "Chen Bakker",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 39,
-    "blood_type": "AB+",
-    "genetic_stability": 0.852,
+    "full_name": "Joshua Wong",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.924,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 69,
-    "build": "Frail",
+    "height_cm": 181,
+    "weight_kg": 60,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Wild and unkempt",
-      "eyes": "Grey",
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 26,
-      "Persuasion": 87,
-      "Occult_Research": 47
+      "Medicine": 46,
+      "Engineering": 34,
+      "Perception": 53
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 71,
-      "extraversion": 20,
-      "agreeableness": 85,
-      "neuroticism": 72
+      "openness": 10,
+      "conscientiousness": 33,
+      "extraversion": 6,
+      "agreeableness": 87,
+      "neuroticism": 32
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
       "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

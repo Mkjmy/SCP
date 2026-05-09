@@ -1,57 +1,57 @@
 {
   "id": "npc_036",
   "bio": {
-    "full_name": "John Kovacs",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 25,
-    "blood_type": "AB+",
-    "genetic_stability": 0.976,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Anthony Gupta",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "B+",
+    "genetic_stability": 0.969,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 93,
-    "build": "Stocky",
+    "height_cm": 185,
+    "weight_kg": 54,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 85,
-      "Containment_Logic": 91,
-      "Stealth": 47
+      "Stealth": 79,
+      "Hacking": 30,
+      "Engineering": 50
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 101,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 48,
-      "extraversion": 67,
-      "agreeableness": 88,
-      "neuroticism": 42
+      "openness": 94,
+      "conscientiousness": 74,
+      "extraversion": 74,
+      "agreeableness": 37,
+      "neuroticism": 17
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Secretly worships the Scarlet King",

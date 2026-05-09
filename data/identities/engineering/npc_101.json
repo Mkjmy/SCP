@@ -1,23 +1,23 @@
 {
   "id": "npc_101",
   "bio": {
-    "full_name": "John Muller",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 41,
-    "blood_type": "B-",
-    "genetic_stability": 0.892,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "William Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 65,
+    "blood_type": "AB+",
+    "genetic_stability": 0.958,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 65,
-    "build": "Heavily Muscular",
+    "height_cm": 199,
+    "weight_kg": 108,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Hazel",
+      "hair": "Black, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 93,
-      "Engineering": 35,
-      "Perception": 59
+      "Persuasion": 57,
+      "Perception": 38,
+      "Occult_Research": 49
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 49,
-      "extraversion": 2,
-      "agreeableness": 23,
-      "neuroticism": 14
+      "openness": 66,
+      "conscientiousness": 80,
+      "extraversion": 28,
+      "agreeableness": 30,
+      "neuroticism": 18
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

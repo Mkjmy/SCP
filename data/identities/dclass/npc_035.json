@@ -1,23 +1,23 @@
 {
   "id": "npc_035",
   "bio": {
-    "full_name": "David Schmidt",
+    "full_name": "Thomas Dubois",
     "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 40,
-    "blood_type": "O-",
-    "genetic_stability": 0.915,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.94,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 67,
-    "build": "Athletic",
+    "height_cm": 189,
+    "weight_kg": 91,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 49,
-      "Perception": 49,
-      "Persuasion": 93
+      "Persuasion": 54,
+      "Firearms": 17,
+      "Containment_Logic": 14
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 14,
+      "openness": 80,
+      "conscientiousness": 10,
       "extraversion": 50,
-      "agreeableness": 53,
-      "neuroticism": 72
+      "agreeableness": 68,
+      "neuroticism": 14
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

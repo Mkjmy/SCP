@@ -1,23 +1,23 @@
 {
   "id": "npc_095",
   "bio": {
-    "full_name": "Chen Muller",
-    "gender": "Non-binary",
+    "full_name": "Fatima Vasiliev",
+    "gender": "Agender",
     "orientation": "Asexual",
-    "age": 28,
-    "blood_type": "AB-",
-    "genetic_stability": 0.901,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.993,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 50,
-    "build": "Athletic",
+    "height_cm": 173,
+    "weight_kg": 85,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Amber",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 84,
-      "Containment_Logic": 39,
-      "Occult_Research": 22
+      "Engineering": 15,
+      "Firearms": 90,
+      "Hacking": 75
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 142,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 4,
-      "extraversion": 3,
-      "agreeableness": 61,
-      "neuroticism": 80
+      "openness": 72,
+      "conscientiousness": 67,
+      "extraversion": 98,
+      "agreeableness": 57,
+      "neuroticism": 5
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

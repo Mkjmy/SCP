@@ -1,23 +1,23 @@
 {
   "id": "npc_142",
   "bio": {
-    "full_name": "Fatima Bakker",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 29,
-    "blood_type": "A+",
-    "genetic_stability": 0.935,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Richard Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.999,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 96,
-    "build": "Heavily Muscular",
+    "height_cm": 194,
+    "weight_kg": 61,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Hazel",
+      "hair": "Black, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 48,
-      "Firearms": 75,
-      "Containment_Logic": 19
+      "Containment_Logic": 43,
+      "Engineering": 59,
+      "Athletics": 55
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 95,
-      "conscientiousness": 94,
-      "extraversion": 44,
-      "agreeableness": 50,
-      "neuroticism": 34
+      "openness": 100,
+      "conscientiousness": 97,
+      "extraversion": 7,
+      "agreeableness": 36,
+      "neuroticism": 71
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_046",
   "bio": {
-    "full_name": "Robert Muller",
-    "gender": "Male",
+    "full_name": "Joshua O'Connor",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 23,
+    "age": 35,
     "blood_type": "O-",
-    "genetic_stability": 0.884,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.929,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 102,
-    "build": "Overweight",
+    "height_cm": 176,
+    "weight_kg": 92,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Manicured",
-      "eyes": "Amber",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Nail biter"
       ]
     }
   },
@@ -25,27 +25,27 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Hacking": 15,
-      "Persuasion": 30,
-      "Stealth": 17
+      "Firearms": 24,
+      "Persuasion": 18,
+      "Hacking": 13
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 57,
-      "extraversion": 27,
-      "agreeableness": 36,
-      "neuroticism": 14
+      "openness": 4,
+      "conscientiousness": 99,
+      "extraversion": 77,
+      "agreeableness": 18,
+      "neuroticism": 76
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
     "family": "Divorced",
@@ -54,7 +54,7 @@
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

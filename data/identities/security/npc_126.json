@@ -1,60 +1,60 @@
 {
   "id": "npc_126",
   "bio": {
-    "full_name": "Joshua Vasiliev",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 28,
+    "full_name": "Elena Jones",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 51,
     "blood_type": "O-",
-    "genetic_stability": 0.955,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.894,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 50,
-    "build": "Heavily Muscular",
+    "height_cm": 199,
+    "weight_kg": 74,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Messy",
-      "eyes": "Icy blue",
+      "hair": "White, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 52,
-      "Hacking": 31,
-      "Medicine": 74
+      "Hacking": 45,
+      "Firearms": 49,
+      "Perception": 11
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 81,
-      "extraversion": 61,
-      "agreeableness": 80,
-      "neuroticism": 51
+      "openness": 33,
+      "conscientiousness": 45,
+      "extraversion": 39,
+      "agreeableness": 45,
+      "neuroticism": 70
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

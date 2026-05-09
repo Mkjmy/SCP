@@ -1,23 +1,23 @@
 {
   "id": "npc_176",
   "bio": {
-    "full_name": "David Brown",
+    "full_name": "William Vasiliev",
     "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 43,
-    "blood_type": "AB+",
-    "genetic_stability": 0.939,
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "AB-",
+    "genetic_stability": 0.98,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 70,
-    "build": "Overweight",
+    "height_cm": 157,
+    "weight_kg": 89,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Grey",
+      "hair": "White, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Medicine": 20,
-      "Stealth": 87,
-      "Containment_Logic": 62
+      "Perception": 18,
+      "Athletics": 63,
+      "Engineering": 33
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 33,
-      "extraversion": 93,
-      "agreeableness": 26,
-      "neuroticism": 68
+      "openness": 73,
+      "conscientiousness": 76,
+      "extraversion": 1,
+      "agreeableness": 98,
+      "neuroticism": 79
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

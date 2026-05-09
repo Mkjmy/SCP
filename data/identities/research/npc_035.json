@@ -1,23 +1,23 @@
 {
   "id": "npc_035",
   "bio": {
-    "full_name": "Kenji Dubois",
+    "full_name": "Richard Davis",
     "gender": "Female",
-    "orientation": "Asexual",
-    "age": 46,
-    "blood_type": "AB-",
-    "genetic_stability": 0.977,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.965,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 108,
-    "build": "Stocky",
+    "height_cm": 167,
+    "weight_kg": 56,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 41,
-      "Containment_Logic": 36,
-      "Engineering": 43
+      "Containment_Logic": 23,
+      "Stealth": 79,
+      "Athletics": 54
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 9,
-      "extraversion": 9,
-      "agreeableness": 8,
-      "neuroticism": 53
+      "openness": 2,
+      "conscientiousness": 66,
+      "extraversion": 10,
+      "agreeableness": 75,
+      "neuroticism": 82
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

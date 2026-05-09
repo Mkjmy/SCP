@@ -1,23 +1,23 @@
 {
   "id": "npc_126",
   "bio": {
-    "full_name": "David Tanaka",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 38,
-    "blood_type": "B+",
-    "genetic_stability": 0.913,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Daniel Kovacs",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.939,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 67,
-    "build": "Overweight",
+    "height_cm": 180,
+    "weight_kg": 99,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Grey",
+      "hair": "White, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 43,
-      "Occult_Research": 68,
-      "Perception": 31
+      "Athletics": 70,
+      "Firearms": 67,
+      "Occult_Research": 95
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 71,
-      "extraversion": 31,
-      "agreeableness": 79,
-      "neuroticism": 85
+      "openness": 58,
+      "conscientiousness": 54,
+      "extraversion": 6,
+      "agreeableness": 67,
+      "neuroticism": 22
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 20000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,59 +1,60 @@
 {
   "id": "npc_008",
   "bio": {
-    "full_name": "Thomas Davis",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 55,
-    "blood_type": "A-",
-    "genetic_stability": 0.909,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Chen Miller",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.99,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 92,
-    "build": "Athletic",
+    "height_cm": 179,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Bald",
+      "hair": "Silver, Fade",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 82,
-      "Persuasion": 26,
-      "Occult_Research": 71
+      "Athletics": 50,
+      "Containment_Logic": 26,
+      "Perception": 11
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 84,
-      "extraversion": 55,
-      "agreeableness": 4,
-      "neuroticism": 31
+      "openness": 20,
+      "conscientiousness": 28,
+      "extraversion": 90,
+      "agreeableness": 10,
+      "neuroticism": 11
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

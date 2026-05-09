@@ -1,23 +1,23 @@
 {
   "id": "npc_088",
   "bio": {
-    "full_name": "Sven Johnson",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 59,
-    "blood_type": "B+",
-    "genetic_stability": 0.925,
+    "full_name": "William Schmidt",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "O-",
+    "genetic_stability": 0.976,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 87,
-    "build": "Athletic",
+    "height_cm": 183,
+    "weight_kg": 99,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Black, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Stealth": 56,
-      "Medicine": 92,
-      "Perception": 32
+      "Perception": 73,
+      "Stealth": 92,
+      "Occult_Research": 76
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 77,
-      "extraversion": 52,
-      "agreeableness": 43,
-      "neuroticism": 50
+      "openness": 2,
+      "conscientiousness": 57,
+      "extraversion": 93,
+      "agreeableness": 3,
+      "neuroticism": 84
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

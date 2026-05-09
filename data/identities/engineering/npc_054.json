@@ -1,23 +1,23 @@
 {
   "id": "npc_054",
   "bio": {
-    "full_name": "Christopher Wong",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 53,
-    "blood_type": "AB-",
-    "genetic_stability": 0.984,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Arjun Miller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 59,
+    "blood_type": "O+",
+    "genetic_stability": 0.865,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 88,
-    "build": "Heavily Muscular",
+    "height_cm": 166,
+    "weight_kg": 65,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 25,
-      "Hacking": 79,
-      "Stealth": 52
+      "Engineering": 68,
+      "Persuasion": 20,
+      "Medicine": 23
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 26,
-      "extraversion": 16,
-      "agreeableness": 93,
-      "neuroticism": 8
+      "openness": 35,
+      "conscientiousness": 0,
+      "extraversion": 26,
+      "agreeableness": 1,
+      "neuroticism": 74
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

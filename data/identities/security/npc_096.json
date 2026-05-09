@@ -1,23 +1,23 @@
 {
   "id": "npc_096",
   "bio": {
-    "full_name": "William Dubois",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 35,
-    "blood_type": "AB-",
-    "genetic_stability": 0.901,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Joseph Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "A+",
+    "genetic_stability": 0.914,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 85,
-    "build": "Average",
+    "height_cm": 178,
+    "weight_kg": 71,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Hazel",
+      "hair": "Red, Bald",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 72,
-      "Containment_Logic": 84,
-      "Engineering": 83
+      "Occult_Research": 82,
+      "Containment_Logic": 67,
+      "Persuasion": 41
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 6,
-      "extraversion": 94,
-      "agreeableness": 100,
-      "neuroticism": 38
+      "openness": 32,
+      "conscientiousness": 24,
+      "extraversion": 33,
+      "agreeableness": 77,
+      "neuroticism": 89
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
+      "amount": 5000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

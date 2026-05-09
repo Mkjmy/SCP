@@ -1,23 +1,23 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "Steven Kovacs",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 34,
+    "full_name": "Mark Dubois",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 36,
     "blood_type": "B+",
-    "genetic_stability": 0.979,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.949,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 66,
-    "build": "Lithe",
+    "height_cm": 181,
+    "weight_kg": 64,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Bald",
-      "eyes": "Emerald green",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Engineering": 67,
-      "Firearms": 51,
-      "Athletics": 38
+      "Containment_Logic": 61,
+      "Hacking": 69,
+      "Athletics": 13
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 68,
-      "extraversion": 85,
-      "agreeableness": 82,
-      "neuroticism": 51
+      "openness": 19,
+      "conscientiousness": 42,
+      "extraversion": 68,
+      "agreeableness": 31,
+      "neuroticism": 76
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",

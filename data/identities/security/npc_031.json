@@ -1,60 +1,60 @@
 {
   "id": "npc_031",
   "bio": {
-    "full_name": "David Smith",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 51,
-    "blood_type": "A+",
-    "genetic_stability": 0.886,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Yuki Jones",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.999,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 81,
-    "build": "Lithe",
+    "height_cm": 186,
+    "weight_kg": 70,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Hacking": 39,
-      "Medicine": 21,
-      "Engineering": 40
+      "Persuasion": 87,
+      "Stealth": 36,
+      "Engineering": 92
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 112,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 86,
-      "extraversion": 53,
-      "agreeableness": 75,
-      "neuroticism": 37
+      "openness": 67,
+      "conscientiousness": 18,
+      "extraversion": 80,
+      "agreeableness": 25,
+      "neuroticism": 9
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

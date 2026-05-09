@@ -1,23 +1,23 @@
 {
   "id": "npc_036",
   "bio": {
-    "full_name": "Charles Vasiliev",
-    "gender": "Transgender",
+    "full_name": "Michael Jones",
+    "gender": "Agender",
     "orientation": "Bisexual",
-    "age": 51,
-    "blood_type": "AB+",
-    "genetic_stability": 0.875,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.906,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 93,
-    "build": "Average",
+    "height_cm": 196,
+    "weight_kg": 59,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Occult_Research": 21,
-      "Athletics": 94,
-      "Perception": 17
+      "Persuasion": 45,
+      "Engineering": 25,
+      "Hacking": 61
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 23,
-      "conscientiousness": 6,
-      "extraversion": 35,
-      "agreeableness": 10,
-      "neuroticism": 36
+      "openness": 78,
+      "conscientiousness": 21,
+      "extraversion": 18,
+      "agreeableness": 19,
+      "neuroticism": 48
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

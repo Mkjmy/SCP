@@ -1,23 +1,23 @@
 {
   "id": "npc_200",
   "bio": {
-    "full_name": "Steven Davis",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 26,
-    "blood_type": "AB+",
-    "genetic_stability": 0.867,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "David O'Connor",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.978,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 105,
-    "build": "Heavily Muscular",
+    "height_cm": 194,
+    "weight_kg": 91,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,20 +27,20 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 30,
-      "Engineering": 43,
-      "Stealth": 25
+      "Stealth": 27,
+      "Firearms": 76,
+      "Athletics": 35
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 44,
-      "conscientiousness": 10,
-      "extraversion": 67,
-      "agreeableness": 79,
-      "neuroticism": 16
+      "openness": 23,
+      "conscientiousness": 27,
+      "extraversion": 30,
+      "agreeableness": 28,
+      "neuroticism": 72
     },
     "phobias": [
       "Arachnophobia (Fear of spiders)"
@@ -48,13 +48,13 @@
     "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

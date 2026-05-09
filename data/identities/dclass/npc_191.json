@@ -1,23 +1,23 @@
 {
   "id": "npc_191",
   "bio": {
-    "full_name": "William Tanaka",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 21,
-    "blood_type": "AB+",
-    "genetic_stability": 0.928,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Elena Wong",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "B-",
+    "genetic_stability": 0.956,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 54,
+    "height_cm": 169,
+    "weight_kg": 65,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 15,
-      "Persuasion": 28,
-      "Athletics": 56
+      "Perception": 62,
+      "Athletics": 22,
+      "Medicine": 65
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 110,
     "personality_matrix": {
       "openness": 71,
-      "conscientiousness": 29,
-      "extraversion": 76,
-      "agreeableness": 42,
-      "neuroticism": 20
+      "conscientiousness": 51,
+      "extraversion": 10,
+      "agreeableness": 3,
+      "neuroticism": 94
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
       "amount": 100000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

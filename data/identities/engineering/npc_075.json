@@ -1,23 +1,23 @@
 {
   "id": "npc_075",
   "bio": {
-    "full_name": "Arjun Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 55,
-    "blood_type": "AB-",
-    "genetic_stability": 0.853,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Charles Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.862,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 61,
-    "build": "Stocky",
+    "height_cm": 191,
+    "weight_kg": 108,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Brown, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 81,
-      "Athletics": 14,
-      "Persuasion": 37
+      "Firearms": 36,
+      "Occult_Research": 50,
+      "Stealth": 32
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 116,
     "personality_matrix": {
       "openness": 41,
-      "conscientiousness": 86,
-      "extraversion": 86,
-      "agreeableness": 51,
-      "neuroticism": 73
+      "conscientiousness": 53,
+      "extraversion": 34,
+      "agreeableness": 58,
+      "neuroticism": 51
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

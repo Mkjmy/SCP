@@ -1,60 +1,60 @@
 {
   "id": "npc_013",
   "bio": {
-    "full_name": "Charles Wong",
-    "gender": "Female",
+    "full_name": "Yuki Wong",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 28,
-    "blood_type": "A+",
-    "genetic_stability": 0.883,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.882,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 94,
-    "build": "Frail",
+    "height_cm": 179,
+    "weight_kg": 71,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 46,
-      "Medicine": 19,
-      "Engineering": 68
+      "Occult_Research": 58,
+      "Athletics": 94,
+      "Hacking": 93
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 123,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 98,
+      "openness": 27,
+      "conscientiousness": 53,
       "extraversion": 83,
       "agreeableness": 52,
-      "neuroticism": 11
+      "neuroticism": 94
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

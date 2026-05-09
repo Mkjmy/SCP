@@ -1,23 +1,23 @@
 {
   "id": "npc_045",
   "bio": {
-    "full_name": "Anthony Brown",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 59,
-    "blood_type": "A+",
-    "genetic_stability": 0.876,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Lars Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.855,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 94,
-    "build": "Frail",
+    "height_cm": 199,
+    "weight_kg": 53,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Grey",
+      "hair": "Grey, Pixie cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Athletics": 48,
-      "Stealth": 90,
-      "Medicine": 45
+      "Athletics": 16,
+      "Firearms": 60,
+      "Stealth": 23
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 23,
-      "extraversion": 71,
-      "agreeableness": 36,
-      "neuroticism": 8
+      "openness": 99,
+      "conscientiousness": 89,
+      "extraversion": 55,
+      "agreeableness": 59,
+      "neuroticism": 72
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

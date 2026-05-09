@@ -1,23 +1,23 @@
 {
   "id": "npc_130",
   "bio": {
-    "full_name": "Kenji Vasiliev",
-    "gender": "Male",
+    "full_name": "Yuki Bakker",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 40,
-    "blood_type": "B-",
-    "genetic_stability": 0.977,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.998,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 106,
-    "build": "Overweight",
+    "height_cm": 158,
+    "weight_kg": 67,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
+      "hair": "Dyed green, Pixie cut",
       "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 24,
-      "Stealth": 45,
-      "Occult_Research": 94
+      "Persuasion": 35,
+      "Athletics": 62,
+      "Medicine": 20
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 94,
-      "extraversion": 11,
-      "agreeableness": 14,
-      "neuroticism": 70
+      "openness": 13,
+      "conscientiousness": 53,
+      "extraversion": 41,
+      "agreeableness": 11,
+      "neuroticism": 22
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

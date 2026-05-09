@@ -1,0 +1,60 @@
+{
+  "id": "npc_125",
+  "bio": {
+    "full_name": "Yuki Dubois",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.9,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 68,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 16,
+      "Containment_Logic": 15,
+      "Engineering": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 58,
+      "extraversion": 58,
+      "agreeableness": 26,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

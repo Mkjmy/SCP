@@ -1,23 +1,23 @@
 {
   "id": "npc_038",
   "bio": {
-    "full_name": "Elena Johnson",
+    "full_name": "Joseph Gupta",
     "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 31,
-    "blood_type": "O-",
-    "genetic_stability": 0.939,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "A+",
+    "genetic_stability": 0.958,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 103,
-    "build": "Slender",
+    "height_cm": 167,
+    "weight_kg": 79,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Nail biter"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 85,
-      "Containment_Logic": 65,
-      "Perception": 47
+      "Containment_Logic": 92,
+      "Firearms": 52,
+      "Persuasion": 48
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 2,
-      "extraversion": 61,
-      "agreeableness": 29,
-      "neuroticism": 95
+      "openness": 78,
+      "conscientiousness": 21,
+      "extraversion": 93,
+      "agreeableness": 37,
+      "neuroticism": 55
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

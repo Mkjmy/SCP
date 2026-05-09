@@ -1,23 +1,23 @@
 {
   "id": "npc_117",
   "bio": {
-    "full_name": "Chen Miller",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 61,
-    "blood_type": "B-",
-    "genetic_stability": 0.998,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Richard Gupta",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "B+",
+    "genetic_stability": 0.937,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 98,
+    "height_cm": 188,
+    "weight_kg": 84,
     "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Medicine": 25,
-      "Persuasion": 95,
-      "Stealth": 22
+      "Hacking": 45,
+      "Firearms": 42,
+      "Athletics": 67
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 32,
-      "extraversion": 28,
-      "agreeableness": 37,
-      "neuroticism": 13
+      "openness": 75,
+      "conscientiousness": 8,
+      "extraversion": 56,
+      "agreeableness": 99,
+      "neuroticism": 94
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

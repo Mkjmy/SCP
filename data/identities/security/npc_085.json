@@ -1,60 +1,60 @@
 {
   "id": "npc_085",
   "bio": {
-    "full_name": "Mark Miller",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 47,
+    "full_name": "Kenji Gupta",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 65,
     "blood_type": "B-",
-    "genetic_stability": 0.952,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.943,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 70,
-    "build": "Athletic",
+    "height_cm": 159,
+    "weight_kg": 93,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Hazel",
+      "hair": "Black, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 13,
-      "Medicine": 38,
-      "Engineering": 14
+      "Containment_Logic": 72,
+      "Firearms": 92,
+      "Athletics": 31
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 83,
-      "conscientiousness": 32,
-      "extraversion": 30,
-      "agreeableness": 25,
-      "neuroticism": 49
+      "openness": 89,
+      "conscientiousness": 28,
+      "extraversion": 15,
+      "agreeableness": 70,
+      "neuroticism": 77
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

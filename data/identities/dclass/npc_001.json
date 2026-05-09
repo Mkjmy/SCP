@@ -1,23 +1,23 @@
 {
   "id": "npc_001",
   "bio": {
-    "full_name": "Michael Garcia",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 44,
+    "full_name": "Thomas Brown",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 39,
     "blood_type": "AB+",
-    "genetic_stability": 0.919,
-    "origin": "Ex-military police recruited after a classified incident"
+    "genetic_stability": 0.952,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 104,
-    "build": "Athletic",
+    "height_cm": 178,
+    "weight_kg": 65,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 54,
-      "Persuasion": 29,
-      "Perception": 78
+      "Containment_Logic": 38,
+      "Stealth": 87,
+      "Engineering": 70
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 85,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 25,
-      "extraversion": 95,
-      "agreeableness": 10,
-      "neuroticism": 22
+      "openness": 29,
+      "conscientiousness": 12,
+      "extraversion": 49,
+      "agreeableness": 56,
+      "neuroticism": 10
     },
     "phobias": [
       "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

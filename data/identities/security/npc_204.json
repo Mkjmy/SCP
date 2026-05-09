@@ -1,23 +1,23 @@
 {
   "id": "npc_204",
   "bio": {
-    "full_name": "Arjun Davis",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 62,
-    "blood_type": "AB+",
-    "genetic_stability": 0.944,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Michael Williams",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "A+",
+    "genetic_stability": 0.918,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 63,
-    "build": "Heavily Muscular",
+    "height_cm": 167,
+    "weight_kg": 50,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Shoulder-length",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Engineering": 74,
-      "Persuasion": 42,
-      "Athletics": 33
+      "Occult_Research": 72,
+      "Persuasion": 21,
+      "Hacking": 55
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 23,
-      "extraversion": 39,
-      "agreeableness": 42,
-      "neuroticism": 43
+      "openness": 82,
+      "conscientiousness": 55,
+      "extraversion": 26,
+      "agreeableness": 89,
+      "neuroticism": 67
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

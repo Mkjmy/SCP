@@ -1,23 +1,23 @@
 {
   "id": "npc_084",
   "bio": {
-    "full_name": "Sven Ivanov",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 55,
-    "blood_type": "AB+",
-    "genetic_stability": 0.941,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Joseph Kovacs",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "B+",
+    "genetic_stability": 0.93,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 110,
-    "build": "Slender",
+    "height_cm": 163,
+    "weight_kg": 86,
+    "build": "Average",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Engineering": 26,
-      "Persuasion": 79,
-      "Perception": 51
+      "Hacking": 88,
+      "Occult_Research": 88,
+      "Firearms": 49
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 80,
-      "extraversion": 65,
-      "agreeableness": 64,
-      "neuroticism": 22
+      "openness": 77,
+      "conscientiousness": 11,
+      "extraversion": 41,
+      "agreeableness": 42,
+      "neuroticism": 35
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

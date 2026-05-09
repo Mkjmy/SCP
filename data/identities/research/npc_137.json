@@ -1,23 +1,23 @@
 {
   "id": "npc_137",
   "bio": {
-    "full_name": "Thomas Garcia",
-    "gender": "Agender",
+    "full_name": "John Davis",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 34,
-    "blood_type": "O+",
-    "genetic_stability": 0.917,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 48,
+    "blood_type": "AB+",
+    "genetic_stability": 0.872,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 105,
-    "build": "Slender",
+    "height_cm": 156,
+    "weight_kg": 58,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "Silver, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Hacking": 12,
-      "Stealth": 25,
-      "Medicine": 26
+      "Medicine": 44,
+      "Occult_Research": 78,
+      "Athletics": 18
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 50,
-      "extraversion": 68,
-      "agreeableness": 78,
-      "neuroticism": 72
+      "openness": 81,
+      "conscientiousness": 84,
+      "extraversion": 72,
+      "agreeableness": 44,
+      "neuroticism": 69
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
       "amount": 100000,
-      "creditor": "Student Loans"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

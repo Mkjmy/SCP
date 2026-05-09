@@ -1,23 +1,23 @@
 {
   "id": "npc_197",
   "bio": {
-    "full_name": "David Smith",
+    "full_name": "Anthony Bakker",
     "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 61,
-    "blood_type": "A-",
-    "genetic_stability": 0.86,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 53,
+    "blood_type": "B+",
+    "genetic_stability": 0.889,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 104,
-    "build": "Frail",
+    "height_cm": 164,
+    "weight_kg": 69,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 84,
-      "Firearms": 53,
-      "Hacking": 91
+      "Engineering": 13,
+      "Persuasion": 81,
+      "Athletics": 21
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 29,
-      "extraversion": 64,
-      "agreeableness": 28,
-      "neuroticism": 90
+      "openness": 1,
+      "conscientiousness": 27,
+      "extraversion": 46,
+      "agreeableness": 51,
+      "neuroticism": 84
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

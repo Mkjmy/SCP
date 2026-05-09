@@ -1,0 +1,60 @@
+{
+  "id": "npc_050",
+  "bio": {
+    "full_name": "Donald Garcia",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "A-",
+    "genetic_stability": 0.927,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 52,
+      "Hacking": 25,
+      "Containment_Logic": 81
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 11,
+      "extraversion": 67,
+      "agreeableness": 6,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,23 +1,23 @@
 {
   "id": "npc_206",
   "bio": {
-    "full_name": "Joshua Vasiliev",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 22,
-    "blood_type": "AB+",
-    "genetic_stability": 0.95,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Sven Johnson",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.924,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 83,
-    "build": "Lithe",
+    "height_cm": 181,
+    "weight_kg": 92,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Black, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 26,
-      "Engineering": 46,
-      "Medicine": 30
+      "Medicine": 72,
+      "Perception": 30,
+      "Occult_Research": 26
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 54,
-      "conscientiousness": 34,
-      "extraversion": 76,
-      "agreeableness": 31,
-      "neuroticism": 7
+      "openness": 38,
+      "conscientiousness": 40,
+      "extraversion": 1,
+      "agreeableness": 68,
+      "neuroticism": 86
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
       "amount": 20000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Undercover ISD agent",

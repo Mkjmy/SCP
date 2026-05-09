@@ -1,0 +1,60 @@
+{
+  "id": "npc_176",
+  "bio": {
+    "full_name": "Daniel Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.908,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 95,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 34,
+      "Athletics": 44,
+      "Medicine": 57
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 17,
+      "extraversion": 34,
+      "agreeableness": 34,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

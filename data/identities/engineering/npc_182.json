@@ -1,23 +1,23 @@
 {
   "id": "npc_182",
   "bio": {
-    "full_name": "Sven Davis",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 35,
+    "full_name": "Matthew Miller",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 39,
     "blood_type": "A+",
-    "genetic_stability": 0.974,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.904,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 87,
-    "build": "Slender",
+    "height_cm": 159,
+    "weight_kg": 94,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Black, Bald",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 64,
-      "Stealth": 25,
-      "Medicine": 68
+      "Stealth": 94,
+      "Persuasion": 43,
+      "Firearms": 71
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 9,
-      "extraversion": 8,
-      "agreeableness": 88,
-      "neuroticism": 73
+      "openness": 33,
+      "conscientiousness": 100,
+      "extraversion": 80,
+      "agreeableness": 61,
+      "neuroticism": 40
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

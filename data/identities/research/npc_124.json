@@ -1,23 +1,23 @@
 {
   "id": "npc_124",
   "bio": {
-    "full_name": "Michael Wong",
+    "full_name": "Charles Johnson",
     "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 41,
-    "blood_type": "A+",
-    "genetic_stability": 0.883,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "O-",
+    "genetic_stability": 0.898,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 108,
+    "height_cm": 185,
+    "weight_kg": 61,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Firearms": 43,
-      "Medicine": 67,
-      "Perception": 41
+      "Containment_Logic": 79,
+      "Engineering": 75,
+      "Athletics": 93
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 42,
-      "conscientiousness": 32,
-      "extraversion": 22,
-      "agreeableness": 28,
-      "neuroticism": 37
+      "openness": 34,
+      "conscientiousness": 21,
+      "extraversion": 78,
+      "agreeableness": 50,
+      "neuroticism": 33
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

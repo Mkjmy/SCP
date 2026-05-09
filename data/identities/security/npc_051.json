@@ -1,60 +1,60 @@
 {
   "id": "npc_051",
   "bio": {
-    "full_name": "Arjun Bakker",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 23,
-    "blood_type": "B-",
-    "genetic_stability": 0.87,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "John Smith",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "A+",
+    "genetic_stability": 0.964,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 51,
-    "build": "Athletic",
+    "height_cm": 194,
+    "weight_kg": 74,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Wild and unkempt",
+      "hair": "Grey, Bald",
       "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 71,
-      "Athletics": 65,
-      "Medicine": 88
+      "Perception": 29,
+      "Firearms": 42,
+      "Occult_Research": 32
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 73,
-      "conscientiousness": 79,
-      "extraversion": 29,
-      "agreeableness": 43,
-      "neuroticism": 87
+      "openness": 5,
+      "conscientiousness": 39,
+      "extraversion": 6,
+      "agreeableness": 57,
+      "neuroticism": 27
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

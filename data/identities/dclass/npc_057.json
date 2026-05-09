@@ -1,23 +1,23 @@
 {
   "id": "npc_057",
   "bio": {
-    "full_name": "Robert Schmidt",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 31,
-    "blood_type": "B-",
-    "genetic_stability": 0.855,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Christopher Gupta",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "O-",
+    "genetic_stability": 0.919,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 77,
+    "height_cm": 174,
+    "weight_kg": 59,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 15,
-      "Medicine": 93,
-      "Stealth": 44
+      "Athletics": 65,
+      "Occult_Research": 48,
+      "Perception": 87
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 95,
-      "extraversion": 62,
-      "agreeableness": 67,
-      "neuroticism": 76
+      "openness": 60,
+      "conscientiousness": 64,
+      "extraversion": 49,
+      "agreeableness": 74,
+      "neuroticism": 25
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

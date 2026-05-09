@@ -1,23 +1,23 @@
 {
   "id": "npc_027",
   "bio": {
-    "full_name": "Charles Dubois",
+    "full_name": "Kenji Garcia",
     "gender": "Female",
     "orientation": "Asexual",
-    "age": 41,
-    "blood_type": "AB-",
-    "genetic_stability": 0.915,
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.981,
     "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 68,
-    "build": "Frail",
+    "height_cm": 162,
+    "weight_kg": 98,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 49,
-      "Stealth": 29,
-      "Perception": 17
+      "Engineering": 39,
+      "Persuasion": 70,
+      "Stealth": 37
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 98,
-      "extraversion": 91,
-      "agreeableness": 40,
-      "neuroticism": 32
+      "openness": 29,
+      "conscientiousness": 12,
+      "extraversion": 94,
+      "agreeableness": 96,
+      "neuroticism": 29
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Undercover ISD agent",

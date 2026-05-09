@@ -1,20 +1,20 @@
 {
   "id": "npc_029",
   "bio": {
-    "full_name": "Arjun Ivanov",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 25,
-    "blood_type": "A+",
-    "genetic_stability": 0.954,
+    "full_name": "Christopher Gupta",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.852,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 104,
-    "build": "Frail",
+    "height_cm": 158,
+    "weight_kg": 109,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Manicured",
+      "hair": "Blonde, Wild and unkempt",
       "eyes": "Icy blue",
       "notable_marks": [
         "Hums classical music"
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 36,
-      "Perception": 85,
-      "Athletics": 35
+      "Containment_Logic": 95,
+      "Hacking": 63,
+      "Medicine": 94
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 95,
-      "conscientiousness": 3,
-      "extraversion": 72,
-      "agreeableness": 92,
-      "neuroticism": 83
+      "openness": 89,
+      "conscientiousness": 38,
+      "extraversion": 87,
+      "agreeableness": 100,
+      "neuroticism": 16
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

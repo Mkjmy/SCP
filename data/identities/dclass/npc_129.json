@@ -1,23 +1,23 @@
 {
   "id": "npc_129",
   "bio": {
-    "full_name": "Elena Vasiliev",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 20,
-    "blood_type": "B+",
-    "genetic_stability": 0.926,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Fatima Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "A-",
+    "genetic_stability": 0.968,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 101,
-    "build": "Heavily Muscular",
+    "height_cm": 186,
+    "weight_kg": 63,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Fade",
-      "eyes": "Deep brown",
+      "hair": "Red, Pixie cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 14,
-      "Stealth": 47,
-      "Engineering": 32
+      "Medicine": 45,
+      "Occult_Research": 70,
+      "Containment_Logic": 61
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 82,
+    "iq": 88,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 59,
-      "extraversion": 84,
-      "agreeableness": 74,
-      "neuroticism": 4
+      "openness": 87,
+      "conscientiousness": 63,
+      "extraversion": 26,
+      "agreeableness": 36,
+      "neuroticism": 57
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

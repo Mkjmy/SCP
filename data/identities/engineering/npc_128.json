@@ -1,23 +1,23 @@
 {
   "id": "npc_128",
   "bio": {
-    "full_name": "Chen Muller",
-    "gender": "Female",
+    "full_name": "Joseph Tanaka",
+    "gender": "Non-binary",
     "orientation": "Asexual",
-    "age": 41,
-    "blood_type": "A+",
-    "genetic_stability": 0.887,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 32,
+    "blood_type": "B+",
+    "genetic_stability": 0.862,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 106,
-    "build": "Slender",
+    "height_cm": 182,
+    "weight_kg": 63,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 61,
-      "Medicine": 49,
-      "Athletics": 48
+      "Perception": 56,
+      "Stealth": 90,
+      "Containment_Logic": 73
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 62,
-      "conscientiousness": 94,
-      "extraversion": 18,
-      "agreeableness": 69,
-      "neuroticism": 40
+      "openness": 60,
+      "conscientiousness": 41,
+      "extraversion": 92,
+      "agreeableness": 44,
+      "neuroticism": 28
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Trying to clear their family name",

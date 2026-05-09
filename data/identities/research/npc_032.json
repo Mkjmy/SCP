@@ -1,23 +1,23 @@
 {
   "id": "npc_032",
   "bio": {
-    "full_name": "Fatima Bakker",
+    "full_name": "Andrew Smith",
     "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 36,
-    "blood_type": "B+",
-    "genetic_stability": 0.877,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.999,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 103,
-    "build": "Heavily Muscular",
+    "height_cm": 156,
+    "weight_kg": 76,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Perception": 74,
-      "Firearms": 16,
-      "Engineering": 79
+      "Hacking": 79,
+      "Perception": 52,
+      "Occult_Research": 32
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 123,
     "personality_matrix": {
-      "openness": 54,
-      "conscientiousness": 69,
-      "extraversion": 77,
-      "agreeableness": 93,
-      "neuroticism": 75
+      "openness": 10,
+      "conscientiousness": 72,
+      "extraversion": 44,
+      "agreeableness": 46,
+      "neuroticism": 44
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

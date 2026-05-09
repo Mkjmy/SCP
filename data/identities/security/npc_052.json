@@ -1,23 +1,23 @@
 {
   "id": "npc_052",
   "bio": {
-    "full_name": "Matthew Davis",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 63,
-    "blood_type": "A-",
-    "genetic_stability": 0.876,
+    "full_name": "Paul Brown",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "AB+",
+    "genetic_stability": 0.984,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 59,
-    "build": "Athletic",
+    "height_cm": 190,
+    "weight_kg": 103,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Wild and unkempt",
-      "eyes": "Emerald green",
+      "hair": "Black, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 35,
-      "Athletics": 44,
-      "Stealth": 57
+      "Occult_Research": 22,
+      "Medicine": 94,
+      "Athletics": 64
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 90,
-      "extraversion": 36,
-      "agreeableness": 39,
-      "neuroticism": 58
+      "openness": 85,
+      "conscientiousness": 49,
+      "extraversion": 86,
+      "agreeableness": 67,
+      "neuroticism": 92
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_069",
   "bio": {
-    "full_name": "Chen Williams",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 58,
+    "full_name": "Charles Bakker",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 65,
     "blood_type": "O+",
-    "genetic_stability": 0.949,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.907,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 86,
+    "height_cm": 186,
+    "weight_kg": 87,
     "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Fade",
+      "hair": "Red, Manicured",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 41,
-      "Occult_Research": 45,
-      "Medicine": 79
+      "Hacking": 15,
+      "Engineering": 84,
+      "Medicine": 95
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 20,
-      "extraversion": 17,
-      "agreeableness": 7,
-      "neuroticism": 0
+      "openness": 38,
+      "conscientiousness": 95,
+      "extraversion": 29,
+      "agreeableness": 71,
+      "neuroticism": 44
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

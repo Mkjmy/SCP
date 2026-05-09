@@ -1,23 +1,23 @@
 {
   "id": "npc_113",
   "bio": {
-    "full_name": "Arjun Brown",
+    "full_name": "Kenji Williams",
     "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 46,
-    "blood_type": "B+",
-    "genetic_stability": 0.885,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "orientation": "Asexual",
+    "age": 62,
+    "blood_type": "O+",
+    "genetic_stability": 0.927,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 109,
-    "build": "Lithe",
+    "height_cm": 164,
+    "weight_kg": 73,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 19,
-      "Persuasion": 92,
-      "Engineering": 31
+      "Persuasion": 58,
+      "Hacking": 16,
+      "Firearms": 83
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 24,
-      "extraversion": 35,
-      "agreeableness": 14,
-      "neuroticism": 55
+      "openness": 63,
+      "conscientiousness": 79,
+      "extraversion": 54,
+      "agreeableness": 80,
+      "neuroticism": 69
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

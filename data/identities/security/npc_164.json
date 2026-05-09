@@ -1,23 +1,23 @@
 {
   "id": "npc_164",
   "bio": {
-    "full_name": "Sven Brown",
-    "gender": "Transgender",
+    "full_name": "Maria Vasiliev",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 52,
-    "blood_type": "A-",
-    "genetic_stability": 0.95,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.879,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 99,
-    "build": "Lithe",
+    "height_cm": 164,
+    "weight_kg": 93,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Grey",
+      "hair": "Dyed green, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 82,
-      "Medicine": 18,
-      "Athletics": 42
+      "Engineering": 92,
+      "Occult_Research": 59,
+      "Hacking": 50
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 93,
-      "extraversion": 50,
-      "agreeableness": 84,
-      "neuroticism": 85
+      "openness": 52,
+      "conscientiousness": 97,
+      "extraversion": 6,
+      "agreeableness": 51,
+      "neuroticism": 28
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

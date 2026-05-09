@@ -1,60 +1,60 @@
 {
   "id": "npc_181",
   "bio": {
-    "full_name": "Daniel Sato",
-    "gender": "Female",
-    "orientation": "Pansexual",
+    "full_name": "James Wong",
+    "gender": "Male",
+    "orientation": "Heterosexual",
     "age": 63,
     "blood_type": "O-",
-    "genetic_stability": 0.863,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.976,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 85,
+    "height_cm": 163,
+    "weight_kg": 82,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Silver, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 20,
-      "Engineering": 64,
-      "Hacking": 11
+      "Containment_Logic": 59,
+      "Engineering": 37,
+      "Hacking": 95
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 118,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 98,
-      "extraversion": 88,
-      "agreeableness": 96,
-      "neuroticism": 86
+      "openness": 98,
+      "conscientiousness": 63,
+      "extraversion": 78,
+      "agreeableness": 66,
+      "neuroticism": 43
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

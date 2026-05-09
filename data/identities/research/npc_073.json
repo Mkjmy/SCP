@@ -1,23 +1,23 @@
 {
   "id": "npc_073",
   "bio": {
-    "full_name": "Joseph Williams",
+    "full_name": "Joseph Wong",
     "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 53,
-    "blood_type": "AB+",
-    "genetic_stability": 0.999,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.964,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 50,
-    "build": "Lithe",
+    "height_cm": 162,
+    "weight_kg": 80,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Bald",
-      "eyes": "Grey",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 55,
-      "Stealth": 52,
-      "Containment_Logic": 40
+      "Perception": 45,
+      "Persuasion": 79,
+      "Engineering": 18
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 75,
-      "extraversion": 43,
-      "agreeableness": 18,
-      "neuroticism": 7
+      "openness": 49,
+      "conscientiousness": 19,
+      "extraversion": 66,
+      "agreeableness": 71,
+      "neuroticism": 36
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

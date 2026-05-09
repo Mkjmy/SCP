@@ -1,60 +1,60 @@
 {
   "id": "npc_180",
   "bio": {
-    "full_name": "James Wong",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 40,
-    "blood_type": "O-",
-    "genetic_stability": 0.949,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Christopher O'Connor",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "AB+",
+    "genetic_stability": 0.898,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
     "height_cm": 159,
-    "weight_kg": 82,
+    "weight_kg": 89,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 34,
-      "Stealth": 11,
-      "Medicine": 88
+      "Engineering": 30,
+      "Containment_Logic": 61,
+      "Perception": 82
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 54,
-      "extraversion": 66,
-      "agreeableness": 49,
-      "neuroticism": 82
+      "openness": 16,
+      "conscientiousness": 57,
+      "extraversion": 71,
+      "agreeableness": 92,
+      "neuroticism": 100
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
     "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

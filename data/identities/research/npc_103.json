@@ -1,23 +1,23 @@
 {
   "id": "npc_103",
   "bio": {
-    "full_name": "Yuki O'Connor",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 53,
-    "blood_type": "B+",
-    "genetic_stability": 0.918,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Daniel Schmidt",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.911,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 106,
-    "build": "Slender",
+    "height_cm": 157,
+    "weight_kg": 63,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Amber",
+      "hair": "Brown, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Occult_Research": 74,
-      "Persuasion": 83,
-      "Engineering": 63
+      "Engineering": 15,
+      "Medicine": 81,
+      "Athletics": 67
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 84,
-      "conscientiousness": 73,
-      "extraversion": 35,
-      "agreeableness": 79,
-      "neuroticism": 66
+      "openness": 10,
+      "conscientiousness": 62,
+      "extraversion": 57,
+      "agreeableness": 77,
+      "neuroticism": 54
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

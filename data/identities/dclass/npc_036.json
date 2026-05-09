@@ -1,23 +1,23 @@
 {
   "id": "npc_036",
   "bio": {
-    "full_name": "Maria Kovacs",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 29,
-    "blood_type": "AB-",
-    "genetic_stability": 0.917,
+    "full_name": "William Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 21,
+    "blood_type": "B+",
+    "genetic_stability": 0.923,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 77,
+    "height_cm": 162,
+    "weight_kg": 75,
     "build": "Athletic",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Black, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 20,
-      "Athletics": 30,
-      "Persuasion": 80
+      "Engineering": 70,
+      "Hacking": 16,
+      "Firearms": 38
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 56,
-      "conscientiousness": 6,
-      "extraversion": 44,
-      "agreeableness": 36,
-      "neuroticism": 37
+      "openness": 47,
+      "conscientiousness": 8,
+      "extraversion": 100,
+      "agreeableness": 27,
+      "neuroticism": 18
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

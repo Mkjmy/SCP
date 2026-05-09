@@ -1,23 +1,23 @@
 {
   "id": "npc_059",
   "bio": {
-    "full_name": "Arjun Gupta",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 37,
+    "full_name": "Daniel Dubois",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 44,
     "blood_type": "A-",
-    "genetic_stability": 0.92,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.916,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 53,
-    "build": "Athletic",
+    "height_cm": 199,
+    "weight_kg": 98,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 76,
-      "Athletics": 33,
-      "Stealth": 43
+      "Occult_Research": 83,
+      "Persuasion": 22,
+      "Engineering": 77
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 85,
-      "extraversion": 13,
-      "agreeableness": 41,
-      "neuroticism": 68
+      "openness": 63,
+      "conscientiousness": 80,
+      "extraversion": 69,
+      "agreeableness": 80,
+      "neuroticism": 22
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

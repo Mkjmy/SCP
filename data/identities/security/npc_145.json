@@ -1,60 +1,60 @@
 {
   "id": "npc_145",
   "bio": {
-    "full_name": "Daniel Brown",
+    "full_name": "Chen Jones",
     "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 35,
-    "blood_type": "O+",
-    "genetic_stability": 0.851,
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.919,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 96,
-    "build": "Frail",
+    "height_cm": 155,
+    "weight_kg": 76,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Hacking": 52,
-      "Medicine": 43,
-      "Containment_Logic": 67
+      "Firearms": 80,
+      "Athletics": 25,
+      "Containment_Logic": 46
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 59,
-      "conscientiousness": 17,
-      "extraversion": 6,
-      "agreeableness": 84,
-      "neuroticism": 58
+      "openness": 7,
+      "conscientiousness": 49,
+      "extraversion": 80,
+      "agreeableness": 97,
+      "neuroticism": 52
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

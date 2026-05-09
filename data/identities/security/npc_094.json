@@ -1,60 +1,60 @@
 {
   "id": "npc_094",
   "bio": {
-    "full_name": "Donald Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 35,
-    "blood_type": "AB-",
-    "genetic_stability": 0.96,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "William Vasiliev",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 58,
+    "blood_type": "AB+",
+    "genetic_stability": 0.861,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 99,
-    "build": "Heavily Muscular",
+    "height_cm": 165,
+    "weight_kg": 70,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Pompadour",
-      "eyes": "Amber",
+      "hair": "Silver, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Engineering": 66,
-      "Persuasion": 69,
-      "Perception": 87
+      "Occult_Research": 80,
+      "Medicine": 47,
+      "Engineering": 70
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 99,
-      "extraversion": 4,
-      "agreeableness": 77,
-      "neuroticism": 3
+      "openness": 70,
+      "conscientiousness": 73,
+      "extraversion": 69,
+      "agreeableness": 75,
+      "neuroticism": 75
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_160",
   "bio": {
-    "full_name": "Richard Tanaka",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 37,
-    "blood_type": "O-",
-    "genetic_stability": 0.989,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Elena Ivanov",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 52,
+    "blood_type": "AB+",
+    "genetic_stability": 0.928,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 66,
-    "build": "Average",
+    "height_cm": 178,
+    "weight_kg": 85,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Pompadour",
+      "hair": "Red, Wild and unkempt",
       "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 40,
-      "Occult_Research": 12,
-      "Perception": 11
+      "Stealth": 64,
+      "Occult_Research": 76,
+      "Hacking": 39
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 90,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 56,
-      "extraversion": 75,
-      "agreeableness": 1,
-      "neuroticism": 52
+      "openness": 46,
+      "conscientiousness": 82,
+      "extraversion": 71,
+      "agreeableness": 47,
+      "neuroticism": 54
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

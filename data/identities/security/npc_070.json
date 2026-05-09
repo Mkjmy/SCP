@@ -1,23 +1,23 @@
 {
   "id": "npc_070",
   "bio": {
-    "full_name": "Chen Ivanov",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 57,
-    "blood_type": "O-",
-    "genetic_stability": 0.93,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Lars Muller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "AB-",
+    "genetic_stability": 0.932,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 110,
-    "build": "Frail",
+    "height_cm": 176,
+    "weight_kg": 80,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Grey",
+      "hair": "Grey, Manicured",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Stealth": 26,
-      "Containment_Logic": 73,
-      "Occult_Research": 32
+      "Occult_Research": 84,
+      "Stealth": 52,
+      "Hacking": 41
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 32,
-      "extraversion": 46,
-      "agreeableness": 48,
-      "neuroticism": 60
+      "openness": 99,
+      "conscientiousness": 67,
+      "extraversion": 17,
+      "agreeableness": 100,
+      "neuroticism": 32
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
+      "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

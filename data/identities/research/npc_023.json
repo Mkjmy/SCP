@@ -1,23 +1,23 @@
 {
   "id": "npc_023",
   "bio": {
-    "full_name": "Mark Sato",
+    "full_name": "Elena Garcia",
     "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 59,
-    "blood_type": "A-",
-    "genetic_stability": 0.951,
+    "orientation": "Homosexual",
+    "age": 53,
+    "blood_type": "B+",
+    "genetic_stability": 0.922,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 108,
+    "height_cm": 186,
+    "weight_kg": 65,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Wild and unkempt",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Occult_Research": 45,
-      "Persuasion": 41,
-      "Perception": 78
+      "Perception": 26,
+      "Containment_Logic": 15,
+      "Engineering": 59
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 81,
-      "extraversion": 18,
-      "agreeableness": 12,
-      "neuroticism": 56
+      "openness": 35,
+      "conscientiousness": 69,
+      "extraversion": 26,
+      "agreeableness": 49,
+      "neuroticism": 79
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_052",
   "bio": {
-    "full_name": "Lars Miller",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 55,
-    "blood_type": "O-",
-    "genetic_stability": 0.892,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Olga Smith",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "A+",
+    "genetic_stability": 0.86,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 55,
-    "build": "Lithe",
+    "height_cm": 158,
+    "weight_kg": 96,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 33,
-      "Stealth": 38,
-      "Persuasion": 17
+      "Containment_Logic": 68,
+      "Medicine": 13,
+      "Perception": 85
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 26,
-      "extraversion": 99,
-      "agreeableness": 25,
-      "neuroticism": 26
+      "openness": 99,
+      "conscientiousness": 80,
+      "extraversion": 25,
+      "agreeableness": 11,
+      "neuroticism": 12
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
       "amount": 5000,
-      "creditor": "Local Mob"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

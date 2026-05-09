@@ -1,60 +1,60 @@
 {
   "id": "npc_074",
   "bio": {
-    "full_name": "Thomas Muller",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 64,
-    "blood_type": "A+",
-    "genetic_stability": 0.896,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Arjun Davis",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.913,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 67,
-    "build": "Lithe",
+    "height_cm": 167,
+    "weight_kg": 80,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Amber",
+      "hair": "White, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 53,
-      "Stealth": 68,
-      "Firearms": 59
+      "Stealth": 89,
+      "Occult_Research": 72,
+      "Athletics": 53
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 143,
     "personality_matrix": {
-      "openness": 43,
-      "conscientiousness": 61,
-      "extraversion": 34,
-      "agreeableness": 30,
-      "neuroticism": 12
+      "openness": 18,
+      "conscientiousness": 57,
+      "extraversion": 10,
+      "agreeableness": 90,
+      "neuroticism": 28
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

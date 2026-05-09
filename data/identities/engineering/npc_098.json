@@ -1,23 +1,23 @@
 {
   "id": "npc_098",
   "bio": {
-    "full_name": "James Miller",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 42,
-    "blood_type": "B-",
-    "genetic_stability": 0.904,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Daniel Wong",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.976,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 78,
-    "build": "Average",
+    "height_cm": 193,
+    "weight_kg": 68,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "White, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 52,
-      "Hacking": 26,
-      "Athletics": 55
+      "Medicine": 46,
+      "Stealth": 61,
+      "Persuasion": 44
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 115,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 30,
-      "extraversion": 86,
-      "agreeableness": 75,
-      "neuroticism": 18
+      "openness": 91,
+      "conscientiousness": 89,
+      "extraversion": 79,
+      "agreeableness": 73,
+      "neuroticism": 75
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
+      "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

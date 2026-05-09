@@ -1,0 +1,60 @@
+{
+  "id": "npc_166",
+  "bio": {
+    "full_name": "Donald Sato",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 58,
+    "blood_type": "AB+",
+    "genetic_stability": 0.971,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 72,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 72,
+      "Persuasion": 50,
+      "Hacking": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 92,
+      "extraversion": 39,
+      "agreeableness": 66,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

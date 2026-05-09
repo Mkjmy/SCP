@@ -1,60 +1,60 @@
 {
   "id": "npc_123",
   "bio": {
-    "full_name": "Yuki Smith",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 49,
-    "blood_type": "AB-",
-    "genetic_stability": 0.941,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Paul Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.981,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 96,
-    "build": "Overweight",
+    "height_cm": 187,
+    "weight_kg": 99,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Grey, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Firearms": 53,
-      "Persuasion": 81,
-      "Engineering": 63
+      "Medicine": 49,
+      "Stealth": 49,
+      "Hacking": 12
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 66,
-      "extraversion": 73,
-      "agreeableness": 72,
-      "neuroticism": 42
+      "openness": 68,
+      "conscientiousness": 18,
+      "extraversion": 82,
+      "agreeableness": 47,
+      "neuroticism": 100
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

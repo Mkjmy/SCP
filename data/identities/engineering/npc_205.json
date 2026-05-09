@@ -1,23 +1,23 @@
 {
   "id": "npc_205",
   "bio": {
-    "full_name": "Maria Muller",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 60,
-    "blood_type": "O-",
-    "genetic_stability": 0.885,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Matthew Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "AB-",
+    "genetic_stability": 0.854,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 87,
-    "build": "Heavily Muscular",
+    "height_cm": 169,
+    "weight_kg": 60,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 49,
-      "Perception": 34,
-      "Engineering": 66
+      "Athletics": 69,
+      "Occult_Research": 28,
+      "Containment_Logic": 72
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 99,
-      "extraversion": 4,
-      "agreeableness": 74,
-      "neuroticism": 0
+      "openness": 35,
+      "conscientiousness": 98,
+      "extraversion": 12,
+      "agreeableness": 97,
+      "neuroticism": 79
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
       "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

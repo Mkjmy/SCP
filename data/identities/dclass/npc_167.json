@@ -1,23 +1,23 @@
 {
   "id": "npc_167",
   "bio": {
-    "full_name": "Olga Jones",
-    "gender": "Female",
+    "full_name": "Christopher Bakker",
+    "gender": "Agender",
     "orientation": "Homosexual",
-    "age": 29,
+    "age": 25,
     "blood_type": "AB-",
-    "genetic_stability": 0.863,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.858,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 52,
-    "build": "Overweight",
+    "height_cm": 173,
+    "weight_kg": 70,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 87,
-      "Persuasion": 80,
-      "Containment_Logic": 68
+      "Athletics": 21,
+      "Occult_Research": 75,
+      "Containment_Logic": 51
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 88,
+    "iq": 101,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 56,
-      "extraversion": 20,
-      "agreeableness": 74,
-      "neuroticism": 1
+      "openness": 16,
+      "conscientiousness": 2,
+      "extraversion": 80,
+      "agreeableness": 7,
+      "neuroticism": 27
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

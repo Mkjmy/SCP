@@ -1,23 +1,23 @@
 {
   "id": "npc_185",
   "bio": {
-    "full_name": "Donald Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 20,
-    "blood_type": "O+",
-    "genetic_stability": 0.962,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Lars Sato",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.992,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 64,
-    "build": "Slender",
+    "height_cm": 163,
+    "weight_kg": 80,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Silver, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 30,
-      "Stealth": 23,
-      "Perception": 94
+      "Occult_Research": 45,
+      "Firearms": 41,
+      "Containment_Logic": 63
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 91,
-      "extraversion": 84,
-      "agreeableness": 56,
-      "neuroticism": 12
+      "openness": 55,
+      "conscientiousness": 89,
+      "extraversion": 42,
+      "agreeableness": 43,
+      "neuroticism": 89
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

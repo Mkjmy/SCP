@@ -1,60 +1,60 @@
 {
   "id": "npc_043",
   "bio": {
-    "full_name": "John Vasiliev",
+    "full_name": "Elena Ivanov",
     "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 44,
-    "blood_type": "AB-",
-    "genetic_stability": 0.903,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "B+",
+    "genetic_stability": 0.892,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
     "height_cm": 164,
-    "weight_kg": 60,
-    "build": "Heavily Muscular",
+    "weight_kg": 54,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Grey",
+      "hair": "White, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Stealth": 28,
-      "Firearms": 55,
-      "Medicine": 47
+      "Perception": 68,
+      "Hacking": 21,
+      "Medicine": 93
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 84,
-      "extraversion": 78,
-      "agreeableness": 17,
-      "neuroticism": 36
+      "openness": 43,
+      "conscientiousness": 15,
+      "extraversion": 72,
+      "agreeableness": 0,
+      "neuroticism": 14
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

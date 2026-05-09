@@ -1,23 +1,23 @@
 {
   "id": "npc_079",
   "bio": {
-    "full_name": "Matthew Davis",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 65,
-    "blood_type": "AB-",
-    "genetic_stability": 0.972,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Maria Schmidt",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.941,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 199,
+    "height_cm": 178,
     "weight_kg": 64,
-    "build": "Overweight",
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
+      "hair": "Brown, Bald",
       "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Hacking": 81,
-      "Athletics": 40,
-      "Medicine": 44
+      "Engineering": 61,
+      "Perception": 42,
+      "Stealth": 93
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 76,
-      "extraversion": 86,
-      "agreeableness": 74,
-      "neuroticism": 18
+      "openness": 27,
+      "conscientiousness": 40,
+      "extraversion": 64,
+      "agreeableness": 14,
+      "neuroticism": 13
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

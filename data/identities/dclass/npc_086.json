@@ -1,23 +1,23 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Daniel Garcia",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 37,
-    "blood_type": "B-",
-    "genetic_stability": 0.916,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Christopher Wong",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 20,
+    "blood_type": "A-",
+    "genetic_stability": 0.923,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 83,
-    "build": "Athletic",
+    "height_cm": 182,
+    "weight_kg": 50,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 83,
-      "Persuasion": 92,
-      "Containment_Logic": 88
+      "Medicine": 63,
+      "Occult_Research": 10,
+      "Containment_Logic": 38
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 81,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 31,
-      "extraversion": 70,
-      "agreeableness": 96,
-      "neuroticism": 16
+      "openness": 7,
+      "conscientiousness": 26,
+      "extraversion": 79,
+      "agreeableness": 40,
+      "neuroticism": 88
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

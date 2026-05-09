@@ -1,23 +1,23 @@
 {
   "id": "npc_028",
   "bio": {
-    "full_name": "John Kovacs",
-    "gender": "Male",
+    "full_name": "Steven Kovacs",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 50,
-    "blood_type": "A-",
-    "genetic_stability": 0.985,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 61,
+    "blood_type": "O+",
+    "genetic_stability": 0.917,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 59,
-    "build": "Athletic",
+    "height_cm": 182,
+    "weight_kg": 66,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Black, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Firearms": 41,
-      "Hacking": 57,
-      "Occult_Research": 54
+      "Perception": 86,
+      "Stealth": 57,
+      "Containment_Logic": 56
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 54,
-      "conscientiousness": 67,
-      "extraversion": 57,
-      "agreeableness": 51,
-      "neuroticism": 80
+      "openness": 92,
+      "conscientiousness": 26,
+      "extraversion": 30,
+      "agreeableness": 81,
+      "neuroticism": 27
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

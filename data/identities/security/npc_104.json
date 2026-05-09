@@ -1,60 +1,60 @@
 {
   "id": "npc_104",
   "bio": {
-    "full_name": "David Gupta",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 36,
-    "blood_type": "A+",
-    "genetic_stability": 0.909,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Joseph Vasiliev",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.936,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 52,
-    "build": "Heavily Muscular",
+    "height_cm": 188,
+    "weight_kg": 86,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Medicine": 13,
-      "Engineering": 86,
-      "Persuasion": 54
+      "Containment_Logic": 31,
+      "Hacking": 65,
+      "Persuasion": 25
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 70,
-      "extraversion": 32,
-      "agreeableness": 36,
-      "neuroticism": 94
+      "openness": 94,
+      "conscientiousness": 93,
+      "extraversion": 33,
+      "agreeableness": 31,
+      "neuroticism": 39
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
       "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

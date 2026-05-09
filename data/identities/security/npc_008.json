@@ -1,23 +1,23 @@
 {
   "id": "npc_008",
   "bio": {
-    "full_name": "Paul Muller",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 58,
-    "blood_type": "B+",
-    "genetic_stability": 0.995,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Sven Schmidt",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.946,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 86,
+    "height_cm": 163,
+    "weight_kg": 110,
     "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Red, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Stealth": 85,
-      "Occult_Research": 68,
-      "Containment_Logic": 65
+      "Hacking": 71,
+      "Athletics": 44,
+      "Occult_Research": 46
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 25,
-      "extraversion": 3,
-      "agreeableness": 39,
-      "neuroticism": 10
+      "openness": 35,
+      "conscientiousness": 9,
+      "extraversion": 8,
+      "agreeableness": 33,
+      "neuroticism": 87
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

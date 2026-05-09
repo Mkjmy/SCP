@@ -1,60 +1,60 @@
 {
   "id": "npc_141",
   "bio": {
-    "full_name": "Richard Jones",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 50,
-    "blood_type": "O-",
-    "genetic_stability": 0.995,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Lars Sato",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.982,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 76,
-    "build": "Slender",
+    "height_cm": 190,
+    "weight_kg": 106,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Hacking": 20,
+      "Hacking": 44,
       "Persuasion": 62,
-      "Firearms": 35
+      "Occult_Research": 32
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 60,
-      "extraversion": 71,
-      "agreeableness": 11,
-      "neuroticism": 100
+      "openness": 99,
+      "conscientiousness": 31,
+      "extraversion": 17,
+      "agreeableness": 87,
+      "neuroticism": 76
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

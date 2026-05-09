@@ -1,23 +1,23 @@
 {
   "id": "npc_159",
   "bio": {
-    "full_name": "Olga Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 53,
-    "blood_type": "A-",
-    "genetic_stability": 0.9,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "James Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "A+",
+    "genetic_stability": 0.895,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 86,
-    "build": "Slender",
+    "height_cm": 180,
+    "weight_kg": 90,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 19,
-      "Medicine": 91,
-      "Perception": 25
+      "Perception": 71,
+      "Engineering": 37,
+      "Persuasion": 40
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 0,
-      "conscientiousness": 10,
-      "extraversion": 84,
-      "agreeableness": 64,
-      "neuroticism": 38
+      "openness": 45,
+      "conscientiousness": 76,
+      "extraversion": 34,
+      "agreeableness": 89,
+      "neuroticism": 55
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

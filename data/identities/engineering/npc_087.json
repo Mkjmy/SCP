@@ -1,23 +1,23 @@
 {
   "id": "npc_087",
   "bio": {
-    "full_name": "Matthew Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 40,
-    "blood_type": "A-",
-    "genetic_stability": 0.857,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Yuki Muller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.858,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 98,
-    "build": "Athletic",
+    "height_cm": 171,
+    "weight_kg": 73,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Bald",
-      "eyes": "Emerald green",
+      "hair": "Silver, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 49,
-      "Athletics": 21,
-      "Medicine": 90
+      "Occult_Research": 81,
+      "Medicine": 72,
+      "Perception": 17
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 123,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 53,
-      "extraversion": 30,
-      "agreeableness": 52,
-      "neuroticism": 56
+      "openness": 16,
+      "conscientiousness": 82,
+      "extraversion": 27,
+      "agreeableness": 53,
+      "neuroticism": 36
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

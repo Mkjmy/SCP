@@ -1,59 +1,60 @@
 {
   "id": "npc_040",
   "bio": {
-    "full_name": "Michael Brown",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 59,
-    "blood_type": "A-",
-    "genetic_stability": 0.921,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Charles O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.959,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 63,
-    "build": "Overweight",
+    "height_cm": 175,
+    "weight_kg": 74,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Silver, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 89,
-      "Athletics": 72,
-      "Occult_Research": 54
+      "Stealth": 82,
+      "Medicine": 71,
+      "Hacking": 14
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 58,
-      "extraversion": 90,
-      "agreeableness": 86,
-      "neuroticism": 81
+      "openness": 6,
+      "conscientiousness": 69,
+      "extraversion": 37,
+      "agreeableness": 99,
+      "neuroticism": 4
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

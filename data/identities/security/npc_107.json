@@ -1,59 +1,60 @@
 {
   "id": "npc_107",
   "bio": {
-    "full_name": "David Tanaka",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 40,
-    "blood_type": "O+",
-    "genetic_stability": 0.85,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Yuki Ivanov",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.955,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 109,
-    "build": "Slender",
+    "height_cm": 190,
+    "weight_kg": 77,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Amber",
+      "hair": "Grey, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 34,
-      "Firearms": 32,
-      "Containment_Logic": 50
+      "Stealth": 63,
+      "Athletics": 41,
+      "Persuasion": 42
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 119,
     "personality_matrix": {
-      "openness": 30,
-      "conscientiousness": 13,
-      "extraversion": 21,
-      "agreeableness": 82,
-      "neuroticism": 34
+      "openness": 81,
+      "conscientiousness": 63,
+      "extraversion": 84,
+      "agreeableness": 31,
+      "neuroticism": 90
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

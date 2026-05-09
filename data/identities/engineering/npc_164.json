@@ -1,23 +1,23 @@
 {
   "id": "npc_164",
   "bio": {
-    "full_name": "Fatima Dubois",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 40,
-    "blood_type": "O+",
-    "genetic_stability": 0.921,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Anthony Ivanov",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.97,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 96,
+    "height_cm": 186,
+    "weight_kg": 62,
     "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Emerald green",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 84,
-      "Occult_Research": 89,
-      "Hacking": 10
+      "Firearms": 65,
+      "Athletics": 82,
+      "Hacking": 78
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 53,
-      "extraversion": 88,
-      "agreeableness": 63,
-      "neuroticism": 10
+      "openness": 36,
+      "conscientiousness": 31,
+      "extraversion": 65,
+      "agreeableness": 89,
+      "neuroticism": 75
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

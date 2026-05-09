@@ -1,23 +1,23 @@
 {
   "id": "npc_150",
   "bio": {
-    "full_name": "Yuki Dubois",
+    "full_name": "Michael Brown",
     "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 32,
+    "orientation": "Homosexual",
+    "age": 56,
     "blood_type": "AB+",
-    "genetic_stability": 0.967,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.854,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 84,
-    "build": "Average",
+    "height_cm": 200,
+    "weight_kg": 74,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Deep brown",
+      "hair": "White, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 34,
-      "Stealth": 73,
-      "Medicine": 14
+      "Occult_Research": 89,
+      "Engineering": 28,
+      "Athletics": 46
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 77,
-      "extraversion": 96,
-      "agreeableness": 27,
-      "neuroticism": 85
+      "openness": 40,
+      "conscientiousness": 39,
+      "extraversion": 52,
+      "agreeableness": 99,
+      "neuroticism": 34
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

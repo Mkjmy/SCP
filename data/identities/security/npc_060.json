@@ -1,60 +1,60 @@
 {
   "id": "npc_060",
   "bio": {
-    "full_name": "Paul Wong",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 48,
-    "blood_type": "AB+",
-    "genetic_stability": 0.956,
+    "full_name": "Fatima O'Connor",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 47,
+    "blood_type": "AB-",
+    "genetic_stability": 0.979,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 167,
+    "height_cm": 194,
     "weight_kg": 69,
-    "build": "Lithe",
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Amber",
+      "hair": "White, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 85,
-      "Occult_Research": 54,
-      "Firearms": 58
+      "Perception": 30,
+      "Medicine": 67,
+      "Persuasion": 75
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 74,
-      "extraversion": 40,
-      "agreeableness": 73,
-      "neuroticism": 10
+      "openness": 92,
+      "conscientiousness": 88,
+      "extraversion": 7,
+      "agreeableness": 50,
+      "neuroticism": 9
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
       "amount": 0,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_040",
   "bio": {
-    "full_name": "Charles Garcia",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 64,
-    "blood_type": "AB+",
-    "genetic_stability": 0.997,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Richard Vasiliev",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.866,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 74,
-    "build": "Lithe",
+    "height_cm": 182,
+    "weight_kg": 107,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Medicine": 57,
-      "Hacking": 57,
-      "Engineering": 87
+      "Perception": 19,
+      "Containment_Logic": 32,
+      "Hacking": 53
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 51,
-      "conscientiousness": 7,
-      "extraversion": 97,
-      "agreeableness": 71,
-      "neuroticism": 66
+      "openness": 42,
+      "conscientiousness": 88,
+      "extraversion": 73,
+      "agreeableness": 29,
+      "neuroticism": 2
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

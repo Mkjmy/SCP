@@ -1,23 +1,23 @@
 {
   "id": "npc_040",
   "bio": {
-    "full_name": "Robert Schmidt",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 20,
-    "blood_type": "A+",
-    "genetic_stability": 0.888,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Maria Tanaka",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.894,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 109,
-    "build": "Stocky",
+    "height_cm": 168,
+    "weight_kg": 63,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 33,
-      "Engineering": 13,
-      "Hacking": 74
+      "Medicine": 94,
+      "Hacking": 31,
+      "Stealth": 37
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 86,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 7,
-      "extraversion": 96,
-      "agreeableness": 22,
-      "neuroticism": 74
+      "openness": 18,
+      "conscientiousness": 88,
+      "extraversion": 85,
+      "agreeableness": 27,
+      "neuroticism": 84
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.4
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

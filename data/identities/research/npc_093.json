@@ -1,21 +1,21 @@
 {
   "id": "npc_093",
   "bio": {
-    "full_name": "Richard Smith",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 62,
+    "full_name": "Chen Dubois",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 48,
     "blood_type": "B-",
-    "genetic_stability": 0.968,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.855,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 82,
-    "build": "Stocky",
+    "height_cm": 198,
+    "weight_kg": 108,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Black, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Stealth": 95,
-      "Containment_Logic": 30,
-      "Hacking": 65
+      "Stealth": 22,
+      "Medicine": 17,
+      "Engineering": 90
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 36,
-      "extraversion": 28,
-      "agreeableness": 96,
-      "neuroticism": 65
+      "openness": 44,
+      "conscientiousness": 28,
+      "extraversion": 38,
+      "agreeableness": 21,
+      "neuroticism": 33
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_056",
   "bio": {
-    "full_name": "Daniel Bakker",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 30,
-    "blood_type": "A+",
-    "genetic_stability": 0.991,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Kenji Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.977,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 85,
-    "build": "Slender",
+    "height_cm": 181,
+    "weight_kg": 77,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 13,
-      "Hacking": 27,
-      "Stealth": 69
+      "Perception": 12,
+      "Containment_Logic": 85,
+      "Firearms": 54
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 77,
-      "extraversion": 3,
-      "agreeableness": 7,
-      "neuroticism": 47
+      "openness": 4,
+      "conscientiousness": 29,
+      "extraversion": 32,
+      "agreeableness": 40,
+      "neuroticism": 41
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

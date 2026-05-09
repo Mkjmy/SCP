@@ -1,23 +1,23 @@
 {
   "id": "npc_038",
   "bio": {
-    "full_name": "John Smith",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 30,
-    "blood_type": "AB+",
-    "genetic_stability": 0.976,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Joseph Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "AB-",
+    "genetic_stability": 0.967,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 94,
-    "build": "Average",
+    "height_cm": 197,
+    "weight_kg": 75,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Grey",
+      "hair": "Black, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 85,
-      "Medicine": 53,
-      "Firearms": 86
+      "Containment_Logic": 65,
+      "Stealth": 64,
+      "Engineering": 68
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 38,
-      "extraversion": 67,
-      "agreeableness": 0,
-      "neuroticism": 75
+      "openness": 13,
+      "conscientiousness": 24,
+      "extraversion": 16,
+      "agreeableness": 99,
+      "neuroticism": 32
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "npc_122",
+  "bio": {
+    "full_name": "William Dubois",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "A+",
+    "genetic_stability": 0.856,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 107,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 13,
+      "Containment_Logic": 51,
+      "Athletics": 31
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 24,
+      "extraversion": 32,
+      "agreeableness": 32,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

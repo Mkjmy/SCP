@@ -1,23 +1,23 @@
 {
   "id": "npc_095",
   "bio": {
-    "full_name": "Yuki Gupta",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 24,
-    "blood_type": "A+",
-    "genetic_stability": 0.999,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Steven Johnson",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.891,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 104,
-    "build": "Average",
+    "height_cm": 180,
+    "weight_kg": 102,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "White, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 24,
-      "Medicine": 59,
-      "Persuasion": 29
+      "Firearms": 63,
+      "Occult_Research": 53,
+      "Athletics": 13
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 81,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 35,
-      "extraversion": 0,
-      "agreeableness": 85,
-      "neuroticism": 15
+      "openness": 63,
+      "conscientiousness": 50,
+      "extraversion": 56,
+      "agreeableness": 13,
+      "neuroticism": 68
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
       "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

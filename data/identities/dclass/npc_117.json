@@ -1,23 +1,23 @@
 {
   "id": "npc_117",
   "bio": {
-    "full_name": "William Davis",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 40,
-    "blood_type": "A+",
-    "genetic_stability": 0.874,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Robert Dubois",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.988,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 104,
-    "build": "Heavily Muscular",
+    "height_cm": 198,
+    "weight_kg": 64,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Red, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 56,
-      "Perception": 75,
-      "Stealth": 76
+      "Stealth": 46,
+      "Engineering": 76,
+      "Athletics": 70
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
     "iq": 95,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 72,
-      "extraversion": 32,
-      "agreeableness": 34,
-      "neuroticism": 65
+      "openness": 63,
+      "conscientiousness": 15,
+      "extraversion": 71,
+      "agreeableness": 96,
+      "neuroticism": 31
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

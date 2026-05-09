@@ -1,23 +1,23 @@
 {
   "id": "npc_020",
   "bio": {
-    "full_name": "David Dubois",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 24,
-    "blood_type": "A+",
-    "genetic_stability": 0.888,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Steven Bakker",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.942,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
     "height_cm": 155,
-    "weight_kg": 100,
-    "build": "Stocky",
+    "weight_kg": 102,
+    "build": "Average",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Bald",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 50,
-      "Occult_Research": 13,
-      "Firearms": 92
+      "Perception": 38,
+      "Stealth": 83,
+      "Medicine": 67
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 58,
-      "conscientiousness": 17,
-      "extraversion": 93,
-      "agreeableness": 76,
-      "neuroticism": 24
+      "openness": 33,
+      "conscientiousness": 33,
+      "extraversion": 4,
+      "agreeableness": 49,
+      "neuroticism": 15
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

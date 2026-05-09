@@ -1,23 +1,23 @@
 {
   "id": "npc_173",
   "bio": {
-    "full_name": "Sven Muller",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 23,
+    "full_name": "Kenji Muller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 43,
     "blood_type": "A-",
-    "genetic_stability": 0.931,
+    "genetic_stability": 0.94,
     "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 70,
+    "height_cm": 199,
+    "weight_kg": 60,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Hacking": 50,
-      "Firearms": 83,
-      "Engineering": 14
+      "Hacking": 49,
+      "Medicine": 47,
+      "Persuasion": 67
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 23,
-      "conscientiousness": 35,
-      "extraversion": 100,
-      "agreeableness": 12,
-      "neuroticism": 16
+      "openness": 4,
+      "conscientiousness": 88,
+      "extraversion": 97,
+      "agreeableness": 37,
+      "neuroticism": 4
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

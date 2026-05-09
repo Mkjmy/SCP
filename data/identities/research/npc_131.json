@@ -1,23 +1,23 @@
 {
   "id": "npc_131",
   "bio": {
-    "full_name": "Matthew Brown",
-    "gender": "Transgender",
+    "full_name": "Elena Wong",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 46,
-    "blood_type": "AB-",
-    "genetic_stability": 0.965,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 0.985,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 63,
+    "height_cm": 198,
+    "weight_kg": 72,
     "build": "Frail",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 76,
-      "Persuasion": 92,
-      "Stealth": 35
+      "Perception": 21,
+      "Occult_Research": 23,
+      "Firearms": 37
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 161,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 58,
-      "extraversion": 85,
-      "agreeableness": 77,
-      "neuroticism": 6
+      "openness": 4,
+      "conscientiousness": 44,
+      "extraversion": 30,
+      "agreeableness": 17,
+      "neuroticism": 14
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

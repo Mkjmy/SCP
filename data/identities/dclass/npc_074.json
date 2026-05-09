@@ -1,23 +1,23 @@
 {
   "id": "npc_074",
   "bio": {
-    "full_name": "Olga Wong",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 39,
-    "blood_type": "AB+",
-    "genetic_stability": 0.88,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Lars Dubois",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.956,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 85,
-    "build": "Frail",
+    "height_cm": 172,
+    "weight_kg": 80,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 69,
-      "Engineering": 17,
-      "Stealth": 81
+      "Persuasion": 36,
+      "Containment_Logic": 15,
+      "Athletics": 50
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 29,
-      "extraversion": 94,
-      "agreeableness": 36,
-      "neuroticism": 98
+      "openness": 71,
+      "conscientiousness": 89,
+      "extraversion": 70,
+      "agreeableness": 6,
+      "neuroticism": 47
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

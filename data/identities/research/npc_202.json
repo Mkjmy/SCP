@@ -1,23 +1,23 @@
 {
   "id": "npc_202",
   "bio": {
-    "full_name": "Daniel Bakker",
+    "full_name": "Paul Jones",
     "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 62,
-    "blood_type": "AB-",
-    "genetic_stability": 0.965,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Asexual",
+    "age": 47,
+    "blood_type": "O+",
+    "genetic_stability": 0.958,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 89,
-    "build": "Heavily Muscular",
+    "height_cm": 163,
+    "weight_kg": 86,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Pompadour",
-      "eyes": "Grey",
+      "hair": "Silver, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Athletics": 77,
-      "Persuasion": 57,
-      "Occult_Research": 62
+      "Medicine": 58,
+      "Engineering": 91,
+      "Containment_Logic": 95
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 165,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 61,
-      "extraversion": 14,
-      "agreeableness": 76,
-      "neuroticism": 100
+      "openness": 34,
+      "conscientiousness": 92,
+      "extraversion": 9,
+      "agreeableness": 84,
+      "neuroticism": 95
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

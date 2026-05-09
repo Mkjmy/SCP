@@ -1,23 +1,23 @@
 {
   "id": "npc_078",
   "bio": {
-    "full_name": "Maria Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 48,
-    "blood_type": "AB-",
-    "genetic_stability": 0.864,
+    "full_name": "Michael Kovacs",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 46,
+    "blood_type": "AB+",
+    "genetic_stability": 0.993,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 75,
-    "build": "Athletic",
+    "height_cm": 188,
+    "weight_kg": 62,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Amber",
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 81,
-      "Stealth": 79,
-      "Firearms": 50
+      "Medicine": 46,
+      "Stealth": 44,
+      "Perception": 39
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 30,
-      "conscientiousness": 22,
-      "extraversion": 32,
-      "agreeableness": 61,
-      "neuroticism": 47
+      "openness": 93,
+      "conscientiousness": 20,
+      "extraversion": 85,
+      "agreeableness": 26,
+      "neuroticism": 24
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
       "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

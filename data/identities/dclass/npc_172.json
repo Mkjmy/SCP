@@ -1,23 +1,23 @@
 {
   "id": "npc_172",
   "bio": {
-    "full_name": "Joseph Johnson",
+    "full_name": "David Brown",
     "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 33,
-    "blood_type": "O+",
-    "genetic_stability": 0.911,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.954,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 96,
-    "build": "Athletic",
+    "height_cm": 172,
+    "weight_kg": 107,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 16,
-      "Athletics": 26,
-      "Persuasion": 43
+      "Perception": 28,
+      "Persuasion": 20,
+      "Firearms": 47
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 81,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 22,
-      "extraversion": 87,
-      "agreeableness": 21,
-      "neuroticism": 26
+      "openness": 13,
+      "conscientiousness": 10,
+      "extraversion": 93,
+      "agreeableness": 37,
+      "neuroticism": 92
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
       "amount": 0,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

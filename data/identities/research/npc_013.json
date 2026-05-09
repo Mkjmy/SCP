@@ -1,23 +1,23 @@
 {
   "id": "npc_013",
   "bio": {
-    "full_name": "Christopher Dubois",
+    "full_name": "Christopher Gupta",
     "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 39,
-    "blood_type": "A-",
-    "genetic_stability": 0.961,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "AB+",
+    "genetic_stability": 0.962,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 99,
-    "build": "Lithe",
+    "height_cm": 195,
+    "weight_kg": 105,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 16,
-      "Containment_Logic": 52,
-      "Medicine": 63
+      "Perception": 74,
+      "Firearms": 78,
+      "Hacking": 34
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 17,
-      "extraversion": 58,
-      "agreeableness": 51,
-      "neuroticism": 98
+      "openness": 19,
+      "conscientiousness": 74,
+      "extraversion": 80,
+      "agreeableness": 3,
+      "neuroticism": 36
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

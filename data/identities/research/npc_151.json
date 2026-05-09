@@ -1,23 +1,23 @@
 {
   "id": "npc_151",
   "bio": {
-    "full_name": "Lars Williams",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 47,
-    "blood_type": "A+",
-    "genetic_stability": 0.977,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Anthony Ivanov",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "O-",
+    "genetic_stability": 0.955,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 54,
-    "build": "Slender",
+    "height_cm": 183,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Deep brown",
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 65,
-      "Medicine": 49,
-      "Stealth": 61
+      "Firearms": 60,
+      "Stealth": 94,
+      "Athletics": 78
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 59,
-      "conscientiousness": 17,
-      "extraversion": 91,
-      "agreeableness": 12,
-      "neuroticism": 23
+      "openness": 57,
+      "conscientiousness": 72,
+      "extraversion": 3,
+      "agreeableness": 66,
+      "neuroticism": 3
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

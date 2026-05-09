@@ -1,23 +1,23 @@
 {
   "id": "npc_135",
   "bio": {
-    "full_name": "Joseph Vasiliev",
-    "gender": "Non-binary",
+    "full_name": "Anthony Tanaka",
+    "gender": "Female",
     "orientation": "Pansexual",
-    "age": 41,
-    "blood_type": "AB-",
-    "genetic_stability": 0.935,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.889,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 66,
+    "height_cm": 177,
+    "weight_kg": 99,
     "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Red, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 65,
-      "Firearms": 11,
-      "Athletics": 33
+      "Persuasion": 74,
+      "Athletics": 13,
+      "Perception": 50
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 117,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 61,
-      "extraversion": 97,
-      "agreeableness": 29,
-      "neuroticism": 68
+      "openness": 36,
+      "conscientiousness": 84,
+      "extraversion": 41,
+      "agreeableness": 38,
+      "neuroticism": 5
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

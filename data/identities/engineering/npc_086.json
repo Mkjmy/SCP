@@ -1,23 +1,23 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Arjun Wong",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 59,
-    "blood_type": "B-",
-    "genetic_stability": 0.916,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Olga Kovacs",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "AB+",
+    "genetic_stability": 0.934,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 96,
+    "height_cm": 177,
+    "weight_kg": 89,
     "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 26,
-      "Containment_Logic": 71,
-      "Firearms": 78
+      "Containment_Logic": 39,
+      "Hacking": 93,
+      "Athletics": 34
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 119,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 59,
-      "extraversion": 60,
-      "agreeableness": 0,
-      "neuroticism": 37
+      "openness": 60,
+      "conscientiousness": 55,
+      "extraversion": 82,
+      "agreeableness": 58,
+      "neuroticism": 38
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

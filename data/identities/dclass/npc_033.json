@@ -1,23 +1,23 @@
 {
   "id": "npc_033",
   "bio": {
-    "full_name": "Kenji Davis",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 41,
-    "blood_type": "A+",
-    "genetic_stability": 0.899,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Andrew O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.878,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 87,
-    "build": "Stocky",
+    "height_cm": 186,
+    "weight_kg": 91,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 19,
-      "Persuasion": 55,
-      "Engineering": 14
+      "Perception": 62,
+      "Stealth": 56,
+      "Engineering": 87
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
     "iq": 85,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 94,
-      "extraversion": 90,
-      "agreeableness": 46,
-      "neuroticism": 4
+      "openness": 3,
+      "conscientiousness": 97,
+      "extraversion": 81,
+      "agreeableness": 71,
+      "neuroticism": 0
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

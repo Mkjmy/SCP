@@ -1,23 +1,23 @@
 {
   "id": "npc_160",
   "bio": {
-    "full_name": "Donald Jones",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 65,
-    "blood_type": "B+",
-    "genetic_stability": 0.903,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Michael Ivanov",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.976,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 74,
+    "height_cm": 187,
+    "weight_kg": 51,
     "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Deep brown",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,32 +25,32 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Engineering": 25,
-      "Stealth": 45,
-      "Perception": 56
+      "Athletics": 65,
+      "Medicine": 72,
+      "Hacking": 68
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 9,
-      "extraversion": 27,
-      "agreeableness": 29,
-      "neuroticism": 8
+      "openness": 48,
+      "conscientiousness": 7,
+      "extraversion": 82,
+      "agreeableness": 60,
+      "neuroticism": 57
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",

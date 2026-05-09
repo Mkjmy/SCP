@@ -1,23 +1,23 @@
 {
   "id": "npc_170",
   "bio": {
-    "full_name": "Steven Smith",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 22,
-    "blood_type": "B-",
-    "genetic_stability": 0.866,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Chen Kovacs",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.914,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 62,
+    "height_cm": 196,
+    "weight_kg": 68,
     "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Amber",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 61,
-      "Persuasion": 13,
-      "Hacking": 43
+      "Athletics": 12,
+      "Containment_Logic": 43,
+      "Occult_Research": 84
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 36,
-      "extraversion": 64,
-      "agreeableness": 7,
-      "neuroticism": 55
+      "openness": 95,
+      "conscientiousness": 22,
+      "extraversion": 42,
+      "agreeableness": 93,
+      "neuroticism": 46
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

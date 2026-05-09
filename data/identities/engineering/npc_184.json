@@ -1,60 +1,60 @@
 {
   "id": "npc_184",
   "bio": {
-    "full_name": "Yuki Ivanov",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 31,
-    "blood_type": "B-",
-    "genetic_stability": 0.932,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Donald Sato",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 65,
+    "blood_type": "AB-",
+    "genetic_stability": 0.919,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 67,
-    "build": "Stocky",
+    "height_cm": 194,
+    "weight_kg": 108,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Dyed green, Bald",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 35,
-      "Occult_Research": 95,
-      "Firearms": 36
+      "Medicine": 49,
+      "Occult_Research": 47,
+      "Firearms": 37
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 97,
-      "extraversion": 70,
-      "agreeableness": 93,
-      "neuroticism": 39
+      "openness": 90,
+      "conscientiousness": 18,
+      "extraversion": 34,
+      "agreeableness": 69,
+      "neuroticism": 86
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "npc_184",
+  "bio": {
+    "full_name": "Chen Brown",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "B-",
+    "genetic_stability": 0.857,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 81,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 28,
+      "Medicine": 57,
+      "Occult_Research": 94
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 74,
+      "extraversion": 58,
+      "agreeableness": 87,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

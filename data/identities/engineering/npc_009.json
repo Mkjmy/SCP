@@ -1,23 +1,23 @@
 {
   "id": "npc_009",
   "bio": {
-    "full_name": "Sven Miller",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 54,
-    "blood_type": "B+",
-    "genetic_stability": 0.898,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Sven Ivanov",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 65,
+    "blood_type": "A-",
+    "genetic_stability": 0.895,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 82,
-    "build": "Slender",
+    "height_cm": 180,
+    "weight_kg": 86,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Messy",
+      "hair": "Black, Buzz cut",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 23,
-      "Stealth": 24,
-      "Perception": 94
+      "Containment_Logic": 25,
+      "Perception": 62,
+      "Persuasion": 79
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 119,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 56,
-      "conscientiousness": 35,
-      "extraversion": 80,
-      "agreeableness": 88,
-      "neuroticism": 18
+      "openness": 66,
+      "conscientiousness": 88,
+      "extraversion": 65,
+      "agreeableness": 25,
+      "neuroticism": 84
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
       "amount": 20000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

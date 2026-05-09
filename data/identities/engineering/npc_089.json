@@ -1,23 +1,23 @@
 {
   "id": "npc_089",
   "bio": {
-    "full_name": "Donald Jones",
-    "gender": "Non-binary",
+    "full_name": "Lars Muller",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 33,
-    "blood_type": "A-",
-    "genetic_stability": 0.981,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 60,
+    "blood_type": "AB+",
+    "genetic_stability": 0.978,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 104,
-    "build": "Stocky",
+    "height_cm": 189,
+    "weight_kg": 56,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 52,
-      "Engineering": 86,
-      "Occult_Research": 42
+      "Firearms": 24,
+      "Athletics": 36,
+      "Perception": 79
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 63,
-      "extraversion": 80,
-      "agreeableness": 71,
-      "neuroticism": 50
+      "openness": 28,
+      "conscientiousness": 90,
+      "extraversion": 70,
+      "agreeableness": 78,
+      "neuroticism": 96
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_084",
   "bio": {
-    "full_name": "Yuki Garcia",
+    "full_name": "Donald Bakker",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 27,
+    "orientation": "Heterosexual",
+    "age": 40,
     "blood_type": "B-",
-    "genetic_stability": 0.984,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.943,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 110,
-    "build": "Heavily Muscular",
+    "height_cm": 189,
+    "weight_kg": 66,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 25,
-      "Firearms": 22,
-      "Hacking": 51
+      "Athletics": 80,
+      "Perception": 15,
+      "Hacking": 73
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 35,
-      "extraversion": 99,
-      "agreeableness": 13,
-      "neuroticism": 86
+      "openness": 88,
+      "conscientiousness": 69,
+      "extraversion": 26,
+      "agreeableness": 30,
+      "neuroticism": 33
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

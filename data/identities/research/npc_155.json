@@ -1,23 +1,23 @@
 {
   "id": "npc_155",
   "bio": {
-    "full_name": "Arjun Ivanov",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 28,
+    "full_name": "Thomas Garcia",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 57,
     "blood_type": "AB-",
-    "genetic_stability": 0.956,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.988,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 63,
-    "build": "Slender",
+    "height_cm": 194,
+    "weight_kg": 74,
+    "build": "Average",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Icy blue",
+      "hair": "Black, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Stealth": 24,
-      "Firearms": 20,
-      "Occult_Research": 30
+      "Containment_Logic": 13,
+      "Engineering": 69,
+      "Perception": 64
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 72,
-      "extraversion": 1,
-      "agreeableness": 10,
-      "neuroticism": 91
+      "openness": 49,
+      "conscientiousness": 76,
+      "extraversion": 86,
+      "agreeableness": 54,
+      "neuroticism": 10
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

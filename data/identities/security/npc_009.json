@@ -1,23 +1,23 @@
 {
   "id": "npc_009",
   "bio": {
-    "full_name": "Kenji Vasiliev",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 45,
-    "blood_type": "A+",
-    "genetic_stability": 0.949,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Paul Davis",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.888,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 96,
-    "build": "Stocky",
+    "height_cm": 171,
+    "weight_kg": 92,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Brown, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Stealth": 89,
-      "Occult_Research": 49,
-      "Containment_Logic": 60
+      "Firearms": 40,
+      "Medicine": 44,
+      "Persuasion": 32
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 28,
-      "extraversion": 85,
-      "agreeableness": 85,
-      "neuroticism": 7
+      "openness": 67,
+      "conscientiousness": 61,
+      "extraversion": 27,
+      "agreeableness": 6,
+      "neuroticism": 49
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
       "amount": 20000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

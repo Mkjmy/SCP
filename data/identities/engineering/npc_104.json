@@ -1,21 +1,21 @@
 {
   "id": "npc_104",
   "bio": {
-    "full_name": "Lars Ivanov",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 34,
-    "blood_type": "AB+",
-    "genetic_stability": 0.951,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Maria Williams",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.956,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 76,
+    "height_cm": 163,
+    "weight_kg": 62,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Blonde, Messy",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 88,
-      "Persuasion": 35,
-      "Perception": 77
+      "Containment_Logic": 95,
+      "Medicine": 52,
+      "Persuasion": 35
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 44,
-      "conscientiousness": 67,
-      "extraversion": 30,
-      "agreeableness": 29,
-      "neuroticism": 33
+      "openness": 28,
+      "conscientiousness": 83,
+      "extraversion": 86,
+      "agreeableness": 56,
+      "neuroticism": 56
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

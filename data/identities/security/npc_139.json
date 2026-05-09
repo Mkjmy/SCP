@@ -1,23 +1,23 @@
 {
   "id": "npc_139",
   "bio": {
-    "full_name": "David Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 48,
-    "blood_type": "B+",
-    "genetic_stability": 0.904,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Arjun Wong",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.974,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 61,
-    "build": "Average",
+    "height_cm": 190,
+    "weight_kg": 98,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Buzz cut",
+      "hair": "Dyed blue, Manicured",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,32 +25,32 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Stealth": 61,
-      "Medicine": 50,
-      "Engineering": 73
+      "Medicine": 51,
+      "Engineering": 94,
+      "Stealth": 68
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 62,
-      "extraversion": 49,
-      "agreeableness": 71,
-      "neuroticism": 46
+      "openness": 73,
+      "conscientiousness": 96,
+      "extraversion": 38,
+      "agreeableness": 36,
+      "neuroticism": 70
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",

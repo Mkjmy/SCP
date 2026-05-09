@@ -1,21 +1,21 @@
 {
   "id": "npc_037",
   "bio": {
-    "full_name": "Kenji Davis",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 61,
-    "blood_type": "AB+",
-    "genetic_stability": 0.894,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Kenji Schmidt",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "O-",
+    "genetic_stability": 0.91,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 62,
-    "build": "Slender",
+    "height_cm": 199,
+    "weight_kg": 103,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Red, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 54,
-      "Stealth": 27,
-      "Perception": 39
+      "Containment_Logic": 77,
+      "Engineering": 39,
+      "Perception": 51
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 26,
-      "conscientiousness": 20,
-      "extraversion": 65,
-      "agreeableness": 85,
-      "neuroticism": 82
+      "openness": 81,
+      "conscientiousness": 50,
+      "extraversion": 96,
+      "agreeableness": 91,
+      "neuroticism": 89
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

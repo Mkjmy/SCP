@@ -1,0 +1,60 @@
+{
+  "id": "npc_200",
+  "bio": {
+    "full_name": "James Johnson",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 51,
+    "blood_type": "B+",
+    "genetic_stability": 0.858,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 91,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 39,
+      "Hacking": 93,
+      "Occult_Research": 92
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 62,
+      "extraversion": 77,
+      "agreeableness": 77,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

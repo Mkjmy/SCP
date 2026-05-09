@@ -1,23 +1,23 @@
 {
   "id": "npc_050",
   "bio": {
-    "full_name": "Kenji Sato",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 39,
-    "blood_type": "B-",
-    "genetic_stability": 0.854,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Charles Ivanov",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "A+",
+    "genetic_stability": 0.915,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 69,
-    "build": "Stocky",
+    "height_cm": 187,
+    "weight_kg": 75,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Brown, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 27,
-      "Persuasion": 51,
-      "Engineering": 67
+      "Engineering": 95,
+      "Perception": 32,
+      "Containment_Logic": 15
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 82,
+    "iq": 84,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 57,
-      "extraversion": 12,
-      "agreeableness": 51,
-      "neuroticism": 58
+      "openness": 0,
+      "conscientiousness": 13,
+      "extraversion": 47,
+      "agreeableness": 68,
+      "neuroticism": 20
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_065",
   "bio": {
-    "full_name": "Sven Jones",
-    "gender": "Agender",
+    "full_name": "Donald Miller",
+    "gender": "Transgender",
     "orientation": "Heterosexual",
-    "age": 29,
+    "age": 50,
     "blood_type": "O+",
-    "genetic_stability": 0.874,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.954,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 73,
-    "build": "Heavily Muscular",
+    "height_cm": 162,
+    "weight_kg": 89,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 93,
-      "Firearms": 69,
-      "Perception": 23
+      "Engineering": 19,
+      "Hacking": 37,
+      "Occult_Research": 24
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 89,
-      "extraversion": 31,
-      "agreeableness": 24,
-      "neuroticism": 18
+      "openness": 12,
+      "conscientiousness": 85,
+      "extraversion": 58,
+      "agreeableness": 95,
+      "neuroticism": 44
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_143",
   "bio": {
-    "full_name": "Andrew Bakker",
-    "gender": "Female",
+    "full_name": "David Brown",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
     "age": 31,
-    "blood_type": "O+",
-    "genetic_stability": 0.863,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "blood_type": "AB-",
+    "genetic_stability": 0.981,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 68,
-    "build": "Heavily Muscular",
+    "height_cm": 172,
+    "weight_kg": 91,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Pompadour",
+      "hair": "Grey, Fade",
       "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 93,
-      "Hacking": 79,
-      "Stealth": 37
+      "Hacking": 67,
+      "Medicine": 77,
+      "Athletics": 19
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 80,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 27,
-      "extraversion": 82,
-      "agreeableness": 61,
-      "neuroticism": 63
+      "openness": 18,
+      "conscientiousness": 34,
+      "extraversion": 49,
+      "agreeableness": 1,
+      "neuroticism": 71
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_133",
   "bio": {
-    "full_name": "Mark Dubois",
+    "full_name": "Christopher Muller",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 63,
-    "blood_type": "AB-",
-    "genetic_stability": 0.879,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "A+",
+    "genetic_stability": 0.911,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 100,
-    "build": "Athletic",
+    "height_cm": 179,
+    "weight_kg": 101,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Black, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Smokes heavily"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 41,
-      "Occult_Research": 36,
-      "Persuasion": 11
+      "Containment_Logic": 22,
+      "Engineering": 66,
+      "Medicine": 26
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 82,
-      "extraversion": 65,
-      "agreeableness": 33,
-      "neuroticism": 2
+      "openness": 84,
+      "conscientiousness": 47,
+      "extraversion": 94,
+      "agreeableness": 98,
+      "neuroticism": 13
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

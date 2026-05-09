@@ -2,10 +2,10 @@
 import sys
 import os
 
-# Add 'src' directory to the Python path so we can import from it
+# Add 'src' directory to the Python path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
-from main import main_loop
+from core.engine import main_loop
 import curses
 
 if __name__ == "__main__":

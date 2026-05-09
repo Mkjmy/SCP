@@ -1,60 +1,60 @@
 {
   "id": "npc_150",
   "bio": {
-    "full_name": "David Sato",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 33,
-    "blood_type": "B+",
-    "genetic_stability": 0.858,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "William Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "O+",
+    "genetic_stability": 0.986,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 99,
-    "build": "Stocky",
+    "height_cm": 177,
+    "weight_kg": 86,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Persuasion": 82,
-      "Perception": 15,
-      "Engineering": 28
+      "Athletics": 57,
+      "Engineering": 93,
+      "Occult_Research": 55
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 83,
-      "extraversion": 48,
-      "agreeableness": 46,
-      "neuroticism": 7
+      "openness": 79,
+      "conscientiousness": 41,
+      "extraversion": 12,
+      "agreeableness": 55,
+      "neuroticism": 63
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

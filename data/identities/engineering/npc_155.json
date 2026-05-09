@@ -1,23 +1,23 @@
 {
   "id": "npc_155",
   "bio": {
-    "full_name": "Elena Muller",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 29,
-    "blood_type": "A+",
-    "genetic_stability": 0.988,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "John O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.871,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 84,
+    "height_cm": 174,
+    "weight_kg": 91,
     "build": "Athletic",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Emerald green",
+      "hair": "White, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 63,
-      "Containment_Logic": 54,
-      "Engineering": 36
+      "Containment_Logic": 91,
+      "Athletics": 42,
+      "Medicine": 74
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 40,
-      "extraversion": 94,
-      "agreeableness": 14,
-      "neuroticism": 67
+      "openness": 7,
+      "conscientiousness": 10,
+      "extraversion": 2,
+      "agreeableness": 16,
+      "neuroticism": 91
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

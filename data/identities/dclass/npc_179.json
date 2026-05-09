@@ -1,23 +1,23 @@
 {
   "id": "npc_179",
   "bio": {
-    "full_name": "Joshua Davis",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 38,
-    "blood_type": "B+",
-    "genetic_stability": 0.918,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Anthony Miller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.964,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 52,
-    "build": "Lithe",
+    "height_cm": 172,
+    "weight_kg": 109,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 22,
-      "Containment_Logic": 68,
-      "Occult_Research": 43
+      "Occult_Research": 28,
+      "Stealth": 47,
+      "Athletics": 10
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 84,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 83,
-      "extraversion": 100,
-      "agreeableness": 99,
-      "neuroticism": 53
+      "openness": 25,
+      "conscientiousness": 68,
+      "extraversion": 58,
+      "agreeableness": 3,
+      "neuroticism": 64
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

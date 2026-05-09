@@ -1,23 +1,23 @@
 {
   "id": "npc_152",
   "bio": {
-    "full_name": "Steven Ivanov",
-    "gender": "Male",
+    "full_name": "Daniel Kovacs",
+    "gender": "Agender",
     "orientation": "Bisexual",
-    "age": 23,
-    "blood_type": "O-",
-    "genetic_stability": 0.993,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 55,
+    "blood_type": "A+",
+    "genetic_stability": 0.876,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 89,
-    "build": "Overweight",
+    "height_cm": 171,
+    "weight_kg": 62,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Blonde, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 41,
-      "Perception": 60,
-      "Medicine": 79
+      "Athletics": 18,
+      "Containment_Logic": 46,
+      "Firearms": 13
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 82,
-      "extraversion": 79,
-      "agreeableness": 99,
-      "neuroticism": 8
+      "openness": 39,
+      "conscientiousness": 54,
+      "extraversion": 12,
+      "agreeableness": 63,
+      "neuroticism": 93
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

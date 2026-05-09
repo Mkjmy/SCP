@@ -1,60 +1,60 @@
 {
   "id": "npc_015",
   "bio": {
-    "full_name": "Paul Davis",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 38,
-    "blood_type": "A-",
-    "genetic_stability": 0.891,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Michael Sato",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "B+",
+    "genetic_stability": 0.877,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 106,
-    "build": "Average",
+    "height_cm": 172,
+    "weight_kg": 55,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "White, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Firearms": 52,
-      "Containment_Logic": 78,
-      "Stealth": 73
+      "Perception": 40,
+      "Athletics": 57,
+      "Occult_Research": 66
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 36,
-      "extraversion": 99,
-      "agreeableness": 66,
-      "neuroticism": 31
+      "openness": 48,
+      "conscientiousness": 54,
+      "extraversion": 88,
+      "agreeableness": 12,
+      "neuroticism": 100
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
       "amount": 0,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

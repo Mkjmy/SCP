@@ -1,60 +1,60 @@
 {
   "id": "npc_108",
   "bio": {
-    "full_name": "Robert Vasiliev",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 62,
-    "blood_type": "A-",
-    "genetic_stability": 0.989,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Fatima Sato",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 56,
+    "blood_type": "B-",
+    "genetic_stability": 0.854,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 84,
-    "build": "Average",
+    "height_cm": 165,
+    "weight_kg": 73,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Hazel",
+      "hair": "White, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Firearms": 28,
-      "Perception": 85,
-      "Containment_Logic": 26
+      "Medicine": 54,
+      "Hacking": 69,
+      "Athletics": 89
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 118,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 60,
-      "extraversion": 33,
-      "agreeableness": 59,
-      "neuroticism": 2
+      "openness": 51,
+      "conscientiousness": 70,
+      "extraversion": 5,
+      "agreeableness": 27,
+      "neuroticism": 78
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

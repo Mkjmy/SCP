@@ -1,60 +1,60 @@
 {
   "id": "npc_073",
   "bio": {
-    "full_name": "Lars Miller",
+    "full_name": "Donald Johnson",
     "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 37,
-    "blood_type": "A-",
-    "genetic_stability": 0.875,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.862,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 100,
-    "build": "Average",
+    "height_cm": 161,
+    "weight_kg": 108,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Bald",
+      "hair": "Blonde, Manicured",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Engineering": 82,
-      "Firearms": 22,
-      "Perception": 83
+      "Medicine": 33,
+      "Firearms": 83,
+      "Containment_Logic": 32
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 118,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 84,
-      "extraversion": 52,
-      "agreeableness": 65,
-      "neuroticism": 96
+      "openness": 18,
+      "conscientiousness": 30,
+      "extraversion": 93,
+      "agreeableness": 8,
+      "neuroticism": 93
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

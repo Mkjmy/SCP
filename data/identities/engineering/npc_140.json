@@ -1,60 +1,60 @@
 {
   "id": "npc_140",
   "bio": {
-    "full_name": "Maria Sato",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "O-",
-    "genetic_stability": 0.983,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Kenji Williams",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.862,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 108,
-    "build": "Stocky",
+    "height_cm": 196,
+    "weight_kg": 79,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Deep brown",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 30,
-      "Medicine": 74,
-      "Stealth": 21
+      "Medicine": 88,
+      "Persuasion": 84,
+      "Hacking": 88
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 91,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 84,
-      "conscientiousness": 86,
-      "extraversion": 13,
-      "agreeableness": 12,
-      "neuroticism": 0
+      "openness": 33,
+      "conscientiousness": 20,
+      "extraversion": 11,
+      "agreeableness": 2,
+      "neuroticism": 1
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

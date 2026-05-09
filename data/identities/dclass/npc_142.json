@@ -1,23 +1,23 @@
 {
   "id": "npc_142",
   "bio": {
-    "full_name": "Mark Dubois",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 38,
-    "blood_type": "AB-",
-    "genetic_stability": 0.893,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Andrew Jones",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "A-",
+    "genetic_stability": 0.854,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 109,
-    "build": "Stocky",
+    "height_cm": 161,
+    "weight_kg": 81,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Grey",
+      "hair": "Silver, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 81,
-      "Athletics": 30,
-      "Persuasion": 60
+      "Medicine": 91,
+      "Occult_Research": 24,
+      "Persuasion": 70
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 85,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 19,
-      "extraversion": 53,
-      "agreeableness": 58,
-      "neuroticism": 36
+      "openness": 21,
+      "conscientiousness": 79,
+      "extraversion": 61,
+      "agreeableness": 82,
+      "neuroticism": 52
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_019",
   "bio": {
-    "full_name": "John Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 31,
-    "blood_type": "B+",
-    "genetic_stability": 0.852,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "John Garcia",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "O-",
+    "genetic_stability": 0.872,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 98,
-    "build": "Heavily Muscular",
+    "height_cm": 171,
+    "weight_kg": 55,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Hacking": 54,
-      "Occult_Research": 68,
-      "Perception": 82
+      "Medicine": 41,
+      "Containment_Logic": 25,
+      "Hacking": 11
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 100,
-      "extraversion": 95,
-      "agreeableness": 100,
-      "neuroticism": 69
+      "openness": 62,
+      "conscientiousness": 48,
+      "extraversion": 75,
+      "agreeableness": 83,
+      "neuroticism": 10
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

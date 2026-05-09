@@ -1,56 +1,56 @@
 {
   "id": "npc_189",
   "bio": {
-    "full_name": "Mark Ivanov",
-    "gender": "Non-binary",
+    "full_name": "Arjun Davis",
+    "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 30,
-    "blood_type": "AB-",
-    "genetic_stability": 0.914,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 45,
+    "blood_type": "O-",
+    "genetic_stability": 0.932,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 94,
-    "build": "Heavily Muscular",
+    "height_cm": 166,
+    "weight_kg": 90,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 64,
-      "Occult_Research": 23,
-      "Firearms": 68
+      "Stealth": 45,
+      "Hacking": 88,
+      "Athletics": 15
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 75,
-      "extraversion": 68,
-      "agreeableness": 59,
-      "neuroticism": 43
+      "openness": 89,
+      "conscientiousness": 48,
+      "extraversion": 22,
+      "agreeableness": 81,
+      "neuroticism": 72
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",

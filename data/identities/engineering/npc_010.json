@@ -1,23 +1,23 @@
 {
   "id": "npc_010",
   "bio": {
-    "full_name": "Maria Kovacs",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 34,
-    "blood_type": "B-",
-    "genetic_stability": 0.963,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Daniel Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "AB+",
+    "genetic_stability": 0.927,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 98,
-    "build": "Frail",
+    "height_cm": 166,
+    "weight_kg": 110,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 56,
-      "Stealth": 80,
-      "Perception": 52
+      "Athletics": 24,
+      "Persuasion": 86,
+      "Engineering": 70
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 44,
-      "conscientiousness": 4,
-      "extraversion": 17,
-      "agreeableness": 34,
-      "neuroticism": 57
+      "openness": 61,
+      "conscientiousness": 90,
+      "extraversion": 88,
+      "agreeableness": 35,
+      "neuroticism": 65
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
     "family": "Married, no children",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

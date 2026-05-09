@@ -1,23 +1,23 @@
 {
   "id": "npc_031",
   "bio": {
-    "full_name": "Matthew Garcia",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 35,
-    "blood_type": "AB+",
-    "genetic_stability": 0.917,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Fatima Sato",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 55,
+    "blood_type": "A+",
+    "genetic_stability": 0.86,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 54,
+    "height_cm": 190,
+    "weight_kg": 98,
     "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Red, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 35,
-      "Firearms": 70,
-      "Engineering": 91
+      "Containment_Logic": 38,
+      "Athletics": 81,
+      "Engineering": 62
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 93,
-      "extraversion": 42,
-      "agreeableness": 72,
-      "neuroticism": 41
+      "openness": 13,
+      "conscientiousness": 1,
+      "extraversion": 15,
+      "agreeableness": 45,
+      "neuroticism": 55
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
       "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

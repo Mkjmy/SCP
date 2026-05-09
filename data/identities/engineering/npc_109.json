@@ -1,60 +1,60 @@
 {
   "id": "npc_109",
   "bio": {
-    "full_name": "Kenji Dubois",
+    "full_name": "Andrew Johnson",
     "gender": "Female",
     "orientation": "Asexual",
-    "age": 65,
-    "blood_type": "B-",
-    "genetic_stability": 0.981,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.926,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 89,
-    "build": "Frail",
+    "height_cm": 176,
+    "weight_kg": 72,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
-      "eyes": "Grey",
+      "hair": "Silver, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 27,
-      "Athletics": 63,
-      "Engineering": 59
+      "Containment_Logic": 70,
+      "Stealth": 75,
+      "Hacking": 11
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 21,
-      "extraversion": 89,
-      "agreeableness": 73,
-      "neuroticism": 92
+      "openness": 88,
+      "conscientiousness": 57,
+      "extraversion": 48,
+      "agreeableness": 8,
+      "neuroticism": 87
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

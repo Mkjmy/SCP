@@ -1,60 +1,60 @@
 {
   "id": "npc_114",
   "bio": {
-    "full_name": "Joseph Ivanov",
-    "gender": "Female",
+    "full_name": "Charles Muller",
+    "gender": "Male",
     "orientation": "Pansexual",
-    "age": 54,
-    "blood_type": "B+",
-    "genetic_stability": 0.933,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 37,
+    "blood_type": "O+",
+    "genetic_stability": 0.921,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 75,
-    "build": "Average",
+    "height_cm": 165,
+    "weight_kg": 74,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Grey",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 86,
-      "Hacking": 76,
-      "Perception": 45
+      "Engineering": 94,
+      "Firearms": 65,
+      "Stealth": 13
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 78,
-      "extraversion": 56,
-      "agreeableness": 60,
-      "neuroticism": 17
+      "openness": 64,
+      "conscientiousness": 60,
+      "extraversion": 13,
+      "agreeableness": 82,
+      "neuroticism": 62
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_affiliation": "None"
   }
 }

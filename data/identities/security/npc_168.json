@@ -1,60 +1,60 @@
 {
   "id": "npc_168",
   "bio": {
-    "full_name": "Kenji O'Connor",
+    "full_name": "Arjun Jones",
     "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 32,
+    "orientation": "Bisexual",
+    "age": 61,
     "blood_type": "A-",
-    "genetic_stability": 0.884,
-    "origin": "Ex-military police recruited after a classified incident"
+    "genetic_stability": 0.958,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 95,
-    "build": "Heavily Muscular",
+    "height_cm": 176,
+    "weight_kg": 104,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 25,
-      "Medicine": 58,
-      "Containment_Logic": 68
+      "Athletics": 45,
+      "Medicine": 70,
+      "Stealth": 70
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 93,
-      "conscientiousness": 24,
-      "extraversion": 28,
-      "agreeableness": 72,
-      "neuroticism": 23
+      "openness": 24,
+      "conscientiousness": 14,
+      "extraversion": 26,
+      "agreeableness": 78,
+      "neuroticism": 90
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

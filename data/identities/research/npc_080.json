@@ -1,23 +1,23 @@
 {
   "id": "npc_080",
   "bio": {
-    "full_name": "Joseph Gupta",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 33,
-    "blood_type": "B-",
-    "genetic_stability": 0.981,
+    "full_name": "Thomas Wong",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "A-",
+    "genetic_stability": 0.958,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 75,
-    "build": "Frail",
+    "height_cm": 183,
+    "weight_kg": 72,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "White, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Perception": 91,
-      "Stealth": 81,
-      "Medicine": 90
+      "Hacking": 44,
+      "Persuasion": 35,
+      "Occult_Research": 68
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 163,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 4,
-      "extraversion": 43,
-      "agreeableness": 12,
-      "neuroticism": 83
+      "openness": 83,
+      "conscientiousness": 89,
+      "extraversion": 97,
+      "agreeableness": 72,
+      "neuroticism": 95
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
       "amount": 20000,
-      "creditor": "Local Mob"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

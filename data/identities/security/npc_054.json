@@ -1,60 +1,60 @@
 {
   "id": "npc_054",
   "bio": {
-    "full_name": "Yuki Gupta",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 60,
-    "blood_type": "AB+",
-    "genetic_stability": 0.961,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Lars Tanaka",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.908,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 101,
-    "build": "Heavily Muscular",
+    "height_cm": 189,
+    "weight_kg": 84,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Persuasion": 54,
-      "Athletics": 21,
-      "Firearms": 13
+      "Athletics": 83,
+      "Containment_Logic": 38,
+      "Hacking": 76
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 60,
-      "extraversion": 3,
-      "agreeableness": 89,
-      "neuroticism": 49
+      "openness": 19,
+      "conscientiousness": 26,
+      "extraversion": 5,
+      "agreeableness": 16,
+      "neuroticism": 32
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

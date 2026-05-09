@@ -1,23 +1,23 @@
 {
   "id": "npc_027",
   "bio": {
-    "full_name": "Charles Tanaka",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 33,
-    "blood_type": "A+",
-    "genetic_stability": 0.992,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Joshua Wong",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "O-",
+    "genetic_stability": 0.868,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 75,
-    "build": "Athletic",
+    "height_cm": 181,
+    "weight_kg": 60,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Bald",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 23,
-      "Medicine": 27,
-      "Occult_Research": 26
+      "Stealth": 81,
+      "Engineering": 46,
+      "Medicine": 63
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 69,
-      "extraversion": 36,
-      "agreeableness": 72,
-      "neuroticism": 38
+      "openness": 31,
+      "conscientiousness": 15,
+      "extraversion": 67,
+      "agreeableness": 11,
+      "neuroticism": 10
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

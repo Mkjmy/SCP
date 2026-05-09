@@ -1,23 +1,23 @@
 {
   "id": "npc_116",
   "bio": {
-    "full_name": "James Sato",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 22,
-    "blood_type": "AB-",
-    "genetic_stability": 0.936,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "James Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.907,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 96,
-    "build": "Heavily Muscular",
+    "height_cm": 171,
+    "weight_kg": 106,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 48,
-      "Firearms": 54,
-      "Athletics": 14
+      "Persuasion": 55,
+      "Stealth": 22,
+      "Athletics": 77
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 85,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 38,
-      "extraversion": 87,
-      "agreeableness": 95,
-      "neuroticism": 81
+      "openness": 95,
+      "conscientiousness": 98,
+      "extraversion": 86,
+      "agreeableness": 99,
+      "neuroticism": 79
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",

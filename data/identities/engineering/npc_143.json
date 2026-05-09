@@ -1,23 +1,23 @@
 {
   "id": "npc_143",
   "bio": {
-    "full_name": "Andrew Sato",
+    "full_name": "Joshua Williams",
     "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 52,
-    "blood_type": "A-",
-    "genetic_stability": 0.959,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.946,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 102,
-    "build": "Lithe",
+    "height_cm": 179,
+    "weight_kg": 58,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
+      "hair": "Grey, Wild and unkempt",
       "eyes": "Amber",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 12,
-      "Stealth": 69,
-      "Perception": 22
+      "Occult_Research": 35,
+      "Persuasion": 58,
+      "Athletics": 50
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 103,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 62,
-      "extraversion": 12,
+      "openness": 60,
+      "conscientiousness": 24,
+      "extraversion": 57,
       "agreeableness": 24,
-      "neuroticism": 56
+      "neuroticism": 82
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
       "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

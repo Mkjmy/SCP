@@ -1,0 +1,60 @@
+{
+  "id": "npc_152",
+  "bio": {
+    "full_name": "Robert Muller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.92,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 110,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 79,
+      "Occult_Research": 69,
+      "Athletics": 36
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 66,
+      "extraversion": 55,
+      "agreeableness": 24,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

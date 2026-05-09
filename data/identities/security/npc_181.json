@@ -1,23 +1,23 @@
 {
   "id": "npc_181",
   "bio": {
-    "full_name": "Joshua Dubois",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 33,
-    "blood_type": "B+",
-    "genetic_stability": 0.906,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Fatima O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 53,
+    "blood_type": "AB+",
+    "genetic_stability": 0.961,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 91,
-    "build": "Overweight",
+    "height_cm": 162,
+    "weight_kg": 66,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 95,
-      "Hacking": 70,
-      "Athletics": 90
+      "Perception": 94,
+      "Engineering": 70,
+      "Athletics": 69
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 53,
-      "extraversion": 53,
-      "agreeableness": 43,
-      "neuroticism": 43
+      "openness": 56,
+      "conscientiousness": 44,
+      "extraversion": 34,
+      "agreeableness": 99,
+      "neuroticism": 37
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_154",
   "bio": {
-    "full_name": "William Vasiliev",
+    "full_name": "James Ivanov",
     "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 23,
-    "blood_type": "B-",
-    "genetic_stability": 0.867,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.922,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 85,
-    "build": "Athletic",
+    "height_cm": 169,
+    "weight_kg": 54,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Deep brown",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Firearms": 89,
-      "Containment_Logic": 67,
-      "Medicine": 86
+      "Firearms": 48,
+      "Athletics": 39,
+      "Containment_Logic": 43
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 20,
-      "extraversion": 55,
-      "agreeableness": 14,
-      "neuroticism": 40
+      "openness": 53,
+      "conscientiousness": 94,
+      "extraversion": 19,
+      "agreeableness": 51,
+      "neuroticism": 56
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

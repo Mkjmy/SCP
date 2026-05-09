@@ -1,23 +1,23 @@
 {
   "id": "npc_121",
   "bio": {
-    "full_name": "Mark Kovacs",
-    "gender": "Non-binary",
+    "full_name": "John Tanaka",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 40,
-    "blood_type": "B-",
-    "genetic_stability": 0.918,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.929,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 93,
-    "build": "Heavily Muscular",
+    "height_cm": 159,
+    "weight_kg": 88,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 24,
-      "Containment_Logic": 42,
-      "Occult_Research": 14
+      "Containment_Logic": 13,
+      "Occult_Research": 84,
+      "Hacking": 49
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 32,
-      "conscientiousness": 90,
-      "extraversion": 67,
-      "agreeableness": 85,
-      "neuroticism": 42
+      "openness": 8,
+      "conscientiousness": 9,
+      "extraversion": 54,
+      "agreeableness": 45,
+      "neuroticism": 10
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_124",
   "bio": {
-    "full_name": "Arjun Davis",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 30,
-    "blood_type": "O-",
-    "genetic_stability": 0.989,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Paul Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "AB-",
+    "genetic_stability": 0.979,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 102,
-    "build": "Frail",
+    "height_cm": 181,
+    "weight_kg": 69,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
-      "eyes": "Amber",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 57,
-      "Persuasion": 51,
-      "Occult_Research": 76
+      "Occult_Research": 28,
+      "Containment_Logic": 84,
+      "Stealth": 79
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 98,
-      "extraversion": 72,
-      "agreeableness": 69,
-      "neuroticism": 55
+      "openness": 16,
+      "conscientiousness": 42,
+      "extraversion": 51,
+      "agreeableness": 39,
+      "neuroticism": 69
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

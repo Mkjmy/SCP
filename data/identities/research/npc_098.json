@@ -1,23 +1,23 @@
 {
   "id": "npc_098",
   "bio": {
-    "full_name": "Olga Williams",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 49,
-    "blood_type": "O+",
-    "genetic_stability": 0.897,
+    "full_name": "Michael Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.904,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 90,
-    "build": "Slender",
+    "height_cm": 155,
+    "weight_kg": 77,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Black, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Stealth": 72,
-      "Hacking": 84,
-      "Firearms": 52
+      "Hacking": 44,
+      "Firearms": 46,
+      "Occult_Research": 47
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 163,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 92,
-      "extraversion": 52,
-      "agreeableness": 99,
-      "neuroticism": 23
+      "openness": 93,
+      "conscientiousness": 9,
+      "extraversion": 58,
+      "agreeableness": 31,
+      "neuroticism": 72
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

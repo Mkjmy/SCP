@@ -1,23 +1,23 @@
 {
   "id": "npc_009",
   "bio": {
-    "full_name": "Yuki Wong",
+    "full_name": "Elena Jones",
     "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 47,
-    "blood_type": "B+",
-    "genetic_stability": 0.937,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.993,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 54,
-    "build": "Overweight",
+    "height_cm": 190,
+    "weight_kg": 80,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Shoulder-length",
+      "hair": "White, Manicured",
       "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Containment_Logic": 33,
-      "Athletics": 26,
-      "Firearms": 37
+      "Athletics": 45,
+      "Medicine": 61,
+      "Engineering": 30
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 1,
-      "extraversion": 69,
-      "agreeableness": 98,
-      "neuroticism": 98
+      "openness": 69,
+      "conscientiousness": 38,
+      "extraversion": 80,
+      "agreeableness": 84,
+      "neuroticism": 74
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

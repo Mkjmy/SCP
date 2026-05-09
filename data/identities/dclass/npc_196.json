@@ -1,23 +1,23 @@
 {
   "id": "npc_196",
   "bio": {
-    "full_name": "Joseph Kovacs",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "O-",
-    "genetic_stability": 0.963,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "James Dubois",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "B-",
+    "genetic_stability": 0.872,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 60,
-    "build": "Average",
+    "height_cm": 173,
+    "weight_kg": 51,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 17,
-      "Perception": 17,
-      "Occult_Research": 20
+      "Persuasion": 34,
+      "Containment_Logic": 37,
+      "Perception": 51
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 87,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 85,
-      "extraversion": 75,
-      "agreeableness": 40,
-      "neuroticism": 28
+      "openness": 7,
+      "conscientiousness": 50,
+      "extraversion": 91,
+      "agreeableness": 10,
+      "neuroticism": 95
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

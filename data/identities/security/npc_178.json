@@ -1,60 +1,60 @@
 {
   "id": "npc_178",
   "bio": {
-    "full_name": "Paul Jones",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
+    "full_name": "Steven O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
     "age": 36,
-    "blood_type": "O+",
-    "genetic_stability": 0.98,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "blood_type": "O-",
+    "genetic_stability": 0.976,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 104,
-    "build": "Stocky",
+    "height_cm": 177,
+    "weight_kg": 74,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Perception": 92,
-      "Firearms": 56,
-      "Medicine": 43
+      "Hacking": 40,
+      "Firearms": 36,
+      "Containment_Logic": 16
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 54,
-      "conscientiousness": 52,
-      "extraversion": 71,
-      "agreeableness": 33,
-      "neuroticism": 5
+      "openness": 62,
+      "conscientiousness": 75,
+      "extraversion": 49,
+      "agreeableness": 85,
+      "neuroticism": 7
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

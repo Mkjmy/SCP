@@ -1,23 +1,23 @@
 {
   "id": "npc_119",
   "bio": {
-    "full_name": "Robert Miller",
-    "gender": "Female",
+    "full_name": "Christopher Davis",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 55,
+    "age": 26,
     "blood_type": "O-",
-    "genetic_stability": 0.946,
-    "origin": "Ex-military police recruited after a classified incident"
+    "genetic_stability": 0.879,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 90,
-    "build": "Lithe",
+    "height_cm": 155,
+    "weight_kg": 102,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 34,
-      "Firearms": 63,
-      "Occult_Research": 73
+      "Stealth": 75,
+      "Firearms": 80,
+      "Occult_Research": 13
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 47,
-      "extraversion": 36,
-      "agreeableness": 37,
-      "neuroticism": 3
+      "openness": 38,
+      "conscientiousness": 30,
+      "extraversion": 46,
+      "agreeableness": 94,
+      "neuroticism": 9
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
       "amount": 20000,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

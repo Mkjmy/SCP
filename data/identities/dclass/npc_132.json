@@ -1,23 +1,23 @@
 {
   "id": "npc_132",
   "bio": {
-    "full_name": "Joshua Bakker",
-    "gender": "Agender",
+    "full_name": "Christopher Smith",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 43,
-    "blood_type": "B-",
-    "genetic_stability": 0.972,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.856,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 109,
+    "height_cm": 157,
+    "weight_kg": 50,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 83,
-      "Occult_Research": 75,
-      "Engineering": 82
+      "Hacking": 30,
+      "Engineering": 14,
+      "Stealth": 22
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 100,
-      "extraversion": 23,
-      "agreeableness": 54,
-      "neuroticism": 63
+      "openness": 5,
+      "conscientiousness": 8,
+      "extraversion": 52,
+      "agreeableness": 98,
+      "neuroticism": 61
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

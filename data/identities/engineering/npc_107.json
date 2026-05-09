@@ -1,60 +1,60 @@
 {
   "id": "npc_107",
   "bio": {
-    "full_name": "Joseph Dubois",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 44,
-    "blood_type": "AB+",
-    "genetic_stability": 0.86,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Michael Wong",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 51,
+    "blood_type": "A-",
+    "genetic_stability": 0.898,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 107,
+    "height_cm": 167,
+    "weight_kg": 66,
     "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 82,
-      "Medicine": 63,
-      "Containment_Logic": 58
+      "Hacking": 50,
+      "Athletics": 85,
+      "Engineering": 76
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 51,
-      "extraversion": 10,
-      "agreeableness": 75,
-      "neuroticism": 97
+      "openness": 71,
+      "conscientiousness": 74,
+      "extraversion": 88,
+      "agreeableness": 32,
+      "neuroticism": 30
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

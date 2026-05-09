@@ -1,59 +1,60 @@
 {
   "id": "npc_016",
   "bio": {
-    "full_name": "William Williams",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 31,
-    "blood_type": "A+",
-    "genetic_stability": 0.911,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "David Ivanov",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 62,
+    "blood_type": "AB+",
+    "genetic_stability": 0.934,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 76,
-    "build": "Athletic",
+    "height_cm": 175,
+    "weight_kg": 54,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Bald",
-      "eyes": "Grey",
+      "hair": "Black, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 28,
-      "Medicine": 73,
-      "Athletics": 34
+      "Firearms": 29,
+      "Occult_Research": 25,
+      "Hacking": 71
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 71,
-      "extraversion": 70,
-      "agreeableness": 30,
-      "neuroticism": 68
+      "openness": 48,
+      "conscientiousness": 63,
+      "extraversion": 87,
+      "agreeableness": 98,
+      "neuroticism": 1
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

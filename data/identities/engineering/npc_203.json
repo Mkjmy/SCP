@@ -1,23 +1,23 @@
 {
   "id": "npc_203",
   "bio": {
-    "full_name": "Steven Johnson",
+    "full_name": "Thomas O'Connor",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 28,
-    "blood_type": "B+",
-    "genetic_stability": 0.867,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.947,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
     "height_cm": 191,
-    "weight_kg": 63,
-    "build": "Heavily Muscular",
+    "weight_kg": 66,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Brown, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 48,
-      "Medicine": 13,
-      "Occult_Research": 85
+      "Engineering": 14,
+      "Stealth": 24,
+      "Perception": 33
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 24,
-      "extraversion": 19,
-      "agreeableness": 47,
-      "neuroticism": 59
+      "openness": 84,
+      "conscientiousness": 81,
+      "extraversion": 67,
+      "agreeableness": 51,
+      "neuroticism": 42
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

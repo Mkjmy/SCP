@@ -1,23 +1,23 @@
 {
   "id": "npc_135",
   "bio": {
-    "full_name": "Steven Kovacs",
+    "full_name": "Richard Garcia",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 25,
-    "blood_type": "B-",
-    "genetic_stability": 0.851,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.907,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 80,
-    "build": "Lithe",
+    "height_cm": 187,
+    "weight_kg": 101,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Black, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 33,
-      "Perception": 68,
-      "Athletics": 13
+      "Containment_Logic": 62,
+      "Stealth": 85,
+      "Athletics": 92
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 103,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 29,
-      "extraversion": 5,
-      "agreeableness": 78,
-      "neuroticism": 3
+      "openness": 70,
+      "conscientiousness": 52,
+      "extraversion": 60,
+      "agreeableness": 27,
+      "neuroticism": 10
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

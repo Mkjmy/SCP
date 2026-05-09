@@ -1,60 +1,60 @@
 {
   "id": "npc_068",
   "bio": {
-    "full_name": "Michael Vasiliev",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 33,
-    "blood_type": "AB+",
-    "genetic_stability": 0.912,
+    "full_name": "Joseph Garcia",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "A+",
+    "genetic_stability": 0.856,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 103,
-    "build": "Average",
+    "height_cm": 184,
+    "weight_kg": 79,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Hazel",
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Firearms": 77,
-      "Athletics": 52,
-      "Engineering": 58
+      "Stealth": 37,
+      "Containment_Logic": 75,
+      "Perception": 92
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 72,
-      "extraversion": 70,
+      "openness": 71,
+      "conscientiousness": 9,
+      "extraversion": 82,
       "agreeableness": 76,
-      "neuroticism": 84
+      "neuroticism": 28
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
     "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

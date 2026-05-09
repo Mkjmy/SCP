@@ -1,23 +1,23 @@
 {
   "id": "npc_155",
   "bio": {
-    "full_name": "Matthew Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
+    "full_name": "Robert Gupta",
+    "gender": "Female",
+    "orientation": "Homosexual",
     "age": 63,
-    "blood_type": "A-",
-    "genetic_stability": 0.914,
-    "origin": "Former NASA engineer who saw too much"
+    "blood_type": "AB-",
+    "genetic_stability": 0.936,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 76,
-    "build": "Frail",
+    "height_cm": 196,
+    "weight_kg": 61,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Amber",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Containment_Logic": 67,
-      "Persuasion": 23,
-      "Hacking": 33
+      "Stealth": 15,
+      "Athletics": 24,
+      "Containment_Logic": 32
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 31,
-      "extraversion": 41,
-      "agreeableness": 71,
-      "neuroticism": 71
+      "openness": 87,
+      "conscientiousness": 42,
+      "extraversion": 59,
+      "agreeableness": 80,
+      "neuroticism": 19
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.4
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

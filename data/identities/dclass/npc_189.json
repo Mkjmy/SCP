@@ -1,23 +1,23 @@
 {
   "id": "npc_189",
   "bio": {
-    "full_name": "James O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 31,
-    "blood_type": "O+",
-    "genetic_stability": 0.977,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Robert Dubois",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.873,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 52,
-    "build": "Slender",
+    "height_cm": 156,
+    "weight_kg": 109,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 72,
-      "Stealth": 60,
-      "Firearms": 16
+      "Engineering": 73,
+      "Occult_Research": 94,
+      "Hacking": 89
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 18,
-      "extraversion": 38,
-      "agreeableness": 76,
-      "neuroticism": 79
+      "openness": 56,
+      "conscientiousness": 44,
+      "extraversion": 48,
+      "agreeableness": 89,
+      "neuroticism": 15
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

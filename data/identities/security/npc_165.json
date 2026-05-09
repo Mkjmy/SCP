@@ -1,23 +1,23 @@
 {
   "id": "npc_165",
   "bio": {
-    "full_name": "Anthony Bakker",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 32,
-    "blood_type": "A-",
-    "genetic_stability": 0.963,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Daniel Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "A+",
+    "genetic_stability": 0.891,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 77,
-    "build": "Frail",
+    "height_cm": 192,
+    "weight_kg": 85,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 89,
-      "Firearms": 38,
-      "Perception": 57
+      "Occult_Research": 57,
+      "Firearms": 62,
+      "Medicine": 12
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 61,
-      "extraversion": 37,
-      "agreeableness": 31,
-      "neuroticism": 84
+      "openness": 39,
+      "conscientiousness": 91,
+      "extraversion": 94,
+      "agreeableness": 85,
+      "neuroticism": 11
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

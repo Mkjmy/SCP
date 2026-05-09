@@ -1,56 +1,56 @@
 {
   "id": "npc_131",
   "bio": {
-    "full_name": "Mark O'Connor",
+    "full_name": "James Muller",
     "gender": "Agender",
     "orientation": "Asexual",
-    "age": 41,
-    "blood_type": "B+",
-    "genetic_stability": 0.945,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.936,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 74,
-    "build": "Athletic",
+    "height_cm": 162,
+    "weight_kg": 78,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Hazel",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 41,
-      "Engineering": 17,
-      "Persuasion": 14
+      "Hacking": 94,
+      "Medicine": 82,
+      "Athletics": 41
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 101,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 74,
-      "extraversion": 49,
-      "agreeableness": 5,
-      "neuroticism": 100
+      "openness": 67,
+      "conscientiousness": 93,
+      "extraversion": 83,
+      "agreeableness": 84,
+      "neuroticism": 6
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 100000,
+      "amount": 5000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",

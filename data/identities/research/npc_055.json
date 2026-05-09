@@ -1,23 +1,23 @@
 {
   "id": "npc_055",
   "bio": {
-    "full_name": "Arjun Ivanov",
+    "full_name": "Mark Gupta",
     "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 41,
-    "blood_type": "A+",
-    "genetic_stability": 0.873,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.931,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 51,
-    "build": "Stocky",
+    "height_cm": 182,
+    "weight_kg": 99,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 60,
-      "Medicine": 94,
-      "Occult_Research": 84
+      "Stealth": 43,
+      "Athletics": 15,
+      "Medicine": 17
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 56,
-      "extraversion": 59,
-      "agreeableness": 80,
-      "neuroticism": 63
+      "openness": 58,
+      "conscientiousness": 12,
+      "extraversion": 39,
+      "agreeableness": 11,
+      "neuroticism": 100
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

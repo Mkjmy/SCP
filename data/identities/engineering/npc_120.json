@@ -1,23 +1,23 @@
 {
   "id": "npc_120",
   "bio": {
-    "full_name": "Mark Tanaka",
+    "full_name": "Robert Ivanov",
     "gender": "Male",
     "orientation": "Pansexual",
-    "age": 45,
-    "blood_type": "B-",
-    "genetic_stability": 0.891,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.869,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 56,
-    "build": "Lithe",
+    "height_cm": 160,
+    "weight_kg": 104,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 46,
-      "Occult_Research": 93,
-      "Persuasion": 35
+      "Perception": 24,
+      "Firearms": 45,
+      "Persuasion": 69
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 17,
-      "extraversion": 12,
-      "agreeableness": 20,
-      "neuroticism": 88
+      "openness": 40,
+      "conscientiousness": 90,
+      "extraversion": 33,
+      "agreeableness": 58,
+      "neuroticism": 84
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

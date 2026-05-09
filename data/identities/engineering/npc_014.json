@@ -1,23 +1,23 @@
 {
   "id": "npc_014",
   "bio": {
-    "full_name": "David Williams",
-    "gender": "Female",
+    "full_name": "Chen Davis",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 41,
-    "blood_type": "B-",
-    "genetic_stability": 0.856,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 22,
+    "blood_type": "O+",
+    "genetic_stability": 0.853,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 64,
-    "build": "Average",
+    "height_cm": 193,
+    "weight_kg": 70,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Deep brown",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 43,
-      "Firearms": 67,
-      "Occult_Research": 73
+      "Stealth": 71,
+      "Perception": 74,
+      "Medicine": 11
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 44,
-      "conscientiousness": 21,
-      "extraversion": 15,
-      "agreeableness": 69,
-      "neuroticism": 18
+      "openness": 16,
+      "conscientiousness": 26,
+      "extraversion": 22,
+      "agreeableness": 54,
+      "neuroticism": 86
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking promotion at any cost",

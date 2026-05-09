@@ -1,23 +1,23 @@
 {
   "id": "npc_075",
   "bio": {
-    "full_name": "Joshua Ivanov",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 52,
+    "full_name": "Robert Williams",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 49,
     "blood_type": "O-",
-    "genetic_stability": 0.891,
+    "genetic_stability": 0.859,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 57,
-    "build": "Frail",
+    "height_cm": 172,
+    "weight_kg": 72,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Blonde, Messy",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Persuasion": 19,
-      "Firearms": 81,
-      "Containment_Logic": 44
+      "Hacking": 78,
+      "Occult_Research": 71,
+      "Containment_Logic": 26
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 25,
-      "extraversion": 9,
-      "agreeableness": 93,
-      "neuroticism": 61
+      "openness": 71,
+      "conscientiousness": 26,
+      "extraversion": 27,
+      "agreeableness": 8,
+      "neuroticism": 33
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
+      "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

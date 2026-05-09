@@ -1,23 +1,23 @@
 {
   "id": "npc_205",
   "bio": {
-    "full_name": "Yuki Davis",
-    "gender": "Male",
+    "full_name": "Richard Tanaka",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 62,
-    "blood_type": "A+",
-    "genetic_stability": 0.852,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 56,
+    "blood_type": "AB-",
+    "genetic_stability": 0.851,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 74,
-    "build": "Slender",
+    "height_cm": 161,
+    "weight_kg": 83,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 45,
-      "Engineering": 67,
-      "Firearms": 41
+      "Firearms": 12,
+      "Hacking": 43,
+      "Containment_Logic": 85
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 118,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 14,
-      "extraversion": 30,
-      "agreeableness": 14,
-      "neuroticism": 74
+      "openness": 32,
+      "conscientiousness": 83,
+      "extraversion": 76,
+      "agreeableness": 82,
+      "neuroticism": 34
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_145",
   "bio": {
-    "full_name": "Daniel Davis",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 31,
-    "blood_type": "B-",
-    "genetic_stability": 0.932,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Yuki Williams",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.953,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 84,
+    "height_cm": 176,
+    "weight_kg": 52,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Hazel",
+      "hair": "Grey, Messy",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Hums classical music"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 14,
-      "Perception": 29,
-      "Stealth": 22
+      "Engineering": 79,
+      "Containment_Logic": 77,
+      "Occult_Research": 12
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 14,
-      "extraversion": 44,
-      "agreeableness": 56,
-      "neuroticism": 47
+      "openness": 24,
+      "conscientiousness": 36,
+      "extraversion": 34,
+      "agreeableness": 59,
+      "neuroticism": 6
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

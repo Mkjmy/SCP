@@ -1,60 +1,60 @@
 {
   "id": "npc_069",
   "bio": {
-    "full_name": "Mark Davis",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 52,
+    "full_name": "Arjun Bakker",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 59,
     "blood_type": "B-",
-    "genetic_stability": 0.958,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.878,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 88,
-    "build": "Slender",
+    "height_cm": 179,
+    "weight_kg": 94,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Persuasion": 37,
-      "Hacking": 43,
-      "Occult_Research": 95
+      "Persuasion": 25,
+      "Firearms": 88,
+      "Hacking": 14
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 56,
-      "conscientiousness": 35,
-      "extraversion": 75,
-      "agreeableness": 17,
-      "neuroticism": 66
+      "openness": 4,
+      "conscientiousness": 76,
+      "extraversion": 55,
+      "agreeableness": 74,
+      "neuroticism": 63
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_129",
   "bio": {
-    "full_name": "Anthony Dubois",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 63,
-    "blood_type": "O-",
-    "genetic_stability": 0.933,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Donald Schmidt",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "AB+",
+    "genetic_stability": 0.99,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 100,
-    "build": "Frail",
+    "height_cm": 170,
+    "weight_kg": 76,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Containment_Logic": 54,
-      "Athletics": 13,
-      "Occult_Research": 21
+      "Containment_Logic": 56,
+      "Engineering": 64,
+      "Perception": 16
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 51,
-      "extraversion": 28,
-      "agreeableness": 19,
-      "neuroticism": 86
+      "openness": 21,
+      "conscientiousness": 99,
+      "extraversion": 27,
+      "agreeableness": 49,
+      "neuroticism": 20
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

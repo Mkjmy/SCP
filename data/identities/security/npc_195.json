@@ -1,60 +1,60 @@
 {
   "id": "npc_195",
   "bio": {
-    "full_name": "Richard Smith",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.988,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Fatima Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.857,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 163,
+    "height_cm": 188,
     "weight_kg": 61,
-    "build": "Lithe",
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
+      "hair": "White, Messy",
       "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 16,
-      "Firearms": 72,
-      "Medicine": 86
+      "Engineering": 87,
+      "Persuasion": 64,
+      "Athletics": 80
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 40,
-      "extraversion": 0,
-      "agreeableness": 42,
-      "neuroticism": 96
+      "openness": 51,
+      "conscientiousness": 58,
+      "extraversion": 68,
+      "agreeableness": 35,
+      "neuroticism": 42
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_201",
   "bio": {
-    "full_name": "Michael Vasiliev",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 62,
-    "blood_type": "O+",
-    "genetic_stability": 0.971,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Yuki Smith",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 49,
+    "blood_type": "O-",
+    "genetic_stability": 0.879,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 93,
-    "build": "Athletic",
+    "height_cm": 172,
+    "weight_kg": 69,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Silver, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 15,
-      "Hacking": 58,
-      "Containment_Logic": 39
+      "Containment_Logic": 67,
+      "Occult_Research": 58,
+      "Firearms": 86
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 81,
-      "extraversion": 72,
-      "agreeableness": 75,
-      "neuroticism": 8
+      "openness": 17,
+      "conscientiousness": 65,
+      "extraversion": 55,
+      "agreeableness": 72,
+      "neuroticism": 75
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "npc_180",
+  "bio": {
+    "full_name": "Sven Kovacs",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "A+",
+    "genetic_stability": 0.969,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 104,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 60,
+      "Containment_Logic": 62,
+      "Perception": 39
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 55,
+      "extraversion": 92,
+      "agreeableness": 38,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

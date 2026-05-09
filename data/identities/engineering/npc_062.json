@@ -1,23 +1,23 @@
 {
   "id": "npc_062",
   "bio": {
-    "full_name": "Olga O'Connor",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 42,
+    "full_name": "Maria Muller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 45,
     "blood_type": "O+",
-    "genetic_stability": 0.861,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.92,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 70,
-    "build": "Athletic",
+    "height_cm": 186,
+    "weight_kg": 56,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Emerald green",
+      "hair": "Brown, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 52,
-      "Engineering": 75,
-      "Medicine": 65
+      "Medicine": 25,
+      "Athletics": 31,
+      "Hacking": 79
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 91,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 75,
-      "extraversion": 60,
-      "agreeableness": 84,
-      "neuroticism": 40
+      "openness": 87,
+      "conscientiousness": 45,
+      "extraversion": 44,
+      "agreeableness": 60,
+      "neuroticism": 35
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

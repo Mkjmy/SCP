@@ -1,23 +1,23 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "Charles Miller",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 49,
-    "blood_type": "AB-",
-    "genetic_stability": 0.858,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Robert Schmidt",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "AB+",
+    "genetic_stability": 0.935,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 95,
-    "build": "Stocky",
+    "height_cm": 195,
+    "weight_kg": 68,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Stealth": 55,
-      "Hacking": 10,
-      "Medicine": 11
+      "Containment_Logic": 66,
+      "Stealth": 43,
+      "Hacking": 32
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 50,
-      "extraversion": 71,
-      "agreeableness": 14,
-      "neuroticism": 85
+      "openness": 87,
+      "conscientiousness": 0,
+      "extraversion": 55,
+      "agreeableness": 83,
+      "neuroticism": 24
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

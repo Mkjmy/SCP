@@ -1,23 +1,23 @@
 {
   "id": "npc_177",
   "bio": {
-    "full_name": "Paul Bakker",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 21,
-    "blood_type": "A+",
-    "genetic_stability": 0.956,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Mark Garcia",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "AB-",
+    "genetic_stability": 0.962,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 72,
-    "build": "Overweight",
+    "height_cm": 185,
+    "weight_kg": 67,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Amber",
+      "hair": "Blonde, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 15,
-      "Persuasion": 77,
-      "Hacking": 53
+      "Persuasion": 38,
+      "Engineering": 48,
+      "Containment_Logic": 29
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 36,
-      "extraversion": 93,
-      "agreeableness": 91,
-      "neuroticism": 28
+      "openness": 38,
+      "conscientiousness": 53,
+      "extraversion": 42,
+      "agreeableness": 51,
+      "neuroticism": 68
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.95
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",

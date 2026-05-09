@@ -2940,3 +2940,579 @@ SOCIAL: Dr. Tanaka broadcasted: 'Security required for testing.' in room_0_1
 [npc_196] Kenji Ivanov: Idling (feeling stable) at room_0_1
 [npc_200] Michael Jones: Idling (feeling stable) at room_0_0
 [npc_207] Dr. Smith: Idling (feeling stable) at room_0_1
+--- TURN 1 START ---
+[npc_001] Michael Johnson: Idling (feeling stable) at room_0_0
+[npc_002] Kenji Williams: Idling (feeling stable) at room_0_0
+[npc_003] Michael Ivanov: Patrolling sector (feeling stable) at room_0_0
+[npc_004] Richard Miller: Idling (feeling stable) at room_0_0
+[npc_005] William Garcia: Idling (feeling stable) at room_0_0
+[npc_006] Robert Brown: Idling (feeling stable) at room_0_0
+[npc_007] Maria Johnson: Idling (feeling stable) at room_0_0
+[npc_008] Kenji Johnson: Idling (feeling stable) at room_0_1
+[npc_016] James Davis: Idling (feeling stable) at room_0_1
+SOCIAL: Dr. Johnson broadcasted: 'Security required for testing.' in room_0_1
+[npc_020] Dr. Johnson: Idling (feeling stable) at room_0_1
+[npc_022] Dr. Johnson: Idling (feeling stable) at room_0_1
+[npc_028] Richard Garcia: Patrolling sector (feeling stable) at room_0_1
+[npc_036] Olga Garcia: Idling (feeling stable) at room_0_1
+[npc_037] Kenji Tanaka: Patrolling sector (feeling stable) at room_0_1
+[npc_053] Maria Williams: Idling (feeling stable) at room_0_1
+[npc_055] John Ivanov: Idling (feeling stable) at room_0_1
+[npc_056] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_069] Kenji Tanaka: Idling (feeling stable) at room_0_1
+[npc_071] John Smith: Idling (feeling stable) at room_0_1
+[npc_073] Maria Johnson: Idling (feeling stable) at room_0_1
+[npc_078] Olga Williams: Idling (feeling stable) at room_0_1
+[npc_080] Dr. Tanaka: Idling (feeling stable) at room_0_1
+[npc_088] Dr. Ivanov: Patrolling sector (feeling stable) at room_0_1
+[npc_091] Maria Davis: Idling (feeling stable) at room_0_1
+[npc_099] Kenji Smith: Idling (feeling stable) at room_0_1
+[npc_106] Dr. Smith: Patrolling sector (feeling stable) at room_0_1
+[npc_108] David Ivanov: Idling (feeling stable) at room_0_1
+[npc_128] Dr. Garcia: Idling (feeling stable) at room_0_1
+[npc_133] Dr. Smith: Idling (feeling stable) at room_0_1
+[npc_141] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_144] Robert Johnson: Idling (feeling stable) at room_0_1
+[npc_145] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_148] William Williams: Idling (feeling stable) at room_0_1
+[npc_155] Dr. Smith: Patrolling sector (feeling stable) at room_0_1
+[npc_156] Olga Ivanov: Patrolling sector (feeling stable) at room_0_1
+[npc_158] Dr. Garcia: Idling (feeling stable) at room_0_1
+[npc_161] Olga Garcia: Idling (feeling stable) at room_0_1
+[npc_172] Robert Brown: Idling (feeling stable) at room_0_1
+[npc_175] Robert Brown: Idling (feeling stable) at room_0_1
+[npc_177] Maria Jones: Idling (feeling stable) at room_0_1
+[npc_180] David Jones: Idling (feeling stable) at room_0_1
+[npc_181] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_182] David Smith: Idling (feeling stable) at room_0_1
+SOCIAL: Dr. Davis broadcasted: 'Security required for testing.' in room_0_1
+[npc_183] Dr. Davis: Idling (feeling stable) at room_0_1
+[npc_194] James Garcia: Idling (feeling stable) at room_0_1
+[npc_198] James Brown: Idling (feeling stable) at room_0_1
+[npc_199] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_200] James Ivanov: Idling (feeling stable) at room_0_1
+[npc_205] Kenji Davis: Idling (feeling stable) at room_0_1
+[npc_206] Maria Ivanov: Idling (feeling stable) at room_0_1
+--- TURN 2 START ---
+[npc_001] Michael Johnson: Idling (feeling stable) at room_0_0
+[npc_002] Kenji Williams: Idling (feeling stable) at room_0_0
+[npc_004] Richard Miller: Idling (feeling stable) at room_0_0
+[npc_005] William Garcia: Idling (feeling stable) at room_0_0
+[npc_006] Robert Brown: Patrolling sector (feeling stable) at room_0_0
+[npc_007] Maria Johnson: Idling (feeling stable) at room_0_0
+[npc_009] Dr. Ivanov: Idling (feeling stable) at room_0_1
+[npc_028] Richard Garcia: Patrolling sector (feeling stable) at room_0_0
+[npc_037] Kenji Tanaka: Idling (feeling stable) at room_0_0
+[npc_043] James Brown: Idling (feeling stable) at room_0_0
+[npc_058] Dr. Garcia: Idling (feeling stable) at room_0_1
+[npc_060] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_062] John Johnson: Idling (feeling stable) at room_0_0
+[npc_063] Dr. Ivanov: Idling (feeling stable) at room_0_1
+[npc_066] William Davis: Idling (feeling stable) at room_0_1
+[npc_069] Kenji Tanaka: Idling (feeling stable) at room_0_1
+[npc_071] John Smith: Idling (feeling stable) at room_0_1
+[npc_078] Olga Williams: Patrolling sector (feeling stable) at room_0_1
+[npc_085] Richard Johnson: Idling (feeling stable) at room_0_1
+[npc_087] Kenji Miller: Idling (feeling stable) at room_0_1
+[npc_088] Dr. Ivanov: Idling (feeling stable) at room_0_0
+[npc_089] Kenji Williams: Idling (feeling stable) at room_0_1
+[npc_096] Dr. Tanaka: Idling (feeling stable) at room_0_1
+[npc_099] Kenji Smith: Patrolling sector (feeling stable) at room_0_1
+[npc_103] Maria Davis: Idling (feeling stable) at room_0_1
+[npc_105] Richard Williams: Idling (feeling stable) at room_0_1
+[npc_106] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_109] Robert Garcia: Idling (feeling stable) at room_0_1
+[npc_119] Kenji Davis: Idling (feeling stable) at room_0_1
+[npc_127] James Davis: Idling (feeling stable) at room_0_1
+[npc_129] David Brown: Idling (feeling stable) at room_0_1
+[npc_131] Olga Tanaka: Idling (feeling stable) at room_0_1
+[npc_139] Kenji Davis: Idling (feeling stable) at room_0_1
+[npc_141] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_142] James Smith: Idling (feeling stable) at room_0_1
+SOCIAL: Dr. Brown broadcasted: 'Security required for testing.' in room_0_1
+[npc_151] Dr. Brown: Patrolling sector (feeling stable) at room_0_1
+[npc_152] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_155] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_156] Olga Ivanov: Idling (feeling stable) at room_0_0
+[npc_162] Dr. Williams: Idling (feeling stable) at room_0_1
+[npc_164] David Miller: Idling (feeling stable) at room_0_0
+[npc_169] Dr. Williams: Idling (feeling stable) at room_0_1
+[npc_171] Michael Johnson: Idling (feeling stable) at room_0_1
+[npc_179] John Brown: Idling (feeling stable) at room_0_0
+[npc_181] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_183] Dr. Davis: Idling (feeling stable) at room_0_1
+[npc_185] David Jones: Idling (feeling stable) at room_0_1
+[npc_187] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_196] Olga Miller: Idling (feeling stable) at room_0_1
+[npc_204] Maria Williams: Idling (feeling stable) at room_0_1
+--- TURN 3 START ---
+[npc_001] Michael Johnson: Idling (feeling stable) at room_0_0
+[npc_002] Kenji Williams: Idling (feeling stable) at room_0_0
+[npc_004] Richard Miller: Patrolling sector (feeling stable) at room_0_0
+[npc_005] William Garcia: Patrolling sector (feeling stable) at room_0_0
+[npc_007] Maria Johnson: Patrolling sector (feeling stable) at room_0_0
+SOCIAL: Dr. Johnson broadcasted: 'Security required for testing.' in room_0_1
+[npc_013] Dr. Johnson: Idling (feeling stable) at room_0_1
+[npc_029] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_033] Michael Jones: Idling (feeling stable) at room_0_1
+[npc_034] Maria Johnson: Idling (feeling stable) at room_0_0
+[npc_037] Kenji Tanaka: Idling (feeling stable) at room_0_0
+[npc_043] James Brown: Idling (feeling stable) at room_0_0
+[npc_053] Maria Williams: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Garcia broadcasted: 'Security required for testing.' in room_0_0
+[npc_054] Dr. Garcia: Idling (feeling stable) at room_0_0
+[npc_060] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_062] John Johnson: Idling (feeling stable) at room_0_0
+[npc_068] David Williams: Idling (feeling stable) at room_0_0
+[npc_071] John Smith: Idling (feeling stable) at room_0_1
+[npc_078] Olga Williams: Idling (feeling stable) at room_0_0
+[npc_084] Richard Tanaka: Idling (feeling stable) at room_0_1
+[npc_087] Kenji Miller: Patrolling sector (feeling stable) at room_0_1
+[npc_088] Dr. Ivanov: Idling (feeling stable) at room_0_0
+[npc_095] William Brown: Idling (feeling stable) at room_0_1
+[npc_098] Robert Ivanov: Patrolling sector (feeling stable) at room_0_1
+[npc_099] Kenji Smith: Idling (feeling stable) at room_0_0
+[npc_103] Maria Davis: Idling (feeling stable) at room_0_1
+[npc_106] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_110] James Miller: Idling (feeling stable) at room_0_0
+[npc_111] Kenji Miller: Idling (feeling stable) at room_0_0
+[npc_112] Olga Garcia: Idling (feeling stable) at room_0_1
+[npc_122] Richard Tanaka: Idling (feeling stable) at room_0_0
+[npc_135] Dr. Smith: Idling (feeling stable) at room_0_1
+[npc_146] John Ivanov: Idling (feeling stable) at room_0_1
+[npc_149] Michael Brown: Patrolling sector (feeling stable) at room_0_0
+[npc_150] Richard Miller: Idling (feeling stable) at room_0_0
+[npc_151] Dr. Brown: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Tanaka broadcasted: 'Security required for testing.' in room_0_0
+[npc_152] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_154] James Tanaka: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Smith broadcasted: 'Security required for testing.' in room_0_0
+[npc_155] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_156] Olga Ivanov: Idling (feeling stable) at room_0_0
+[npc_163] Robert Garcia: Idling (feeling stable) at room_0_1
+[npc_164] David Miller: Idling (feeling stable) at room_0_0
+[npc_179] John Brown: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Tanaka broadcasted: 'Security required for testing.' in room_0_0
+[npc_187] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_190] James Davis: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Tanaka broadcasted: 'Security required for testing.' in room_0_1
+[npc_191] Dr. Tanaka: Idling (feeling stable) at room_0_1
+[npc_192] David Garcia: Patrolling sector (feeling stable) at room_0_1
+[npc_202] Maria Miller: Idling (feeling stable) at room_0_1
+[npc_203] Maria Jones: Idling (feeling stable) at room_0_0
+[npc_204] Maria Williams: Patrolling sector (feeling stable) at room_0_1
+[npc_205] Kenji Davis: Idling (feeling stable) at room_0_1
+--- TURN 4 START ---
+[npc_001] Michael Johnson: Idling (feeling stable) at room_0_0
+[npc_002] Kenji Williams: Idling (feeling stable) at room_0_0
+[npc_005] William Garcia: Idling (feeling stable) at room_0_1
+[npc_008] Kenji Johnson: Idling (feeling stable) at room_0_1
+[npc_012] Michael Johnson: Patrolling sector (feeling stable) at room_0_1
+[npc_023] Olga Johnson: Idling (feeling stable) at room_0_0
+[npc_027] Richard Smith: Idling (feeling stable) at room_0_1
+[npc_031] Maria Smith: Idling (feeling stable) at room_0_0
+[npc_034] Maria Johnson: Idling (feeling stable) at room_0_0
+[npc_037] Kenji Tanaka: Patrolling sector (feeling stable) at room_0_0
+[npc_040] Michael Jones: Idling (feeling stable) at room_0_0
+[npc_043] James Brown: Idling (feeling stable) at room_0_0
+[npc_053] Maria Williams: Idling (feeling stable) at room_0_0
+[npc_054] Dr. Garcia: Idling (feeling stable) at room_0_0
+[npc_060] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_062] John Johnson: Idling (feeling stable) at room_0_0
+[npc_067] Dr. Jones: Idling (feeling stable) at room_0_0
+[npc_068] David Williams: Idling (feeling stable) at room_0_0
+[npc_078] Olga Williams: Idling (feeling stable) at room_0_0
+[npc_080] Dr. Tanaka: Idling (feeling stable) at room_0_1
+[npc_087] Kenji Miller: Idling (feeling stable) at room_0_0
+[npc_088] Dr. Ivanov: Idling (feeling stable) at room_0_0
+[npc_093] Michael Tanaka: Idling (feeling stable) at room_0_1
+[npc_094] Kenji Brown: Idling (feeling stable) at room_0_0
+[npc_098] Robert Ivanov: Idling (feeling stable) at room_0_0
+[npc_099] Kenji Smith: Patrolling sector (feeling stable) at room_0_0
+[npc_106] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_110] James Miller: Idling (feeling stable) at room_0_0
+[npc_111] Kenji Miller: Idling (feeling stable) at room_0_0
+[npc_122] Richard Tanaka: Idling (feeling stable) at room_0_0
+[npc_126] Richard Miller: Idling (feeling stable) at room_0_0
+[npc_150] Richard Miller: Idling (feeling stable) at room_0_0
+[npc_151] Dr. Brown: Patrolling sector (feeling stable) at room_0_0
+[npc_152] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_154] James Tanaka: Idling (feeling stable) at room_0_0
+[npc_155] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_156] Olga Ivanov: Idling (feeling stable) at room_0_0
+[npc_158] Dr. Garcia: Idling (feeling stable) at room_0_0
+[npc_164] David Miller: Idling (feeling stable) at room_0_0
+[npc_165] David Brown: Idling (feeling stable) at room_0_1
+[npc_168] David Tanaka: Idling (feeling stable) at room_0_0
+[npc_169] Dr. Williams: Idling (feeling stable) at room_0_1
+[npc_179] John Brown: Idling (feeling stable) at room_0_0
+[npc_187] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_190] James Davis: Idling (feeling stable) at room_0_0
+[npc_191] Dr. Tanaka: Idling (feeling stable) at room_0_1
+[npc_192] David Garcia: Idling (feeling stable) at room_0_0
+[npc_197] Dr. Miller: Idling (feeling stable) at room_0_0
+[npc_203] Maria Jones: Idling (feeling stable) at room_0_0
+[npc_204] Maria Williams: Idling (feeling stable) at room_0_0
+--- TURN 5 START ---
+[npc_001] Michael Johnson: Patrolling sector (feeling stable) at room_0_0
+[npc_002] Kenji Williams: Idling (feeling stable) at room_0_0
+[npc_012] Michael Johnson: Idling (feeling stable) at room_0_0
+[npc_023] Olga Johnson: Idling (feeling stable) at room_0_0
+[npc_029] Robert Ivanov: Idling (feeling stable) at room_0_0
+[npc_031] Maria Smith: Idling (feeling stable) at room_0_0
+[npc_034] Maria Johnson: Idling (feeling stable) at room_0_0
+[npc_040] Michael Jones: Idling (feeling stable) at room_0_0
+[npc_043] James Brown: Idling (feeling stable) at room_0_0
+[npc_053] Maria Williams: Idling (feeling stable) at room_0_0
+[npc_054] Dr. Garcia: Idling (feeling stable) at room_0_0
+[npc_060] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_061] John Johnson: Idling (feeling stable) at room_0_0
+[npc_062] John Johnson: Idling (feeling stable) at room_0_0
+[npc_067] Dr. Jones: Idling (feeling stable) at room_0_0
+[npc_068] David Williams: Idling (feeling stable) at room_0_0
+[npc_075] James Jones: Idling (feeling stable) at room_0_0
+[npc_078] Olga Williams: Idling (feeling stable) at room_0_0
+[npc_081] William Tanaka: Idling (feeling stable) at room_0_0
+[npc_087] Kenji Miller: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Ivanov broadcasted: 'Security required for testing.' in room_0_0
+[npc_088] Dr. Ivanov: Idling (feeling stable) at room_0_0
+[npc_094] Kenji Brown: Idling (feeling stable) at room_0_0
+[npc_096] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_098] Robert Ivanov: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Smith broadcasted: 'Security required for testing.' in room_0_0
+[npc_106] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_110] James Miller: Patrolling sector (feeling stable) at room_0_0
+[npc_111] Kenji Miller: Idling (feeling stable) at room_0_0
+[npc_118] Dr. Davis: Idling (feeling stable) at room_0_0
+[npc_121] Maria Davis: Patrolling sector (feeling stable) at room_0_0
+[npc_122] Richard Tanaka: Idling (feeling stable) at room_0_0
+[npc_126] Richard Miller: Patrolling sector (feeling stable) at room_0_0
+[npc_137] Richard Tanaka: Idling (feeling stable) at room_0_0
+[npc_150] Richard Miller: Idling (feeling stable) at room_0_0
+[npc_152] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_154] James Tanaka: Idling (feeling stable) at room_0_0
+[npc_155] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_156] Olga Ivanov: Idling (feeling stable) at room_0_0
+[npc_157] James Tanaka: Idling (feeling stable) at room_0_0
+[npc_158] Dr. Garcia: Idling (feeling stable) at room_0_0
+[npc_164] David Miller: Idling (feeling stable) at room_0_0
+[npc_168] David Tanaka: Idling (feeling stable) at room_0_0
+[npc_179] John Brown: Idling (feeling stable) at room_0_0
+[npc_182] David Smith: Idling (feeling stable) at room_0_0
+[npc_187] Dr. Tanaka: Patrolling sector (feeling stable) at room_0_0
+[npc_190] James Davis: Idling (feeling stable) at room_0_0
+[npc_192] David Garcia: Idling (feeling stable) at room_0_0
+[npc_194] James Garcia: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Miller broadcasted: 'Security required for testing.' in room_0_0
+[npc_197] Dr. Miller: Idling (feeling stable) at room_0_0
+[npc_203] Maria Jones: Idling (feeling stable) at room_0_0
+[npc_204] Maria Williams: Idling (feeling stable) at room_0_0
+--- TURN 6 START ---
+[npc_002] Kenji Williams: Idling (feeling stable) at room_0_0
+[npc_012] Michael Johnson: Idling (feeling stable) at room_0_0
+[npc_023] Olga Johnson: Idling (feeling stable) at room_0_0
+[npc_029] Robert Ivanov: Idling (feeling stable) at room_0_0
+[npc_031] Maria Smith: Idling (feeling stable) at room_0_0
+[npc_034] Maria Johnson: Idling (feeling stable) at room_0_0
+[npc_040] Michael Jones: Patrolling sector (feeling stable) at room_0_0
+[npc_043] James Brown: Idling (feeling stable) at room_0_0
+[npc_053] Maria Williams: Idling (feeling stable) at room_0_0
+[npc_054] Dr. Garcia: Idling (feeling stable) at room_0_0
+[npc_060] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_061] John Johnson: Idling (feeling stable) at room_0_0
+[npc_062] John Johnson: Idling (feeling stable) at room_0_0
+[npc_067] Dr. Jones: Idling (feeling stable) at room_0_0
+[npc_068] David Williams: Patrolling sector (feeling stable) at room_0_0
+[npc_071] John Smith: Idling (feeling stable) at room_0_0
+[npc_075] James Jones: Idling (feeling stable) at room_0_0
+[npc_078] Olga Williams: Idling (feeling stable) at room_0_0
+[npc_081] William Tanaka: Patrolling sector (feeling stable) at room_0_0
+[npc_087] Kenji Miller: Idling (feeling stable) at room_0_0
+[npc_088] Dr. Ivanov: Idling (feeling stable) at room_0_0
+[npc_094] Kenji Brown: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Tanaka broadcasted: 'Security required for testing.' in room_0_0
+[npc_096] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_098] Robert Ivanov: Idling (feeling stable) at room_0_0
+[npc_106] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_111] Kenji Miller: Idling (feeling stable) at room_0_0
+[npc_117] John Ivanov: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Davis broadcasted: 'Security required for testing.' in room_0_0
+[npc_118] Dr. Davis: Idling (feeling stable) at room_0_0
+[npc_122] Richard Tanaka: Idling (feeling stable) at room_0_0
+[npc_137] Richard Tanaka: Idling (feeling stable) at room_0_0
+[npc_138] William Williams: Idling (feeling stable) at room_0_0
+[npc_149] Michael Brown: Idling (feeling stable) at room_0_0
+[npc_150] Richard Miller: Idling (feeling stable) at room_0_0
+SOCIAL: Dr. Tanaka broadcasted: 'Security required for testing.' in room_0_0
+[npc_152] Dr. Tanaka: Idling (feeling stable) at room_0_0
+[npc_154] James Tanaka: Idling (feeling stable) at room_0_0
+[npc_155] Dr. Smith: Idling (feeling stable) at room_0_0
+[npc_156] Olga Ivanov: Idling (feeling stable) at room_0_0
+[npc_157] James Tanaka: Idling (feeling stable) at room_0_0
+[npc_158] Dr. Garcia: Idling (feeling stable) at room_0_0
+[npc_164] David Miller: Idling (feeling stable) at room_0_0
+[npc_168] David Tanaka: Idling (feeling stable) at room_0_0
+[npc_179] John Brown: Idling (feeling stable) at room_0_0
+[npc_182] David Smith: Idling (feeling stable) at room_0_0
+[npc_183] Dr. Davis: Idling (feeling stable) at room_0_0
+[npc_190] James Davis: Idling (feeling stable) at room_0_0
+[npc_192] David Garcia: Idling (feeling stable) at room_0_0
+[npc_194] James Garcia: Patrolling sector (feeling stable) at room_0_0
+[npc_197] Dr. Miller: Idling (feeling stable) at room_0_0
+[npc_203] Maria Jones: Idling (feeling stable) at room_0_0
+[npc_204] Maria Williams: Idling (feeling stable) at room_0_0
+--- TURN 1 START ---
+[npc_001] Olga Garcia: Patrolling sector (feeling stable) at room_0_0
+[npc_002] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_003] Michael Ivanov: Idling (feeling stable) at room_0_0
+[npc_004] William Brown: Idling (feeling stable) at room_0_0
+[npc_005] James Davis: Idling (feeling stable) at room_0_0
+[npc_006] John Davis: Idling (feeling stable) at room_0_0
+[npc_007] David Jones: Idling (feeling stable) at room_0_0
+[npc_010] Robert Garcia: Idling (feeling stable) at room_0_1
+[npc_014] Michael Smith: Idling (feeling stable) at room_0_1
+[npc_020] Michael Tanaka: Idling (feeling stable) at room_0_1
+[npc_021] James Williams: Idling (feeling stable) at room_0_1
+[npc_025] Robert Miller: Idling (feeling stable) at room_0_1
+[npc_032] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_033] Richard Brown: Idling (feeling stable) at room_0_1
+[npc_037] John Brown: Idling (feeling stable) at room_0_1
+[npc_041] Robert Miller: Idling (feeling stable) at room_0_1
+[npc_046] James Jones: Idling (feeling stable) at room_0_1
+[npc_049] Robert Brown: Idling (feeling stable) at room_0_1
+[npc_051] Richard Garcia: Idling (feeling stable) at room_0_1
+[npc_056] Robert Garcia: Idling (feeling stable) at room_0_1
+[npc_073] Maria Johnson: Idling (feeling stable) at room_0_1
+[npc_077] Robert Smith: Idling (feeling stable) at room_0_1
+[npc_086] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_097] Olga Brown: Idling (feeling stable) at room_0_1
+[npc_100] Kenji Jones: Idling (feeling stable) at room_0_1
+[npc_106] John Brown: Idling (feeling stable) at room_0_1
+[npc_109] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_112] David Brown: Idling (feeling stable) at room_0_1
+[npc_121] William Brown: Idling (feeling stable) at room_0_1
+[npc_123] David Williams: Idling (feeling stable) at room_0_1
+[npc_125] David Miller: Patrolling sector (feeling stable) at room_0_1
+[npc_126] Michael Miller: Idling (feeling stable) at room_0_1
+[npc_136] David Ivanov: Idling (feeling stable) at room_0_1
+[npc_141] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_143] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_147] John Smith: Idling (feeling stable) at room_0_1
+[npc_148] Richard Brown: Idling (feeling stable) at room_0_1
+[npc_151] John Johnson: Idling (feeling stable) at room_0_1
+[npc_153] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_155] Robert Johnson: Patrolling sector (feeling stable) at room_0_1
+[npc_157] Kenji Miller: Idling (feeling stable) at room_0_1
+[npc_166] Kenji Jones: Idling (feeling stable) at room_0_1
+[npc_168] Olga Tanaka: Idling (feeling stable) at room_0_1
+[npc_172] Robert Miller: Patrolling sector (feeling stable) at room_0_1
+[npc_173] James Johnson: Idling (feeling stable) at room_0_1
+[npc_188] James Tanaka: Idling (feeling stable) at room_0_1
+[npc_189] Kenji Williams: Idling (feeling stable) at room_0_1
+[npc_190] Maria Miller: Idling (feeling stable) at room_0_1
+[npc_201] Michael Smith: Idling (feeling stable) at room_0_1
+[npc_204] Olga Ivanov: Idling (feeling stable) at room_0_1
+--- TURN 2 START ---
+[npc_001] Olga Garcia: Patrolling sector (feeling stable) at room_0_1
+[npc_002] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_003] Michael Ivanov: Idling (feeling stable) at room_0_0
+[npc_004] William Brown: Idling (feeling stable) at room_0_0
+[npc_005] James Davis: Idling (feeling stable) at room_0_0
+[npc_006] John Davis: Idling (feeling stable) at room_0_0
+[npc_007] David Jones: Idling (feeling stable) at room_0_0
+[npc_018] Robert Williams: Idling (feeling stable) at room_0_1
+[npc_020] Michael Tanaka: Idling (feeling stable) at room_0_1
+[npc_021] James Williams: Idling (feeling stable) at room_0_1
+[npc_025] Robert Miller: Idling (feeling stable) at room_0_1
+[npc_027] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_029] David Smith: Idling (feeling stable) at room_0_1
+[npc_032] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_033] Richard Brown: Idling (feeling stable) at room_0_1
+[npc_034] William Brown: Idling (feeling stable) at room_0_1
+[npc_037] John Brown: Idling (feeling stable) at room_0_1
+[npc_041] Robert Miller: Idling (feeling stable) at room_0_1
+[npc_046] James Jones: Patrolling sector (feeling stable) at room_0_1
+[npc_049] Robert Brown: Idling (feeling stable) at room_0_1
+[npc_051] Richard Garcia: Idling (feeling stable) at room_0_1
+[npc_056] Robert Garcia: Idling (feeling stable) at room_0_1
+[npc_057] Michael Jones: Idling (feeling stable) at room_0_1
+[npc_059] Kenji Johnson: Idling (feeling stable) at room_0_0
+[npc_077] Robert Smith: Idling (feeling stable) at room_0_1
+[npc_086] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_097] Olga Brown: Idling (feeling stable) at room_0_1
+[npc_100] Kenji Jones: Idling (feeling stable) at room_0_1
+[npc_102] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_106] John Brown: Idling (feeling stable) at room_0_1
+[npc_109] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_112] David Brown: Idling (feeling stable) at room_0_1
+[npc_113] Michael Ivanov: Idling (feeling stable) at room_0_1
+[npc_123] David Williams: Patrolling sector (feeling stable) at room_0_1
+[npc_125] David Miller: Idling (feeling stable) at room_0_0
+[npc_136] David Ivanov: Idling (feeling stable) at room_0_1
+[npc_141] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_143] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_147] John Smith: Idling (feeling stable) at room_0_1
+[npc_148] Richard Brown: Idling (feeling stable) at room_0_1
+[npc_151] John Johnson: Idling (feeling stable) at room_0_1
+[npc_157] Kenji Miller: Idling (feeling stable) at room_0_1
+[npc_166] Kenji Jones: Idling (feeling stable) at room_0_1
+[npc_168] Olga Tanaka: Idling (feeling stable) at room_0_1
+[npc_172] Robert Miller: Idling (feeling stable) at room_0_0
+[npc_173] James Johnson: Idling (feeling stable) at room_0_1
+[npc_188] James Tanaka: Idling (feeling stable) at room_0_1
+[npc_190] Maria Miller: Idling (feeling stable) at room_0_1
+[npc_201] Michael Smith: Idling (feeling stable) at room_0_1
+[npc_204] Olga Ivanov: Idling (feeling stable) at room_0_1
+--- TURN 3 START ---
+[npc_001] Olga Garcia: Idling (feeling stable) at room_0_0
+[npc_002] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_003] Michael Ivanov: Idling (feeling stable) at room_0_0
+[npc_004] William Brown: Idling (feeling stable) at room_0_0
+[npc_005] James Davis: Idling (feeling stable) at room_0_0
+[npc_006] John Davis: Idling (feeling stable) at room_0_0
+[npc_007] David Jones: Idling (feeling stable) at room_0_0
+[npc_008] Robert Smith: Idling (feeling stable) at room_0_1
+[npc_010] Robert Garcia: Idling (feeling stable) at room_0_1
+[npc_020] Michael Tanaka: Idling (feeling stable) at room_0_1
+[npc_021] James Williams: Idling (feeling stable) at room_0_1
+[npc_027] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_029] David Smith: Idling (feeling stable) at room_0_1
+[npc_032] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_033] Richard Brown: Idling (feeling stable) at room_0_1
+[npc_041] Robert Miller: Idling (feeling stable) at room_0_1
+[npc_046] James Jones: Idling (feeling stable) at room_0_0
+[npc_049] Robert Brown: Idling (feeling stable) at room_0_1
+[npc_051] Richard Garcia: Idling (feeling stable) at room_0_1
+[npc_056] Robert Garcia: Idling (feeling stable) at room_0_1
+[npc_057] Michael Jones: Idling (feeling stable) at room_0_1
+[npc_059] Kenji Johnson: Idling (feeling stable) at room_0_0
+[npc_063] Olga Johnson: Idling (feeling stable) at room_0_1
+[npc_073] Maria Johnson: Idling (feeling stable) at room_0_1
+[npc_076] Robert Williams: Idling (feeling stable) at room_0_1
+[npc_077] Robert Smith: Idling (feeling stable) at room_0_1
+[npc_086] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_100] Kenji Jones: Idling (feeling stable) at room_0_1
+[npc_102] Richard Jones: Patrolling sector (feeling stable) at room_0_1
+[npc_103] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_106] John Brown: Idling (feeling stable) at room_0_1
+[npc_112] David Brown: Idling (feeling stable) at room_0_1
+[npc_113] Michael Ivanov: Idling (feeling stable) at room_0_1
+[npc_121] William Brown: Idling (feeling stable) at room_0_1
+[npc_123] David Williams: Idling (feeling stable) at room_0_0
+[npc_125] David Miller: Idling (feeling stable) at room_0_0
+[npc_126] Michael Miller: Idling (feeling stable) at room_0_1
+[npc_136] David Ivanov: Idling (feeling stable) at room_0_1
+[npc_141] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_143] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_151] John Johnson: Idling (feeling stable) at room_0_1
+[npc_157] Kenji Miller: Idling (feeling stable) at room_0_1
+[npc_167] Kenji Davis: Idling (feeling stable) at room_0_1
+[npc_172] Robert Miller: Patrolling sector (feeling stable) at room_0_0
+[npc_173] James Johnson: Idling (feeling stable) at room_0_1
+[npc_188] James Tanaka: Idling (feeling stable) at room_0_1
+[npc_189] Kenji Williams: Idling (feeling stable) at room_0_1
+[npc_190] Maria Miller: Idling (feeling stable) at room_0_1
+[npc_192] Maria Jones: Idling (feeling stable) at room_0_1
+[npc_204] Olga Ivanov: Idling (feeling stable) at room_0_1
+--- TURN 4 START ---
+[npc_001] Olga Garcia: Idling (feeling stable) at room_0_0
+[npc_002] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_003] Michael Ivanov: Idling (feeling stable) at room_0_0
+[npc_004] William Brown: Idling (feeling stable) at room_0_0
+[npc_005] James Davis: Idling (feeling stable) at room_0_0
+[npc_006] John Davis: Idling (feeling stable) at room_0_0
+[npc_007] David Jones: Idling (feeling stable) at room_0_0
+[npc_008] Robert Smith: Idling (feeling stable) at room_0_1
+[npc_010] Robert Garcia: Patrolling sector (feeling stable) at room_0_1
+[npc_014] Michael Smith: Idling (feeling stable) at room_0_1
+[npc_020] Michael Tanaka: Idling (feeling stable) at room_0_1
+[npc_027] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_033] Richard Brown: Idling (feeling stable) at room_0_1
+[npc_034] William Brown: Idling (feeling stable) at room_0_1
+[npc_041] Robert Miller: Idling (feeling stable) at room_0_1
+[npc_046] James Jones: Idling (feeling stable) at room_0_0
+[npc_049] Robert Brown: Patrolling sector (feeling stable) at room_0_1
+[npc_051] Richard Garcia: Idling (feeling stable) at room_0_1
+[npc_056] Robert Garcia: Idling (feeling stable) at room_0_1
+[npc_057] Michael Jones: Idling (feeling stable) at room_0_1
+[npc_059] Kenji Johnson: Idling (feeling stable) at room_0_0
+[npc_063] Olga Johnson: Idling (feeling stable) at room_0_1
+[npc_073] Maria Johnson: Idling (feeling stable) at room_0_1
+[npc_076] Robert Williams: Idling (feeling stable) at room_0_1
+[npc_077] Robert Smith: Idling (feeling stable) at room_0_1
+[npc_086] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_097] Olga Brown: Idling (feeling stable) at room_0_1
+[npc_100] Kenji Jones: Idling (feeling stable) at room_0_1
+[npc_102] Richard Jones: Idling (feeling stable) at room_0_0
+[npc_103] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_106] John Brown: Idling (feeling stable) at room_0_1
+[npc_113] Michael Ivanov: Idling (feeling stable) at room_0_1
+[npc_121] William Brown: Idling (feeling stable) at room_0_1
+[npc_123] David Williams: Idling (feeling stable) at room_0_0
+[npc_125] David Miller: Idling (feeling stable) at room_0_0
+[npc_126] Michael Miller: Idling (feeling stable) at room_0_1
+[npc_136] David Ivanov: Idling (feeling stable) at room_0_1
+[npc_143] Richard Jones: Patrolling sector (feeling stable) at room_0_1
+[npc_147] John Smith: Idling (feeling stable) at room_0_1
+[npc_151] John Johnson: Idling (feeling stable) at room_0_1
+[npc_153] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_166] Kenji Jones: Idling (feeling stable) at room_0_1
+[npc_167] Kenji Davis: Idling (feeling stable) at room_0_1
+[npc_168] Olga Tanaka: Patrolling sector (feeling stable) at room_0_1
+[npc_171] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_172] Robert Miller: Patrolling sector (feeling stable) at room_0_1
+[npc_188] James Tanaka: Idling (feeling stable) at room_0_1
+[npc_190] Maria Miller: Idling (feeling stable) at room_0_1
+[npc_201] Michael Smith: Idling (feeling stable) at room_0_1
+[npc_204] Olga Ivanov: Idling (feeling stable) at room_0_1
+--- TURN 5 START ---
+[npc_001] Olga Garcia: Idling (feeling stable) at room_0_0
+[npc_002] Robert Jones: Idling (feeling stable) at room_0_0
+[npc_003] Michael Ivanov: Idling (feeling stable) at room_0_0
+[npc_004] William Brown: Idling (feeling stable) at room_0_0
+[npc_005] James Davis: Idling (feeling stable) at room_0_0
+[npc_006] John Davis: Idling (feeling stable) at room_0_0
+[npc_007] David Jones: Idling (feeling stable) at room_0_0
+[npc_014] Michael Smith: Idling (feeling stable) at room_0_1
+[npc_018] Robert Williams: Idling (feeling stable) at room_0_1
+[npc_020] Michael Tanaka: Idling (feeling stable) at room_0_1
+[npc_021] James Williams: Idling (feeling stable) at room_0_1
+[npc_027] Richard Jones: Idling (feeling stable) at room_0_1
+[npc_029] David Smith: Idling (feeling stable) at room_0_1
+[npc_032] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_034] William Brown: Idling (feeling stable) at room_0_1
+[npc_037] John Brown: Idling (feeling stable) at room_0_0
+[npc_041] Robert Miller: Idling (feeling stable) at room_0_1
+[npc_044] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_046] James Jones: Idling (feeling stable) at room_0_0
+[npc_049] Robert Brown: Idling (feeling stable) at room_0_0
+[npc_051] Richard Garcia: Idling (feeling stable) at room_0_1
+[npc_056] Robert Garcia: Patrolling sector (feeling stable) at room_0_1
+[npc_057] Michael Jones: Idling (feeling stable) at room_0_1
+[npc_059] Kenji Johnson: Idling (feeling stable) at room_0_0
+[npc_063] Olga Johnson: Idling (feeling stable) at room_0_1
+[npc_076] Robert Williams: Idling (feeling stable) at room_0_1
+[npc_077] Robert Smith: Idling (feeling stable) at room_0_1
+[npc_084] Richard Davis: Idling (feeling stable) at room_0_1
+[npc_086] Maria Tanaka: Patrolling sector (feeling stable) at room_0_1
+[npc_097] Olga Brown: Patrolling sector (feeling stable) at room_0_1
+[npc_102] Richard Jones: Idling (feeling stable) at room_0_0
+[npc_103] Robert Ivanov: Idling (feeling stable) at room_0_1
+[npc_106] John Brown: Idling (feeling stable) at room_0_1
+[npc_109] Maria Tanaka: Idling (feeling stable) at room_0_1
+[npc_121] William Brown: Idling (feeling stable) at room_0_1
+[npc_123] David Williams: Patrolling sector (feeling stable) at room_0_0
+[npc_125] David Miller: Idling (feeling stable) at room_0_0
+[npc_141] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_143] Richard Jones: Idling (feeling stable) at room_0_0
+[npc_147] John Smith: Idling (feeling stable) at room_0_1
+[npc_148] Richard Brown: Idling (feeling stable) at room_0_1
+[npc_151] John Johnson: Idling (feeling stable) at room_0_1
+[npc_166] Kenji Jones: Idling (feeling stable) at room_0_1
+[npc_171] Olga Jones: Idling (feeling stable) at room_0_1
+[npc_173] James Johnson: Idling (feeling stable) at room_0_1
+[npc_188] James Tanaka: Idling (feeling stable) at room_0_1
+[npc_190] Maria Miller: Idling (feeling stable) at room_0_1
+[npc_192] Maria Jones: Idling (feeling stable) at room_0_1
+[npc_201] Michael Smith: Idling (feeling stable) at room_0_1
+[npc_204] Olga Ivanov: Idling (feeling stable) at room_0_1

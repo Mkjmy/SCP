@@ -1,23 +1,23 @@
 {
   "id": "npc_053",
   "bio": {
-    "full_name": "Christopher O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 29,
-    "blood_type": "A-",
-    "genetic_stability": 0.985,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Joseph Smith",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.851,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
     "height_cm": 193,
-    "weight_kg": 94,
-    "build": "Lithe",
+    "weight_kg": 91,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Grey",
+      "hair": "White, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Engineering": 52,
-      "Perception": 86,
-      "Hacking": 68
+      "Firearms": 86,
+      "Medicine": 51,
+      "Persuasion": 78
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 35,
-      "extraversion": 58,
-      "agreeableness": 89,
-      "neuroticism": 85
+      "openness": 13,
+      "conscientiousness": 100,
+      "extraversion": 53,
+      "agreeableness": 62,
+      "neuroticism": 59
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
+      "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_062",
   "bio": {
-    "full_name": "Mark Bakker",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 37,
-    "blood_type": "AB+",
-    "genetic_stability": 0.886,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Robert Davis",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "B-",
+    "genetic_stability": 0.881,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 59,
+    "height_cm": 191,
+    "weight_kg": 105,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
+      "hair": "Blonde, Wild and unkempt",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Firearms": 24,
-      "Athletics": 29,
-      "Stealth": 28
+      "Occult_Research": 45,
+      "Hacking": 86,
+      "Stealth": 91
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
     "iq": 157,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 72,
-      "extraversion": 60,
-      "agreeableness": 46,
-      "neuroticism": 31
+      "openness": 51,
+      "conscientiousness": 84,
+      "extraversion": 26,
+      "agreeableness": 38,
+      "neuroticism": 30
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

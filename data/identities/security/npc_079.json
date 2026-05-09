@@ -1,23 +1,23 @@
 {
   "id": "npc_079",
   "bio": {
-    "full_name": "Sven O'Connor",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 31,
-    "blood_type": "AB-",
-    "genetic_stability": 0.91,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Lars Schmidt",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.86,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 102,
-    "build": "Overweight",
+    "height_cm": 162,
+    "weight_kg": 72,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 14,
-      "Perception": 61,
-      "Hacking": 71
+      "Perception": 82,
+      "Athletics": 73,
+      "Engineering": 68
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 31,
-      "extraversion": 3,
-      "agreeableness": 12,
-      "neuroticism": 70
+      "openness": 73,
+      "conscientiousness": 23,
+      "extraversion": 16,
+      "agreeableness": 43,
+      "neuroticism": 78
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

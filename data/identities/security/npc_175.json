@@ -1,60 +1,60 @@
 {
   "id": "npc_175",
   "bio": {
-    "full_name": "Joshua Muller",
+    "full_name": "Mark Gupta",
     "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 53,
-    "blood_type": "A-",
-    "genetic_stability": 0.93,
+    "orientation": "Heterosexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.867,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 79,
-    "build": "Athletic",
+    "height_cm": 188,
+    "weight_kg": 96,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 50,
-      "Hacking": 71,
-      "Firearms": 91
+      "Stealth": 42,
+      "Hacking": 60,
+      "Firearms": 53
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 32,
-      "conscientiousness": 58,
-      "extraversion": 67,
-      "agreeableness": 0,
-      "neuroticism": 68
+      "openness": 64,
+      "conscientiousness": 19,
+      "extraversion": 99,
+      "agreeableness": 4,
+      "neuroticism": 45
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

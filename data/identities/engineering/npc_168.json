@@ -1,60 +1,60 @@
 {
   "id": "npc_168",
   "bio": {
-    "full_name": "Richard Sato",
-    "gender": "Male",
+    "full_name": "Christopher Tanaka",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 43,
-    "blood_type": "AB-",
-    "genetic_stability": 0.967,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.901,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 58,
-    "build": "Stocky",
+    "height_cm": 176,
+    "weight_kg": 107,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 91,
-      "Firearms": 12,
-      "Persuasion": 94
+      "Perception": 44,
+      "Hacking": 16,
+      "Firearms": 55
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 80,
-      "conscientiousness": 13,
-      "extraversion": 32,
-      "agreeableness": 43,
-      "neuroticism": 94
+      "openness": 37,
+      "conscientiousness": 100,
+      "extraversion": 3,
+      "agreeableness": 96,
+      "neuroticism": 51
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

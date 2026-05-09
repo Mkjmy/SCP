@@ -1,60 +1,60 @@
 {
   "id": "npc_046",
   "bio": {
-    "full_name": "Robert O'Connor",
-    "gender": "Female",
+    "full_name": "John Ivanov",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 64,
+    "age": 47,
     "blood_type": "A-",
-    "genetic_stability": 0.862,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.942,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 55,
-    "build": "Lithe",
+    "height_cm": 177,
+    "weight_kg": 68,
+    "build": "Athletic",
     "physical_features": {
       "hair": "Dyed green, Pixie cut",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Engineering": 11,
-      "Perception": 23,
-      "Firearms": 67
+      "Stealth": 84,
+      "Engineering": 20,
+      "Firearms": 10
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 78,
-      "extraversion": 58,
-      "agreeableness": 60,
-      "neuroticism": 24
+      "openness": 16,
+      "conscientiousness": 85,
+      "extraversion": 88,
+      "agreeableness": 10,
+      "neuroticism": 27
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "None"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

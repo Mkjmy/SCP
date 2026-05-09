@@ -1,21 +1,21 @@
 {
   "id": "npc_049",
   "bio": {
-    "full_name": "William Johnson",
+    "full_name": "Richard Johnson",
     "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 43,
-    "blood_type": "O+",
-    "genetic_stability": 0.956,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "A-",
+    "genetic_stability": 0.974,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 53,
-    "build": "Overweight",
+    "height_cm": 187,
+    "weight_kg": 51,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Smokes heavily"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 61,
-      "Occult_Research": 87,
-      "Firearms": 32
+      "Persuasion": 38,
+      "Occult_Research": 11,
+      "Hacking": 53
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 43,
-      "conscientiousness": 82,
-      "extraversion": 47,
-      "agreeableness": 32,
-      "neuroticism": 82
+      "openness": 93,
+      "conscientiousness": 21,
+      "extraversion": 36,
+      "agreeableness": 59,
+      "neuroticism": 61
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

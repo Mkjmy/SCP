@@ -1,60 +1,60 @@
 {
   "id": "npc_166",
   "bio": {
-    "full_name": "Olga Wong",
-    "gender": "Agender",
+    "full_name": "David Smith",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 42,
-    "blood_type": "AB-",
-    "genetic_stability": 0.898,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.968,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 82,
+    "height_cm": 168,
+    "weight_kg": 97,
     "build": "Average",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Amber",
+      "hair": "Silver, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Stealth": 22,
-      "Firearms": 90,
-      "Perception": 24
+      "Containment_Logic": 76,
+      "Firearms": 31,
+      "Engineering": 44
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 36,
-      "conscientiousness": 50,
-      "extraversion": 25,
-      "agreeableness": 20,
-      "neuroticism": 16
+      "openness": 19,
+      "conscientiousness": 31,
+      "extraversion": 26,
+      "agreeableness": 22,
+      "neuroticism": 65
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

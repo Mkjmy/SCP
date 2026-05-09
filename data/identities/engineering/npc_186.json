@@ -1,60 +1,60 @@
 {
   "id": "npc_186",
   "bio": {
-    "full_name": "Charles Smith",
-    "gender": "Non-binary",
+    "full_name": "Chen Schmidt",
+    "gender": "Female",
     "orientation": "Homosexual",
-    "age": 55,
-    "blood_type": "O-",
-    "genetic_stability": 0.93,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.995,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 50,
+    "height_cm": 166,
+    "weight_kg": 76,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
+      "hair": "Grey, Pixie cut",
       "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 70,
-      "Stealth": 46,
-      "Medicine": 23
+      "Containment_Logic": 74,
+      "Athletics": 23,
+      "Persuasion": 71
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 87,
-      "extraversion": 37,
-      "agreeableness": 46,
-      "neuroticism": 63
+      "openness": 25,
+      "conscientiousness": 34,
+      "extraversion": 53,
+      "agreeableness": 79,
+      "neuroticism": 2
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

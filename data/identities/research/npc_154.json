@@ -1,23 +1,23 @@
 {
   "id": "npc_154",
   "bio": {
-    "full_name": "Richard Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 56,
-    "blood_type": "AB+",
-    "genetic_stability": 0.854,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Robert Vasiliev",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.873,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 61,
-    "build": "Slender",
+    "height_cm": 159,
+    "weight_kg": 106,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Amber",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Hacking": 84,
-      "Perception": 64,
-      "Firearms": 38
+      "Occult_Research": 85,
+      "Perception": 30,
+      "Hacking": 56
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 42,
-      "conscientiousness": 68,
-      "extraversion": 100,
-      "agreeableness": 87,
-      "neuroticism": 4
+      "openness": 68,
+      "conscientiousness": 88,
+      "extraversion": 52,
+      "agreeableness": 29,
+      "neuroticism": 10
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

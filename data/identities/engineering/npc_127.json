@@ -1,23 +1,23 @@
 {
   "id": "npc_127",
   "bio": {
-    "full_name": "Olga Kovacs",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 41,
-    "blood_type": "B+",
-    "genetic_stability": 0.981,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Donald Ivanov",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 50,
+    "blood_type": "B-",
+    "genetic_stability": 0.901,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 105,
-    "build": "Average",
+    "height_cm": 196,
+    "weight_kg": 64,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Deep brown",
+      "hair": "Black, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 32,
-      "Medicine": 31,
-      "Athletics": 29
+      "Containment_Logic": 49,
+      "Perception": 68,
+      "Hacking": 34
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 58,
-      "extraversion": 86,
-      "agreeableness": 51,
-      "neuroticism": 96
+      "openness": 37,
+      "conscientiousness": 22,
+      "extraversion": 55,
+      "agreeableness": 81,
+      "neuroticism": 7
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

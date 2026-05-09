@@ -1,23 +1,23 @@
 {
   "id": "npc_169",
   "bio": {
-    "full_name": "Arjun Miller",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 43,
-    "blood_type": "B+",
-    "genetic_stability": 0.948,
+    "full_name": "Christopher Tanaka",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "AB+",
+    "genetic_stability": 0.861,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 108,
-    "build": "Average",
+    "height_cm": 166,
+    "weight_kg": 66,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Bald",
-      "eyes": "Deep brown",
+      "hair": "Brown, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Engineering": 66,
-      "Occult_Research": 24,
-      "Containment_Logic": 47
+      "Athletics": 33,
+      "Containment_Logic": 55,
+      "Occult_Research": 64
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 46,
-      "extraversion": 17,
-      "agreeableness": 74,
-      "neuroticism": 34
+      "openness": 33,
+      "conscientiousness": 93,
+      "extraversion": 80,
+      "agreeableness": 61,
+      "neuroticism": 93
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_138",
   "bio": {
-    "full_name": "Yuki Kovacs",
+    "full_name": "Robert Tanaka",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 41,
-    "blood_type": "B+",
-    "genetic_stability": 0.989,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "O+",
+    "genetic_stability": 0.925,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 95,
-    "build": "Overweight",
+    "height_cm": 160,
+    "weight_kg": 90,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "White, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Stealth": 14,
-      "Hacking": 32,
-      "Occult_Research": 33
+      "Hacking": 85,
+      "Engineering": 70,
+      "Persuasion": 78
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 26,
-      "extraversion": 14,
-      "agreeableness": 41,
-      "neuroticism": 55
+      "openness": 34,
+      "conscientiousness": 95,
+      "extraversion": 66,
+      "agreeableness": 66,
+      "neuroticism": 76
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.4
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

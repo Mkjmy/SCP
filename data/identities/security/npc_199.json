@@ -1,60 +1,60 @@
 {
   "id": "npc_199",
   "bio": {
-    "full_name": "Arjun Wong",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 50,
+    "full_name": "Maria Wong",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 29,
     "blood_type": "O+",
-    "genetic_stability": 0.937,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.987,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 58,
-    "build": "Slender",
+    "height_cm": 192,
+    "weight_kg": 109,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Red, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 25,
-      "Athletics": 47,
-      "Stealth": 47
+      "Occult_Research": 22,
+      "Perception": 16,
+      "Hacking": 83
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 112,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 34,
-      "extraversion": 31,
-      "agreeableness": 77,
-      "neuroticism": 73
+      "openness": 28,
+      "conscientiousness": 20,
+      "extraversion": 54,
+      "agreeableness": 52,
+      "neuroticism": 40
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

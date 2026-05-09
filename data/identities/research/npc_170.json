@@ -1,23 +1,23 @@
 {
   "id": "npc_170",
   "bio": {
-    "full_name": "David Tanaka",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 61,
-    "blood_type": "O-",
-    "genetic_stability": 0.855,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Mark Brown",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.871,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 60,
-    "build": "Overweight",
+    "height_cm": 172,
+    "weight_kg": 55,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Grey",
+      "hair": "White, Messy",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Hacking": 75,
-      "Engineering": 95,
-      "Persuasion": 25
+      "Persuasion": 36,
+      "Perception": 73,
+      "Engineering": 64
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 54,
-      "extraversion": 54,
-      "agreeableness": 17,
-      "neuroticism": 91
+      "openness": 96,
+      "conscientiousness": 36,
+      "extraversion": 20,
+      "agreeableness": 51,
+      "neuroticism": 47
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

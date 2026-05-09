@@ -1,23 +1,23 @@
 {
   "id": "npc_148",
   "bio": {
-    "full_name": "Michael Brown",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 58,
-    "blood_type": "AB+",
-    "genetic_stability": 0.962,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Joseph Tanaka",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.991,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 99,
-    "build": "Heavily Muscular",
+    "height_cm": 166,
+    "weight_kg": 72,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 87,
-      "Persuasion": 40,
-      "Medicine": 20
+      "Medicine": 61,
+      "Hacking": 83,
+      "Containment_Logic": 41
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 36,
-      "extraversion": 17,
-      "agreeableness": 2,
-      "neuroticism": 29
+      "openness": 19,
+      "conscientiousness": 52,
+      "extraversion": 48,
+      "agreeableness": 87,
+      "neuroticism": 23
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

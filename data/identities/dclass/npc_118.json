@@ -1,23 +1,23 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "Mark Davis",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 38,
-    "blood_type": "A+",
-    "genetic_stability": 0.854,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "William Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.98,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 85,
-    "build": "Stocky",
+    "height_cm": 193,
+    "weight_kg": 84,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Grey",
+      "hair": "Red, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 89,
-      "Stealth": 35,
-      "Engineering": 56
+      "Stealth": 86,
+      "Medicine": 63,
+      "Engineering": 67
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 40,
-      "extraversion": 45,
-      "agreeableness": 33,
-      "neuroticism": 43
+      "openness": 49,
+      "conscientiousness": 97,
+      "extraversion": 23,
+      "agreeableness": 9,
+      "neuroticism": 78
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

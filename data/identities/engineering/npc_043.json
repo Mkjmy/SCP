@@ -1,60 +1,60 @@
 {
   "id": "npc_043",
   "bio": {
-    "full_name": "Matthew Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 43,
-    "blood_type": "B+",
-    "genetic_stability": 0.92,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Elena Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 108,
-    "build": "Average",
+    "height_cm": 185,
+    "weight_kg": 75,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "White, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 95,
-      "Athletics": 33,
-      "Engineering": 81
+      "Athletics": 16,
+      "Perception": 11,
+      "Firearms": 70
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 4,
-      "extraversion": 6,
-      "agreeableness": 34,
-      "neuroticism": 82
+      "openness": 20,
+      "conscientiousness": 85,
+      "extraversion": 34,
+      "agreeableness": 39,
+      "neuroticism": 94
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

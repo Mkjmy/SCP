@@ -1,23 +1,23 @@
 {
   "id": "npc_172",
   "bio": {
-    "full_name": "Olga Miller",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 22,
-    "blood_type": "O-",
-    "genetic_stability": 0.952,
+    "full_name": "Arjun Muller",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "A+",
+    "genetic_stability": 0.972,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 73,
-    "build": "Average",
+    "height_cm": 168,
+    "weight_kg": 82,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Pixie cut",
+      "hair": "Brown, Pixie cut",
       "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 24,
-      "Containment_Logic": 26,
-      "Medicine": 54
+      "Firearms": 78,
+      "Athletics": 38,
+      "Perception": 17
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 28,
-      "extraversion": 59,
-      "agreeableness": 70,
-      "neuroticism": 88
+      "openness": 34,
+      "conscientiousness": 80,
+      "extraversion": 87,
+      "agreeableness": 13,
+      "neuroticism": 14
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

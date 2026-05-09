@@ -1,20 +1,32 @@
 import random
 
-# --- Constants for Body Part System ---
-BODY_PARTS = ['head', 'torso', 'left_arm', 'right_arm', 'left_leg', 'right_leg']
-DAMAGE_STATES = {
-    'uninjured': 0,
-    'minor_injury': 1,
-    'major_injury': 2,
-    'severe_injury': 3 # e.g., 'broken'
+# --- Master Anatomy System ---
+ANATOMY = {
+    "Nervous/Skeletal": ['brain', 'skull', 'spine', 'ribs'],
+    "Internal Organs": ['heart', 'lungs', 'stomach', 'liver', 'kidneys'],
+    "Upper Limbs": ['left_shoulder', 'left_arm', 'left_hand', 'right_shoulder', 'right_arm', 'right_hand'],
+    "Lower Limbs": ['left_hip', 'left_leg', 'left_foot', 'right_hip', 'right_leg', 'right_foot']
 }
 
-# Debuffs based on damage state severity
-# This is a base value, actual debuff might depend on the attribute/action
+# Flattened list for quick selection
+BODY_PARTS = [part for category in ANATOMY.values() for part in category]
+
+DAMAGE_STATES = {
+    'intact': 0,
+    'bruised': 1,
+    'bleeding': 2,
+    'fractured': 3,
+    'ruptured': 4,
+    'severed': 5 # Or 'failed' for organs
+}
+
+# Simplified debuff mapping for the complex system
 DEBUFF_VALUES = {
-    'minor_injury': 1,
-    'major_injury': 2,
-    'severe_injury': 3
+    'bruised': 0,
+    'bleeding': 1,
+    'fractured': 2,
+    'ruptured': 4,
+    'severed': 6
 }
 
 class Player:
@@ -25,11 +37,11 @@ class Player:
                  attributes=None, knowledge=None, origin="Unknown", personality="Determined", specialty="Survival"):
         
         self.location = start_location
-        self.inventory = [] # This is now the backpack
+        self.inventory = [] 
         self.role = role
         self.name = name
         self.clearance_level = clearance_level
-        self.level = 1 # Added for debug display
+        self.level = 1
         
         self.left_hand = None
         self.right_hand = None
@@ -51,31 +63,34 @@ class Player:
             'intelligence': random.randint(3, 6)
         }
         
-        # Body Part Damage System
-        self.body_parts = {part: 'uninjured' for part in BODY_PARTS}
+        # --- Expanded Body Part System ---
+        self.body_parts = {}
+        for category in ANATOMY.values():
+            for part in category:
+                self.body_parts[part] = 'intact'
 
         # Skill & Knowledge System
         self.knowledge = set(knowledge) if knowledge is not None else set()
+        self.identified_npc_ids = set()
 
-        # --- New Primitive Engine Concepts ---
-        self.mind_states = set() # e.g., 'terrified', 'obsessed'
-        self.active_rules = {} # e.g., {'stamina_cost_multiplier': 2.0}
+        # --- Primitive Engine Concepts ---
+        self.mind_states = set() 
+        self.active_rules = {} 
         self.perception = {
-            "attention": None, # Current target of attention
-            "awareness": {}, # {entity_id: awareness_level}
-            "memory": {}, # {entity_id: information}
-            "memory_persistence": {} # {entity_id: duration}
+            "attention": None,
+            "awareness": {},
+            "memory": {},
+            "memory_persistence": {}
         }
 
-        # Additional descriptive attributes, might not be configurable initially but good to have
         self.origin = origin
         self.personality = personality
         self.specialty = specialty
-
-    def get_description(self, debug=False):
-        """Returns a string with the player's details, including stats."""
-        if not debug:
-            details = [
+        self.identified_npc_ids = set()
+        
+        # --- Combat State ---
+        self.combat_momentum = 0 # Positive = Win streak, Negative = Loss streak
+        self.total_kills = 0
                 f"  Name: {self.name} ({self.role})",
                 f"\n  Hands:",
                 f"    Left: {self.left_hand if self.left_hand else 'Empty'}",
@@ -85,33 +100,71 @@ class Player:
         else:
             details = [
                 f"  Name: {self.name} ({self.role})",
-                f"  Location ID: {self.location}",
-                f"  Level: {self.level}",
-                f"  Clearance Level: {self.clearance_level}",
-                f"  Health: {self.health}/{self.max_health}",
-                f"  Stamina: {self.stamina}/{self.max_stamina}",
-                f"  Morale: {self.morale}/{self.max_morale}",
-                f"  Sanity: {self.sanity}/{self.max_sanity}",
-                f"  Attributes:",
-                f"    Strength: {self.attributes['strength']}",
-                f"    Dexterity: {self.attributes['dexterity']}",
-                f"    Intelligence: {self.attributes['intelligence']}",
-                f"\n  Hands:",
-                f"    Left: {self.left_hand if self.left_hand else 'Empty'}",
-                f"    Right: {self.right_hand if self.right_hand else 'Empty'}",
-                f"\n  Backpack: {self.inventory if self.inventory else 'Empty'}"
+                f"  Attributes: {self.attributes}",
+                f"  Anatomy Status: {self.get_injury_status()}"
             ]
 
         injury_status = self.get_injury_status()
         if injury_status:
-            details.append("\n  Injuries:")
+            details.append("\n  Physical Trauma:")
             details.extend([f"    - {status}" for status in injury_status])
 
-        if self.knowledge:
-            details.append("\n  Knowledge:")
-            details.extend([f"    - {k.replace('_', ' ').title()}" for k in self.knowledge])
-
         return "\n".join(details)
+
+    def apply_injury(self, part, severity='bruised'):
+        """Applies damage to a specific anatomical part or organ."""
+        if part not in self.body_parts:
+            return f"Invalid anatomical target: {part}"
+
+        current_level = DAMAGE_STATES[self.body_parts[part]]
+        new_level = DAMAGE_STATES[severity]
+
+        if new_level > current_level:
+            for state, level in DAMAGE_STATES.items():
+                if level == new_level:
+                    self.body_parts[part] = state
+                    return f"CRITICAL: Your {part.replace('_', ' ')} is now {state.upper()}."
+        return f"Your {part.replace('_', ' ')} is already in {self.body_parts[part]} condition."
+
+    def is_incapacitated(self):
+        """Checks for systemic failure or critical organ trauma."""
+        # 1. Systemic failure
+        if self.health < 10:
+            return True, "Your circulatory system is collapsing. You lack the strength to even crawl."
+        
+        # 2. Critical Organ Failure
+        if self.body_parts['brain'] in ['ruptured', 'severed']:
+            return True, "Neural activity is erratic. You have lost all motor control."
+        if self.body_parts['heart'] in ['ruptured', 'severed']:
+            return True, "Your heart has stopped. The world is fading fast."
+        if self.body_parts['spine'] in ['fractured', 'ruptured', 'severed']:
+            return True, "Your nervous system is severed at the spine. You are paralyzed."
+            
+        # 3. Accumulated Trauma
+        major_trauma = 0
+        for status in self.body_parts.values():
+            if DAMAGE_STATES[status] >= 3: # Fractured or worse
+                major_trauma += 1
+        
+        if major_trauma >= 5:
+            return True, "The sheer scale of your internal injuries has forced your body into shock."
+
+        return False, ""
+
+    def get_debuff(self, attribute=None, action_type=None):
+        """Calculates total debuff from complex injuries."""
+        total = 0
+        for part, status in self.body_parts.items():
+            val = DEBUFF_VALUES.get(status, 0)
+            if attribute == 'strength' and ('arm' in part or 'shoulder' in part or 'spine' in part):
+                total += val
+            if attribute == 'dexterity' and ('hand' in part or 'leg' in part or 'foot' in part):
+                total += val
+            if action_type == 'run' and ('leg' in part or 'foot' in part or 'lungs' in part):
+                total += val * 2
+            if action_type == 'attack' and ('arm' in part or 'hand' in part or 'shoulder' in part):
+                total += val * 2
+        return total
 
     def equip_item(self, item_name, hand):
         """Moves an item from inventory to a hand."""
@@ -246,8 +299,10 @@ class Player:
         return injuries
 
     def is_part_severely_injured(self, part):
-        """Checks if a specific body part has a severe injury."""
-        return DAMAGE_STATES.get(self.body_parts.get(part, 'uninjured')) >= DAMAGE_STATES['severe_injury']
+        """Checks if a specific body part has a severe injury (fractured or worse)."""
+        # Threshold: Fractured (level 3) is considered severe for basic action blocking
+        current_status = self.body_parts.get(part, 'intact')
+        return DAMAGE_STATES.get(current_status, 0) >= DAMAGE_STATES['fractured']
 
     def reduce_attribute(self, attribute, amount):
         """Reduces a specific base attribute. Useful for penalties after losing fights."""
@@ -257,3 +312,18 @@ class Player:
             if self.attributes[attribute] < old_val:
                 return f"Your {attribute.capitalize()} has decreased to {self.attributes[attribute]} due to your injuries."
         return ""
+
+    def is_incapacitated(self):
+        """Checks if the player is too mangled to act."""
+        if self.health < 15:
+            return True, "Your body is failing. Every movement brings a wave of blinding pain. You can't do this."
+        
+        severe_count = 0
+        for status in self.body_parts.values():
+            if status in ['major_injury', 'severe_injury']:
+                severe_count += 1
+        
+        if severe_count >= 3:
+            return True, "Your injuries are too extensive. Your limbs won't obey your commands. You are completely broken."
+            
+        return False, ""

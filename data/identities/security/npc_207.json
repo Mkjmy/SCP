@@ -1,21 +1,21 @@
 {
   "id": "npc_207",
   "bio": {
-    "full_name": "Chen Dubois",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 33,
-    "blood_type": "A-",
-    "genetic_stability": 0.909,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Mark Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.959,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 69,
-    "build": "Overweight",
+    "height_cm": 174,
+    "weight_kg": 90,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Hacking": 39,
-      "Athletics": 74,
-      "Persuasion": 48
+      "Perception": 54,
+      "Athletics": 38,
+      "Firearms": 17
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 78,
-      "extraversion": 64,
-      "agreeableness": 54,
-      "neuroticism": 98
+      "openness": 70,
+      "conscientiousness": 30,
+      "extraversion": 49,
+      "agreeableness": 23,
+      "neuroticism": 7
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.4
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
       "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

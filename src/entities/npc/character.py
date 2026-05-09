@@ -112,9 +112,29 @@ class Character:
         else:
             return random.choice(["is sitting quietly on the edge of a bunk.", "is staring at the heavy steel door.", "is resting their head against the cool concrete wall."])
 
-    def get_description(self, debug=False):
+    def get_perceived_role(self, player):
+        """Returns the role as perceived by the player (might be inaccurate)."""
+        # If already identified, show the truth
+        if self.id in player.identified_npc_ids:
+            return self.role
+            
+        # D-Class perception logic
+        if player.role == "Player": # Assuming 'Player' role for D-Class character
+            # Anyone with high clearance or security role looks like a GUARD
+            if self.role in ["Guard", "ISD Agent", "Containment Specialist", "MTF"]:
+                return "GUARD"
+            # Scientists or Admins might just look like general STAFF
+            if self.role in ["Scientist", "Senior Researcher", "Medical Staff"]:
+                return "STAFF"
+                
+        return self.role # Default to true role for non-D-Class or fallback
+
+    def get_description(self, debug=False, player=None):
         """Returns a string with the character's details, including stats."""
-        if not debug:
+        behavior = self.current_behavior
+        
+        if not debug and player:
+            role_to_show = self.get_perceived_role(player)
             health_percent = self.health / self.max_health
             if health_percent > 0.9: health_status = "unharmed"
             elif health_percent > 0.5: health_status = "visibly injured"
@@ -124,7 +144,7 @@ class Character:
             if self.personality in ["Broken", "Manic", "Paranoid"]:
                 mental_state = "completely lost to madness"
             
-            return f"{self.name} ({self.role}) {self.current_behavior} They look {health_status} and {mental_state}."
+            return f"{self.name} ({role_to_show}) {behavior} They look {health_status} and {mental_state}."
 
         details = [
             f"  Name: {self.name} ({self.role})",

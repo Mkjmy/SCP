@@ -1,23 +1,23 @@
 {
   "id": "npc_030",
   "bio": {
-    "full_name": "Andrew O'Connor",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 62,
-    "blood_type": "A+",
-    "genetic_stability": 0.934,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Thomas Williams",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.855,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 110,
-    "build": "Athletic",
+    "height_cm": 160,
+    "weight_kg": 55,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Hazel",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Stealth": 20,
-      "Occult_Research": 63,
-      "Firearms": 33
+      "Firearms": 80,
+      "Hacking": 11,
+      "Containment_Logic": 46
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 35,
-      "extraversion": 57,
-      "agreeableness": 12,
-      "neuroticism": 6
+      "openness": 88,
+      "conscientiousness": 91,
+      "extraversion": 92,
+      "agreeableness": 62,
+      "neuroticism": 36
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_048",
   "bio": {
-    "full_name": "Paul Bakker",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 24,
-    "blood_type": "AB+",
-    "genetic_stability": 0.976,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "James Dubois",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.986,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 100,
-    "build": "Heavily Muscular",
+    "height_cm": 193,
+    "weight_kg": 56,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 76,
-      "Athletics": 81,
-      "Perception": 42
+      "Medicine": 51,
+      "Perception": 56,
+      "Occult_Research": 86
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 79,
-      "extraversion": 2,
-      "agreeableness": 20,
-      "neuroticism": 67
+      "openness": 69,
+      "conscientiousness": 22,
+      "extraversion": 79,
+      "agreeableness": 24,
+      "neuroticism": 84
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_157",
   "bio": {
-    "full_name": "Paul Tanaka",
+    "full_name": "Elena Ivanov",
     "gender": "Male",
-    "orientation": "Asexual",
-    "age": 42,
-    "blood_type": "AB+",
-    "genetic_stability": 0.936,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.938,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 104,
+    "height_cm": 191,
+    "weight_kg": 78,
     "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Amber",
+      "hair": "Dyed green, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 93,
-      "Perception": 66,
-      "Medicine": 26
+      "Containment_Logic": 73,
+      "Persuasion": 11,
+      "Engineering": 28
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 95,
     "personality_matrix": {
-      "openness": 0,
-      "conscientiousness": 27,
-      "extraversion": 98,
-      "agreeableness": 52,
-      "neuroticism": 55
+      "openness": 85,
+      "conscientiousness": 14,
+      "extraversion": 36,
+      "agreeableness": 97,
+      "neuroticism": 2
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

@@ -2,7 +2,7 @@
 import random
 import json
 import os
-import identity_pools as pools
+import entities.npc.identity_pools as pools
 
 def generate_master_identity(npc_id, role, department, assigned_scp=None):
     """

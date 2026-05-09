@@ -1,23 +1,23 @@
 {
   "id": "npc_206",
   "bio": {
-    "full_name": "Kenji Wong",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 59,
-    "blood_type": "A+",
-    "genetic_stability": 0.999,
+    "full_name": "Andrew Muller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 54,
+    "blood_type": "B+",
+    "genetic_stability": 0.896,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 67,
+    "height_cm": 170,
+    "weight_kg": 88,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Messy",
+      "hair": "Dyed green, Pixie cut",
       "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 63,
-      "Athletics": 32,
-      "Stealth": 83
+      "Containment_Logic": 91,
+      "Perception": 47,
+      "Hacking": 47
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 96,
-      "extraversion": 19,
-      "agreeableness": 87,
-      "neuroticism": 1
+      "openness": 61,
+      "conscientiousness": 45,
+      "extraversion": 91,
+      "agreeableness": 36,
+      "neuroticism": 74
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

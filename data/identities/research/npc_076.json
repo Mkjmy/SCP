@@ -1,0 +1,60 @@
+{
+  "id": "npc_076",
+  "bio": {
+    "full_name": "Elena Miller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 58,
+    "blood_type": "O+",
+    "genetic_stability": 0.898,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 97,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 34,
+      "Engineering": 79,
+      "Stealth": 54
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 30,
+      "extraversion": 66,
+      "agreeableness": 95,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

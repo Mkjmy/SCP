@@ -1,23 +1,23 @@
 {
   "id": "npc_099",
   "bio": {
-    "full_name": "Michael Tanaka",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 38,
+    "full_name": "Lars Muller",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 25,
     "blood_type": "B-",
-    "genetic_stability": 0.958,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.874,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 104,
-    "build": "Athletic",
+    "height_cm": 169,
+    "weight_kg": 92,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Hacking": 39,
-      "Perception": 22,
-      "Firearms": 30
+      "Persuasion": 13,
+      "Medicine": 60,
+      "Athletics": 35
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 37,
-      "extraversion": 50,
-      "agreeableness": 67,
-      "neuroticism": 24
+      "openness": 52,
+      "conscientiousness": 81,
+      "extraversion": 5,
+      "agreeableness": 4,
+      "neuroticism": 46
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 1.0
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

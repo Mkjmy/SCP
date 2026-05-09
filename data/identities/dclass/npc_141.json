@@ -1,23 +1,23 @@
 {
   "id": "npc_141",
   "bio": {
-    "full_name": "Sven Brown",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 40,
-    "blood_type": "A+",
-    "genetic_stability": 0.979,
+    "full_name": "Paul Kovacs",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "A-",
+    "genetic_stability": 0.942,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 106,
-    "build": "Stocky",
+    "height_cm": 198,
+    "weight_kg": 74,
+    "build": "Average",
     "physical_features": {
-      "hair": "Grey, Pompadour",
-      "eyes": "Grey",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 27,
-      "Firearms": 24,
-      "Containment_Logic": 65
+      "Occult_Research": 63,
+      "Stealth": 58,
+      "Firearms": 16
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 115,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 52,
-      "extraversion": 73,
-      "agreeableness": 18,
-      "neuroticism": 7
+      "openness": 14,
+      "conscientiousness": 40,
+      "extraversion": 71,
+      "agreeableness": 91,
+      "neuroticism": 87
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

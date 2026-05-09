@@ -1,23 +1,23 @@
 {
   "id": "npc_101",
   "bio": {
-    "full_name": "Daniel Davis",
+    "full_name": "Chen Sato",
     "gender": "Agender",
     "orientation": "Asexual",
-    "age": 38,
-    "blood_type": "O-",
-    "genetic_stability": 0.896,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.852,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 89,
-    "build": "Overweight",
+    "height_cm": 171,
+    "weight_kg": 99,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Hacking": 65,
-      "Containment_Logic": 18,
-      "Perception": 71
+      "Engineering": 68,
+      "Persuasion": 14,
+      "Containment_Logic": 34
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 29,
-      "extraversion": 4,
-      "agreeableness": 9,
-      "neuroticism": 58
+      "openness": 18,
+      "conscientiousness": 55,
+      "extraversion": 10,
+      "agreeableness": 54,
+      "neuroticism": 99
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

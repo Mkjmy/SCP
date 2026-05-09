@@ -1,60 +1,60 @@
 {
   "id": "npc_129",
   "bio": {
-    "full_name": "John Smith",
-    "gender": "Female",
+    "full_name": "Joshua Miller",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 59,
-    "blood_type": "B-",
-    "genetic_stability": 0.895,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.938,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 103,
-    "build": "Stocky",
+    "height_cm": 189,
+    "weight_kg": 92,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Black, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 49,
-      "Persuasion": 54,
-      "Medicine": 51
+      "Persuasion": 32,
+      "Firearms": 20,
+      "Athletics": 48
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 72,
-      "extraversion": 4,
-      "agreeableness": 91,
-      "neuroticism": 12
+      "openness": 52,
+      "conscientiousness": 88,
+      "extraversion": 41,
+      "agreeableness": 63,
+      "neuroticism": 73
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

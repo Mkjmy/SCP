@@ -2,7 +2,7 @@
 import importlib
 import json
 import random
-from scp import SCP # Import the base SCP class
+from entities.scp.scp import SCP # Import the base SCP class
 
 class SCPManager:
     def __init__(self, map_data):

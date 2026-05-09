@@ -1,20 +1,20 @@
 {
   "id": "npc_026",
   "bio": {
-    "full_name": "Michael Kovacs",
+    "full_name": "John Garcia",
     "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 37,
-    "blood_type": "B+",
-    "genetic_stability": 0.853,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.985,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 103,
-    "build": "Frail",
+    "height_cm": 187,
+    "weight_kg": 76,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Manicured",
+      "hair": "Silver, Buzz cut",
       "eyes": "Sharp blue",
       "notable_marks": [
         "Smokes heavily"
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 78,
-      "Perception": 38,
-      "Medicine": 39
+      "Firearms": 70,
+      "Occult_Research": 22,
+      "Hacking": 64
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 88,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 44,
-      "extraversion": 96,
-      "agreeableness": 94,
-      "neuroticism": 85
+      "openness": 40,
+      "conscientiousness": 29,
+      "extraversion": 48,
+      "agreeableness": 10,
+      "neuroticism": 28
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

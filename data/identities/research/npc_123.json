@@ -1,23 +1,23 @@
 {
   "id": "npc_123",
   "bio": {
-    "full_name": "Paul Davis",
+    "full_name": "Steven Schmidt",
     "gender": "Transgender",
     "orientation": "Heterosexual",
     "age": 22,
-    "blood_type": "B-",
-    "genetic_stability": 0.97,
-    "origin": "Rescued from a defunct GOI cell"
+    "blood_type": "A+",
+    "genetic_stability": 0.974,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 80,
+    "height_cm": 159,
+    "weight_kg": 89,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Dyed green, Messy",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Athletics": 73,
-      "Stealth": 50,
-      "Engineering": 77
+      "Athletics": 84,
+      "Medicine": 84,
+      "Occult_Research": 25
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 95,
-      "conscientiousness": 91,
-      "extraversion": 5,
-      "agreeableness": 93,
-      "neuroticism": 38
+      "openness": 70,
+      "conscientiousness": 77,
+      "extraversion": 11,
+      "agreeableness": 84,
+      "neuroticism": 94
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
       "amount": 5000,
-      "creditor": "Local Mob"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

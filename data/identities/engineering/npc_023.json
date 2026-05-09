@@ -1,60 +1,60 @@
 {
   "id": "npc_023",
   "bio": {
-    "full_name": "Thomas Gupta",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 60,
-    "blood_type": "B+",
-    "genetic_stability": 0.886,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Arjun Williams",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.972,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 110,
-    "build": "Slender",
+    "height_cm": 174,
+    "weight_kg": 75,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 88,
-      "Firearms": 72,
-      "Engineering": 93
+      "Stealth": 51,
+      "Containment_Logic": 74,
+      "Medicine": 44
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 115,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 5,
-      "extraversion": 73,
-      "agreeableness": 91,
-      "neuroticism": 57
+      "openness": 94,
+      "conscientiousness": 94,
+      "extraversion": 69,
+      "agreeableness": 80,
+      "neuroticism": 95
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
+      "amount": 100000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

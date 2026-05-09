@@ -1,23 +1,23 @@
 {
   "id": "npc_059",
   "bio": {
-    "full_name": "William Miller",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 32,
-    "blood_type": "B-",
-    "genetic_stability": 0.953,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Michael Davis",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "O-",
+    "genetic_stability": 0.868,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 91,
-    "build": "Frail",
+    "height_cm": 161,
+    "weight_kg": 93,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Bald",
-      "eyes": "Grey",
+      "hair": "Brown, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 92,
-      "Containment_Logic": 22,
-      "Occult_Research": 72
+      "Engineering": 34,
+      "Containment_Logic": 60,
+      "Persuasion": 25
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 90,
-      "extraversion": 57,
-      "agreeableness": 13,
-      "neuroticism": 57
+      "openness": 87,
+      "conscientiousness": 75,
+      "extraversion": 8,
+      "agreeableness": 97,
+      "neuroticism": 2
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

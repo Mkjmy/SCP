@@ -1,23 +1,23 @@
 {
   "id": "npc_011",
   "bio": {
-    "full_name": "Arjun Sato",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 35,
-    "blood_type": "AB+",
-    "genetic_stability": 0.967,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "William O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "O+",
+    "genetic_stability": 0.949,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 89,
-    "build": "Frail",
+    "height_cm": 199,
+    "weight_kg": 56,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 70,
-      "Occult_Research": 75,
-      "Containment_Logic": 64
+      "Engineering": 20,
+      "Medicine": 89,
+      "Containment_Logic": 72
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 2,
-      "extraversion": 6,
-      "agreeableness": 40,
-      "neuroticism": 25
+      "openness": 21,
+      "conscientiousness": 66,
+      "extraversion": 46,
+      "agreeableness": 87,
+      "neuroticism": 76
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",

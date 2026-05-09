@@ -1,23 +1,23 @@
 {
   "id": "npc_022",
   "bio": {
-    "full_name": "James Dubois",
-    "gender": "Agender",
-    "orientation": "Asexual",
+    "full_name": "John Schmidt",
+    "gender": "Male",
+    "orientation": "Homosexual",
     "age": 62,
-    "blood_type": "O-",
-    "genetic_stability": 0.895,
-    "origin": "Ex-military police recruited after a classified incident"
+    "blood_type": "B-",
+    "genetic_stability": 0.989,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 90,
-    "build": "Stocky",
+    "height_cm": 187,
+    "weight_kg": 60,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 11,
-      "Containment_Logic": 63,
-      "Engineering": 56
+      "Stealth": 66,
+      "Athletics": 10,
+      "Perception": 10
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 117,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 97,
-      "extraversion": 34,
-      "agreeableness": 73,
-      "neuroticism": 33
+      "openness": 52,
+      "conscientiousness": 94,
+      "extraversion": 38,
+      "agreeableness": 80,
+      "neuroticism": 16
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
+      "amount": 100000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

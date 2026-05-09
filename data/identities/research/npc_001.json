@@ -1,0 +1,60 @@
+{
+  "id": "npc_001",
+  "bio": {
+    "full_name": "John Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 57,
+    "blood_type": "A+",
+    "genetic_stability": 0.941,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 61,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 54,
+      "Persuasion": 88,
+      "Hacking": 39
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 45,
+      "extraversion": 12,
+      "agreeableness": 51,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

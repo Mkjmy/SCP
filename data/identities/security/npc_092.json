@@ -1,57 +1,57 @@
 {
   "id": "npc_092",
   "bio": {
-    "full_name": "Robert Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 24,
-    "blood_type": "A-",
-    "genetic_stability": 0.95,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Anthony Brown",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.931,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 63,
-    "build": "Average",
+    "height_cm": 177,
+    "weight_kg": 77,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Blonde, Fade",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Medicine": 71,
-      "Engineering": 22,
-      "Persuasion": 43
+      "Engineering": 30,
+      "Firearms": 79,
+      "Occult_Research": 46
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 66,
-      "extraversion": 70,
-      "agreeableness": 17,
-      "neuroticism": 59
+      "openness": 92,
+      "conscientiousness": 53,
+      "extraversion": 35,
+      "agreeableness": 41,
+      "neuroticism": 32
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",

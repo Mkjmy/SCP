@@ -1,0 +1,60 @@
+{
+  "id": "npc_157",
+  "bio": {
+    "full_name": "Arjun Miller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.881,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 99,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 28,
+      "Perception": 26,
+      "Hacking": 21
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 17,
+      "extraversion": 3,
+      "agreeableness": 78,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

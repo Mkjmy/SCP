@@ -1,23 +1,23 @@
 {
   "id": "npc_133",
   "bio": {
-    "full_name": "Elena Vasiliev",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 42,
-    "blood_type": "AB-",
-    "genetic_stability": 0.941,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "William Brown",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "O+",
+    "genetic_stability": 0.906,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 51,
-    "build": "Average",
+    "height_cm": 161,
+    "weight_kg": 92,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Red, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 50,
-      "Athletics": 63,
-      "Stealth": 87
+      "Stealth": 23,
+      "Perception": 49,
+      "Engineering": 41
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 58,
-      "extraversion": 16,
-      "agreeableness": 62,
-      "neuroticism": 64
+      "openness": 37,
+      "conscientiousness": 68,
+      "extraversion": 30,
+      "agreeableness": 91,
+      "neuroticism": 83
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

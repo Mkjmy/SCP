@@ -1,23 +1,23 @@
 {
   "id": "npc_205",
   "bio": {
-    "full_name": "Yuki Sato",
+    "full_name": "Olga Gupta",
     "gender": "Female",
-    "orientation": "Homosexual",
+    "orientation": "Bisexual",
     "age": 44,
-    "blood_type": "O+",
-    "genetic_stability": 0.981,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "blood_type": "A+",
+    "genetic_stability": 0.866,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 82,
-    "build": "Lithe",
+    "height_cm": 176,
+    "weight_kg": 67,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 14,
-      "Perception": 32,
-      "Engineering": 91
+      "Engineering": 84,
+      "Hacking": 79,
+      "Containment_Logic": 25
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 47,
-      "extraversion": 79,
-      "agreeableness": 38,
-      "neuroticism": 40
+      "openness": 37,
+      "conscientiousness": 8,
+      "extraversion": 69,
+      "agreeableness": 10,
+      "neuroticism": 59
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

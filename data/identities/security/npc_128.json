@@ -1,59 +1,60 @@
 {
   "id": "npc_128",
   "bio": {
-    "full_name": "Kenji Sato",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 48,
-    "blood_type": "B+",
-    "genetic_stability": 0.975,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Christopher Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "A-",
+    "genetic_stability": 0.867,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 91,
-    "build": "Average",
+    "height_cm": 191,
+    "weight_kg": 54,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Amber",
+      "hair": "Red, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Firearms": 52,
-      "Hacking": 45,
-      "Medicine": 70
+      "Perception": 72,
+      "Containment_Logic": 85,
+      "Engineering": 33
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 51,
-      "conscientiousness": 0,
-      "extraversion": 49,
-      "agreeableness": 36,
-      "neuroticism": 94
+      "openness": 71,
+      "conscientiousness": 38,
+      "extraversion": 36,
+      "agreeableness": 29,
+      "neuroticism": 2
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

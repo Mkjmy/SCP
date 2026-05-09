@@ -1,60 +1,60 @@
 {
   "id": "npc_121",
   "bio": {
-    "full_name": "David Williams",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 48,
-    "blood_type": "A-",
-    "genetic_stability": 0.852,
+    "full_name": "Sven Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.86,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 83,
-    "build": "Average",
+    "height_cm": 160,
+    "weight_kg": 50,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Athletics": 85,
-      "Containment_Logic": 50,
-      "Stealth": 26
+      "Engineering": 43,
+      "Persuasion": 46,
+      "Stealth": 95
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 17,
-      "extraversion": 26,
-      "agreeableness": 19,
-      "neuroticism": 5
+      "openness": 7,
+      "conscientiousness": 10,
+      "extraversion": 47,
+      "agreeableness": 78,
+      "neuroticism": 88
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

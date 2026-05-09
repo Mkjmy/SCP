@@ -1,21 +1,21 @@
 {
   "id": "npc_064",
   "bio": {
-    "full_name": "Sven Garcia",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 26,
-    "blood_type": "O+",
-    "genetic_stability": 0.896,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Maria Kovacs",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 1.0,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 109,
+    "height_cm": 169,
+    "weight_kg": 69,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
         "Nail biter"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 88,
-      "Containment_Logic": 67,
-      "Persuasion": 41
+      "Perception": 35,
+      "Containment_Logic": 58,
+      "Occult_Research": 40
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 96,
-      "extraversion": 45,
-      "agreeableness": 32,
-      "neuroticism": 44
+      "openness": 48,
+      "conscientiousness": 10,
+      "extraversion": 68,
+      "agreeableness": 86,
+      "neuroticism": 80
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 1.0
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

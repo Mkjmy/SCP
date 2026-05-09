@@ -1,23 +1,23 @@
 {
   "id": "npc_085",
   "bio": {
-    "full_name": "Lars Johnson",
-    "gender": "Male",
+    "full_name": "Arjun Brown",
+    "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 33,
-    "blood_type": "AB+",
-    "genetic_stability": 0.897,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.983,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 78,
-    "build": "Heavily Muscular",
+    "height_cm": 183,
+    "weight_kg": 101,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Emerald green",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Medicine": 21,
-      "Persuasion": 74,
-      "Firearms": 10
+      "Firearms": 70,
+      "Medicine": 12,
+      "Occult_Research": 61
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 37,
-      "extraversion": 62,
-      "agreeableness": 73,
-      "neuroticism": 67
+      "openness": 62,
+      "conscientiousness": 84,
+      "extraversion": 10,
+      "agreeableness": 62,
+      "neuroticism": 91
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

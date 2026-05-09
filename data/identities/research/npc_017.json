@@ -1,23 +1,23 @@
 {
   "id": "npc_017",
   "bio": {
-    "full_name": "Christopher Gupta",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 35,
-    "blood_type": "B-",
-    "genetic_stability": 0.983,
+    "full_name": "Joseph Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 55,
+    "blood_type": "AB+",
+    "genetic_stability": 0.978,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 72,
-    "build": "Average",
+    "height_cm": 173,
+    "weight_kg": 108,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Occult_Research": 77,
-      "Hacking": 90,
-      "Stealth": 79
+      "Occult_Research": 70,
+      "Engineering": 57,
+      "Hacking": 17
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 68,
-      "extraversion": 37,
-      "agreeableness": 53,
-      "neuroticism": 96
+      "openness": 94,
+      "conscientiousness": 10,
+      "extraversion": 80,
+      "agreeableness": 91,
+      "neuroticism": 32
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
       "amount": 0,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

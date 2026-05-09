@@ -1,23 +1,23 @@
 {
   "id": "npc_136",
   "bio": {
-    "full_name": "Christopher O'Connor",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 26,
-    "blood_type": "AB-",
-    "genetic_stability": 0.893,
+    "full_name": "Olga Davis",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.995,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 68,
-    "build": "Lithe",
+    "height_cm": 170,
+    "weight_kg": 94,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Grey, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 25,
-      "Hacking": 77,
-      "Perception": 85
+      "Perception": 92,
+      "Persuasion": 84,
+      "Medicine": 41
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 91,
+    "iq": 80,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 0,
-      "extraversion": 65,
-      "agreeableness": 0,
-      "neuroticism": 10
+      "openness": 88,
+      "conscientiousness": 67,
+      "extraversion": 14,
+      "agreeableness": 95,
+      "neuroticism": 41
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_090",
   "bio": {
-    "full_name": "Yuki Smith",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 63,
-    "blood_type": "B-",
-    "genetic_stability": 0.865,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Yuki Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 50,
+    "blood_type": "O-",
+    "genetic_stability": 0.871,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 85,
-    "build": "Heavily Muscular",
+    "height_cm": 171,
+    "weight_kg": 55,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 40,
-      "Firearms": 60,
-      "Perception": 32
+      "Containment_Logic": 68,
+      "Engineering": 27,
+      "Medicine": 79
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 13,
-      "extraversion": 12,
-      "agreeableness": 24,
-      "neuroticism": 33
+      "openness": 2,
+      "conscientiousness": 88,
+      "extraversion": 40,
+      "agreeableness": 63,
+      "neuroticism": 68
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

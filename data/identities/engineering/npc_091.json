@@ -1,20 +1,20 @@
 {
   "id": "npc_091",
   "bio": {
-    "full_name": "Arjun Brown",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 57,
-    "blood_type": "O-",
-    "genetic_stability": 0.95,
+    "full_name": "Daniel Wong",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.969,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 67,
-    "build": "Athletic",
+    "height_cm": 166,
+    "weight_kg": 100,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Bald",
+      "hair": "Grey, Fade",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Twirls a pen between fingers"
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 90,
-      "Hacking": 31,
-      "Perception": 26
+      "Medicine": 85,
+      "Firearms": 68,
+      "Persuasion": 32
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 8,
-      "extraversion": 66,
-      "agreeableness": 99,
-      "neuroticism": 73
+      "openness": 87,
+      "conscientiousness": 87,
+      "extraversion": 40,
+      "agreeableness": 50,
+      "neuroticism": 10
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

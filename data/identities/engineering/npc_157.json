@@ -1,23 +1,23 @@
 {
   "id": "npc_157",
   "bio": {
-    "full_name": "William Williams",
+    "full_name": "Joshua Miller",
     "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 47,
-    "blood_type": "O-",
-    "genetic_stability": 0.869,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "A-",
+    "genetic_stability": 0.982,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 77,
-    "build": "Average",
+    "height_cm": 174,
+    "weight_kg": 58,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Grey",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 57,
-      "Occult_Research": 73,
-      "Athletics": 72
+      "Engineering": 45,
+      "Containment_Logic": 60,
+      "Perception": 30
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 4,
+      "openness": 53,
       "conscientiousness": 18,
-      "extraversion": 62,
-      "agreeableness": 42,
-      "neuroticism": 56
+      "extraversion": 48,
+      "agreeableness": 87,
+      "neuroticism": 1
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

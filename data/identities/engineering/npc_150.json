@@ -1,60 +1,60 @@
 {
   "id": "npc_150",
   "bio": {
-    "full_name": "Robert Schmidt",
+    "full_name": "Joshua Tanaka",
     "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 29,
-    "blood_type": "O+",
-    "genetic_stability": 0.862,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "AB-",
+    "genetic_stability": 0.856,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 85,
-    "build": "Stocky",
+    "height_cm": 159,
+    "weight_kg": 86,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Sharp blue",
+      "hair": "Black, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 28,
-      "Perception": 81,
-      "Persuasion": 13
+      "Stealth": 91,
+      "Persuasion": 81,
+      "Firearms": 95
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 10,
-      "extraversion": 66,
-      "agreeableness": 99,
-      "neuroticism": 66
+      "openness": 40,
+      "conscientiousness": 7,
+      "extraversion": 30,
+      "agreeableness": 2,
+      "neuroticism": 98
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

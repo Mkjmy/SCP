@@ -1,60 +1,60 @@
 {
   "id": "npc_063",
   "bio": {
-    "full_name": "Christopher Davis",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 32,
-    "blood_type": "O-",
-    "genetic_stability": 0.892,
+    "full_name": "Andrew Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "B+",
+    "genetic_stability": 0.895,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 89,
-    "build": "Slender",
+    "height_cm": 160,
+    "weight_kg": 73,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Black, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Engineering": 12,
-      "Medicine": 21,
-      "Perception": 43
+      "Hacking": 42,
+      "Medicine": 36,
+      "Athletics": 46
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 117,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 16,
-      "extraversion": 68,
-      "agreeableness": 5,
-      "neuroticism": 42
+      "openness": 77,
+      "conscientiousness": 80,
+      "extraversion": 18,
+      "agreeableness": 57,
+      "neuroticism": 30
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_affiliation": "None"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_014",
   "bio": {
-    "full_name": "Paul Williams",
-    "gender": "Male",
-    "orientation": "Pansexual",
+    "full_name": "Yuki Schmidt",
+    "gender": "Female",
+    "orientation": "Homosexual",
     "age": 39,
-    "blood_type": "O-",
-    "genetic_stability": 0.879,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "blood_type": "O+",
+    "genetic_stability": 0.9,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 73,
-    "build": "Average",
+    "height_cm": 178,
+    "weight_kg": 52,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 95,
-      "Persuasion": 76,
-      "Hacking": 95
+      "Hacking": 92,
+      "Stealth": 49,
+      "Containment_Logic": 22
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 81,
-      "extraversion": 55,
+      "openness": 30,
+      "conscientiousness": 17,
+      "extraversion": 47,
       "agreeableness": 93,
-      "neuroticism": 11
+      "neuroticism": 0
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
       "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

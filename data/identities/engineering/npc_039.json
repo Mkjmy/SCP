@@ -1,23 +1,23 @@
 {
   "id": "npc_039",
   "bio": {
-    "full_name": "Anthony Jones",
+    "full_name": "William Wong",
     "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 65,
-    "blood_type": "A-",
-    "genetic_stability": 0.919,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.969,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 109,
-    "build": "Lithe",
+    "height_cm": 194,
+    "weight_kg": 52,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Grey",
+      "hair": "Dyed green, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 13,
-      "Hacking": 62,
-      "Perception": 87
+      "Firearms": 20,
+      "Medicine": 62,
+      "Stealth": 58
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 62,
-      "conscientiousness": 9,
-      "extraversion": 78,
-      "agreeableness": 91,
-      "neuroticism": 65
+      "openness": 86,
+      "conscientiousness": 70,
+      "extraversion": 74,
+      "agreeableness": 54,
+      "neuroticism": 69
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

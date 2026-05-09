@@ -1,0 +1,60 @@
+{
+  "id": "npc_083",
+  "bio": {
+    "full_name": "Daniel Williams",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "B+",
+    "genetic_stability": 0.971,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 80,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 50,
+      "Engineering": 54,
+      "Persuasion": 48
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 54,
+      "extraversion": 30,
+      "agreeableness": 35,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

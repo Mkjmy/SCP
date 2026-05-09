@@ -1,23 +1,23 @@
 {
   "id": "npc_077",
   "bio": {
-    "full_name": "Elena Williams",
+    "full_name": "Matthew Ivanov",
     "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 45,
-    "blood_type": "A+",
-    "genetic_stability": 0.901,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.986,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 86,
-    "build": "Athletic",
+    "height_cm": 161,
+    "weight_kg": 98,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Grey",
+      "hair": "Grey, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Hacking": 80,
-      "Persuasion": 63,
-      "Athletics": 57
+      "Perception": 17,
+      "Medicine": 32,
+      "Engineering": 69
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 65,
-      "conscientiousness": 80,
-      "extraversion": 38,
-      "agreeableness": 14,
-      "neuroticism": 95
+      "openness": 50,
+      "conscientiousness": 36,
+      "extraversion": 76,
+      "agreeableness": 75,
+      "neuroticism": 40
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

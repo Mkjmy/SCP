@@ -1,23 +1,23 @@
 {
   "id": "npc_026",
   "bio": {
-    "full_name": "William Vasiliev",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 57,
-    "blood_type": "A+",
-    "genetic_stability": 0.985,
+    "full_name": "Lars Smith",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.895,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 53,
-    "build": "Stocky",
+    "height_cm": 184,
+    "weight_kg": 93,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 73,
-      "Perception": 46,
-      "Medicine": 24
+      "Containment_Logic": 57,
+      "Persuasion": 77,
+      "Firearms": 16
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 10,
-      "extraversion": 55,
-      "agreeableness": 54,
-      "neuroticism": 34
+      "openness": 78,
+      "conscientiousness": 14,
+      "extraversion": 69,
+      "agreeableness": 19,
+      "neuroticism": 73
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

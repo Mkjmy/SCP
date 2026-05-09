@@ -1,23 +1,23 @@
 {
   "id": "npc_110",
   "bio": {
-    "full_name": "Mark Ivanov",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 64,
-    "blood_type": "B+",
-    "genetic_stability": 0.881,
+    "full_name": "Andrew Muller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.909,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 95,
-    "build": "Heavily Muscular",
+    "height_cm": 189,
+    "weight_kg": 59,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Emerald green",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 72,
-      "Persuasion": 56,
-      "Stealth": 77
+      "Hacking": 21,
+      "Medicine": 58,
+      "Persuasion": 92
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 164,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 18,
-      "extraversion": 82,
-      "agreeableness": 15,
-      "neuroticism": 72
+      "openness": 49,
+      "conscientiousness": 79,
+      "extraversion": 55,
+      "agreeableness": 6,
+      "neuroticism": 88
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

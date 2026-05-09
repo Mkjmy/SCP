@@ -1,23 +1,23 @@
 {
   "id": "npc_187",
   "bio": {
-    "full_name": "Donald Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 26,
-    "blood_type": "O-",
-    "genetic_stability": 0.96,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Joseph Muller",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.924,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 101,
-    "build": "Lithe",
+    "height_cm": 192,
+    "weight_kg": 68,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Red, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 53,
-      "Persuasion": 72,
-      "Occult_Research": 60
+      "Hacking": 52,
+      "Perception": 35,
+      "Engineering": 73
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 80,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 100,
-      "extraversion": 4,
-      "agreeableness": 44,
-      "neuroticism": 68
+      "openness": 2,
+      "conscientiousness": 70,
+      "extraversion": 74,
+      "agreeableness": 85,
+      "neuroticism": 1
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

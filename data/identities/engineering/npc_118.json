@@ -1,57 +1,57 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "John Smith",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "AB+",
-    "genetic_stability": 0.916,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Daniel Kovacs",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.964,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 77,
+    "height_cm": 182,
+    "weight_kg": 70,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Black, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 57,
-      "Stealth": 70,
-      "Containment_Logic": 60
+      "Firearms": 75,
+      "Stealth": 66,
+      "Hacking": 89
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 26,
-      "extraversion": 37,
-      "agreeableness": 75,
+      "openness": 58,
+      "conscientiousness": 11,
+      "extraversion": 56,
+      "agreeableness": 47,
       "neuroticism": 67
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

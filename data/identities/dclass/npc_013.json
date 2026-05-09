@@ -1,23 +1,23 @@
 {
   "id": "npc_013",
   "bio": {
-    "full_name": "Yuki Johnson",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 30,
-    "blood_type": "AB-",
-    "genetic_stability": 0.872,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Lars Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.998,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 82,
-    "build": "Athletic",
+    "height_cm": 194,
+    "weight_kg": 93,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 50,
-      "Engineering": 68,
-      "Hacking": 36
+      "Firearms": 75,
+      "Stealth": 89,
+      "Engineering": 55
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 82,
     "personality_matrix": {
       "openness": 46,
-      "conscientiousness": 63,
-      "extraversion": 91,
-      "agreeableness": 38,
-      "neuroticism": 1
+      "conscientiousness": 30,
+      "extraversion": 75,
+      "agreeableness": 45,
+      "neuroticism": 83
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

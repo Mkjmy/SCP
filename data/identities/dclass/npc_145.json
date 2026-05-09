@@ -1,23 +1,23 @@
 {
   "id": "npc_145",
   "bio": {
-    "full_name": "Richard Williams",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 28,
-    "blood_type": "B+",
-    "genetic_stability": 0.855,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Christopher Ivanov",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "O+",
+    "genetic_stability": 0.973,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 80,
-    "build": "Slender",
+    "height_cm": 161,
+    "weight_kg": 89,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Deep brown",
+      "hair": "White, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 91,
-      "Occult_Research": 57,
-      "Engineering": 95
+      "Stealth": 56,
+      "Engineering": 26,
+      "Medicine": 54
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 87,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 61,
-      "extraversion": 48,
-      "agreeableness": 47,
-      "neuroticism": 3
+      "openness": 86,
+      "conscientiousness": 72,
+      "extraversion": 6,
+      "agreeableness": 92,
+      "neuroticism": 30
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

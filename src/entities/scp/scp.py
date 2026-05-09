@@ -1,6 +1,6 @@
 # scp.py
 
-import mechanics
+import entities.scp.mechanics as mechanics
 import random
 
 class SCP:

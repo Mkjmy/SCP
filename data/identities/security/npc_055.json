@@ -1,21 +1,21 @@
 {
   "id": "npc_055",
   "bio": {
-    "full_name": "Christopher Brown",
+    "full_name": "Joshua Muller",
     "gender": "Female",
     "orientation": "Bisexual",
-    "age": 57,
-    "blood_type": "B-",
-    "genetic_stability": 0.993,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.97,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 105,
+    "height_cm": 168,
+    "weight_kg": 53,
     "build": "Slender",
     "physical_features": {
-      "hair": "White, Manicured",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Smokes heavily"
       ]
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Containment_Logic": 25,
-      "Occult_Research": 28,
-      "Stealth": 23
+      "Containment_Logic": 41,
+      "Persuasion": 87,
+      "Hacking": 29
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 101,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 79,
-      "extraversion": 6,
-      "agreeableness": 61,
-      "neuroticism": 34
+      "openness": 20,
+      "conscientiousness": 3,
+      "extraversion": 25,
+      "agreeableness": 75,
+      "neuroticism": 72
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_183",
   "bio": {
-    "full_name": "Michael Muller",
-    "gender": "Non-binary",
+    "full_name": "Andrew Jones",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 63,
-    "blood_type": "B+",
-    "genetic_stability": 0.887,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 47,
+    "blood_type": "AB-",
+    "genetic_stability": 0.964,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 65,
-    "build": "Frail",
+    "height_cm": 183,
+    "weight_kg": 102,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Amber",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 67,
-      "Athletics": 94,
-      "Stealth": 25
+      "Containment_Logic": 84,
+      "Occult_Research": 93,
+      "Firearms": 70
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 118,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 63,
-      "extraversion": 63,
+      "openness": 4,
+      "conscientiousness": 88,
+      "extraversion": 71,
       "agreeableness": 88,
-      "neuroticism": 27
+      "neuroticism": 18
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

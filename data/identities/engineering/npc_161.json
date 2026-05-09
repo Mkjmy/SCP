@@ -1,23 +1,23 @@
 {
   "id": "npc_161",
   "bio": {
-    "full_name": "Joshua Miller",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 57,
-    "blood_type": "O-",
-    "genetic_stability": 0.858,
+    "full_name": "William Jones",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "AB+",
+    "genetic_stability": 0.883,
     "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 56,
-    "build": "Athletic",
+    "height_cm": 170,
+    "weight_kg": 93,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Red, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,25 +27,25 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 45,
-      "Engineering": 92,
-      "Athletics": 53
+      "Engineering": 31,
+      "Stealth": 75,
+      "Hacking": 27
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 27,
-      "extraversion": 72,
-      "agreeableness": 31,
-      "neuroticism": 66
+      "openness": 46,
+      "conscientiousness": 7,
+      "extraversion": 28,
+      "agreeableness": 78,
+      "neuroticism": 31
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
     "family": "Divorced",
@@ -54,6 +54,7 @@
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

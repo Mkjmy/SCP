@@ -1,60 +1,60 @@
 {
   "id": "npc_127",
   "bio": {
-    "full_name": "Steven Williams",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "B+",
-    "genetic_stability": 0.978,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Maria Tanaka",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 52,
+    "blood_type": "O+",
+    "genetic_stability": 0.944,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 68,
-    "build": "Athletic",
+    "height_cm": 168,
+    "weight_kg": 52,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Amber",
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Persuasion": 95,
-      "Hacking": 13,
-      "Perception": 84
+      "Persuasion": 23,
+      "Occult_Research": 41,
+      "Stealth": 55
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 56,
-      "extraversion": 88,
-      "agreeableness": 86,
-      "neuroticism": 100
+      "openness": 5,
+      "conscientiousness": 18,
+      "extraversion": 59,
+      "agreeableness": 62,
+      "neuroticism": 12
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
       "amount": 100000,
-      "creditor": "None"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_041",
   "bio": {
-    "full_name": "Richard Tanaka",
+    "full_name": "Paul Dubois",
     "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 44,
+    "orientation": "Asexual",
+    "age": 22,
     "blood_type": "B-",
-    "genetic_stability": 0.854,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.983,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 105,
-    "build": "Athletic",
+    "height_cm": 157,
+    "weight_kg": 69,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Amber",
+      "hair": "Black, Shoulder-length",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 67,
-      "Perception": 20,
-      "Engineering": 77
+      "Firearms": 64,
+      "Hacking": 93,
+      "Medicine": 74
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 83,
+    "iq": 81,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 21,
-      "extraversion": 64,
-      "agreeableness": 83,
-      "neuroticism": 40
+      "openness": 85,
+      "conscientiousness": 72,
+      "extraversion": 57,
+      "agreeableness": 26,
+      "neuroticism": 28
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
       "amount": 20000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

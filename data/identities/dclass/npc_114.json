@@ -1,23 +1,23 @@
 {
   "id": "npc_114",
   "bio": {
-    "full_name": "Yuki Gupta",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 30,
-    "blood_type": "A+",
-    "genetic_stability": 0.854,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Mark Sato",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.997,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 57,
-    "build": "Slender",
+    "height_cm": 158,
+    "weight_kg": 107,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Red, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 21,
-      "Athletics": 45,
-      "Occult_Research": 88
+      "Hacking": 88,
+      "Medicine": 39,
+      "Occult_Research": 39
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 91,
+    "iq": 84,
     "personality_matrix": {
-      "openness": 43,
-      "conscientiousness": 21,
-      "extraversion": 74,
-      "agreeableness": 77,
-      "neuroticism": 82
+      "openness": 39,
+      "conscientiousness": 77,
+      "extraversion": 76,
+      "agreeableness": 63,
+      "neuroticism": 96
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "npc_161",
+  "bio": {
+    "full_name": "William Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "A-",
+    "genetic_stability": 0.99,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 73,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 48,
+      "Containment_Logic": 89,
+      "Firearms": 12
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 79,
+      "extraversion": 96,
+      "agreeableness": 6,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

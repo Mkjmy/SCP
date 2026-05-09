@@ -1,23 +1,23 @@
 {
   "id": "npc_146",
   "bio": {
-    "full_name": "Robert Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "O-",
-    "genetic_stability": 0.938,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "William Kovacs",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "AB-",
+    "genetic_stability": 0.942,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 95,
-    "build": "Athletic",
+    "height_cm": 185,
+    "weight_kg": 110,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Containment_Logic": 90,
-      "Occult_Research": 79,
-      "Medicine": 60
+      "Containment_Logic": 45,
+      "Stealth": 42,
+      "Athletics": 92
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 17,
-      "conscientiousness": 17,
-      "extraversion": 99,
-      "agreeableness": 71,
-      "neuroticism": 21
+      "openness": 50,
+      "conscientiousness": 10,
+      "extraversion": 53,
+      "agreeableness": 97,
+      "neuroticism": 82
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Obsessed with reaching Site-01",
