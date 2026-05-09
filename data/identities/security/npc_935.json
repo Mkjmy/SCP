@@ -1,0 +1,60 @@
+{
+  "id": "npc_935",
+  "bio": {
+    "full_name": "Elena Schmidt",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 57,
+    "blood_type": "B-",
+    "genetic_stability": 0.961,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 72,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 22,
+      "Hacking": 31,
+      "Perception": 78
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 51,
+      "extraversion": 55,
+      "agreeableness": 58,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

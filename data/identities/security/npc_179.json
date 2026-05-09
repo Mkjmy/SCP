@@ -1,0 +1,60 @@
+{
+  "id": "npc_179",
+  "bio": {
+    "full_name": "Elena Miller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 49,
+    "blood_type": "O+",
+    "genetic_stability": 0.924,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 54,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 75,
+      "Containment_Logic": 85,
+      "Stealth": 39
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 10,
+      "extraversion": 73,
+      "agreeableness": 6,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

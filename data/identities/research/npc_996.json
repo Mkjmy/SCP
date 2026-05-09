@@ -1,0 +1,60 @@
+{
+  "id": "npc_996",
+  "bio": {
+    "full_name": "Joseph Brown",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.9,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 91,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 13,
+      "Engineering": 14,
+      "Stealth": 44
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 94,
+      "extraversion": 4,
+      "agreeableness": 84,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

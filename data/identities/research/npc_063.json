@@ -1,0 +1,60 @@
+{
+  "id": "npc_063",
+  "bio": {
+    "full_name": "Arjun Schmidt",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.992,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 80,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 10,
+      "Engineering": 40,
+      "Athletics": 56
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 8,
+      "extraversion": 64,
+      "agreeableness": 20,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_318",
+  "bio": {
+    "full_name": "Maria Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "B-",
+    "genetic_stability": 0.891,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 72,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 55,
+      "Perception": 54,
+      "Persuasion": 67
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 53,
+      "extraversion": 90,
+      "agreeableness": 8,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

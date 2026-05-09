@@ -1,0 +1,60 @@
+{
+  "id": "npc_271",
+  "bio": {
+    "full_name": "Yuki Ivanov",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "B+",
+    "genetic_stability": 0.988,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 79,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 82,
+      "Perception": 20,
+      "Engineering": 84
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 61,
+      "extraversion": 44,
+      "agreeableness": 56,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

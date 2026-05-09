@@ -1,0 +1,60 @@
+{
+  "id": "npc_968",
+  "bio": {
+    "full_name": "James Muller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.945,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 76,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 42,
+      "Persuasion": 71,
+      "Athletics": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 3,
+      "extraversion": 81,
+      "agreeableness": 46,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

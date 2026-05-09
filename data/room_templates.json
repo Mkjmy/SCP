@@ -7,13 +7,12 @@
     "tags": ["start", "end"],
     "details": {
       "bunk_beds": {
-        "description": "Spartan bunk beds with thin, gray mattresses. Most are occupied by huddled figures. Tucked under one of the lower mattresses, you feel something hard and plastic."
+        "description": "Spartan bunk beds with thin, gray mattresses. Most are occupied by huddled figures."
       },
       "security_keypad": {
         "description": "A modern biometric and card-based keypad. It glows with a forbidding red light. Level 3 clearance required."
       }
-    },
-    "items": ["keycard_l3"]
+    }
   },
   {
     "id": "dead_end_s",

@@ -1,0 +1,60 @@
+{
+  "id": "npc_461",
+  "bio": {
+    "full_name": "Lars O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "B-",
+    "genetic_stability": 0.928,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 106,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 23,
+      "Stealth": 75,
+      "Occult_Research": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 79,
+      "extraversion": 37,
+      "agreeableness": 91,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

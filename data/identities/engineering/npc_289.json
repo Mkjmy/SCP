@@ -1,0 +1,60 @@
+{
+  "id": "npc_289",
+  "bio": {
+    "full_name": "Elena Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.993,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 68,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 52,
+      "Hacking": 63,
+      "Firearms": 86
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 34,
+      "extraversion": 78,
+      "agreeableness": 8,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

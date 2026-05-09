@@ -1,0 +1,59 @@
+{
+  "id": "npc_663",
+  "bio": {
+    "full_name": "Joshua Kovacs",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.862,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 98,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 66,
+      "Medicine": 16,
+      "Persuasion": 75
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 57,
+      "extraversion": 94,
+      "agreeableness": 98,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

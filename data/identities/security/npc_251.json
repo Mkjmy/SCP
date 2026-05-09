@@ -1,0 +1,60 @@
+{
+  "id": "npc_251",
+  "bio": {
+    "full_name": "Olga Kovacs",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "O-",
+    "genetic_stability": 0.881,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 107,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 49,
+      "Containment_Logic": 73,
+      "Occult_Research": 18
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 43,
+      "extraversion": 87,
+      "agreeableness": 55,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

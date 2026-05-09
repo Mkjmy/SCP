@@ -1,0 +1,60 @@
+{
+  "id": "npc_167",
+  "bio": {
+    "full_name": "Donald Smith",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.909,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 60,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 32,
+      "Perception": 82,
+      "Athletics": 51
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 89,
+      "extraversion": 79,
+      "agreeableness": 60,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

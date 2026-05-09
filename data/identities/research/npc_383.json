@@ -1,0 +1,60 @@
+{
+  "id": "npc_383",
+  "bio": {
+    "full_name": "James Sato",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 46,
+    "blood_type": "AB-",
+    "genetic_stability": 0.914,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 104,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Perception": 83,
+      "Stealth": 29,
+      "Engineering": 78
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 92,
+      "extraversion": 78,
+      "agreeableness": 11,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

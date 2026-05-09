@@ -1,0 +1,60 @@
+{
+  "id": "npc_451",
+  "bio": {
+    "full_name": "Sven Tanaka",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "B-",
+    "genetic_stability": 0.878,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 58,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 16,
+      "Medicine": 87,
+      "Hacking": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 60,
+      "extraversion": 64,
+      "agreeableness": 9,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

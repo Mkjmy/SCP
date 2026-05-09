@@ -1,0 +1,60 @@
+{
+  "id": "npc_727",
+  "bio": {
+    "full_name": "Thomas Ivanov",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.967,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 58,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 48,
+      "Hacking": 40,
+      "Containment_Logic": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 16,
+      "extraversion": 79,
+      "agreeableness": 80,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_719",
+  "bio": {
+    "full_name": "Arjun Kovacs",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "O+",
+    "genetic_stability": 0.946,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 23,
+      "Athletics": 27,
+      "Perception": 76
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 28,
+      "extraversion": 34,
+      "agreeableness": 5,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

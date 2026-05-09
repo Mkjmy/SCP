@@ -1,0 +1,60 @@
+{
+  "id": "npc_666",
+  "bio": {
+    "full_name": "Chen Davis",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.856,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 110,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 93,
+      "Occult_Research": 43,
+      "Engineering": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 68,
+      "extraversion": 66,
+      "agreeableness": 94,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

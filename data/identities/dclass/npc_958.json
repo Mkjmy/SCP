@@ -1,0 +1,60 @@
+{
+  "id": "npc_958",
+  "bio": {
+    "full_name": "Robert Kovacs",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.898,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 69,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 35,
+      "Containment_Logic": 15,
+      "Stealth": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 6,
+      "extraversion": 98,
+      "agreeableness": 48,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

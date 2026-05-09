@@ -1,0 +1,60 @@
+{
+  "id": "npc_577",
+  "bio": {
+    "full_name": "Matthew Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.982,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 92,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 80,
+      "Medicine": 18,
+      "Athletics": 44
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 96,
+      "extraversion": 64,
+      "agreeableness": 22,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_168",
+  "bio": {
+    "full_name": "Kenji O'Connor",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.884,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 95,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 25,
+      "Medicine": 58,
+      "Containment_Logic": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 24,
+      "extraversion": 28,
+      "agreeableness": 72,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

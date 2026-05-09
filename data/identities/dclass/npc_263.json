@@ -1,0 +1,60 @@
+{
+  "id": "npc_263",
+  "bio": {
+    "full_name": "John Vasiliev",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "O-",
+    "genetic_stability": 0.949,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 58,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 42,
+      "Containment_Logic": 86,
+      "Occult_Research": 71
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 66,
+      "extraversion": 43,
+      "agreeableness": 15,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

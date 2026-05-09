@@ -1,0 +1,60 @@
+{
+  "id": "npc_327",
+  "bio": {
+    "full_name": "Christopher Johnson",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.891,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 66,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 73,
+      "Firearms": 66,
+      "Perception": 71
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 57,
+      "extraversion": 55,
+      "agreeableness": 54,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

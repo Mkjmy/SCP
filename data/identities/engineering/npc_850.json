@@ -1,0 +1,60 @@
+{
+  "id": "npc_850",
+  "bio": {
+    "full_name": "Charles Tanaka",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.915,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 63,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 35,
+      "Engineering": 67,
+      "Hacking": 29
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 81,
+      "extraversion": 24,
+      "agreeableness": 90,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

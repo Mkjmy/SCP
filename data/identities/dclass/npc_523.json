@@ -1,0 +1,60 @@
+{
+  "id": "npc_523",
+  "bio": {
+    "full_name": "Thomas Gupta",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "A+",
+    "genetic_stability": 0.964,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 58,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 64,
+      "Medicine": 40,
+      "Hacking": 29
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 95,
+      "extraversion": 83,
+      "agreeableness": 21,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

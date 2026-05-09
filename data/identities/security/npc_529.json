@@ -1,0 +1,59 @@
+{
+  "id": "npc_529",
+  "bio": {
+    "full_name": "William Brown",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "A+",
+    "genetic_stability": 0.861,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 98,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 44,
+      "Hacking": 93,
+      "Medicine": 52
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 74,
+      "extraversion": 34,
+      "agreeableness": 49,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

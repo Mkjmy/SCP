@@ -1,0 +1,60 @@
+{
+  "id": "npc_205",
+  "bio": {
+    "full_name": "Maria Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "O-",
+    "genetic_stability": 0.885,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 87,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 49,
+      "Perception": 34,
+      "Engineering": 66
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 99,
+      "extraversion": 4,
+      "agreeableness": 74,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

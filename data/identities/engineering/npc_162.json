@@ -1,0 +1,60 @@
+{
+  "id": "npc_162",
+  "bio": {
+    "full_name": "Olga Muller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "B-",
+    "genetic_stability": 0.924,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 83,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 41,
+      "Perception": 21,
+      "Occult_Research": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 91,
+      "extraversion": 58,
+      "agreeableness": 92,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

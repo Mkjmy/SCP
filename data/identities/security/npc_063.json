@@ -1,0 +1,60 @@
+{
+  "id": "npc_063",
+  "bio": {
+    "full_name": "Christopher Davis",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.892,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 89,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 12,
+      "Medicine": 21,
+      "Perception": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 16,
+      "extraversion": 68,
+      "agreeableness": 5,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

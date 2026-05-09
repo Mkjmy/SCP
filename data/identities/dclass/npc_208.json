@@ -1,0 +1,60 @@
+{
+  "id": "npc_208",
+  "bio": {
+    "full_name": "John Gupta",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.883,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 93,
+      "Stealth": 55,
+      "Medicine": 19
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 11,
+      "extraversion": 0,
+      "agreeableness": 95,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

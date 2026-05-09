@@ -1,0 +1,60 @@
+{
+  "id": "npc_566",
+  "bio": {
+    "full_name": "Maria Gupta",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "B+",
+    "genetic_stability": 0.93,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 92,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 44,
+      "Medicine": 88,
+      "Persuasion": 19
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 21,
+      "extraversion": 10,
+      "agreeableness": 52,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

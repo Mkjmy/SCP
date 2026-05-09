@@ -1,0 +1,60 @@
+{
+  "id": "npc_083",
+  "bio": {
+    "full_name": "Mark Williams",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.87,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 86,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 10,
+      "Containment_Logic": 46,
+      "Persuasion": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 87,
+      "extraversion": 28,
+      "agreeableness": 5,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

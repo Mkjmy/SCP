@@ -1,0 +1,60 @@
+{
+  "id": "npc_749",
+  "bio": {
+    "full_name": "Mark Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.909,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 98,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 28,
+      "Persuasion": 56,
+      "Engineering": 33
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 66,
+      "extraversion": 66,
+      "agreeableness": 79,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

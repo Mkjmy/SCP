@@ -1,0 +1,60 @@
+{
+  "id": "npc_799",
+  "bio": {
+    "full_name": "John Williams",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.852,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 97,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 14,
+      "Firearms": 29,
+      "Stealth": 18
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 32,
+      "extraversion": 58,
+      "agreeableness": 53,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

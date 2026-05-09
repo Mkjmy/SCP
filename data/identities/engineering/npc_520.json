@@ -1,0 +1,60 @@
+{
+  "id": "npc_520",
+  "bio": {
+    "full_name": "Lars Wong",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "AB-",
+    "genetic_stability": 0.997,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 65,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 60,
+      "Persuasion": 23,
+      "Occult_Research": 72
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 54,
+      "extraversion": 10,
+      "agreeableness": 65,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

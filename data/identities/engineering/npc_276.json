@@ -1,0 +1,60 @@
+{
+  "id": "npc_276",
+  "bio": {
+    "full_name": "Charles Ivanov",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "O-",
+    "genetic_stability": 0.886,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 90,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 80,
+      "Athletics": 21,
+      "Medicine": 93
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 64,
+      "extraversion": 89,
+      "agreeableness": 86,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

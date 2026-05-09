@@ -1,0 +1,60 @@
+{
+  "id": "npc_676",
+  "bio": {
+    "full_name": "Chen Schmidt",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 59,
+    "blood_type": "A-",
+    "genetic_stability": 0.994,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 102,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 10,
+      "Perception": 77,
+      "Medicine": 44
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 30,
+      "extraversion": 0,
+      "agreeableness": 31,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

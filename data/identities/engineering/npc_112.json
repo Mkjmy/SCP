@@ -1,0 +1,60 @@
+{
+  "id": "npc_112",
+  "bio": {
+    "full_name": "Kenji Sato",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "O-",
+    "genetic_stability": 0.985,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 56,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 25,
+      "Stealth": 30,
+      "Hacking": 24
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 83,
+      "extraversion": 4,
+      "agreeableness": 28,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

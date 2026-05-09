@@ -1,0 +1,59 @@
+{
+  "id": "npc_978",
+  "bio": {
+    "full_name": "Anthony Muller",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "O+",
+    "genetic_stability": 0.905,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 77,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 54,
+      "Persuasion": 23,
+      "Medicine": 32
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 82,
+      "extraversion": 99,
+      "agreeableness": 18,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

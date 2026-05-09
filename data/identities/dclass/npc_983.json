@@ -1,0 +1,59 @@
+{
+  "id": "npc_983",
+  "bio": {
+    "full_name": "Donald Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.891,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 52,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 28,
+      "Occult_Research": 73,
+      "Stealth": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 55,
+      "extraversion": 64,
+      "agreeableness": 62,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

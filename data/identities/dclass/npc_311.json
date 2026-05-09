@@ -1,0 +1,60 @@
+{
+  "id": "npc_311",
+  "bio": {
+    "full_name": "Christopher Smith",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "O-",
+    "genetic_stability": 0.902,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 99,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 38,
+      "Athletics": 17,
+      "Persuasion": 16
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 56,
+      "extraversion": 30,
+      "agreeableness": 93,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

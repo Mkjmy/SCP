@@ -1,0 +1,60 @@
+{
+  "id": "npc_530",
+  "bio": {
+    "full_name": "Andrew Brown",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "A-",
+    "genetic_stability": 0.91,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 98,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 55,
+      "Persuasion": 26,
+      "Perception": 27
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 19,
+      "extraversion": 85,
+      "agreeableness": 100,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

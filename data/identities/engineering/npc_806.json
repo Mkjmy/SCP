@@ -1,0 +1,60 @@
+{
+  "id": "npc_806",
+  "bio": {
+    "full_name": "Elena Dubois",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "AB-",
+    "genetic_stability": 0.951,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 61,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 14,
+      "Perception": 81,
+      "Engineering": 41
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 23,
+      "extraversion": 86,
+      "agreeableness": 85,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

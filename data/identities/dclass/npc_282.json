@@ -1,0 +1,59 @@
+{
+  "id": "npc_282",
+  "bio": {
+    "full_name": "Robert Ivanov",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.88,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 60,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 35,
+      "Perception": 46,
+      "Medicine": 95
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 61,
+      "extraversion": 63,
+      "agreeableness": 95,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

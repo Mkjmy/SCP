@@ -1,0 +1,60 @@
+{
+  "id": "npc_516",
+  "bio": {
+    "full_name": "Charles Williams",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.901,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 25,
+      "Persuasion": 54,
+      "Medicine": 77
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 88,
+      "extraversion": 100,
+      "agreeableness": 60,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

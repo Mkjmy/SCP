@@ -1,0 +1,60 @@
+{
+  "id": "npc_233",
+  "bio": {
+    "full_name": "Christopher Tanaka",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "B-",
+    "genetic_stability": 0.85,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 81,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 59,
+      "Containment_Logic": 34,
+      "Persuasion": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 60,
+      "extraversion": 12,
+      "agreeableness": 26,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

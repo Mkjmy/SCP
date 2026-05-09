@@ -1,0 +1,59 @@
+{
+  "id": "npc_128",
+  "bio": {
+    "full_name": "Kenji Sato",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "B+",
+    "genetic_stability": 0.975,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 91,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 52,
+      "Hacking": 45,
+      "Medicine": 70
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 0,
+      "extraversion": 49,
+      "agreeableness": 36,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_080",
+  "bio": {
+    "full_name": "Paul Jones",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.877,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 98,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 39,
+      "Stealth": 88,
+      "Occult_Research": 32
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 20,
+      "extraversion": 25,
+      "agreeableness": 80,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

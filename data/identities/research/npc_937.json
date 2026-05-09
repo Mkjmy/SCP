@@ -1,0 +1,60 @@
+{
+  "id": "npc_937",
+  "bio": {
+    "full_name": "Yuki Bakker",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.926,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 62,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 48,
+      "Firearms": 64,
+      "Persuasion": 28
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 48,
+      "extraversion": 57,
+      "agreeableness": 53,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

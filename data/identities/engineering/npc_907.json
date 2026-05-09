@@ -1,0 +1,60 @@
+{
+  "id": "npc_907",
+  "bio": {
+    "full_name": "Yuki Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "AB-",
+    "genetic_stability": 0.859,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 51,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 47,
+      "Perception": 92,
+      "Containment_Logic": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 31,
+      "extraversion": 46,
+      "agreeableness": 17,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

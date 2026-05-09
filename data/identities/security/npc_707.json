@@ -1,0 +1,60 @@
+{
+  "id": "npc_707",
+  "bio": {
+    "full_name": "Michael Brown",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.977,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 89,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 20,
+      "Occult_Research": 14,
+      "Persuasion": 76
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 11,
+      "extraversion": 36,
+      "agreeableness": 36,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_395",
+  "bio": {
+    "full_name": "Fatima Wong",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.902,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 77,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 58,
+      "Stealth": 68,
+      "Occult_Research": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 63,
+      "extraversion": 90,
+      "agreeableness": 100,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

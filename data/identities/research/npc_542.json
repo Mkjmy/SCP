@@ -1,0 +1,60 @@
+{
+  "id": "npc_542",
+  "bio": {
+    "full_name": "Anthony Muller",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.944,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 100,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 90,
+      "Stealth": 68,
+      "Athletics": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 99,
+      "extraversion": 45,
+      "agreeableness": 35,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

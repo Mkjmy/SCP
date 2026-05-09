@@ -1,0 +1,60 @@
+{
+  "id": "npc_067",
+  "bio": {
+    "full_name": "William Smith",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "A+",
+    "genetic_stability": 0.974,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 80,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 35,
+      "Occult_Research": 33,
+      "Persuasion": 89
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 5,
+      "extraversion": 46,
+      "agreeableness": 92,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_535",
+  "bio": {
+    "full_name": "John Bakker",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.965,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 89,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 52,
+      "Occult_Research": 39,
+      "Firearms": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 43,
+      "extraversion": 98,
+      "agreeableness": 18,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

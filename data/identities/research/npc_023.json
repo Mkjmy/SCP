@@ -1,0 +1,59 @@
+{
+  "id": "npc_023",
+  "bio": {
+    "full_name": "Mark Sato",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 59,
+    "blood_type": "A-",
+    "genetic_stability": 0.951,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 108,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 45,
+      "Persuasion": 41,
+      "Perception": 78
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 81,
+      "extraversion": 18,
+      "agreeableness": 12,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

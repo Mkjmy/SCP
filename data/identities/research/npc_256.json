@@ -1,0 +1,60 @@
+{
+  "id": "npc_256",
+  "bio": {
+    "full_name": "Lars Gupta",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.945,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 62,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 65,
+      "Athletics": 61,
+      "Perception": 23
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 23,
+      "extraversion": 47,
+      "agreeableness": 50,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

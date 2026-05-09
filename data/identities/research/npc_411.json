@@ -1,0 +1,60 @@
+{
+  "id": "npc_411",
+  "bio": {
+    "full_name": "Olga Muller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "B+",
+    "genetic_stability": 0.962,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 59,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 28,
+      "Perception": 77,
+      "Containment_Logic": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 52,
+      "extraversion": 81,
+      "agreeableness": 96,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

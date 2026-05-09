@@ -1,0 +1,60 @@
+{
+  "id": "npc_442",
+  "bio": {
+    "full_name": "Daniel Gupta",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "B-",
+    "genetic_stability": 0.903,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 93,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 16,
+      "Stealth": 45,
+      "Containment_Logic": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 0,
+      "extraversion": 15,
+      "agreeableness": 43,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

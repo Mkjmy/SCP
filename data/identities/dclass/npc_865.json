@@ -1,0 +1,60 @@
+{
+  "id": "npc_865",
+  "bio": {
+    "full_name": "Arjun Kovacs",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.953,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 82,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 89,
+      "Firearms": 42,
+      "Engineering": 72
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 14,
+      "extraversion": 10,
+      "agreeableness": 69,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_216",
+  "bio": {
+    "full_name": "Michael Tanaka",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 34,
+    "blood_type": "O-",
+    "genetic_stability": 0.929,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 74,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 67,
+      "Perception": 72,
+      "Persuasion": 76
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 25,
+      "extraversion": 41,
+      "agreeableness": 42,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

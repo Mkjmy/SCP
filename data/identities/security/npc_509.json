@@ -1,0 +1,60 @@
+{
+  "id": "npc_509",
+  "bio": {
+    "full_name": "Arjun Kovacs",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "A-",
+    "genetic_stability": 0.895,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 61,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 34,
+      "Occult_Research": 26,
+      "Containment_Logic": 26
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 38,
+      "extraversion": 52,
+      "agreeableness": 62,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

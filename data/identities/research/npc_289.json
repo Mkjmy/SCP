@@ -1,0 +1,60 @@
+{
+  "id": "npc_289",
+  "bio": {
+    "full_name": "Yuki Wong",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 26,
+    "blood_type": "A+",
+    "genetic_stability": 0.874,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 104,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 51,
+      "Stealth": 16,
+      "Athletics": 10
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 76,
+      "extraversion": 10,
+      "agreeableness": 23,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_434",
+  "bio": {
+    "full_name": "Robert Vasiliev",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.994,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 79,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 50,
+      "Engineering": 84,
+      "Occult_Research": 42
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 80,
+      "extraversion": 29,
+      "agreeableness": 70,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

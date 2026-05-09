@@ -1,0 +1,60 @@
+{
+  "id": "npc_398",
+  "bio": {
+    "full_name": "Robert Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "A-",
+    "genetic_stability": 0.976,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 53,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 52,
+      "Athletics": 53,
+      "Hacking": 66
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 91,
+      "extraversion": 11,
+      "agreeableness": 18,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

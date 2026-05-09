@@ -1,0 +1,60 @@
+{
+  "id": "npc_335",
+  "bio": {
+    "full_name": "David Davis",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.991,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 91,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 33,
+      "Firearms": 24,
+      "Hacking": 26
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 29,
+      "extraversion": 5,
+      "agreeableness": 17,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

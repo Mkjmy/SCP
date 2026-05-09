@@ -1,0 +1,59 @@
+{
+  "id": "npc_689",
+  "bio": {
+    "full_name": "David Garcia",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 57,
+    "blood_type": "A+",
+    "genetic_stability": 0.878,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 105,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 48,
+      "Athletics": 69,
+      "Stealth": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 31,
+      "extraversion": 29,
+      "agreeableness": 88,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_170",
+  "bio": {
+    "full_name": "David Tanaka",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.855,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 60,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 75,
+      "Engineering": 95,
+      "Persuasion": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 54,
+      "extraversion": 54,
+      "agreeableness": 17,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

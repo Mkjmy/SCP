@@ -1,0 +1,60 @@
+{
+  "id": "npc_493",
+  "bio": {
+    "full_name": "James Williams",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.991,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 52,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 81,
+      "Stealth": 29,
+      "Persuasion": 59
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 82,
+      "extraversion": 74,
+      "agreeableness": 35,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

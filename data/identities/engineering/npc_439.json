@@ -1,0 +1,60 @@
+{
+  "id": "npc_439",
+  "bio": {
+    "full_name": "William Dubois",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "B-",
+    "genetic_stability": 0.866,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 97,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 22,
+      "Persuasion": 47,
+      "Containment_Logic": 86
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 69,
+      "extraversion": 53,
+      "agreeableness": 17,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

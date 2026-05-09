@@ -1,0 +1,60 @@
+{
+  "id": "npc_735",
+  "bio": {
+    "full_name": "Maria Ivanov",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.955,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 106,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 24,
+      "Engineering": 19,
+      "Firearms": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 87,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 37,
+      "extraversion": 4,
+      "agreeableness": 80,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

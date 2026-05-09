@@ -1,0 +1,60 @@
+{
+  "id": "npc_139",
+  "bio": {
+    "full_name": "Thomas Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "B+",
+    "genetic_stability": 0.96,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 100,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 72,
+      "Occult_Research": 33,
+      "Hacking": 65
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 56,
+      "extraversion": 64,
+      "agreeableness": 94,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

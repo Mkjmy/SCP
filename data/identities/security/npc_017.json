@@ -1,0 +1,60 @@
+{
+  "id": "npc_017",
+  "bio": {
+    "full_name": "Maria Dubois",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.883,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 74,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 67,
+      "Medicine": 37,
+      "Athletics": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 68,
+      "extraversion": 74,
+      "agreeableness": 85,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

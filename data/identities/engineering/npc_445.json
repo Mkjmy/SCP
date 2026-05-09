@@ -1,0 +1,59 @@
+{
+  "id": "npc_445",
+  "bio": {
+    "full_name": "Joshua Johnson",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "A+",
+    "genetic_stability": 0.937,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 107,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 42,
+      "Occult_Research": 69,
+      "Hacking": 53
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 51,
+      "extraversion": 42,
+      "agreeableness": 38,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_858",
+  "bio": {
+    "full_name": "Maria Miller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.859,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 51,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 21,
+      "Firearms": 79,
+      "Athletics": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 71,
+      "extraversion": 84,
+      "agreeableness": 31,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

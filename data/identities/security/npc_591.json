@@ -1,0 +1,60 @@
+{
+  "id": "npc_591",
+  "bio": {
+    "full_name": "David Bakker",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.907,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 83,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 79,
+      "Engineering": 38,
+      "Athletics": 11
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 76,
+      "extraversion": 13,
+      "agreeableness": 71,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_271",
+  "bio": {
+    "full_name": "Michael Jones",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "AB+",
+    "genetic_stability": 0.89,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 68,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 46,
+      "Persuasion": 68,
+      "Containment_Logic": 90
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 65,
+      "extraversion": 77,
+      "agreeableness": 67,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

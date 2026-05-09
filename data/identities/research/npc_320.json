@@ -1,0 +1,60 @@
+{
+  "id": "npc_320",
+  "bio": {
+    "full_name": "Robert Schmidt",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "B+",
+    "genetic_stability": 0.944,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 102,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 34,
+      "Hacking": 76,
+      "Perception": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 55,
+      "extraversion": 51,
+      "agreeableness": 36,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

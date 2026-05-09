@@ -1,0 +1,60 @@
+{
+  "id": "npc_347",
+  "bio": {
+    "full_name": "Andrew Sato",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.919,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 103,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 95,
+      "Persuasion": 17,
+      "Firearms": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 48,
+      "extraversion": 17,
+      "agreeableness": 41,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

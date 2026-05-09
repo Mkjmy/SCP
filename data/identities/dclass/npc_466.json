@@ -1,0 +1,60 @@
+{
+  "id": "npc_466",
+  "bio": {
+    "full_name": "Yuki Williams",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "O-",
+    "genetic_stability": 0.878,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 73,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 78,
+      "Persuasion": 54,
+      "Stealth": 70
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 67,
+      "extraversion": 65,
+      "agreeableness": 36,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

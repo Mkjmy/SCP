@@ -1,0 +1,60 @@
+{
+  "id": "npc_457",
+  "bio": {
+    "full_name": "Anthony Gupta",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.948,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 69,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 47,
+      "Firearms": 43,
+      "Occult_Research": 53
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 10,
+      "extraversion": 69,
+      "agreeableness": 44,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

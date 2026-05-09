@@ -1,0 +1,60 @@
+{
+  "id": "npc_965",
+  "bio": {
+    "full_name": "John Williams",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.926,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 74,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 66,
+      "Persuasion": 41,
+      "Engineering": 55
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 118,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 82,
+      "extraversion": 4,
+      "agreeableness": 32,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_761",
+  "bio": {
+    "full_name": "William Bakker",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "A-",
+    "genetic_stability": 0.862,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 55,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 28,
+      "Perception": 41,
+      "Persuasion": 23
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 50,
+      "extraversion": 82,
+      "agreeableness": 61,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

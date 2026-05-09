@@ -1,0 +1,60 @@
+{
+  "id": "npc_157",
+  "bio": {
+    "full_name": "William Williams",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "O-",
+    "genetic_stability": 0.869,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 77,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 57,
+      "Occult_Research": 73,
+      "Athletics": 72
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 18,
+      "extraversion": 62,
+      "agreeableness": 42,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

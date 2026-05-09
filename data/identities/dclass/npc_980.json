@@ -1,0 +1,60 @@
+{
+  "id": "npc_980",
+  "bio": {
+    "full_name": "Thomas Vasiliev",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "A-",
+    "genetic_stability": 0.911,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 102,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 19,
+      "Hacking": 74,
+      "Persuasion": 75
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 46,
+      "extraversion": 30,
+      "agreeableness": 81,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

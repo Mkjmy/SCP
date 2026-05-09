@@ -1,0 +1,59 @@
+{
+  "id": "npc_140",
+  "bio": {
+    "full_name": "Joseph Miller",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.85,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 65,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 34,
+      "Firearms": 70,
+      "Perception": 24
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 18,
+      "extraversion": 62,
+      "agreeableness": 74,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

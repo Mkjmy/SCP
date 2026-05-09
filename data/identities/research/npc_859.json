@@ -1,0 +1,60 @@
+{
+  "id": "npc_859",
+  "bio": {
+    "full_name": "Andrew Vasiliev",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.94,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 56,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 74,
+      "Athletics": 95,
+      "Stealth": 77
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 70,
+      "extraversion": 42,
+      "agreeableness": 78,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

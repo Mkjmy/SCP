@@ -1,0 +1,59 @@
+{
+  "id": "npc_226",
+  "bio": {
+    "full_name": "Chen Davis",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.862,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 85,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 43,
+      "Persuasion": 80,
+      "Hacking": 16
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 78,
+      "extraversion": 69,
+      "agreeableness": 34,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

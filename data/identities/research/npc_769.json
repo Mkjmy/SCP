@@ -1,0 +1,60 @@
+{
+  "id": "npc_769",
+  "bio": {
+    "full_name": "Arjun Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.938,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 76,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 24,
+      "Stealth": 36,
+      "Athletics": 38
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 17,
+      "extraversion": 55,
+      "agreeableness": 38,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_530",
+  "bio": {
+    "full_name": "Andrew Sato",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.925,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 92,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 49,
+      "Engineering": 62,
+      "Firearms": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 100,
+      "extraversion": 28,
+      "agreeableness": 10,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

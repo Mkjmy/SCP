@@ -1,0 +1,59 @@
+{
+  "id": "npc_300",
+  "bio": {
+    "full_name": "Kenji Wong",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.951,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 83,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 15,
+      "Engineering": 11,
+      "Perception": 68
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 63,
+      "extraversion": 37,
+      "agreeableness": 93,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

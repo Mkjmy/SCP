@@ -1,0 +1,59 @@
+{
+  "id": "npc_855",
+  "bio": {
+    "full_name": "Mark Brown",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "O-",
+    "genetic_stability": 0.878,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 99,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 46,
+      "Persuasion": 29,
+      "Stealth": 66
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 1,
+      "extraversion": 78,
+      "agreeableness": 60,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

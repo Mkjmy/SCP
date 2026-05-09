@@ -1,0 +1,60 @@
+{
+  "id": "npc_309",
+  "bio": {
+    "full_name": "Arjun Miller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "B-",
+    "genetic_stability": 0.941,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 57,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 19,
+      "Perception": 72,
+      "Firearms": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 22,
+      "extraversion": 13,
+      "agreeableness": 4,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_763",
+  "bio": {
+    "full_name": "Elena Ivanov",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "AB-",
+    "genetic_stability": 0.964,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 82,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 30,
+      "Engineering": 22,
+      "Medicine": 52
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 12,
+      "extraversion": 36,
+      "agreeableness": 8,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_267",
+  "bio": {
+    "full_name": "Chen Jones",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "AB+",
+    "genetic_stability": 0.851,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 94,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 49,
+      "Occult_Research": 10,
+      "Perception": 85
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 60,
+      "extraversion": 57,
+      "agreeableness": 84,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

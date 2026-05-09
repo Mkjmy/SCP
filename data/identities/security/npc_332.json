@@ -1,0 +1,59 @@
+{
+  "id": "npc_332",
+  "bio": {
+    "full_name": "Christopher Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.93,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 61,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 44,
+      "Containment_Logic": 58,
+      "Stealth": 17
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 44,
+      "extraversion": 42,
+      "agreeableness": 50,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_365",
+  "bio": {
+    "full_name": "Maria Garcia",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "AB+",
+    "genetic_stability": 0.958,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 93,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 37,
+      "Persuasion": 52,
+      "Firearms": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 92,
+      "extraversion": 81,
+      "agreeableness": 98,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_629",
+  "bio": {
+    "full_name": "Donald Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.879,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 105,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 66,
+      "Containment_Logic": 86,
+      "Perception": 18
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 29,
+      "extraversion": 17,
+      "agreeableness": 9,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

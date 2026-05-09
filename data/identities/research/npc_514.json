@@ -1,0 +1,60 @@
+{
+  "id": "npc_514",
+  "bio": {
+    "full_name": "James Sato",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.998,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 97,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 92,
+      "Hacking": 64,
+      "Engineering": 15
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 39,
+      "extraversion": 54,
+      "agreeableness": 95,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

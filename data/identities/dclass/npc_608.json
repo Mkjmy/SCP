@@ -1,0 +1,60 @@
+{
+  "id": "npc_608",
+  "bio": {
+    "full_name": "William Dubois",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "O-",
+    "genetic_stability": 0.888,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 65,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 61,
+      "Athletics": 48,
+      "Stealth": 61
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 24,
+      "extraversion": 63,
+      "agreeableness": 17,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

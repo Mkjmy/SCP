@@ -1,0 +1,60 @@
+{
+  "id": "npc_120",
+  "bio": {
+    "full_name": "Charles Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.872,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 59,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 46,
+      "Firearms": 54,
+      "Containment_Logic": 26
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 84,
+      "extraversion": 8,
+      "agreeableness": 33,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

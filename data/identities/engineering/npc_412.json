@@ -1,0 +1,60 @@
+{
+  "id": "npc_412",
+  "bio": {
+    "full_name": "Matthew Kovacs",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "A-",
+    "genetic_stability": 0.956,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 65,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 52,
+      "Occult_Research": 51,
+      "Firearms": 77
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 78,
+      "extraversion": 81,
+      "agreeableness": 52,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_920",
+  "bio": {
+    "full_name": "Kenji Dubois",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "B+",
+    "genetic_stability": 0.894,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 72,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 36,
+      "Hacking": 90,
+      "Persuasion": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 96,
+      "extraversion": 88,
+      "agreeableness": 54,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

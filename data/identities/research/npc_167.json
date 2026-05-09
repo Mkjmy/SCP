@@ -1,0 +1,60 @@
+{
+  "id": "npc_167",
+  "bio": {
+    "full_name": "Donald Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.864,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 104,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 49,
+      "Containment_Logic": 82,
+      "Medicine": 10
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 84,
+      "extraversion": 79,
+      "agreeableness": 46,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

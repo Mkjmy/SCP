@@ -1,0 +1,60 @@
+{
+  "id": "npc_840",
+  "bio": {
+    "full_name": "Steven Williams",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 52,
+    "blood_type": "A+",
+    "genetic_stability": 0.917,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 63,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 63,
+      "Occult_Research": 72,
+      "Persuasion": 94
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 54,
+      "extraversion": 95,
+      "agreeableness": 82,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

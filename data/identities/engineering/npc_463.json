@@ -1,0 +1,60 @@
+{
+  "id": "npc_463",
+  "bio": {
+    "full_name": "Steven Dubois",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "A+",
+    "genetic_stability": 0.972,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 91,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 41,
+      "Persuasion": 66,
+      "Athletics": 22
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 76,
+      "extraversion": 68,
+      "agreeableness": 1,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

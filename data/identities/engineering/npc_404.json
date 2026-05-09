@@ -1,0 +1,60 @@
+{
+  "id": "npc_404",
+  "bio": {
+    "full_name": "Steven Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.978,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 97,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 52,
+      "Containment_Logic": 69,
+      "Medicine": 63
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 52,
+      "extraversion": 75,
+      "agreeableness": 14,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

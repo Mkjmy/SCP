@@ -1,0 +1,60 @@
+{
+  "id": "npc_984",
+  "bio": {
+    "full_name": "Thomas Schmidt",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "AB+",
+    "genetic_stability": 0.864,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 80,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 82,
+      "Persuasion": 70,
+      "Medicine": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 6,
+      "extraversion": 26,
+      "agreeableness": 65,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

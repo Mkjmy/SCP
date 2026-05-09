@@ -1,0 +1,60 @@
+{
+  "id": "npc_883",
+  "bio": {
+    "full_name": "Joseph Wong",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "A+",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 56,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 50,
+      "Persuasion": 37,
+      "Athletics": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 16,
+      "extraversion": 10,
+      "agreeableness": 55,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

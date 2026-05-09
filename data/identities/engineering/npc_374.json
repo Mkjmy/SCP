@@ -1,0 +1,60 @@
+{
+  "id": "npc_374",
+  "bio": {
+    "full_name": "Richard Davis",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.975,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 97,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 60,
+      "Medicine": 17,
+      "Hacking": 91
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 63,
+      "extraversion": 46,
+      "agreeableness": 40,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

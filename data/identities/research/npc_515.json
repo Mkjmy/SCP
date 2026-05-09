@@ -1,0 +1,59 @@
+{
+  "id": "npc_515",
+  "bio": {
+    "full_name": "Paul Muller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.919,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 72,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 77,
+      "Hacking": 60,
+      "Perception": 31
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 80,
+      "extraversion": 84,
+      "agreeableness": 41,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

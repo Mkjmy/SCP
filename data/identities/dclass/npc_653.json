@@ -1,0 +1,60 @@
+{
+  "id": "npc_653",
+  "bio": {
+    "full_name": "John Bakker",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.934,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 84,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 66,
+      "Hacking": 30,
+      "Firearms": 75
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 25,
+      "extraversion": 3,
+      "agreeableness": 14,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

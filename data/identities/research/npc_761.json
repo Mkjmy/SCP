@@ -1,0 +1,60 @@
+{
+  "id": "npc_761",
+  "bio": {
+    "full_name": "Robert Vasiliev",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.855,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 97,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 95,
+      "Perception": 74,
+      "Occult_Research": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 73,
+      "extraversion": 57,
+      "agreeableness": 97,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

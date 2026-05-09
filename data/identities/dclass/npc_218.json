@@ -1,0 +1,60 @@
+{
+  "id": "npc_218",
+  "bio": {
+    "full_name": "John Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "A+",
+    "genetic_stability": 0.94,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 59,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 70,
+      "Occult_Research": 93,
+      "Hacking": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 35,
+      "extraversion": 52,
+      "agreeableness": 46,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

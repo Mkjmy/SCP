@@ -1,0 +1,60 @@
+{
+  "id": "npc_776",
+  "bio": {
+    "full_name": "James Jones",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 61,
+    "blood_type": "B+",
+    "genetic_stability": 0.986,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 98,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 75,
+      "Persuasion": 93,
+      "Engineering": 91
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 33,
+      "extraversion": 53,
+      "agreeableness": 84,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

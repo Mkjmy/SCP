@@ -1,0 +1,60 @@
+{
+  "id": "npc_117",
+  "bio": {
+    "full_name": "Steven Tanaka",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.963,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 73,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 65,
+      "Hacking": 38,
+      "Perception": 33
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 24,
+      "extraversion": 13,
+      "agreeableness": 73,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

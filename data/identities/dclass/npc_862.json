@@ -1,0 +1,60 @@
+{
+  "id": "npc_862",
+  "bio": {
+    "full_name": "Elena Tanaka",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "B-",
+    "genetic_stability": 0.95,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 59,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 73,
+      "Occult_Research": 74,
+      "Containment_Logic": 31
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 32,
+      "extraversion": 24,
+      "agreeableness": 21,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

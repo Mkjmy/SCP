@@ -1,0 +1,60 @@
+{
+  "id": "npc_114",
+  "bio": {
+    "full_name": "Yuki Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.854,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 57,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 21,
+      "Athletics": 45,
+      "Occult_Research": 88
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 21,
+      "extraversion": 74,
+      "agreeableness": 77,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

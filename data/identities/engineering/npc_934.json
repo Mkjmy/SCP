@@ -1,0 +1,60 @@
+{
+  "id": "npc_934",
+  "bio": {
+    "full_name": "Sven Smith",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.896,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 77,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 82,
+      "Containment_Logic": 58,
+      "Persuasion": 66
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 40,
+      "extraversion": 16,
+      "agreeableness": 12,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

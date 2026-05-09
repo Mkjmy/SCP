@@ -1,0 +1,60 @@
+{
+  "id": "npc_230",
+  "bio": {
+    "full_name": "Olga Sato",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 0.934,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 51,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 33,
+      "Occult_Research": 64,
+      "Hacking": 84
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 32,
+      "extraversion": 18,
+      "agreeableness": 3,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

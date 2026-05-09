@@ -1,0 +1,60 @@
+{
+  "id": "npc_994",
+  "bio": {
+    "full_name": "Yuki Vasiliev",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.978,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 50,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 50,
+      "Occult_Research": 80,
+      "Hacking": 43
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 17,
+      "extraversion": 70,
+      "agreeableness": 15,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

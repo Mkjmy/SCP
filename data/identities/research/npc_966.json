@@ -1,0 +1,60 @@
+{
+  "id": "npc_966",
+  "bio": {
+    "full_name": "Michael Dubois",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 55,
+    "blood_type": "O+",
+    "genetic_stability": 0.937,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 71,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 12,
+      "Persuasion": 88,
+      "Athletics": 39
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 92,
+      "extraversion": 10,
+      "agreeableness": 42,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

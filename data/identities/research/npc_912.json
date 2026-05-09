@@ -1,0 +1,59 @@
+{
+  "id": "npc_912",
+  "bio": {
+    "full_name": "Steven Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "A+",
+    "genetic_stability": 0.865,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 66,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 79,
+      "Persuasion": 52,
+      "Perception": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 24,
+      "extraversion": 48,
+      "agreeableness": 89,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

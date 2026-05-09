@@ -1,0 +1,60 @@
+{
+  "id": "npc_169",
+  "bio": {
+    "full_name": "Maria Miller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "A-",
+    "genetic_stability": 0.989,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 96,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 67,
+      "Medicine": 57,
+      "Firearms": 24
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 99,
+      "extraversion": 73,
+      "agreeableness": 20,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

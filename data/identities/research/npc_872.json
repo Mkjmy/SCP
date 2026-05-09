@@ -1,0 +1,60 @@
+{
+  "id": "npc_872",
+  "bio": {
+    "full_name": "Elena Bakker",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.898,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 62,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 80,
+      "Hacking": 18,
+      "Perception": 63
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 7,
+      "extraversion": 18,
+      "agreeableness": 41,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_214",
+  "bio": {
+    "full_name": "Joshua Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.999,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 73,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 28,
+      "Hacking": 58,
+      "Perception": 80
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 26,
+      "extraversion": 11,
+      "agreeableness": 55,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

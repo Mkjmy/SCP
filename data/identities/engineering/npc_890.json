@@ -1,0 +1,60 @@
+{
+  "id": "npc_890",
+  "bio": {
+    "full_name": "Sven Davis",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.869,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 78,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 19,
+      "Perception": 64,
+      "Medicine": 62
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 7,
+      "extraversion": 29,
+      "agreeableness": 87,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

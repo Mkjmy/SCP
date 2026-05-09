@@ -1,0 +1,59 @@
+{
+  "id": "npc_182",
+  "bio": {
+    "full_name": "Robert Tanaka",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "O+",
+    "genetic_stability": 0.922,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 64,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 82,
+      "Containment_Logic": 91,
+      "Stealth": 36
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 97,
+      "extraversion": 22,
+      "agreeableness": 35,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

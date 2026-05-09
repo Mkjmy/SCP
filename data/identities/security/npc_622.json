@@ -1,0 +1,60 @@
+{
+  "id": "npc_622",
+  "bio": {
+    "full_name": "Thomas Jones",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "B-",
+    "genetic_stability": 0.873,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 101,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 87,
+      "Firearms": 71,
+      "Athletics": 72
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 45,
+      "extraversion": 100,
+      "agreeableness": 14,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

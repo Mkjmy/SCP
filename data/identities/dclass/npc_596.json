@@ -1,0 +1,60 @@
+{
+  "id": "npc_596",
+  "bio": {
+    "full_name": "Joseph Davis",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.895,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 70,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 48,
+      "Stealth": 93,
+      "Persuasion": 51
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 8,
+      "extraversion": 63,
+      "agreeableness": 39,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_221",
+  "bio": {
+    "full_name": "Sven Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "AB-",
+    "genetic_stability": 0.855,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 102,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 50,
+      "Persuasion": 50,
+      "Stealth": 33
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 86,
+      "extraversion": 32,
+      "agreeableness": 94,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

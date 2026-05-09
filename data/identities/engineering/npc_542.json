@@ -1,0 +1,60 @@
+{
+  "id": "npc_542",
+  "bio": {
+    "full_name": "Anthony Bakker",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.904,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 91,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 30,
+      "Stealth": 34,
+      "Medicine": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 44,
+      "extraversion": 49,
+      "agreeableness": 58,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

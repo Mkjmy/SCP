@@ -1,0 +1,60 @@
+{
+  "id": "npc_987",
+  "bio": {
+    "full_name": "John Bakker",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.994,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 94,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 46,
+      "Stealth": 75,
+      "Containment_Logic": 14
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 20,
+      "extraversion": 3,
+      "agreeableness": 65,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

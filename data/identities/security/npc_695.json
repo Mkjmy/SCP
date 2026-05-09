@@ -1,0 +1,60 @@
+{
+  "id": "npc_695",
+  "bio": {
+    "full_name": "Kenji Miller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.977,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 51,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 37,
+      "Containment_Logic": 94,
+      "Hacking": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 63,
+      "extraversion": 56,
+      "agreeableness": 99,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

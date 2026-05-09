@@ -1,0 +1,60 @@
+{
+  "id": "npc_923",
+  "bio": {
+    "full_name": "Joseph Schmidt",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 32,
+    "blood_type": "B+",
+    "genetic_stability": 0.977,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 62,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 15,
+      "Perception": 51,
+      "Athletics": 29
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 36,
+      "extraversion": 9,
+      "agreeableness": 57,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

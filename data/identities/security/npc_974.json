@@ -1,0 +1,60 @@
+{
+  "id": "npc_974",
+  "bio": {
+    "full_name": "Joshua Smith",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "A-",
+    "genetic_stability": 0.865,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 87,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 66,
+      "Containment_Logic": 36,
+      "Persuasion": 52
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 34,
+      "extraversion": 45,
+      "agreeableness": 14,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

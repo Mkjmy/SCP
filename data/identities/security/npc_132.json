@@ -1,0 +1,60 @@
+{
+  "id": "npc_132",
+  "bio": {
+    "full_name": "Fatima Bakker",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "B-",
+    "genetic_stability": 0.902,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 96,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 18,
+      "Stealth": 54,
+      "Engineering": 59
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 51,
+      "extraversion": 21,
+      "agreeableness": 2,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

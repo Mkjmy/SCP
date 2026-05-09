@@ -1,0 +1,60 @@
+{
+  "id": "npc_661",
+  "bio": {
+    "full_name": "Joseph Schmidt",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 20,
+    "blood_type": "A+",
+    "genetic_stability": 0.887,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 89,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 41,
+      "Perception": 18,
+      "Firearms": 17
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 72,
+      "extraversion": 32,
+      "agreeableness": 15,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

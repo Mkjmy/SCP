@@ -1,0 +1,60 @@
+{
+  "id": "npc_898",
+  "bio": {
+    "full_name": "Kenji Bakker",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.89,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 106,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 69,
+      "Athletics": 78,
+      "Medicine": 24
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 86,
+      "extraversion": 55,
+      "agreeableness": 98,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

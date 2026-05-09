@@ -1,0 +1,60 @@
+{
+  "id": "npc_957",
+  "bio": {
+    "full_name": "Fatima Ivanov",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "O+",
+    "genetic_stability": 0.882,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 76,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 82,
+      "Perception": 94,
+      "Hacking": 72
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 88,
+      "extraversion": 36,
+      "agreeableness": 7,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

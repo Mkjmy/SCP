@@ -1,0 +1,60 @@
+{
+  "id": "npc_790",
+  "bio": {
+    "full_name": "Mark Tanaka",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "AB-",
+    "genetic_stability": 0.933,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 78,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 19,
+      "Athletics": 23,
+      "Occult_Research": 45
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 71,
+      "extraversion": 42,
+      "agreeableness": 67,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

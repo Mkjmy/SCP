@@ -1,0 +1,60 @@
+{
+  "id": "npc_938",
+  "bio": {
+    "full_name": "Olga Jones",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "O+",
+    "genetic_stability": 0.907,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 110,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 55,
+      "Stealth": 25,
+      "Persuasion": 72
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 21,
+      "extraversion": 81,
+      "agreeableness": 47,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

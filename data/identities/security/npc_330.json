@@ -1,0 +1,60 @@
+{
+  "id": "npc_330",
+  "bio": {
+    "full_name": "Richard Muller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.968,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 93,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 10,
+      "Firearms": 19,
+      "Stealth": 37
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 97,
+      "extraversion": 24,
+      "agreeableness": 81,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_678",
+  "bio": {
+    "full_name": "Sven Schmidt",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "A+",
+    "genetic_stability": 0.942,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 81,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 34,
+      "Occult_Research": 44,
+      "Firearms": 63
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 100,
+      "extraversion": 14,
+      "agreeableness": 70,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

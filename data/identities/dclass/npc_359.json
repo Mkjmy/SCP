@@ -1,0 +1,60 @@
+{
+  "id": "npc_359",
+  "bio": {
+    "full_name": "Richard O'Connor",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.918,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 54,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 60,
+      "Hacking": 52,
+      "Engineering": 34
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 74,
+      "extraversion": 63,
+      "agreeableness": 63,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

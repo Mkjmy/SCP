@@ -1,0 +1,60 @@
+{
+  "id": "npc_088",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.884,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 107,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 53,
+      "Persuasion": 13,
+      "Hacking": 70
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 88,
+      "extraversion": 27,
+      "agreeableness": 39,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

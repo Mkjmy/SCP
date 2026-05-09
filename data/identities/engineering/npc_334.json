@@ -1,0 +1,60 @@
+{
+  "id": "npc_334",
+  "bio": {
+    "full_name": "Donald Muller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.889,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 77,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 24,
+      "Hacking": 81,
+      "Perception": 41
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 24,
+      "extraversion": 45,
+      "agreeableness": 31,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

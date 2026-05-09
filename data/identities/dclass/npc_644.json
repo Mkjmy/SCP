@@ -1,0 +1,60 @@
+{
+  "id": "npc_644",
+  "bio": {
+    "full_name": "John Bakker",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.915,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 66,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 64,
+      "Persuasion": 62,
+      "Hacking": 71
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 98,
+      "extraversion": 16,
+      "agreeableness": 35,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

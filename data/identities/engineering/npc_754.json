@@ -1,0 +1,60 @@
+{
+  "id": "npc_754",
+  "bio": {
+    "full_name": "Olga Bakker",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.993,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 99,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 19,
+      "Hacking": 53,
+      "Perception": 70
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 43,
+      "extraversion": 49,
+      "agreeableness": 40,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

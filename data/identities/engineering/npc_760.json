@@ -1,0 +1,60 @@
+{
+  "id": "npc_760",
+  "bio": {
+    "full_name": "Joseph Wong",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 61,
+    "blood_type": "O+",
+    "genetic_stability": 0.871,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 104,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 73,
+      "Perception": 37,
+      "Containment_Logic": 24
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 73,
+      "extraversion": 35,
+      "agreeableness": 24,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

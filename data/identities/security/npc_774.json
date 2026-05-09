@@ -1,0 +1,60 @@
+{
+  "id": "npc_774",
+  "bio": {
+    "full_name": "William Wong",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "A-",
+    "genetic_stability": 0.92,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 102,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 10,
+      "Engineering": 87,
+      "Containment_Logic": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 77,
+      "extraversion": 7,
+      "agreeableness": 93,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

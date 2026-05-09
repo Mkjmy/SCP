@@ -1,0 +1,59 @@
+{
+  "id": "npc_752",
+  "bio": {
+    "full_name": "Chen Johnson",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "B-",
+    "genetic_stability": 0.954,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 63,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 46,
+      "Perception": 88,
+      "Hacking": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 92,
+      "extraversion": 74,
+      "agreeableness": 41,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

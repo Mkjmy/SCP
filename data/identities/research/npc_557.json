@@ -1,0 +1,60 @@
+{
+  "id": "npc_557",
+  "bio": {
+    "full_name": "Donald Schmidt",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.887,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 101,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 73,
+      "Persuasion": 38,
+      "Medicine": 66
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 4,
+      "extraversion": 34,
+      "agreeableness": 41,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

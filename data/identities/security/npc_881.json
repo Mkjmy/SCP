@@ -1,0 +1,60 @@
+{
+  "id": "npc_881",
+  "bio": {
+    "full_name": "Paul Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "O-",
+    "genetic_stability": 0.894,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 85,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 74,
+      "Perception": 35,
+      "Stealth": 43
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 82,
+      "extraversion": 49,
+      "agreeableness": 99,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

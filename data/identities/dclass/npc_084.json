@@ -1,0 +1,59 @@
+{
+  "id": "npc_084",
+  "bio": {
+    "full_name": "Richard Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.873,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 88,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 39,
+      "Athletics": 78,
+      "Persuasion": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 33,
+      "extraversion": 16,
+      "agreeableness": 54,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

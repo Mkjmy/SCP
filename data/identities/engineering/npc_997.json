@@ -1,0 +1,60 @@
+{
+  "id": "npc_997",
+  "bio": {
+    "full_name": "Anthony Brown",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "O-",
+    "genetic_stability": 0.906,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 104,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 43,
+      "Engineering": 58,
+      "Athletics": 86
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 14,
+      "extraversion": 36,
+      "agreeableness": 28,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

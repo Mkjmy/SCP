@@ -1,0 +1,59 @@
+{
+  "id": "npc_568",
+  "bio": {
+    "full_name": "William Dubois",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.997,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 103,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 55,
+      "Stealth": 19,
+      "Occult_Research": 59
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 87,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 22,
+      "extraversion": 96,
+      "agreeableness": 60,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

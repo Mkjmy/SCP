@@ -1,0 +1,60 @@
+{
+  "id": "npc_507",
+  "bio": {
+    "full_name": "Andrew Brown",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "AB+",
+    "genetic_stability": 0.933,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 85,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 29,
+      "Persuasion": 24,
+      "Medicine": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 70,
+      "extraversion": 57,
+      "agreeableness": 13,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

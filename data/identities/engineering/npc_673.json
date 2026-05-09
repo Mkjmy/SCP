@@ -1,0 +1,60 @@
+{
+  "id": "npc_673",
+  "bio": {
+    "full_name": "Steven Garcia",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 49,
+    "blood_type": "B-",
+    "genetic_stability": 0.855,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 97,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 81,
+      "Perception": 89,
+      "Persuasion": 65
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 96,
+      "extraversion": 41,
+      "agreeableness": 26,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

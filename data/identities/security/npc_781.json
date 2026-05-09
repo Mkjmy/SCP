@@ -1,0 +1,60 @@
+{
+  "id": "npc_781",
+  "bio": {
+    "full_name": "Thomas Miller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.886,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 88,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 68,
+      "Occult_Research": 48,
+      "Stealth": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 49,
+      "extraversion": 15,
+      "agreeableness": 89,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

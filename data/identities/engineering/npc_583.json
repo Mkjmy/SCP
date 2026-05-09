@@ -1,0 +1,60 @@
+{
+  "id": "npc_583",
+  "bio": {
+    "full_name": "Paul Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "A+",
+    "genetic_stability": 0.879,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 75,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 28,
+      "Engineering": 70,
+      "Firearms": 75
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 21,
+      "extraversion": 84,
+      "agreeableness": 18,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

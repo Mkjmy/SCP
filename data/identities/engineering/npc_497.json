@@ -1,0 +1,60 @@
+{
+  "id": "npc_497",
+  "bio": {
+    "full_name": "Daniel Davis",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "AB-",
+    "genetic_stability": 0.858,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 72,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 22,
+      "Firearms": 95,
+      "Perception": 54
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 36,
+      "extraversion": 57,
+      "agreeableness": 68,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

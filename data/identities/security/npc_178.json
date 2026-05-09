@@ -1,0 +1,60 @@
+{
+  "id": "npc_178",
+  "bio": {
+    "full_name": "Paul Jones",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "O+",
+    "genetic_stability": 0.98,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 104,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 92,
+      "Firearms": 56,
+      "Medicine": 43
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 52,
+      "extraversion": 71,
+      "agreeableness": 33,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

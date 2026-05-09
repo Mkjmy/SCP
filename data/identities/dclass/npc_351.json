@@ -1,0 +1,60 @@
+{
+  "id": "npc_351",
+  "bio": {
+    "full_name": "Mark Dubois",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.886,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 79,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 45,
+      "Containment_Logic": 87,
+      "Firearms": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 18,
+      "extraversion": 71,
+      "agreeableness": 73,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

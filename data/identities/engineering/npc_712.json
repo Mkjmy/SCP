@@ -1,0 +1,60 @@
+{
+  "id": "npc_712",
+  "bio": {
+    "full_name": "James Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "A-",
+    "genetic_stability": 0.907,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 108,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 94,
+      "Persuasion": 82,
+      "Stealth": 65
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 61,
+      "extraversion": 81,
+      "agreeableness": 19,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

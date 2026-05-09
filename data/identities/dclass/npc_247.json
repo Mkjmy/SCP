@@ -1,0 +1,60 @@
+{
+  "id": "npc_247",
+  "bio": {
+    "full_name": "Charles Garcia",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "A-",
+    "genetic_stability": 0.851,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 60,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 82,
+      "Stealth": 30,
+      "Persuasion": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 14,
+      "extraversion": 60,
+      "agreeableness": 64,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

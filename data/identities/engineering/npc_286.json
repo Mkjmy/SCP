@@ -1,0 +1,60 @@
+{
+  "id": "npc_286",
+  "bio": {
+    "full_name": "Donald Tanaka",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 61,
+    "blood_type": "B-",
+    "genetic_stability": 0.906,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 53,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 82,
+      "Occult_Research": 14,
+      "Medicine": 47
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 72,
+      "extraversion": 91,
+      "agreeableness": 26,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

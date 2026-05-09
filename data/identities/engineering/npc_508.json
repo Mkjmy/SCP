@@ -1,0 +1,60 @@
+{
+  "id": "npc_508",
+  "bio": {
+    "full_name": "Mark Davis",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.934,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 68,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 59,
+      "Stealth": 42,
+      "Medicine": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 47,
+      "extraversion": 81,
+      "agreeableness": 93,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

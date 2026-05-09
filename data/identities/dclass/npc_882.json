@@ -1,0 +1,60 @@
+{
+  "id": "npc_882",
+  "bio": {
+    "full_name": "Richard Johnson",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "O-",
+    "genetic_stability": 0.902,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 86,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 91,
+      "Containment_Logic": 90,
+      "Hacking": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 29,
+      "extraversion": 87,
+      "agreeableness": 9,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

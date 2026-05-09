@@ -1,0 +1,60 @@
+{
+  "id": "npc_895",
+  "bio": {
+    "full_name": "Maria Jones",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 55,
+    "blood_type": "A+",
+    "genetic_stability": 0.879,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 106,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 69,
+      "Stealth": 55,
+      "Athletics": 48
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 40,
+      "extraversion": 69,
+      "agreeableness": 100,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

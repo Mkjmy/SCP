@@ -1,0 +1,60 @@
+{
+  "id": "npc_276",
+  "bio": {
+    "full_name": "James Williams",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.891,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 88,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 23,
+      "Hacking": 65,
+      "Firearms": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 10,
+      "extraversion": 30,
+      "agreeableness": 78,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

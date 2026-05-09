@@ -1,0 +1,60 @@
+{
+  "id": "npc_185",
+  "bio": {
+    "full_name": "Donald Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 20,
+    "blood_type": "O+",
+    "genetic_stability": 0.962,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 64,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 30,
+      "Stealth": 23,
+      "Perception": 94
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 91,
+      "extraversion": 84,
+      "agreeableness": 56,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

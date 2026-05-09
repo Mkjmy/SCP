@@ -1,0 +1,60 @@
+{
+  "id": "npc_566",
+  "bio": {
+    "full_name": "Anthony Brown",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "B+",
+    "genetic_stability": 0.989,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 61,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 20,
+      "Medicine": 72,
+      "Persuasion": 56
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 19,
+      "extraversion": 58,
+      "agreeableness": 73,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

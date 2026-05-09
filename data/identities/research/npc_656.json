@@ -1,0 +1,60 @@
+{
+  "id": "npc_656",
+  "bio": {
+    "full_name": "Robert Schmidt",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.864,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 57,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 85,
+      "Perception": 78,
+      "Hacking": 12
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 46,
+      "extraversion": 91,
+      "agreeableness": 37,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

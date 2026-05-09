@@ -1,0 +1,59 @@
+{
+  "id": "npc_088",
+  "bio": {
+    "full_name": "Richard Smith",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "O+",
+    "genetic_stability": 0.965,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 76,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 13,
+      "Containment_Logic": 74,
+      "Occult_Research": 32
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 53,
+      "extraversion": 89,
+      "agreeableness": 51,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_780",
+  "bio": {
+    "full_name": "Charles Schmidt",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "A+",
+    "genetic_stability": 0.91,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 91,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 58,
+      "Perception": 46,
+      "Occult_Research": 26
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 74,
+      "extraversion": 69,
+      "agreeableness": 21,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

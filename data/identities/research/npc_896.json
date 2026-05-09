@@ -1,0 +1,60 @@
+{
+  "id": "npc_896",
+  "bio": {
+    "full_name": "Elena Kovacs",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "AB-",
+    "genetic_stability": 0.888,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 95,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 92,
+      "Firearms": 44,
+      "Engineering": 19
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 15,
+      "extraversion": 7,
+      "agreeableness": 84,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

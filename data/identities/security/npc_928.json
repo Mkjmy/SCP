@@ -1,0 +1,60 @@
+{
+  "id": "npc_928",
+  "bio": {
+    "full_name": "Sven Bakker",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.921,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 74,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 91,
+      "Engineering": 94,
+      "Hacking": 85
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 81,
+      "extraversion": 38,
+      "agreeableness": 84,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

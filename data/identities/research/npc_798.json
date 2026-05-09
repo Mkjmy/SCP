@@ -1,0 +1,60 @@
+{
+  "id": "npc_798",
+  "bio": {
+    "full_name": "Chen Ivanov",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.89,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 78,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 45,
+      "Persuasion": 19,
+      "Containment_Logic": 38
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 88,
+      "extraversion": 39,
+      "agreeableness": 41,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_317",
+  "bio": {
+    "full_name": "John Davis",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "A-",
+    "genetic_stability": 0.868,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 63,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 75,
+      "Occult_Research": 13,
+      "Containment_Logic": 84
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 50,
+      "extraversion": 70,
+      "agreeableness": 80,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

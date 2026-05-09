@@ -1,0 +1,60 @@
+{
+  "id": "npc_621",
+  "bio": {
+    "full_name": "William Jones",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "B+",
+    "genetic_stability": 0.907,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 83,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 41,
+      "Containment_Logic": 42,
+      "Persuasion": 79
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 60,
+      "extraversion": 27,
+      "agreeableness": 91,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

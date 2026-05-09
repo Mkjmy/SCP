@@ -1,0 +1,60 @@
+{
+  "id": "npc_793",
+  "bio": {
+    "full_name": "Lars Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.919,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 61,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 28,
+      "Containment_Logic": 67,
+      "Medicine": 64
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 18,
+      "extraversion": 100,
+      "agreeableness": 62,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

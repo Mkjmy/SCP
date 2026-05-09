@@ -1,0 +1,60 @@
+{
+  "id": "npc_174",
+  "bio": {
+    "full_name": "Matthew Dubois",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "A+",
+    "genetic_stability": 0.942,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 97,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 71,
+      "Persuasion": 75,
+      "Containment_Logic": 92
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 95,
+      "extraversion": 51,
+      "agreeableness": 18,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

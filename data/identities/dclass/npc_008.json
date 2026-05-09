@@ -1,0 +1,60 @@
+{
+  "id": "npc_008",
+  "bio": {
+    "full_name": "Chen Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.929,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 94,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 81,
+      "Hacking": 20,
+      "Stealth": 15
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 3,
+      "extraversion": 64,
+      "agreeableness": 46,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

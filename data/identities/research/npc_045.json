@@ -1,0 +1,60 @@
+{
+  "id": "npc_045",
+  "bio": {
+    "full_name": "Anthony Brown",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "A+",
+    "genetic_stability": 0.876,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 94,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 48,
+      "Stealth": 90,
+      "Medicine": 45
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 23,
+      "extraversion": 71,
+      "agreeableness": 36,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

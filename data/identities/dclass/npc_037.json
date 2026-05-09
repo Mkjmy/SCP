@@ -1,0 +1,60 @@
+{
+  "id": "npc_037",
+  "bio": {
+    "full_name": "Richard Sato",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "AB+",
+    "genetic_stability": 0.863,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 99,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 90,
+      "Medicine": 19,
+      "Perception": 30
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 71,
+      "extraversion": 80,
+      "agreeableness": 39,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_269",
+  "bio": {
+    "full_name": "Fatima Muller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.905,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 74,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 67,
+      "Stealth": 62,
+      "Medicine": 57
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 66,
+      "extraversion": 51,
+      "agreeableness": 99,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

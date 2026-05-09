@@ -1,0 +1,59 @@
+{
+  "id": "npc_881",
+  "bio": {
+    "full_name": "Arjun Schmidt",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.961,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 92,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 51,
+      "Athletics": 84,
+      "Stealth": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 2,
+      "extraversion": 62,
+      "agreeableness": 67,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

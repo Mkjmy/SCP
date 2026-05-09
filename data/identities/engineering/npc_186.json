@@ -1,0 +1,60 @@
+{
+  "id": "npc_186",
+  "bio": {
+    "full_name": "Charles Smith",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.93,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 50,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 70,
+      "Stealth": 46,
+      "Medicine": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 87,
+      "extraversion": 37,
+      "agreeableness": 46,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

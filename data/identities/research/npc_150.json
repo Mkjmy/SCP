@@ -1,0 +1,60 @@
+{
+  "id": "npc_150",
+  "bio": {
+    "full_name": "Yuki Dubois",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "AB+",
+    "genetic_stability": 0.967,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 84,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 34,
+      "Stealth": 73,
+      "Medicine": 14
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 77,
+      "extraversion": 96,
+      "agreeableness": 27,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

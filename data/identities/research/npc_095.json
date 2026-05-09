@@ -1,0 +1,60 @@
+{
+  "id": "npc_095",
+  "bio": {
+    "full_name": "Chen Muller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.901,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 50,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 84,
+      "Containment_Logic": 39,
+      "Occult_Research": 22
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 4,
+      "extraversion": 3,
+      "agreeableness": 61,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

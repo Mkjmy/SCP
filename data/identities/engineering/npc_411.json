@@ -1,0 +1,60 @@
+{
+  "id": "npc_411",
+  "bio": {
+    "full_name": "Charles Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "B+",
+    "genetic_stability": 0.855,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 107,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 20,
+      "Hacking": 21,
+      "Perception": 49
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 65,
+      "extraversion": 31,
+      "agreeableness": 13,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_650",
+  "bio": {
+    "full_name": "Lars Williams",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.853,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 59,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 63,
+      "Athletics": 33,
+      "Medicine": 31
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 77,
+      "extraversion": 1,
+      "agreeableness": 94,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

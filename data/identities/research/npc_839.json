@@ -1,0 +1,60 @@
+{
+  "id": "npc_839",
+  "bio": {
+    "full_name": "Chen Miller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "O+",
+    "genetic_stability": 0.893,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 103,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 75,
+      "Persuasion": 57,
+      "Medicine": 15
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 50,
+      "extraversion": 44,
+      "agreeableness": 52,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

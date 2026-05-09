@@ -1,0 +1,60 @@
+{
+  "id": "npc_810",
+  "bio": {
+    "full_name": "Charles Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.904,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 98,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 14,
+      "Persuasion": 45,
+      "Hacking": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 99,
+      "extraversion": 94,
+      "agreeableness": 27,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

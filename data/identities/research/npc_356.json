@@ -1,0 +1,60 @@
+{
+  "id": "npc_356",
+  "bio": {
+    "full_name": "Elena Sato",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "AB-",
+    "genetic_stability": 0.856,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 88,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 56,
+      "Engineering": 11,
+      "Persuasion": 66
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 25,
+      "extraversion": 86,
+      "agreeableness": 56,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

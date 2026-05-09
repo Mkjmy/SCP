@@ -1,0 +1,60 @@
+{
+  "id": "npc_895",
+  "bio": {
+    "full_name": "Christopher Sato",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.944,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 87,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 61,
+      "Persuasion": 24,
+      "Medicine": 29
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 46,
+      "extraversion": 56,
+      "agreeableness": 26,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

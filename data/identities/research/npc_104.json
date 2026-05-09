@@ -1,0 +1,60 @@
+{
+  "id": "npc_104",
+  "bio": {
+    "full_name": "Sven Miller",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.988,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 71,
+      "Hacking": 60,
+      "Firearms": 73
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 75,
+      "extraversion": 28,
+      "agreeableness": 88,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

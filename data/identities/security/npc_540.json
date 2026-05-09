@@ -1,0 +1,60 @@
+{
+  "id": "npc_540",
+  "bio": {
+    "full_name": "Kenji Sato",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "O+",
+    "genetic_stability": 0.949,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 93,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 83,
+      "Medicine": 67,
+      "Perception": 33
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 34,
+      "extraversion": 98,
+      "agreeableness": 15,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

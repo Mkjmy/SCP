@@ -1,0 +1,59 @@
+{
+  "id": "npc_581",
+  "bio": {
+    "full_name": "Steven Dubois",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "A-",
+    "genetic_stability": 0.977,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 52,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 70,
+      "Perception": 92,
+      "Persuasion": 37
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 23,
+      "extraversion": 47,
+      "agreeableness": 93,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

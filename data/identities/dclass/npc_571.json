@@ -1,0 +1,60 @@
+{
+  "id": "npc_571",
+  "bio": {
+    "full_name": "Matthew Miller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.92,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 37,
+      "Medicine": 46,
+      "Containment_Logic": 62
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 9,
+      "extraversion": 53,
+      "agreeableness": 78,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

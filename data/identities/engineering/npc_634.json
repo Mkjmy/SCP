@@ -1,0 +1,60 @@
+{
+  "id": "npc_634",
+  "bio": {
+    "full_name": "Joseph Tanaka",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "AB+",
+    "genetic_stability": 0.888,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 50,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 32,
+      "Engineering": 24,
+      "Perception": 18
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 86,
+      "extraversion": 23,
+      "agreeableness": 61,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

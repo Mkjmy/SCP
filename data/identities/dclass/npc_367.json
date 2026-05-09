@@ -1,0 +1,60 @@
+{
+  "id": "npc_367",
+  "bio": {
+    "full_name": "Elena Schmidt",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.978,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 87,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 77,
+      "Athletics": 38,
+      "Firearms": 89
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 28,
+      "extraversion": 57,
+      "agreeableness": 38,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

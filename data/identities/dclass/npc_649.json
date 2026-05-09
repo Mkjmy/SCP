@@ -1,0 +1,60 @@
+{
+  "id": "npc_649",
+  "bio": {
+    "full_name": "Olga Garcia",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "O-",
+    "genetic_stability": 0.946,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 54,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 31,
+      "Containment_Logic": 68,
+      "Persuasion": 47
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 73,
+      "extraversion": 22,
+      "agreeableness": 20,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

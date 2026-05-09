@@ -1,0 +1,60 @@
+{
+  "id": "npc_934",
+  "bio": {
+    "full_name": "Michael Schmidt",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.887,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 106,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 61,
+      "Firearms": 81,
+      "Containment_Logic": 92
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 36,
+      "extraversion": 81,
+      "agreeableness": 87,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

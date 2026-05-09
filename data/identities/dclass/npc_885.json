@@ -1,0 +1,59 @@
+{
+  "id": "npc_885",
+  "bio": {
+    "full_name": "John Tanaka",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "B+",
+    "genetic_stability": 0.988,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 73,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 28,
+      "Stealth": 44,
+      "Hacking": 85
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 88,
+      "extraversion": 98,
+      "agreeableness": 51,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

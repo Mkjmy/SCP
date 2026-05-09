@@ -1,0 +1,60 @@
+{
+  "id": "npc_440",
+  "bio": {
+    "full_name": "John Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "O-",
+    "genetic_stability": 0.968,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 88,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 28,
+      "Containment_Logic": 42,
+      "Hacking": 13
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 95,
+      "extraversion": 66,
+      "agreeableness": 47,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

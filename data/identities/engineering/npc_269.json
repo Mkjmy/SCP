@@ -1,0 +1,59 @@
+{
+  "id": "npc_269",
+  "bio": {
+    "full_name": "Lars Ivanov",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.905,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 102,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 57,
+      "Engineering": 33,
+      "Athletics": 36
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 8,
+      "extraversion": 96,
+      "agreeableness": 19,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

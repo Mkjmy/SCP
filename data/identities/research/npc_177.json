@@ -1,0 +1,59 @@
+{
+  "id": "npc_177",
+  "bio": {
+    "full_name": "Kenji Muller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "B-",
+    "genetic_stability": 0.865,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 85,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 40,
+      "Engineering": 66,
+      "Occult_Research": 15
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 61,
+      "extraversion": 32,
+      "agreeableness": 18,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

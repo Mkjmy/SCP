@@ -1,0 +1,60 @@
+{
+  "id": "npc_342",
+  "bio": {
+    "full_name": "William Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 22,
+    "blood_type": "O+",
+    "genetic_stability": 0.92,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 81,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 66,
+      "Hacking": 11,
+      "Engineering": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 91,
+      "extraversion": 24,
+      "agreeableness": 50,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

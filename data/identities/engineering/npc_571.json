@@ -1,0 +1,60 @@
+{
+  "id": "npc_571",
+  "bio": {
+    "full_name": "Joseph Jones",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.878,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 67,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 21,
+      "Occult_Research": 12,
+      "Athletics": 12
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 33,
+      "extraversion": 82,
+      "agreeableness": 54,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

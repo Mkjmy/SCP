@@ -1,0 +1,60 @@
+{
+  "id": "npc_427",
+  "bio": {
+    "full_name": "Christopher Garcia",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "A+",
+    "genetic_stability": 0.866,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 98,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 42,
+      "Persuasion": 15,
+      "Firearms": 27
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 28,
+      "extraversion": 71,
+      "agreeableness": 56,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

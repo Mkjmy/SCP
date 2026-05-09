@@ -1,0 +1,59 @@
+{
+  "id": "npc_969",
+  "bio": {
+    "full_name": "Michael O'Connor",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "A-",
+    "genetic_stability": 0.965,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 106,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 79,
+      "Persuasion": 92,
+      "Firearms": 62
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 14,
+      "extraversion": 19,
+      "agreeableness": 49,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

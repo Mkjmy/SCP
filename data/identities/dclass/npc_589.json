@@ -1,0 +1,60 @@
+{
+  "id": "npc_589",
+  "bio": {
+    "full_name": "Donald Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "B+",
+    "genetic_stability": 0.91,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 54,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 61,
+      "Engineering": 48,
+      "Occult_Research": 41
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 71,
+      "extraversion": 76,
+      "agreeableness": 29,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

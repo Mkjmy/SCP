@@ -1,0 +1,59 @@
+{
+  "id": "npc_657",
+  "bio": {
+    "full_name": "Thomas Sato",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.906,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 63,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 37,
+      "Occult_Research": 34,
+      "Engineering": 24
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 86,
+      "extraversion": 63,
+      "agreeableness": 10,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

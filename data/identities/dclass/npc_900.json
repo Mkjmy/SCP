@@ -1,0 +1,60 @@
+{
+  "id": "npc_900",
+  "bio": {
+    "full_name": "William Vasiliev",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.987,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 55,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 74,
+      "Perception": 46,
+      "Persuasion": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 37,
+      "extraversion": 64,
+      "agreeableness": 31,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

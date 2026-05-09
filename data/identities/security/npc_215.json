@@ -1,0 +1,60 @@
+{
+  "id": "npc_215",
+  "bio": {
+    "full_name": "Joseph Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "B+",
+    "genetic_stability": 0.871,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 93,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 88,
+      "Medicine": 20,
+      "Perception": 41
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 16,
+      "extraversion": 24,
+      "agreeableness": 49,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

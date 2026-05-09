@@ -1,0 +1,60 @@
+{
+  "id": "npc_368",
+  "bio": {
+    "full_name": "Chen Kovacs",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.93,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 53,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 81,
+      "Firearms": 83,
+      "Stealth": 94
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 90,
+      "extraversion": 52,
+      "agreeableness": 61,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

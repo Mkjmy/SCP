@@ -1,0 +1,60 @@
+{
+  "id": "npc_133",
+  "bio": {
+    "full_name": "Yuki Garcia",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.997,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 56,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 26,
+      "Stealth": 82,
+      "Perception": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 23,
+      "extraversion": 27,
+      "agreeableness": 78,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

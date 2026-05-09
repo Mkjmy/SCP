@@ -1,0 +1,59 @@
+{
+  "id": "npc_574",
+  "bio": {
+    "full_name": "Yuki Muller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.978,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 52,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 84,
+      "Hacking": 13,
+      "Firearms": 17
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 42,
+      "extraversion": 45,
+      "agreeableness": 94,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

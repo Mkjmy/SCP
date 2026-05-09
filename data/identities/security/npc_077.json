@@ -1,0 +1,60 @@
+{
+  "id": "npc_077",
+  "bio": {
+    "full_name": "Chen Bakker",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.852,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 69,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 26,
+      "Persuasion": 87,
+      "Occult_Research": 47
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 71,
+      "extraversion": 20,
+      "agreeableness": 85,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

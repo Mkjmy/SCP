@@ -1,0 +1,60 @@
+{
+  "id": "npc_943",
+  "bio": {
+    "full_name": "Andrew Muller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "O+",
+    "genetic_stability": 0.879,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 79,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 17,
+      "Stealth": 92,
+      "Occult_Research": 39
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 87,
+      "extraversion": 78,
+      "agreeableness": 49,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_428",
+  "bio": {
+    "full_name": "William Bakker",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 62,
+    "blood_type": "B-",
+    "genetic_stability": 0.871,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 73,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 74,
+      "Athletics": 89,
+      "Engineering": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 26,
+      "extraversion": 78,
+      "agreeableness": 1,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

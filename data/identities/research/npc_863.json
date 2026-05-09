@@ -1,0 +1,59 @@
+{
+  "id": "npc_863",
+  "bio": {
+    "full_name": "Richard Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.932,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 50,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 13,
+      "Persuasion": 22,
+      "Occult_Research": 40
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 34,
+      "extraversion": 72,
+      "agreeableness": 37,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

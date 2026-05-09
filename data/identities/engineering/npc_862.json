@@ -1,0 +1,60 @@
+{
+  "id": "npc_862",
+  "bio": {
+    "full_name": "Christopher Miller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.984,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 71,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 67,
+      "Occult_Research": 91,
+      "Hacking": 94
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 99,
+      "extraversion": 72,
+      "agreeableness": 83,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

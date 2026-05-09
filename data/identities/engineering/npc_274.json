@@ -1,0 +1,60 @@
+{
+  "id": "npc_274",
+  "bio": {
+    "full_name": "Charles Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "O+",
+    "genetic_stability": 0.968,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 51,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 63,
+      "Engineering": 88,
+      "Medicine": 53
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 54,
+      "extraversion": 50,
+      "agreeableness": 17,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

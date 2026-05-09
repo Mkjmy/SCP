@@ -1,0 +1,60 @@
+{
+  "id": "npc_670",
+  "bio": {
+    "full_name": "Chen O'Connor",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "A-",
+    "genetic_stability": 0.974,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 76,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 28,
+      "Occult_Research": 24,
+      "Engineering": 62
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 73,
+      "extraversion": 3,
+      "agreeableness": 87,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

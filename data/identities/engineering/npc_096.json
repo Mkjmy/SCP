@@ -1,0 +1,60 @@
+{
+  "id": "npc_096",
+  "bio": {
+    "full_name": "Arjun Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "A-",
+    "genetic_stability": 0.954,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 66,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 62,
+      "Athletics": 63,
+      "Hacking": 40
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 89,
+      "extraversion": 9,
+      "agreeableness": 56,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

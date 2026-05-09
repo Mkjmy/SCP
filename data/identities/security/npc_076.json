@@ -1,0 +1,60 @@
+{
+  "id": "npc_076",
+  "bio": {
+    "full_name": "Fatima Gupta",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "B-",
+    "genetic_stability": 0.977,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 109,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 94,
+      "Persuasion": 89,
+      "Medicine": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 62,
+      "extraversion": 57,
+      "agreeableness": 33,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

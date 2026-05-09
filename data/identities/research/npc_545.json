@@ -1,0 +1,60 @@
+{
+  "id": "npc_545",
+  "bio": {
+    "full_name": "Andrew Johnson",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.962,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 102,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 78,
+      "Stealth": 16,
+      "Firearms": 77
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 44,
+      "extraversion": 94,
+      "agreeableness": 59,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

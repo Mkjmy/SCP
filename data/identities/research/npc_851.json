@@ -1,0 +1,60 @@
+{
+  "id": "npc_851",
+  "bio": {
+    "full_name": "Olga Schmidt",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "AB+",
+    "genetic_stability": 0.961,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 99,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 48,
+      "Containment_Logic": 68,
+      "Firearms": 23
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 85,
+      "extraversion": 47,
+      "agreeableness": 64,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

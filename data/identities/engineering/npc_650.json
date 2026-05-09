@@ -1,0 +1,60 @@
+{
+  "id": "npc_650",
+  "bio": {
+    "full_name": "Maria Muller",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "AB+",
+    "genetic_stability": 0.86,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 98,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 24,
+      "Occult_Research": 43,
+      "Hacking": 41
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 24,
+      "extraversion": 70,
+      "agreeableness": 22,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

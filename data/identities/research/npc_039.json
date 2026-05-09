@@ -1,0 +1,60 @@
+{
+  "id": "npc_039",
+  "bio": {
+    "full_name": "Anthony Ivanov",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.9,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 78,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 59,
+      "Occult_Research": 69,
+      "Firearms": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 2,
+      "extraversion": 71,
+      "agreeableness": 44,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

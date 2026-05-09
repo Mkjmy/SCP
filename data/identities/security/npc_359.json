@@ -1,0 +1,60 @@
+{
+  "id": "npc_359",
+  "bio": {
+    "full_name": "Joshua Smith",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.947,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 53,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 21,
+      "Stealth": 68,
+      "Perception": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 82,
+      "extraversion": 42,
+      "agreeableness": 94,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

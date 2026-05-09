@@ -1,0 +1,60 @@
+{
+  "id": "npc_104",
+  "bio": {
+    "full_name": "Lars Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.951,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 76,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 88,
+      "Persuasion": 35,
+      "Perception": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 67,
+      "extraversion": 30,
+      "agreeableness": 29,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_208",
+  "bio": {
+    "full_name": "Yuki Smith",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "A-",
+    "genetic_stability": 0.96,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 106,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 42,
+      "Occult_Research": 79,
+      "Medicine": 29
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 71,
+      "extraversion": 95,
+      "agreeableness": 54,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

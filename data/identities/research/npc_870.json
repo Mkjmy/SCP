@@ -1,0 +1,60 @@
+{
+  "id": "npc_870",
+  "bio": {
+    "full_name": "Joseph Muller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.957,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 81,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 57,
+      "Containment_Logic": 59,
+      "Occult_Research": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 62,
+      "extraversion": 0,
+      "agreeableness": 70,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

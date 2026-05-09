@@ -1,0 +1,60 @@
+{
+  "id": "npc_472",
+  "bio": {
+    "full_name": "Kenji Smith",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "B-",
+    "genetic_stability": 0.85,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 101,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 13,
+      "Perception": 81,
+      "Engineering": 48
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 51,
+      "extraversion": 94,
+      "agreeableness": 22,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

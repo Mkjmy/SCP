@@ -1,0 +1,60 @@
+{
+  "id": "npc_909",
+  "bio": {
+    "full_name": "Arjun Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 46,
+    "blood_type": "AB+",
+    "genetic_stability": 0.924,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 67,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 41,
+      "Containment_Logic": 55,
+      "Engineering": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 38,
+      "extraversion": 57,
+      "agreeableness": 77,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_629",
+  "bio": {
+    "full_name": "Joshua Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "AB-",
+    "genetic_stability": 0.888,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 81,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 36,
+      "Hacking": 61,
+      "Engineering": 70
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 95,
+      "extraversion": 8,
+      "agreeableness": 52,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

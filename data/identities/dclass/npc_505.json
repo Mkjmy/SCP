@@ -1,0 +1,59 @@
+{
+  "id": "npc_505",
+  "bio": {
+    "full_name": "Daniel Sato",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.884,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 84,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 42,
+      "Firearms": 67,
+      "Occult_Research": 40
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 63,
+      "extraversion": 51,
+      "agreeableness": 50,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

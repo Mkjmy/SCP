@@ -1,0 +1,60 @@
+{
+  "id": "npc_484",
+  "bio": {
+    "full_name": "Joseph Jones",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 65,
+    "blood_type": "B-",
+    "genetic_stability": 1.0,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 110,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 55,
+      "Persuasion": 94,
+      "Engineering": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 17,
+      "extraversion": 12,
+      "agreeableness": 74,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_563",
+  "bio": {
+    "full_name": "Paul Smith",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.85,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 67,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 66,
+      "Engineering": 13,
+      "Occult_Research": 29
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 32,
+      "extraversion": 47,
+      "agreeableness": 60,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_387",
+  "bio": {
+    "full_name": "Arjun Garcia",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "B+",
+    "genetic_stability": 0.879,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 59,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 39,
+      "Athletics": 46,
+      "Engineering": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 92,
+      "extraversion": 4,
+      "agreeableness": 11,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

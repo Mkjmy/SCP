@@ -1,0 +1,60 @@
+{
+  "id": "npc_1000",
+  "bio": {
+    "full_name": "Chen O'Connor",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.866,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 75,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 95,
+      "Firearms": 34,
+      "Hacking": 31
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 39,
+      "extraversion": 78,
+      "agreeableness": 34,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

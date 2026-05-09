@@ -1,0 +1,60 @@
+{
+  "id": "npc_080",
+  "bio": {
+    "full_name": "Joseph Gupta",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.981,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 75,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 91,
+      "Stealth": 81,
+      "Medicine": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 4,
+      "extraversion": 43,
+      "agreeableness": 12,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

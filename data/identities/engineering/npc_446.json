@@ -1,0 +1,60 @@
+{
+  "id": "npc_446",
+  "bio": {
+    "full_name": "Lars Miller",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.921,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 104,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 43,
+      "Persuasion": 79,
+      "Containment_Logic": 23
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 16,
+      "extraversion": 57,
+      "agreeableness": 39,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

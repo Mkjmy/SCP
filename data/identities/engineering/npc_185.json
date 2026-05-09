@@ -1,0 +1,60 @@
+{
+  "id": "npc_185",
+  "bio": {
+    "full_name": "Daniel Tanaka",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "O+",
+    "genetic_stability": 0.865,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 58,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 50,
+      "Stealth": 45,
+      "Athletics": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 68,
+      "extraversion": 9,
+      "agreeableness": 19,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

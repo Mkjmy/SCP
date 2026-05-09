@@ -1,0 +1,59 @@
+{
+  "id": "npc_992",
+  "bio": {
+    "full_name": "Maria Muller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "A-",
+    "genetic_stability": 0.917,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 56,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 14,
+      "Hacking": 18,
+      "Firearms": 71
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 48,
+      "extraversion": 100,
+      "agreeableness": 24,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

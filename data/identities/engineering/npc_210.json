@@ -1,0 +1,60 @@
+{
+  "id": "npc_210",
+  "bio": {
+    "full_name": "Richard Jones",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "AB+",
+    "genetic_stability": 0.929,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 68,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 66,
+      "Stealth": 14,
+      "Persuasion": 49
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 8,
+      "extraversion": 55,
+      "agreeableness": 9,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

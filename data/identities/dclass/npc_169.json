@@ -1,0 +1,60 @@
+{
+  "id": "npc_169",
+  "bio": {
+    "full_name": "James Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.938,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 110,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 35,
+      "Athletics": 54,
+      "Perception": 75
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 74,
+      "extraversion": 63,
+      "agreeableness": 74,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

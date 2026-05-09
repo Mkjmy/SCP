@@ -1,0 +1,59 @@
+{
+  "id": "npc_322",
+  "bio": {
+    "full_name": "William Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "AB-",
+    "genetic_stability": 0.86,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 71,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 20,
+      "Firearms": 32,
+      "Medicine": 68
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 19,
+      "extraversion": 45,
+      "agreeableness": 42,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

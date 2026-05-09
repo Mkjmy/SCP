@@ -1,0 +1,60 @@
+{
+  "id": "npc_474",
+  "bio": {
+    "full_name": "Lars Wong",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.988,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 77,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 24,
+      "Engineering": 61,
+      "Hacking": 16
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 79,
+      "extraversion": 32,
+      "agreeableness": 77,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

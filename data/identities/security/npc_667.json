@@ -1,0 +1,60 @@
+{
+  "id": "npc_667",
+  "bio": {
+    "full_name": "David Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 62,
+    "blood_type": "O-",
+    "genetic_stability": 0.928,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 101,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 33,
+      "Engineering": 58,
+      "Athletics": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 9,
+      "extraversion": 46,
+      "agreeableness": 23,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

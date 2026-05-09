@@ -1,0 +1,59 @@
+{
+  "id": "npc_311",
+  "bio": {
+    "full_name": "Donald Bakker",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "B+",
+    "genetic_stability": 0.975,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 102,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 69,
+      "Containment_Logic": 34,
+      "Occult_Research": 37
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 63,
+      "extraversion": 42,
+      "agreeableness": 28,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_369",
+  "bio": {
+    "full_name": "Thomas Wong",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "O-",
+    "genetic_stability": 0.92,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 106,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 87,
+      "Hacking": 55,
+      "Containment_Logic": 15
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 50,
+      "extraversion": 58,
+      "agreeableness": 21,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_933",
+  "bio": {
+    "full_name": "Michael Davis",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.873,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 77,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 50,
+      "Hacking": 89,
+      "Persuasion": 70
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 75,
+      "extraversion": 76,
+      "agreeableness": 6,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

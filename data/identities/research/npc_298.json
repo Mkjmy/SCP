@@ -1,0 +1,60 @@
+{
+  "id": "npc_298",
+  "bio": {
+    "full_name": "Mark Ivanov",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "AB-",
+    "genetic_stability": 0.896,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 108,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 62,
+      "Perception": 47,
+      "Containment_Logic": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 49,
+      "extraversion": 64,
+      "agreeableness": 13,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

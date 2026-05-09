@@ -1,0 +1,60 @@
+{
+  "id": "npc_882",
+  "bio": {
+    "full_name": "Olga Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.912,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 95,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 74,
+      "Occult_Research": 63,
+      "Athletics": 29
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 29,
+      "extraversion": 33,
+      "agreeableness": 27,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

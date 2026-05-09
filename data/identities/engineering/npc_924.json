@@ -1,0 +1,60 @@
+{
+  "id": "npc_924",
+  "bio": {
+    "full_name": "Lars Tanaka",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 54,
+    "blood_type": "A-",
+    "genetic_stability": 0.952,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 81,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 10,
+      "Occult_Research": 62,
+      "Persuasion": 71
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 74,
+      "extraversion": 92,
+      "agreeableness": 71,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

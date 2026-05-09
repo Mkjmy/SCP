@@ -1,0 +1,60 @@
+{
+  "id": "npc_918",
+  "bio": {
+    "full_name": "Yuki Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "B-",
+    "genetic_stability": 0.882,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 52,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 73,
+      "Engineering": 39,
+      "Perception": 82
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 10,
+      "extraversion": 23,
+      "agreeableness": 66,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

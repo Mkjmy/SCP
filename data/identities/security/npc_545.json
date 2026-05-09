@@ -1,0 +1,60 @@
+{
+  "id": "npc_545",
+  "bio": {
+    "full_name": "Fatima Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.956,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 52,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 86,
+      "Stealth": 37,
+      "Persuasion": 34
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 67,
+      "extraversion": 99,
+      "agreeableness": 10,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

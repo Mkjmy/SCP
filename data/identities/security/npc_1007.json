@@ -1,0 +1,59 @@
+{
+  "id": "npc_1007",
+  "bio": {
+    "full_name": "Donald Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.928,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 99,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 31,
+      "Hacking": 53,
+      "Persuasion": 31
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 11,
+      "extraversion": 48,
+      "agreeableness": 0,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

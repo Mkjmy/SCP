@@ -1,0 +1,60 @@
+{
+  "id": "npc_194",
+  "bio": {
+    "full_name": "Elena Tanaka",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "O-",
+    "genetic_stability": 0.867,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 79,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 53,
+      "Containment_Logic": 80,
+      "Medicine": 66
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 63,
+      "extraversion": 0,
+      "agreeableness": 33,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

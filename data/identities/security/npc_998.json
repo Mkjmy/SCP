@@ -1,0 +1,59 @@
+{
+  "id": "npc_998",
+  "bio": {
+    "full_name": "Charles Sato",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.982,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 55,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 64,
+      "Perception": 84,
+      "Firearms": 49
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 59,
+      "extraversion": 26,
+      "agreeableness": 28,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

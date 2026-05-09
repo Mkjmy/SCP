@@ -1,0 +1,59 @@
+{
+  "id": "npc_788",
+  "bio": {
+    "full_name": "Arjun Bakker",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.856,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 89,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 27,
+      "Occult_Research": 58,
+      "Persuasion": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 47,
+      "extraversion": 53,
+      "agreeableness": 56,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

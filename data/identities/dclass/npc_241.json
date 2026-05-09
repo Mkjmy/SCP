@@ -1,0 +1,60 @@
+{
+  "id": "npc_241",
+  "bio": {
+    "full_name": "Matthew Schmidt",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.871,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 110,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 48,
+      "Hacking": 57,
+      "Persuasion": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 42,
+      "extraversion": 49,
+      "agreeableness": 6,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

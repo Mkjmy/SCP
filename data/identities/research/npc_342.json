@@ -1,0 +1,60 @@
+{
+  "id": "npc_342",
+  "bio": {
+    "full_name": "Chen Muller",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.9,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 79,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 78,
+      "Athletics": 93,
+      "Containment_Logic": 18
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 1,
+      "extraversion": 42,
+      "agreeableness": 16,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

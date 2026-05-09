@@ -1,0 +1,60 @@
+{
+  "id": "npc_177",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.954,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 58,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 50,
+      "Medicine": 13,
+      "Firearms": 84
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 52,
+      "extraversion": 90,
+      "agreeableness": 13,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

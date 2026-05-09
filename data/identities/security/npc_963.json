@@ -1,0 +1,60 @@
+{
+  "id": "npc_963",
+  "bio": {
+    "full_name": "Sven Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.907,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 68,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 85,
+      "Medicine": 28,
+      "Stealth": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 73,
+      "extraversion": 53,
+      "agreeableness": 18,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

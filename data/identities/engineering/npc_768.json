@@ -1,0 +1,60 @@
+{
+  "id": "npc_768",
+  "bio": {
+    "full_name": "Kenji Dubois",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 57,
+    "blood_type": "O-",
+    "genetic_stability": 0.999,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 110,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 13,
+      "Occult_Research": 52,
+      "Athletics": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 98,
+      "extraversion": 47,
+      "agreeableness": 26,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

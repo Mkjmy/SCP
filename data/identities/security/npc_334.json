@@ -1,0 +1,60 @@
+{
+  "id": "npc_334",
+  "bio": {
+    "full_name": "Lars Dubois",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.884,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 13,
+      "Persuasion": 82,
+      "Engineering": 12
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 45,
+      "extraversion": 83,
+      "agreeableness": 22,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

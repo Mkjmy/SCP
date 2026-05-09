@@ -1,0 +1,60 @@
+{
+  "id": "npc_665",
+  "bio": {
+    "full_name": "Joshua Ivanov",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.879,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 98,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 45,
+      "Engineering": 15,
+      "Firearms": 27
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 4,
+      "extraversion": 92,
+      "agreeableness": 20,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

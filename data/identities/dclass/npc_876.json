@@ -1,0 +1,60 @@
+{
+  "id": "npc_876",
+  "bio": {
+    "full_name": "Mark Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.925,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 77,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 75,
+      "Engineering": 29,
+      "Containment_Logic": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 8,
+      "extraversion": 96,
+      "agreeableness": 7,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

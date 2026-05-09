@@ -1,0 +1,60 @@
+{
+  "id": "npc_115",
+  "bio": {
+    "full_name": "Mark Vasiliev",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.893,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 101,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 81,
+      "Engineering": 70,
+      "Hacking": 12
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 37,
+      "extraversion": 57,
+      "agreeableness": 30,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

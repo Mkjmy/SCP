@@ -1,0 +1,59 @@
+{
+  "id": "npc_495",
+  "bio": {
+    "full_name": "Charles Miller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.862,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 68,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 80,
+      "Perception": 32,
+      "Stealth": 20
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 96,
+      "extraversion": 45,
+      "agreeableness": 50,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

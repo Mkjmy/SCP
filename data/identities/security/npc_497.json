@@ -1,0 +1,60 @@
+{
+  "id": "npc_497",
+  "bio": {
+    "full_name": "Mark Smith",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "B+",
+    "genetic_stability": 0.942,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 19,
+      "Firearms": 53,
+      "Perception": 89
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 82,
+      "extraversion": 39,
+      "agreeableness": 27,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

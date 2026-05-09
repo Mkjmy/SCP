@@ -1,0 +1,60 @@
+{
+  "id": "npc_553",
+  "bio": {
+    "full_name": "Elena Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 56,
+    "blood_type": "O-",
+    "genetic_stability": 0.88,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 109,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 66,
+      "Hacking": 57,
+      "Stealth": 32
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 98,
+      "extraversion": 10,
+      "agreeableness": 82,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

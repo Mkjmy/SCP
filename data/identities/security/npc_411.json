@@ -1,0 +1,60 @@
+{
+  "id": "npc_411",
+  "bio": {
+    "full_name": "Kenji Wong",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 63,
+    "blood_type": "B+",
+    "genetic_stability": 0.922,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 51,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 34,
+      "Medicine": 36,
+      "Containment_Logic": 42
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 20,
+      "extraversion": 2,
+      "agreeableness": 50,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

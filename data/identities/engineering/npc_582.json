@@ -1,0 +1,60 @@
+{
+  "id": "npc_582",
+  "bio": {
+    "full_name": "Kenji Dubois",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "B-",
+    "genetic_stability": 0.928,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 52,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 19,
+      "Hacking": 78,
+      "Containment_Logic": 28
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 50,
+      "extraversion": 77,
+      "agreeableness": 13,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

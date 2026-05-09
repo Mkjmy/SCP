@@ -1,0 +1,60 @@
+{
+  "id": "npc_475",
+  "bio": {
+    "full_name": "Thomas Johnson",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "AB+",
+    "genetic_stability": 0.973,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 52,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 29,
+      "Containment_Logic": 57,
+      "Stealth": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 64,
+      "extraversion": 11,
+      "agreeableness": 4,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

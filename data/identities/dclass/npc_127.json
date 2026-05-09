@@ -1,0 +1,60 @@
+{
+  "id": "npc_127",
+  "bio": {
+    "full_name": "Kenji Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.957,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 101,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 73,
+      "Firearms": 17,
+      "Perception": 28
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 57,
+      "extraversion": 36,
+      "agreeableness": 85,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

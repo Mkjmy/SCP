@@ -1,0 +1,60 @@
+{
+  "id": "npc_165",
+  "bio": {
+    "full_name": "Joseph Bakker",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 34,
+    "blood_type": "AB-",
+    "genetic_stability": 0.926,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 106,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 77,
+      "Perception": 70,
+      "Athletics": 61
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 96,
+      "extraversion": 31,
+      "agreeableness": 12,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

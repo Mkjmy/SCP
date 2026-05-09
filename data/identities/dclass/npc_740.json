@@ -1,0 +1,60 @@
+{
+  "id": "npc_740",
+  "bio": {
+    "full_name": "Andrew Tanaka",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "B-",
+    "genetic_stability": 0.884,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 89,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 71,
+      "Athletics": 63,
+      "Occult_Research": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 83,
+      "extraversion": 60,
+      "agreeableness": 47,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

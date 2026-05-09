@@ -1,0 +1,59 @@
+{
+  "id": "npc_066",
+  "bio": {
+    "full_name": "Sven Jones",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.909,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 107,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 48,
+      "Occult_Research": 65,
+      "Medicine": 32
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 81,
+      "extraversion": 57,
+      "agreeableness": 4,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

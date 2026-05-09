@@ -1,0 +1,60 @@
+{
+  "id": "npc_864",
+  "bio": {
+    "full_name": "Daniel Tanaka",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "AB+",
+    "genetic_stability": 0.876,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 100,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 72,
+      "Persuasion": 38,
+      "Stealth": 53
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 87,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 25,
+      "extraversion": 76,
+      "agreeableness": 27,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

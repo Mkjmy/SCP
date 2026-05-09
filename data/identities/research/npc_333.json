@@ -1,0 +1,59 @@
+{
+  "id": "npc_333",
+  "bio": {
+    "full_name": "Daniel Sato",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 63,
+    "blood_type": "B-",
+    "genetic_stability": 0.9,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 84,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 21,
+      "Containment_Logic": 24,
+      "Persuasion": 54
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 16,
+      "extraversion": 73,
+      "agreeableness": 94,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

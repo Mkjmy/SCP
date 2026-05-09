@@ -1,0 +1,59 @@
+{
+  "id": "npc_474",
+  "bio": {
+    "full_name": "David Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "B+",
+    "genetic_stability": 0.979,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 50,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 82,
+      "Perception": 86,
+      "Firearms": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 22,
+      "extraversion": 33,
+      "agreeableness": 22,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

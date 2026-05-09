@@ -1,0 +1,60 @@
+{
+  "id": "npc_481",
+  "bio": {
+    "full_name": "Steven Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "B-",
+    "genetic_stability": 0.957,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 95,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 56,
+      "Medicine": 59,
+      "Engineering": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 21,
+      "extraversion": 80,
+      "agreeableness": 20,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

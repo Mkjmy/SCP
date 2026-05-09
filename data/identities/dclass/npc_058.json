@@ -1,0 +1,59 @@
+{
+  "id": "npc_058",
+  "bio": {
+    "full_name": "Christopher Tanaka",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 21,
+    "blood_type": "AB+",
+    "genetic_stability": 0.903,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 51,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 46,
+      "Stealth": 62,
+      "Occult_Research": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 61,
+      "extraversion": 69,
+      "agreeableness": 20,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

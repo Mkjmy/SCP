@@ -1,0 +1,60 @@
+{
+  "id": "npc_408",
+  "bio": {
+    "full_name": "Matthew Ivanov",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.991,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 78,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 63,
+      "Stealth": 43,
+      "Hacking": 58
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 88,
+      "extraversion": 38,
+      "agreeableness": 86,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

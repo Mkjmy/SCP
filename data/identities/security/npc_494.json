@@ -1,0 +1,60 @@
+{
+  "id": "npc_494",
+  "bio": {
+    "full_name": "Elena Dubois",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "A+",
+    "genetic_stability": 0.888,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 95,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 57,
+      "Containment_Logic": 48,
+      "Perception": 93
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 30,
+      "extraversion": 42,
+      "agreeableness": 29,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_540",
+  "bio": {
+    "full_name": "Joseph Muller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.883,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 69,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 67,
+      "Persuasion": 46,
+      "Occult_Research": 95
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 69,
+      "extraversion": 93,
+      "agreeableness": 73,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

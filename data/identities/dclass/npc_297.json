@@ -1,0 +1,60 @@
+{
+  "id": "npc_297",
+  "bio": {
+    "full_name": "Robert Vasiliev",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.889,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 73,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 65,
+      "Athletics": 54,
+      "Persuasion": 31
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 34,
+      "extraversion": 34,
+      "agreeableness": 35,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

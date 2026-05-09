@@ -1,0 +1,60 @@
+{
+  "id": "npc_572",
+  "bio": {
+    "full_name": "Yuki Sato",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.957,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 106,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 54,
+      "Hacking": 95,
+      "Persuasion": 49
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 100,
+      "extraversion": 50,
+      "agreeableness": 13,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

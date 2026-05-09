@@ -1,0 +1,60 @@
+{
+  "id": "npc_445",
+  "bio": {
+    "full_name": "Kenji Wong",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.966,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 103,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 56,
+      "Perception": 57,
+      "Medicine": 77
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 73,
+      "extraversion": 83,
+      "agreeableness": 42,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

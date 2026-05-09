@@ -1,0 +1,60 @@
+{
+  "id": "npc_609",
+  "bio": {
+    "full_name": "William Garcia",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "O+",
+    "genetic_stability": 0.853,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 88,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 66,
+      "Containment_Logic": 15,
+      "Occult_Research": 39
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 93,
+      "extraversion": 1,
+      "agreeableness": 39,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_262",
+  "bio": {
+    "full_name": "Arjun Williams",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "AB+",
+    "genetic_stability": 0.892,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 54,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 47,
+      "Containment_Logic": 89,
+      "Persuasion": 90
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 77,
+      "extraversion": 73,
+      "agreeableness": 70,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

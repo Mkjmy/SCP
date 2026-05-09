@@ -1,0 +1,60 @@
+{
+  "id": "npc_225",
+  "bio": {
+    "full_name": "Lars Miller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "B+",
+    "genetic_stability": 0.941,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 85,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 66,
+      "Containment_Logic": 55,
+      "Firearms": 69
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 21,
+      "extraversion": 20,
+      "agreeableness": 6,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

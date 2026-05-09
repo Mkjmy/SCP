@@ -1,0 +1,60 @@
+{
+  "id": "npc_526",
+  "bio": {
+    "full_name": "Lars Garcia",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.943,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 51,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 11,
+      "Medicine": 69,
+      "Occult_Research": 88
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 97,
+      "extraversion": 87,
+      "agreeableness": 18,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

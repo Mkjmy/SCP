@@ -1,0 +1,60 @@
+{
+  "id": "npc_370",
+  "bio": {
+    "full_name": "Mark Sato",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "O-",
+    "genetic_stability": 0.979,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 103,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 85,
+      "Medicine": 61,
+      "Containment_Logic": 42
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 53,
+      "extraversion": 75,
+      "agreeableness": 86,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

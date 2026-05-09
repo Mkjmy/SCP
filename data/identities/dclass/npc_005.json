@@ -1,0 +1,60 @@
+{
+  "id": "npc_005",
+  "bio": {
+    "full_name": "Yuki Davis",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.995,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 76,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 88,
+      "Occult_Research": 24,
+      "Engineering": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 87,
+      "extraversion": 74,
+      "agreeableness": 85,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

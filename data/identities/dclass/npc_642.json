@@ -1,0 +1,60 @@
+{
+  "id": "npc_642",
+  "bio": {
+    "full_name": "John Schmidt",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.863,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 86,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 77,
+      "Stealth": 12,
+      "Hacking": 34
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 71,
+      "extraversion": 33,
+      "agreeableness": 53,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

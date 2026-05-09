@@ -1,0 +1,60 @@
+{
+  "id": "npc_846",
+  "bio": {
+    "full_name": "Kenji Brown",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.934,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 51,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 52,
+      "Athletics": 89,
+      "Stealth": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 2,
+      "extraversion": 12,
+      "agreeableness": 7,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

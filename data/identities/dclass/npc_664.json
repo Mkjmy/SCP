@@ -1,0 +1,60 @@
+{
+  "id": "npc_664",
+  "bio": {
+    "full_name": "Anthony Tanaka",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "AB+",
+    "genetic_stability": 0.898,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 100,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 31,
+      "Stealth": 86,
+      "Engineering": 38
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 67,
+      "extraversion": 62,
+      "agreeableness": 83,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

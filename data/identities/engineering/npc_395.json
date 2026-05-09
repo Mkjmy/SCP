@@ -1,0 +1,59 @@
+{
+  "id": "npc_395",
+  "bio": {
+    "full_name": "Matthew Muller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.916,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 98,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 60,
+      "Perception": 59,
+      "Athletics": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 89,
+      "extraversion": 33,
+      "agreeableness": 25,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

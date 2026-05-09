@@ -1,0 +1,60 @@
+{
+  "id": "npc_896",
+  "bio": {
+    "full_name": "Anthony Brown",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.993,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 62,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 64,
+      "Athletics": 30,
+      "Containment_Logic": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 91,
+      "extraversion": 51,
+      "agreeableness": 2,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

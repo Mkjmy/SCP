@@ -1,0 +1,60 @@
+{
+  "id": "npc_720",
+  "bio": {
+    "full_name": "William Bakker",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "B+",
+    "genetic_stability": 0.908,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 70,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 88,
+      "Perception": 45,
+      "Engineering": 45
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 49,
+      "extraversion": 14,
+      "agreeableness": 10,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

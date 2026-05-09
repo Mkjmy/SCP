@@ -1,0 +1,60 @@
+{
+  "id": "npc_120",
+  "bio": {
+    "full_name": "Mark Tanaka",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "B-",
+    "genetic_stability": 0.891,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 56,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 46,
+      "Occult_Research": 93,
+      "Persuasion": 35
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 17,
+      "extraversion": 12,
+      "agreeableness": 20,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

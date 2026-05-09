@@ -1,0 +1,60 @@
+{
+  "id": "npc_256",
+  "bio": {
+    "full_name": "Thomas O'Connor",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "O+",
+    "genetic_stability": 0.925,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 89,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 34,
+      "Stealth": 12,
+      "Persuasion": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 40,
+      "extraversion": 22,
+      "agreeableness": 58,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

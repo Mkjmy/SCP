@@ -1,0 +1,60 @@
+{
+  "id": "npc_170",
+  "bio": {
+    "full_name": "Steven Smith",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.866,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 61,
+      "Persuasion": 13,
+      "Hacking": 43
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 36,
+      "extraversion": 64,
+      "agreeableness": 7,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

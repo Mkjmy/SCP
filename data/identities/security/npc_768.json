@@ -1,0 +1,60 @@
+{
+  "id": "npc_768",
+  "bio": {
+    "full_name": "Paul Johnson",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "O+",
+    "genetic_stability": 0.966,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 108,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 94,
+      "Containment_Logic": 65,
+      "Persuasion": 71
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 26,
+      "extraversion": 83,
+      "agreeableness": 28,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

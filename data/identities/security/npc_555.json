@@ -1,0 +1,60 @@
+{
+  "id": "npc_555",
+  "bio": {
+    "full_name": "Steven Smith",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "B+",
+    "genetic_stability": 0.875,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 73,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 23,
+      "Persuasion": 33,
+      "Medicine": 32
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 19,
+      "extraversion": 39,
+      "agreeableness": 40,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

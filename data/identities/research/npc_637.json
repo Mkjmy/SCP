@@ -1,0 +1,60 @@
+{
+  "id": "npc_637",
+  "bio": {
+    "full_name": "Sven Dubois",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "AB-",
+    "genetic_stability": 0.988,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 102,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 44,
+      "Firearms": 17,
+      "Perception": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 90,
+      "extraversion": 94,
+      "agreeableness": 12,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_608",
+  "bio": {
+    "full_name": "Joseph O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "AB+",
+    "genetic_stability": 0.872,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 86,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 33,
+      "Perception": 84,
+      "Occult_Research": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 76,
+      "extraversion": 92,
+      "agreeableness": 25,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_073",
+  "bio": {
+    "full_name": "Joseph Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "AB+",
+    "genetic_stability": 0.999,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 50,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 55,
+      "Stealth": 52,
+      "Containment_Logic": 40
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 75,
+      "extraversion": 43,
+      "agreeableness": 18,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

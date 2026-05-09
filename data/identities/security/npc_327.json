@@ -1,0 +1,60 @@
+{
+  "id": "npc_327",
+  "bio": {
+    "full_name": "Thomas Miller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 65,
+    "blood_type": "O+",
+    "genetic_stability": 0.905,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 95,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 44,
+      "Containment_Logic": 13,
+      "Persuasion": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 100,
+      "extraversion": 39,
+      "agreeableness": 18,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

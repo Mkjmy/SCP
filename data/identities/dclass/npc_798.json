@@ -1,0 +1,60 @@
+{
+  "id": "npc_798",
+  "bio": {
+    "full_name": "John Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.874,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 79,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 48,
+      "Stealth": 39,
+      "Occult_Research": 71
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 45,
+      "extraversion": 38,
+      "agreeableness": 94,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

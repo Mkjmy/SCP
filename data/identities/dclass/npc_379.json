@@ -1,0 +1,60 @@
+{
+  "id": "npc_379",
+  "bio": {
+    "full_name": "Paul Wong",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 21,
+    "blood_type": "O-",
+    "genetic_stability": 0.9,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 95,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 46,
+      "Firearms": 24,
+      "Perception": 48
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 93,
+      "extraversion": 5,
+      "agreeableness": 75,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

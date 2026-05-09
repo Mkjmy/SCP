@@ -1,0 +1,59 @@
+{
+  "id": "npc_041",
+  "bio": {
+    "full_name": "Richard Tanaka",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "B-",
+    "genetic_stability": 0.854,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 105,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 67,
+      "Perception": 20,
+      "Engineering": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 21,
+      "extraversion": 64,
+      "agreeableness": 83,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

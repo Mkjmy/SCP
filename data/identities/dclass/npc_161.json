@@ -1,0 +1,60 @@
+{
+  "id": "npc_161",
+  "bio": {
+    "full_name": "Donald Dubois",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "A+",
+    "genetic_stability": 0.911,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 81,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 33,
+      "Medicine": 74,
+      "Athletics": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 45,
+      "extraversion": 13,
+      "agreeableness": 68,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

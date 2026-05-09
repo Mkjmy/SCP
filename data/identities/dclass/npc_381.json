@@ -1,0 +1,60 @@
+{
+  "id": "npc_381",
+  "bio": {
+    "full_name": "Chen Vasiliev",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "AB-",
+    "genetic_stability": 0.984,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 63,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 13,
+      "Medicine": 75,
+      "Athletics": 30
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 47,
+      "extraversion": 99,
+      "agreeableness": 70,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

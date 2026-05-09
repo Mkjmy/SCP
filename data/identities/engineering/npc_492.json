@@ -1,0 +1,60 @@
+{
+  "id": "npc_492",
+  "bio": {
+    "full_name": "David Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "O-",
+    "genetic_stability": 0.978,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 106,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 79,
+      "Firearms": 41,
+      "Stealth": 49
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 15,
+      "extraversion": 43,
+      "agreeableness": 80,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_422",
+  "bio": {
+    "full_name": "Christopher Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "AB+",
+    "genetic_stability": 0.872,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 70,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 55,
+      "Firearms": 11,
+      "Containment_Logic": 94
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 46,
+      "extraversion": 99,
+      "agreeableness": 48,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_976",
+  "bio": {
+    "full_name": "Paul Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "A+",
+    "genetic_stability": 0.953,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 64,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 81,
+      "Engineering": 39,
+      "Stealth": 53
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 84,
+      "extraversion": 20,
+      "agreeableness": 71,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

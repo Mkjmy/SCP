@@ -1,0 +1,60 @@
+{
+  "id": "npc_815",
+  "bio": {
+    "full_name": "Chen Kovacs",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.904,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 51,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 20,
+      "Engineering": 22,
+      "Persuasion": 12
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 17,
+      "extraversion": 96,
+      "agreeableness": 99,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

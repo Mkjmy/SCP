@@ -1,0 +1,60 @@
+{
+  "id": "npc_280",
+  "bio": {
+    "full_name": "Chen Ivanov",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.948,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 74,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 27,
+      "Containment_Logic": 51,
+      "Perception": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 63,
+      "extraversion": 68,
+      "agreeableness": 55,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

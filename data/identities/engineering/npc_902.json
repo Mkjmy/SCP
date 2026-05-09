@@ -1,0 +1,60 @@
+{
+  "id": "npc_902",
+  "bio": {
+    "full_name": "Andrew Smith",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "AB+",
+    "genetic_stability": 0.925,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 63,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 41,
+      "Occult_Research": 15,
+      "Hacking": 81
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 99,
+      "extraversion": 69,
+      "agreeableness": 96,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

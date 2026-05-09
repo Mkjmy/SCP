@@ -1,0 +1,60 @@
+{
+  "id": "npc_712",
+  "bio": {
+    "full_name": "David Muller",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.864,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 94,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 54,
+      "Occult_Research": 93,
+      "Engineering": 36
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 30,
+      "extraversion": 75,
+      "agreeableness": 56,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

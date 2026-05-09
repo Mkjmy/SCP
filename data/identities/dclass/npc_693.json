@@ -1,0 +1,60 @@
+{
+  "id": "npc_693",
+  "bio": {
+    "full_name": "Joshua Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "AB-",
+    "genetic_stability": 0.938,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 55,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 81,
+      "Athletics": 13,
+      "Firearms": 21
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 71,
+      "extraversion": 37,
+      "agreeableness": 92,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

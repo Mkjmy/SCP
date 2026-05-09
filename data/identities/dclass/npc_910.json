@@ -1,0 +1,59 @@
+{
+  "id": "npc_910",
+  "bio": {
+    "full_name": "Joseph Jones",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.891,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 76,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 64,
+      "Firearms": 54,
+      "Stealth": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 25,
+      "extraversion": 55,
+      "agreeableness": 86,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

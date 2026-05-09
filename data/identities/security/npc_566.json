@@ -1,0 +1,60 @@
+{
+  "id": "npc_566",
+  "bio": {
+    "full_name": "Chen Dubois",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.975,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 106,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 25,
+      "Containment_Logic": 44,
+      "Hacking": 29
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 13,
+      "extraversion": 23,
+      "agreeableness": 51,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

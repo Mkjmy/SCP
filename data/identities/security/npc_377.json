@@ -1,0 +1,60 @@
+{
+  "id": "npc_377",
+  "bio": {
+    "full_name": "Andrew Kovacs",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.955,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 54,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 84,
+      "Persuasion": 40,
+      "Hacking": 42
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 48,
+      "extraversion": 48,
+      "agreeableness": 64,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

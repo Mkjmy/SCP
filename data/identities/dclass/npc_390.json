@@ -1,0 +1,60 @@
+{
+  "id": "npc_390",
+  "bio": {
+    "full_name": "Steven Garcia",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.962,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 104,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 58,
+      "Athletics": 44,
+      "Containment_Logic": 42
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 100,
+      "extraversion": 74,
+      "agreeableness": 66,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

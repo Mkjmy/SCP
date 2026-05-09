@@ -1,0 +1,60 @@
+{
+  "id": "npc_531",
+  "bio": {
+    "full_name": "Kenji Bakker",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "A+",
+    "genetic_stability": 0.982,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 78,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 67,
+      "Stealth": 31,
+      "Hacking": 39
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 94,
+      "extraversion": 27,
+      "agreeableness": 51,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

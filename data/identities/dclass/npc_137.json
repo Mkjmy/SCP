@@ -1,0 +1,60 @@
+{
+  "id": "npc_137",
+  "bio": {
+    "full_name": "Anthony Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.874,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 52,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 34,
+      "Occult_Research": 59,
+      "Containment_Logic": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 70,
+      "extraversion": 8,
+      "agreeableness": 42,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

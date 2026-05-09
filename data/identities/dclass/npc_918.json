@@ -1,0 +1,60 @@
+{
+  "id": "npc_918",
+  "bio": {
+    "full_name": "David Gupta",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.915,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 66,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 80,
+      "Persuasion": 41,
+      "Medicine": 51
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 33,
+      "extraversion": 4,
+      "agreeableness": 56,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

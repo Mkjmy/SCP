@@ -1,0 +1,60 @@
+{
+  "id": "npc_094",
+  "bio": {
+    "full_name": "Andrew Bakker",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "O+",
+    "genetic_stability": 0.907,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 50,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 17,
+      "Occult_Research": 62,
+      "Persuasion": 53
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 64,
+      "extraversion": 70,
+      "agreeableness": 27,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

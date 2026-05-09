@@ -1,0 +1,60 @@
+{
+  "id": "npc_219",
+  "bio": {
+    "full_name": "Arjun Garcia",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.893,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 98,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 67,
+      "Containment_Logic": 27,
+      "Medicine": 38
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 99,
+      "extraversion": 6,
+      "agreeableness": 48,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

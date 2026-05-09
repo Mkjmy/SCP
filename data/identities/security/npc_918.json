@@ -1,0 +1,60 @@
+{
+  "id": "npc_918",
+  "bio": {
+    "full_name": "William Smith",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.971,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 56,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 38,
+      "Stealth": 57,
+      "Engineering": 90
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 2,
+      "extraversion": 40,
+      "agreeableness": 8,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

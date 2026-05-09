@@ -1,0 +1,60 @@
+{
+  "id": "npc_040",
+  "bio": {
+    "full_name": "Charles Garcia",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 64,
+    "blood_type": "AB+",
+    "genetic_stability": 0.997,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 74,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 57,
+      "Hacking": 57,
+      "Engineering": 87
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 7,
+      "extraversion": 97,
+      "agreeableness": 71,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

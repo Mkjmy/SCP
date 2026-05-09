@@ -1,0 +1,60 @@
+{
+  "id": "npc_390",
+  "bio": {
+    "full_name": "Sven Dubois",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 49,
+    "blood_type": "A+",
+    "genetic_stability": 0.971,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 59,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 41,
+      "Firearms": 89,
+      "Stealth": 55
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 75,
+      "extraversion": 43,
+      "agreeableness": 51,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_618",
+  "bio": {
+    "full_name": "William Sato",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 41,
+    "blood_type": "AB+",
+    "genetic_stability": 0.955,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 102,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 26,
+      "Athletics": 94,
+      "Firearms": 20
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 59,
+      "extraversion": 42,
+      "agreeableness": 57,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

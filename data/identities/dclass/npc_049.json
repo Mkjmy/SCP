@@ -1,0 +1,59 @@
+{
+  "id": "npc_049",
+  "bio": {
+    "full_name": "Olga Williams",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "O-",
+    "genetic_stability": 0.891,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 76,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 77,
+      "Occult_Research": 37,
+      "Engineering": 67
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 71,
+      "extraversion": 8,
+      "agreeableness": 65,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

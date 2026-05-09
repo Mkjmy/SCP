@@ -1,0 +1,60 @@
+{
+  "id": "npc_416",
+  "bio": {
+    "full_name": "Donald Bakker",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "O-",
+    "genetic_stability": 0.878,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 76,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 35,
+      "Persuasion": 61,
+      "Engineering": 58
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 15,
+      "extraversion": 45,
+      "agreeableness": 94,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

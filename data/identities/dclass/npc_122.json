@@ -1,0 +1,60 @@
+{
+  "id": "npc_122",
+  "bio": {
+    "full_name": "Elena Smith",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.923,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 56,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 89,
+      "Medicine": 65,
+      "Stealth": 74
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 53,
+      "extraversion": 99,
+      "agreeableness": 78,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

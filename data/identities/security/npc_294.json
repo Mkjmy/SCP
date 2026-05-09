@@ -1,0 +1,60 @@
+{
+  "id": "npc_294",
+  "bio": {
+    "full_name": "Joshua Bakker",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 58,
+    "blood_type": "AB-",
+    "genetic_stability": 0.944,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 98,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 94,
+      "Stealth": 20,
+      "Medicine": 24
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 62,
+      "extraversion": 31,
+      "agreeableness": 48,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

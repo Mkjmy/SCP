@@ -1,0 +1,60 @@
+{
+  "id": "npc_349",
+  "bio": {
+    "full_name": "William Sato",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.863,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 105,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 74,
+      "Stealth": 72,
+      "Medicine": 17
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 49,
+      "extraversion": 87,
+      "agreeableness": 4,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

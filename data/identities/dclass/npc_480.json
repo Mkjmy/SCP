@@ -1,0 +1,60 @@
+{
+  "id": "npc_480",
+  "bio": {
+    "full_name": "William Tanaka",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.898,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 49,
+      "Perception": 18,
+      "Firearms": 63
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 64,
+      "extraversion": 29,
+      "agreeableness": 35,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

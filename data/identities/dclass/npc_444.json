@@ -1,0 +1,60 @@
+{
+  "id": "npc_444",
+  "bio": {
+    "full_name": "Maria Miller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.863,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 76,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 52,
+      "Engineering": 49,
+      "Containment_Logic": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 19,
+      "extraversion": 36,
+      "agreeableness": 69,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

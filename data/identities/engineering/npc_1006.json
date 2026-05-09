@@ -1,0 +1,60 @@
+{
+  "id": "npc_1006",
+  "bio": {
+    "full_name": "Steven Jones",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.941,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 92,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 52,
+      "Hacking": 51,
+      "Persuasion": 54
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 80,
+      "extraversion": 66,
+      "agreeableness": 73,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

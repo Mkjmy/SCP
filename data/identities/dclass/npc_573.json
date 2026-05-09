@@ -1,0 +1,60 @@
+{
+  "id": "npc_573",
+  "bio": {
+    "full_name": "Mark Wong",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "O-",
+    "genetic_stability": 0.87,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 104,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 64,
+      "Stealth": 64,
+      "Engineering": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 87,
+      "extraversion": 30,
+      "agreeableness": 82,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

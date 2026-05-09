@@ -1,0 +1,60 @@
+{
+  "id": "npc_442",
+  "bio": {
+    "full_name": "Steven Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.936,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 66,
+      "Perception": 62,
+      "Hacking": 29
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 81,
+      "extraversion": 24,
+      "agreeableness": 55,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

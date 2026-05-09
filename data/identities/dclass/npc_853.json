@@ -1,0 +1,60 @@
+{
+  "id": "npc_853",
+  "bio": {
+    "full_name": "David Miller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "B+",
+    "genetic_stability": 0.954,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 34,
+      "Firearms": 23,
+      "Stealth": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 44,
+      "extraversion": 75,
+      "agreeableness": 19,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

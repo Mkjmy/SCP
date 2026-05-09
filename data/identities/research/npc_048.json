@@ -1,0 +1,60 @@
+{
+  "id": "npc_048",
+  "bio": {
+    "full_name": "Chen Dubois",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "O+",
+    "genetic_stability": 0.918,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 98,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 30,
+      "Engineering": 60,
+      "Occult_Research": 21
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 50,
+      "extraversion": 33,
+      "agreeableness": 24,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

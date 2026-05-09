@@ -1,0 +1,59 @@
+{
+  "id": "npc_446",
+  "bio": {
+    "full_name": "Olga Sato",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.955,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 52,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 66,
+      "Persuasion": 62,
+      "Firearms": 30
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 4,
+      "extraversion": 94,
+      "agreeableness": 78,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

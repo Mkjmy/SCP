@@ -1,0 +1,59 @@
+{
+  "id": "npc_826",
+  "bio": {
+    "full_name": "Olga Wong",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "AB+",
+    "genetic_stability": 0.979,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 76,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 58,
+      "Stealth": 17,
+      "Athletics": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 76,
+      "extraversion": 19,
+      "agreeableness": 80,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

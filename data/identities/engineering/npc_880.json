@@ -1,0 +1,60 @@
+{
+  "id": "npc_880",
+  "bio": {
+    "full_name": "David Garcia",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.932,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 68,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 70,
+      "Perception": 49,
+      "Engineering": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 39,
+      "extraversion": 11,
+      "agreeableness": 39,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

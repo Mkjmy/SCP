@@ -1,0 +1,60 @@
+{
+  "id": "npc_673",
+  "bio": {
+    "full_name": "Steven Miller",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.983,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 80,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 85,
+      "Containment_Logic": 33,
+      "Stealth": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 22,
+      "extraversion": 80,
+      "agreeableness": 37,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

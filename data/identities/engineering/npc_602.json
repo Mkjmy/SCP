@@ -1,0 +1,60 @@
+{
+  "id": "npc_602",
+  "bio": {
+    "full_name": "Christopher Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.992,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 81,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 90,
+      "Perception": 23,
+      "Occult_Research": 79
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 1,
+      "extraversion": 74,
+      "agreeableness": 35,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

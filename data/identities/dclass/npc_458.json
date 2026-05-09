@@ -1,0 +1,59 @@
+{
+  "id": "npc_458",
+  "bio": {
+    "full_name": "Daniel Johnson",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "O+",
+    "genetic_stability": 0.939,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 65,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 37,
+      "Perception": 23,
+      "Athletics": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 99,
+      "extraversion": 29,
+      "agreeableness": 52,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

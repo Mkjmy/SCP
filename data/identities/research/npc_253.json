@@ -1,0 +1,59 @@
+{
+  "id": "npc_253",
+  "bio": {
+    "full_name": "Sven Johnson",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.9,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 52,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 29,
+      "Perception": 57,
+      "Medicine": 27
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 40,
+      "extraversion": 41,
+      "agreeableness": 24,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

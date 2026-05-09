@@ -1,0 +1,60 @@
+{
+  "id": "npc_223",
+  "bio": {
+    "full_name": "Daniel Johnson",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "O+",
+    "genetic_stability": 0.891,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 104,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 88,
+      "Engineering": 94,
+      "Containment_Logic": 91
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 56,
+      "extraversion": 92,
+      "agreeableness": 76,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

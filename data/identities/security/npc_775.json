@@ -1,0 +1,60 @@
+{
+  "id": "npc_775",
+  "bio": {
+    "full_name": "Andrew Jones",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.909,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 56,
+      "Engineering": 60,
+      "Medicine": 34
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 25,
+      "extraversion": 4,
+      "agreeableness": 93,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_806",
+  "bio": {
+    "full_name": "Christopher Davis",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.907,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 63,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 78,
+      "Containment_Logic": 16,
+      "Engineering": 21
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 118,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 76,
+      "extraversion": 94,
+      "agreeableness": 83,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

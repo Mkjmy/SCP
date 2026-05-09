@@ -1,0 +1,60 @@
+{
+  "id": "npc_860",
+  "bio": {
+    "full_name": "David Davis",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.982,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 52,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 81,
+      "Containment_Logic": 83,
+      "Hacking": 68
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 3,
+      "extraversion": 56,
+      "agreeableness": 77,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_143",
+  "bio": {
+    "full_name": "Andrew Bakker",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.863,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 68,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 93,
+      "Hacking": 79,
+      "Stealth": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 27,
+      "extraversion": 82,
+      "agreeableness": 61,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

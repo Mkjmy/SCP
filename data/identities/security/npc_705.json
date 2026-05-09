@@ -1,0 +1,60 @@
+{
+  "id": "npc_705",
+  "bio": {
+    "full_name": "Christopher Brown",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 53,
+    "blood_type": "A+",
+    "genetic_stability": 0.96,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 98,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 28,
+      "Stealth": 85,
+      "Hacking": 93
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 54,
+      "extraversion": 54,
+      "agreeableness": 61,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

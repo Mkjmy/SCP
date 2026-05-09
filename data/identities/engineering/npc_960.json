@@ -1,0 +1,60 @@
+{
+  "id": "npc_960",
+  "bio": {
+    "full_name": "Sven Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.981,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 60,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 29,
+      "Medicine": 82,
+      "Stealth": 49
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 90,
+      "extraversion": 54,
+      "agreeableness": 86,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

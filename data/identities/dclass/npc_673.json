@@ -1,0 +1,60 @@
+{
+  "id": "npc_673",
+  "bio": {
+    "full_name": "Joshua Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.994,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 83,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 56,
+      "Medicine": 68,
+      "Stealth": 73
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 9,
+      "extraversion": 95,
+      "agreeableness": 98,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

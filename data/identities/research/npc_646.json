@@ -1,0 +1,60 @@
+{
+  "id": "npc_646",
+  "bio": {
+    "full_name": "Daniel Johnson",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "AB+",
+    "genetic_stability": 0.878,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 85,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 64,
+      "Hacking": 15,
+      "Medicine": 61
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 71,
+      "extraversion": 65,
+      "agreeableness": 96,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_771",
+  "bio": {
+    "full_name": "Anthony Jones",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "B+",
+    "genetic_stability": 0.901,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 72,
+      "Occult_Research": 10,
+      "Medicine": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 5,
+      "extraversion": 23,
+      "agreeableness": 27,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

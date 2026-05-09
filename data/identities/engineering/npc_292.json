@@ -1,0 +1,60 @@
+{
+  "id": "npc_292",
+  "bio": {
+    "full_name": "Robert Gupta",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "O-",
+    "genetic_stability": 0.967,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 93,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 31,
+      "Medicine": 39,
+      "Engineering": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 86,
+      "extraversion": 34,
+      "agreeableness": 61,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

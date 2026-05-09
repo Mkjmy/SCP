@@ -1,0 +1,60 @@
+{
+  "id": "npc_131",
+  "bio": {
+    "full_name": "Mark O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.945,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 74,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 41,
+      "Engineering": 17,
+      "Persuasion": 14
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 74,
+      "extraversion": 49,
+      "agreeableness": 5,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

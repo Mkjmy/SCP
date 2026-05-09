@@ -1,0 +1,60 @@
+{
+  "id": "npc_696",
+  "bio": {
+    "full_name": "Sven Bakker",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "O+",
+    "genetic_stability": 0.91,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 83,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 76,
+      "Stealth": 83,
+      "Perception": 44
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 16,
+      "extraversion": 74,
+      "agreeableness": 14,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

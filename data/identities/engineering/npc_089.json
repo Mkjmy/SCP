@@ -1,0 +1,60 @@
+{
+  "id": "npc_089",
+  "bio": {
+    "full_name": "Donald Jones",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.981,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 104,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 52,
+      "Engineering": 86,
+      "Occult_Research": 42
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 63,
+      "extraversion": 80,
+      "agreeableness": 71,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

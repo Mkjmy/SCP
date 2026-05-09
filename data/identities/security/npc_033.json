@@ -1,0 +1,60 @@
+{
+  "id": "npc_033",
+  "bio": {
+    "full_name": "Robert Bakker",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "AB-",
+    "genetic_stability": 0.97,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 77,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 95,
+      "Occult_Research": 22,
+      "Hacking": 78
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 11,
+      "extraversion": 14,
+      "agreeableness": 47,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

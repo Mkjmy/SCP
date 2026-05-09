@@ -1,0 +1,60 @@
+{
+  "id": "npc_370",
+  "bio": {
+    "full_name": "Matthew Davis",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.917,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 101,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 86,
+      "Medicine": 48,
+      "Stealth": 12
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 60,
+      "extraversion": 54,
+      "agreeableness": 3,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

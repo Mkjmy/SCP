@@ -1,0 +1,60 @@
+{
+  "id": "npc_311",
+  "bio": {
+    "full_name": "Matthew Tanaka",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.886,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 79,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 74,
+      "Athletics": 34,
+      "Hacking": 14
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 48,
+      "extraversion": 3,
+      "agreeableness": 7,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

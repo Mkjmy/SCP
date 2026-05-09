@@ -1,0 +1,59 @@
+{
+  "id": "npc_622",
+  "bio": {
+    "full_name": "Chen Williams",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "A-",
+    "genetic_stability": 0.863,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 102,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 17,
+      "Medicine": 52,
+      "Stealth": 75
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 4,
+      "extraversion": 85,
+      "agreeableness": 51,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_385",
+  "bio": {
+    "full_name": "Mark Ivanov",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.931,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 76,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 41,
+      "Occult_Research": 73,
+      "Perception": 81
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 61,
+      "extraversion": 51,
+      "agreeableness": 48,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

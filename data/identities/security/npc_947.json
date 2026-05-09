@@ -1,0 +1,60 @@
+{
+  "id": "npc_947",
+  "bio": {
+    "full_name": "Andrew Jones",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "B-",
+    "genetic_stability": 0.951,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 101,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 52,
+      "Engineering": 33,
+      "Persuasion": 15
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 75,
+      "extraversion": 32,
+      "agreeableness": 62,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

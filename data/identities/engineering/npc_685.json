@@ -1,0 +1,60 @@
+{
+  "id": "npc_685",
+  "bio": {
+    "full_name": "Maria Johnson",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 41,
+    "blood_type": "AB-",
+    "genetic_stability": 0.942,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 100,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 51,
+      "Medicine": 88,
+      "Containment_Logic": 63
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 36,
+      "extraversion": 2,
+      "agreeableness": 1,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

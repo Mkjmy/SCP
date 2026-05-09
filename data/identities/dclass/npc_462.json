@@ -1,0 +1,60 @@
+{
+  "id": "npc_462",
+  "bio": {
+    "full_name": "Charles Jones",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "AB-",
+    "genetic_stability": 0.987,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 55,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 78,
+      "Engineering": 58,
+      "Firearms": 14
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 98,
+      "extraversion": 82,
+      "agreeableness": 52,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

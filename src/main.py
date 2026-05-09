@@ -10,6 +10,7 @@ from navigation import move
 from actions import attack, run
 from map_generator import load_room_templates, generate_map
 from map_visualizer import generate_ascii_map
+from story_manager import StoryManager
 
 # Color pairs
 LOCATION_PAIR = 1
@@ -70,8 +71,8 @@ def display_message(stdscr, message, is_danger=False, is_dialogue=False, is_item
     stdscr.getch()
 
 
-def get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="What is your next move?"):
-    """Generic menu selection function that maintains the narrative UI."""
+def get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="What is your next move?", story_messages=None):
+    """Novel-style Narrative UI with structured lists."""
     selected_idx = 0
     h, w = stdscr.getmaxyx()
     
@@ -84,59 +85,96 @@ def get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps
 
     while True:
         stdscr.clear()
-        # Header
-        stdscr.addstr(0, 0, f"--- {current_room['name']} ---\n\n", loc_color | curses.A_BOLD)
+        
+        # --- TITLE ---
+        title = f" {current_room['name'].upper()} "
+        stdscr.addstr(0, (w - len(title))//2, title, curses.A_BOLD)
+        stdscr.addstr(1, 0, "─" * (w-1), curses.A_DIM)
 
-        # Narrative
-        stdscr.addstr(2, 0, f"You find yourself in the {current_room['name']}. ", curses.A_NORMAL)
-        desc_words = current_room['description'].split()
-        desc_lines = []; line = ""
-        for word in desc_words:
-            if len(line) + len(word) + 1 < w - 2: line += word + " "
-            else: desc_lines.append(line); line = word + " "
-        desc_lines.append(line)
-        
+        # --- THE NOVEL (Narrative) ---
         row = 3
-        for l in desc_lines:
-            if row < h - 15: stdscr.addstr(row, 0, l + "\n"); row += 1
+        narrative_parts = []
         
-        row += 1
+        # 1. Story/Mood integration
+        if story_messages:
+            for sm in story_messages:
+                narrative_parts.append(sm)
+        else:
+            narrative_parts.append(current_room['description'])
+
+        # 2. Subtle transition to surroundings
+        # narrative_parts.append("As you look around, the environment feels heavy.")
+
+        # Combined Prose Rendering
+        full_prose = " ".join(narrative_parts)
+        words = full_prose.split()
+        line = ""
+        for word in words:
+            if len(line) + len(word) + 1 < w - 6: line += word + " "
+            else:
+                stdscr.addstr(row, 2, line, curses.A_ITALIC if story_messages else curses.A_NORMAL)
+                row += 1; line = word + " "
+        stdscr.addstr(row, 2, line, curses.A_ITALIC if story_messages else curses.A_NORMAL)
+        row += 2
+
+        # --- THE SCAN (Structured Lists) ---
+        # 3. Item List
         room_items = [all_items[item_id]["name"] for item_id in current_room.get("items", [])]
         if room_items:
-            stdscr.addstr(row, 0, "Nearby, you notice:\n", item_color | curses.A_BOLD); row += 1
+            stdscr.addstr(row, 2, "Objects of interest:", curses.A_BOLD)
+            row += 1
             for item in room_items:
-                if row < h - 12: stdscr.addstr(row, 2, f"• A {item}\n", item_color); row += 1
+                if row < h - 15:
+                    stdscr.addstr(row, 4, f"─ {item}", item_color)
+                    row += 1
             row += 1
 
+        # 4. Personnel List
         if npcs_in_room or scps_in_room:
-            stdscr.addstr(row, 0, "You share this space with:\n", npc_color | curses.A_BOLD); row += 1
-            for npc_info in npcs_in_room:
-                if row < h - 10:
-                    stdscr.addstr(row, 2, f"• {npc_info['character'].get_description()}\n", npc_color); row += 1
-            for scp in scps_in_room:
-                if row < h - 8:
-                    stdscr.addstr(row, 2, f"• {scp.on_observe_description(player, scp.get_status())}\n", danger_color); row += 1
+            stdscr.addstr(row, 2, "Other presences:", curses.A_BOLD)
+            row += 1
+            display_count = 0
+            for s in scps_in_room:
+                if display_count < 3:
+                    stdscr.addstr(row, 4, f"─ {s.on_observe_description(player, s.get_status())}", danger_color)
+                    row += 1; display_count += 1
+            
+            for n in npcs_in_room:
+                if display_count < 6:
+                    npc = n["character"]
+                    stdscr.addstr(row, 4, f"─ {npc.get_description()}", npc_color)
+                    row += 1; display_count += 1
+            
+            total = len(npcs_in_room) + len(scps_in_room)
+            if total > display_count:
+                stdscr.addstr(row, 6, f"... and {total - display_count} more signatures detected.", curses.A_DIM)
+                row += 1
         
+        row += 2
+        stdscr.addstr(row, 0, "─" * (w-1), curses.A_DIM)
         row += 1
-        stdscr.addstr(row, 0, f"{header_text}\n", prompt_color | curses.A_UNDERLINE); row += 1
+
+        # --- INTERFACE OPTIONS ---
+        stdscr.addstr(row, 2, f"{header_text}:", prompt_color)
+        row += 1
         for i, opt in enumerate(options):
-            if row < h - 2:
-                stdscr.addstr(row, 0, f"  [{opt.replace('_', ' ').capitalize()}]\n", highlight_attr if i == selected_idx else curses.A_NORMAL)
+            if row < h - 3:
+                prefix = "  ▶ " if i == selected_idx else "    "
+                stdscr.addstr(row, 2, f"{prefix}{opt.replace('_', ' ').capitalize()}", highlight_attr if i == selected_idx else curses.A_NORMAL)
                 row += 1
 
-        # Narrative Status
+        # --- BIOMETRICS (Bottom Bar) ---
         cond = "Healthy" if player.health > 80 else "Wounded" if player.health > 40 else "In Critical Pain"
         stamina_text = "Full of Energy" if player.stamina > 80 else "Tired" if player.stamina > 40 else "Exhausted"
         sensation = "Focused"
         if player.sanity < 30: sensation = "Terrified"
         elif player.sanity < 70: sensation = "Nervous"
-        if player.morale < 30: sensation = "Hopeless"
         
         hands = f"Left: {player.left_hand or 'Empty'} | Right: {player.right_hand or 'Empty'}"
         status_line = f"Physical: {cond} | Stamina: {stamina_text} | Feeling: {sensation}"
         try:
-            stdscr.addstr(h - 2, 0, hands, item_color)
-            stdscr.addstr(h - 1, 0, status_line, curses.A_DIM)
+            stdscr.addstr(h - 2, 2, hands, item_color)
+            stdscr.addstr(h - 1, 2, status_line, curses.A_DIM)
         except: pass
 
         stdscr.refresh()
@@ -220,6 +258,7 @@ def main_loop(stdscr):
     door_manager = DoorManager(game_map)
     npc_manager = NPCManager(game_map)
     scp_manager = SCPManager(game_map)
+    story_manager = StoryManager("data/storyline.json")
 
     # --- Distribute Items ---
     all_room_ids = list(game_map.keys())
@@ -232,8 +271,36 @@ def main_loop(stdscr):
     debug_active = game_config.get("game_settings", {}).get("enable_debug_option", False)
     
     # --- Initialize NPCs ---
+    # 1. Spawn D-Class Dormitory
     for _ in range(7):
-        npc_manager.spawn_npc("D-Class", start_room_id)
+        npc_manager.spawn_npc("D-Class", start_room_id, department="D-Class")
+    
+    # 2. Populate Facility based on room tags (Scaling to ~200)
+    # Filter rooms by function, EXCLUDING the start dormitory
+    security_rooms = [rid for rid, rdata in game_map.items() if "security" in rdata.get("tags", []) and rid != start_room_id]
+    research_rooms = [rid for rid, rdata in game_map.items() if ("chamber" in rdata.get("tags", []) or "end" in rdata.get("tags", [])) and rid != start_room_id]
+    general_rooms = [rid for rid, rdata in game_map.items() if rid != start_room_id]
+    
+    for _ in range(200):
+        role = random.choice(["Guard", "Scientist", "D-Class", "Janitor", "Engineer", "ISD Agent"])
+        
+        # Pick appropriate room
+        if role == "Guard" or role == "ISD Agent":
+            target_rid = random.choice(security_rooms) if security_rooms else random.choice(general_rooms)
+            dept = "Security"
+        elif role == "Scientist":
+            target_rid = random.choice(research_rooms) if research_rooms else random.choice(general_rooms)
+            dept = "Research & Science"
+        elif role == "D-Class":
+            target_rid = random.choice(general_rooms)
+            dept = "D-Class"
+        else: # Janitor/Engineer
+            target_rid = random.choice(general_rooms)
+            dept = "Engineering"
+            
+        npc_manager.spawn_npc(role, target_rid, department=dept)
+
+    # Force some D-Class in the start room to be insane
     dorm_npcs = npc_manager.get_npcs_in_room(start_room_id)
     for i, npc_info in enumerate(dorm_npcs):
         if i < 2: npc_info["character"].personality = "Broken"
@@ -257,10 +324,26 @@ def main_loop(stdscr):
     display_message(stdscr, f"You are {player.name}, Clearance Level {player.clearance_level}.", is_item_info=True)
 
     message_to_show = ""
+    turn_counter = 0
+    current_story_msgs = []
+    active_story_event = None # Holds a CHOICE event if active
+    
     while not game_over:
-        # --- START OF TURN ---
-        for npc_info in npc_manager._npcs.values():
-            npc_info["character"].update_behavior()
+        turn_counter += 1
+        
+        # --- STORY ENGINE ---
+        event = story_manager.check_events(turn_counter, player, npc_manager, scp_manager)
+        if event:
+            if isinstance(event, dict) and event.get("type") == "CHOICE":
+                active_story_event = event
+                current_story_msgs.append(event.get("message"))
+            elif isinstance(event, str):
+                current_story_msgs.append(event)
+
+        # --- START OF TURN (Simulation Engine) ---
+        sim_log = npc_manager.process_npc_sim_turn(npc_manager._npcs, player.location, game_map)
+        with open("debug_output/facility_sim.log", "a") as f:
+            f.write(f"--- TURN {turn_counter} START ---\n" + "\n".join(sim_log) + "\n")
 
         is_fatal, is_dialogue, is_item_info = False, False, False
         
@@ -281,18 +364,40 @@ def main_loop(stdscr):
 
         # --- Dynamic Option Generation (Primary) ---
         options = []
-        for detail in sorted(current_room.get("details", {}).keys()): options.append(f"look at {detail}")
-        for item_id in current_room.get("items", []):
-            if all_items.get(item_id, {}).get("takeable"): options.append(f"take {item_id}")
-        for d in sorted(current_room.get('exits', {}).keys()): options.append(f"go {d}")
+        if active_story_event:
+            # SCRIPTED CHOICE OVERRIDE
+            for opt in active_story_event.get("options", []):
+                options.append(f"CHOICE:{opt['id']}:{opt['text']}")
+        else:
+            # Normal Room Options
+            for detail in sorted(current_room.get("details", {}).keys()): options.append(f"look at {detail}")
+            for item_id in current_room.get("items", []):
+                if all_items.get(item_id, {}).get("takeable"): options.append(f"take {item_id}")
+            for d in sorted(current_room.get('exits', {}).keys()): options.append(f"go {d}")
+            
+            if npcs_in_room or scps_in_room:
+                options.append("talk")
+                options.append("attack")
+            
+            options.extend(["inventory", "run", "quit"])
         
-        if npcs_in_room or scps_in_room:
-            options.append("talk")
-            options.append("attack")
-        
-        options.extend(["inventory", "run", "quit"])
-        
-        action = get_user_choice(stdscr, options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active)
+        # Format labels for display (strip internal IDs)
+        display_options = []
+        for o in options:
+            if o.startswith("CHOICE:"): display_options.append(o.split(":", 2)[2])
+            else: display_options.append(o)
+
+        action = get_user_choice(stdscr, display_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, story_messages=current_story_msgs)
+
+        # Handle Choice Execution
+        if action in display_options and active_story_event:
+            # Map display text back to ID
+            original_option = options[display_options.index(action)]
+            choice_id = original_option.split(":")[1]
+            message_to_show = story_manager.execute_choice(active_story_event, choice_id, player, npc_manager)
+            active_story_event = None
+            current_story_msgs = []
+            continue
 
         verb, *args = action.split(' ', 2)
         target = ' '.join(args)
@@ -300,13 +405,36 @@ def main_loop(stdscr):
         if action == 'quit': message_to_show, is_fatal = "You give up.", True
         elif verb == 'inventory': message_to_show = player.get_description(); is_item_info = True
         elif verb == 'look' and target:
-            if target in current_room.get("details", {}):
-                det = current_room["details"][target]
-                message_to_show = det["description"]
-                if "learns_knowledge" in det:
-                    k = player.learn_knowledge(det["learns_knowledge"])
-                    if k: message_to_show += "\n" + k
-            else: message_to_show = f"Nothing special about the {target}."
+            # (Rest of look logic...)
+            found_char = False
+            for n_info in npcs_in_room:
+                npc = n_info["character"]
+                if target.lower() in npc.name.lower():
+                    npc.is_focused = True
+                    npc.focus_timer = 5
+                    mid = getattr(npc, 'master_identity', {})
+                    if mid:
+                        bio = mid.get('bio', {})
+                        app = mid.get('appearance', {})
+                        psy = mid.get('psychological_profile', {})
+                        details = [
+                            f"PERSONNEL FILE: {bio.get('full_name').upper()}",
+                            f"Role: {mid.get('professional_file', {}).get('role')} | Gender: {bio.get('gender')}",
+                            f"Appearance: {app.get('height_cm')}cm, {app.get('build')}. Eyes: {app.get('physical_features', {}).get('eyes')}.",
+                            f"Mental: IQ {psy.get('iq')}. Dept: {mid.get('professional_file', {}).get('department')}.",
+                            f"Background: {bio.get('origin')}.",
+                            f"Note: {app.get('physical_features', {}).get('notable_marks', [''])[0]}"
+                        ]
+                        message_to_show = "\n".join(details)
+                    else: message_to_show = npc.get_description()
+                    found_char = True; break
+            
+            if not found_char:
+                if target in current_room.get("details", {}):
+                    message_to_show = current_room["details"][target]["description"]
+                else: message_to_show = f"Nothing special about the {target}."
+            # After action, clear story
+            current_story_msgs = []
         elif verb == 'take':
             item_data = all_items.get(target)
             if target in current_room.get("items", []) and item_data and item_data.get("takeable"):
@@ -317,53 +445,39 @@ def main_loop(stdscr):
                 if "keycard_l2" in target: player.clearance_level = max(player.clearance_level, 2)
                 if "keycard_l3" in target: player.clearance_level = max(player.clearance_level, 3)
                 current_room["items"].remove(target); is_item_info = True
+                # After action, clear story
+                current_story_msgs = []
         elif verb == 'talk':
-            # --- SUB-MENU: CHOOSE TARGET ---
             target_options = []
             for s in scps_in_room: target_options.append(s.id.lower().replace('scp_', ''))
-            for n in npcs_in_room: target_options.append(n["character"].name.lower())
+            # LIMIT: Only show up to 8 nearby NPCs
+            for n in npcs_in_room[:8]: target_options.append(n["character"].name.lower())
             target_options.append("back")
-            
-            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Talk to who?")
-            
-            if chosen_target == "back":
-                continue # Return to main options
-            
-            is_dialogue = True
-            found = False
-            # Check SCPs
-            for s in scps_in_room:
-                if chosen_target in s.id.lower():
-                    res = s.on_player_talk(player, None)
-                    message_to_show = "\n".join(res) or "No response."
-                    found = True; break
-            # Check NPCs
-            if not found:
-                for n_info in npcs_in_room:
-                    npc = n_info["character"]
-                    if chosen_target in npc.name.lower():
-                        message_to_show = f'{npc.name} says: "{npc.get_dialogue()}"'
-                        found = True; break
+            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Talk to who?", story_messages=current_story_msgs)
+            if chosen_target != "back":
+                is_dialogue = True; found = False
+                for s in scps_in_room:
+                    if chosen_target in s.id.lower():
+                        res = s.on_player_talk(player, None); message_to_show = "\n".join(res) or "No response."; found = True; break
+                if not found:
+                    for n_info in npcs_in_room:
+                        npc = n_info["character"]; 
+                        if chosen_target in npc.name.lower(): message_to_show = f'{npc.name} says: "{npc.get_dialogue()}"'; found = True; break
+                # After action, clear story
+                current_story_msgs = []
         elif verb == 'attack':
-            # --- SUB-MENU: CHOOSE TARGET ---
             target_options = []
             for s in scps_in_room: target_options.append(s.id.lower().replace('scp_', ''))
-            for n in npcs_in_room: target_options.append(n["character"].name.lower())
+            # LIMIT: Only show up to 8 nearby NPCs
+            for n in npcs_in_room[:8]: target_options.append(n["character"].name.lower())
             target_options.append("back")
-            
-            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Attack who?")
-            
-            if chosen_target == "back":
-                continue
-
-            # Find actual target objects for logic
-            target_scp = next((s for s in scps_in_room if chosen_target in s.id.lower()), None)
-            target_npc = next((n["character"] for n in npcs_in_room if chosen_target in n["character"].name.lower()), None)
-            
-            scps_to_pass = [target_scp] if target_scp else []
-            npcs_to_pass = [target_npc] if target_npc else []
-            
-            message_to_show, is_fatal = attack(player, npcs_to_pass, scps_in_room=scps_to_pass)
+            chosen_target = get_user_choice(stdscr, target_options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text="Attack who?", story_messages=current_story_msgs)
+            if chosen_target != "back":
+                target_scp = next((s for s in scps_in_room if chosen_target in s.id.lower()), None)
+                target_npc = next((n["character"] for n in npcs_in_room if chosen_target in n["character"].name.lower()), None)
+                message_to_show, is_fatal = attack(player, [target_npc] if target_npc else [], scps_in_room=[target_scp] if target_scp else [])
+                # After action, clear story
+                current_story_msgs = []
         elif verb == 'go':
             success, msg = move(player, target, game_map, door_manager)
             if not success: message_to_show = msg
@@ -371,7 +485,9 @@ def main_loop(stdscr):
                 for s in scp_manager._scps.values():
                     res = s.on_player_move(player, target, None)
                     if res: message_to_show += "\n".join(res)
-        elif verb == 'attack':
-            message_to_show, is_fatal = attack(player, [n["character"] for n in npcs_in_room], scps_in_room=scps_in_room)
+                # Success move, clear story
+                current_story_msgs = []
         elif verb == 'run':
             message_to_show, is_fatal = run(player, [n["character"] for n in npcs_in_room], current_room['exits'], game_map, scps_in_room=scps_in_room)
+            # Action taken, clear story
+            current_story_msgs = []

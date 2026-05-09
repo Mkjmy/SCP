@@ -1,0 +1,60 @@
+{
+  "id": "npc_406",
+  "bio": {
+    "full_name": "Paul Jones",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.942,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 84,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 43,
+      "Firearms": 68,
+      "Athletics": 16
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 0,
+      "extraversion": 73,
+      "agreeableness": 31,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_975",
+  "bio": {
+    "full_name": "Andrew Miller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.888,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 55,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 70,
+      "Containment_Logic": 72,
+      "Engineering": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 3,
+      "extraversion": 17,
+      "agreeableness": 21,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

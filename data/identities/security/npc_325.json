@@ -1,0 +1,60 @@
+{
+  "id": "npc_325",
+  "bio": {
+    "full_name": "Richard Williams",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "O-",
+    "genetic_stability": 0.974,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 72,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 63,
+      "Athletics": 45,
+      "Containment_Logic": 61
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 8,
+      "extraversion": 90,
+      "agreeableness": 89,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_672",
+  "bio": {
+    "full_name": "Paul Muller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.943,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 52,
+      "Hacking": 85,
+      "Containment_Logic": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 75,
+      "extraversion": 86,
+      "agreeableness": 30,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

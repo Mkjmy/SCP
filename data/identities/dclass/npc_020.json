@@ -1,0 +1,60 @@
+{
+  "id": "npc_020",
+  "bio": {
+    "full_name": "David Dubois",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.888,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 100,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 50,
+      "Occult_Research": 13,
+      "Firearms": 92
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 17,
+      "extraversion": 93,
+      "agreeableness": 76,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

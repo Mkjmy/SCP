@@ -1,0 +1,59 @@
+{
+  "id": "npc_999",
+  "bio": {
+    "full_name": "Michael Smith",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.897,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 101,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 70,
+      "Persuasion": 61,
+      "Hacking": 39
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 5,
+      "extraversion": 48,
+      "agreeableness": 19,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

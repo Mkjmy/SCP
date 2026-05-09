@@ -1,0 +1,60 @@
+{
+  "id": "npc_285",
+  "bio": {
+    "full_name": "Daniel Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.963,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 65,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 44,
+      "Hacking": 16,
+      "Persuasion": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 62,
+      "extraversion": 59,
+      "agreeableness": 66,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

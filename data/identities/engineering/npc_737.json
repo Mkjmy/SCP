@@ -1,0 +1,60 @@
+{
+  "id": "npc_737",
+  "bio": {
+    "full_name": "Donald Wong",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.912,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 75,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 85,
+      "Athletics": 85,
+      "Persuasion": 28
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 54,
+      "extraversion": 42,
+      "agreeableness": 66,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

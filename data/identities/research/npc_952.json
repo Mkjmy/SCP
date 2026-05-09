@@ -1,0 +1,60 @@
+{
+  "id": "npc_952",
+  "bio": {
+    "full_name": "Mark Williams",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "AB+",
+    "genetic_stability": 0.87,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 89,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 18,
+      "Medicine": 33,
+      "Engineering": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 65,
+      "extraversion": 90,
+      "agreeableness": 73,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

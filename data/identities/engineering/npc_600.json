@@ -1,0 +1,60 @@
+{
+  "id": "npc_600",
+  "bio": {
+    "full_name": "John Jones",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 63,
+    "blood_type": "B+",
+    "genetic_stability": 0.903,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 108,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 94,
+      "Containment_Logic": 38,
+      "Hacking": 45
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 59,
+      "extraversion": 7,
+      "agreeableness": 53,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_692",
+  "bio": {
+    "full_name": "Kenji Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.897,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 91,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 95,
+      "Hacking": 85,
+      "Occult_Research": 46
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 7,
+      "extraversion": 24,
+      "agreeableness": 35,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_543",
+  "bio": {
+    "full_name": "Olga Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.929,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 81,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 31,
+      "Containment_Logic": 90,
+      "Occult_Research": 57
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 25,
+      "extraversion": 58,
+      "agreeableness": 42,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

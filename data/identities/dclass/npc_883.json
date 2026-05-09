@@ -1,0 +1,60 @@
+{
+  "id": "npc_883",
+  "bio": {
+    "full_name": "Robert Wong",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "O-",
+    "genetic_stability": 0.872,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 59,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 86,
+      "Hacking": 85,
+      "Perception": 67
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 88,
+      "extraversion": 25,
+      "agreeableness": 53,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_137",
+  "bio": {
+    "full_name": "Anthony Sato",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "A+",
+    "genetic_stability": 0.905,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 89,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 12,
+      "Containment_Logic": 38,
+      "Medicine": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 62,
+      "extraversion": 70,
+      "agreeableness": 26,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

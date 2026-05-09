@@ -1,0 +1,60 @@
+{
+  "id": "npc_946",
+  "bio": {
+    "full_name": "Andrew Wong",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.932,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 62,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 51,
+      "Containment_Logic": 87,
+      "Stealth": 65
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 45,
+      "extraversion": 22,
+      "agreeableness": 73,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

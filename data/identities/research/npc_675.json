@@ -1,0 +1,60 @@
+{
+  "id": "npc_675",
+  "bio": {
+    "full_name": "Joshua O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.916,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 76,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 76,
+      "Athletics": 17,
+      "Hacking": 76
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 99,
+      "extraversion": 48,
+      "agreeableness": 25,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

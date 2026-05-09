@@ -1,0 +1,60 @@
+{
+  "id": "npc_118",
+  "bio": {
+    "full_name": "John Smith",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.916,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 77,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 57,
+      "Stealth": 70,
+      "Containment_Logic": 60
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 26,
+      "extraversion": 37,
+      "agreeableness": 75,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

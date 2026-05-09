@@ -1,0 +1,60 @@
+{
+  "id": "npc_200",
+  "bio": {
+    "full_name": "Steven Davis",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 26,
+    "blood_type": "AB+",
+    "genetic_stability": 0.867,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 105,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 30,
+      "Engineering": 43,
+      "Stealth": 25
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 10,
+      "extraversion": 67,
+      "agreeableness": 79,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

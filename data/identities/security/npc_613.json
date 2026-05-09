@@ -1,0 +1,60 @@
+{
+  "id": "npc_613",
+  "bio": {
+    "full_name": "James Gupta",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.884,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 83,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 37,
+      "Perception": 23,
+      "Firearms": 82
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 5,
+      "extraversion": 9,
+      "agreeableness": 79,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

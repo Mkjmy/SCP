@@ -1,0 +1,60 @@
+{
+  "id": "npc_065",
+  "bio": {
+    "full_name": "Joshua Bakker",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "O-",
+    "genetic_stability": 0.991,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 71,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 32,
+      "Medicine": 86,
+      "Perception": 29
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 52,
+      "extraversion": 89,
+      "agreeableness": 69,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

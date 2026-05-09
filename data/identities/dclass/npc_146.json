@@ -1,0 +1,60 @@
+{
+  "id": "npc_146",
+  "bio": {
+    "full_name": "Andrew Jones",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.981,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 68,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 23,
+      "Hacking": 29,
+      "Athletics": 19
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 87,
+      "extraversion": 65,
+      "agreeableness": 95,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

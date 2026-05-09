@@ -1,0 +1,60 @@
+{
+  "id": "npc_888",
+  "bio": {
+    "full_name": "Michael Davis",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.921,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 62,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 94,
+      "Persuasion": 69,
+      "Stealth": 64
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 84,
+      "extraversion": 95,
+      "agreeableness": 62,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

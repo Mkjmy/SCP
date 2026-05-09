@@ -1,0 +1,60 @@
+{
+  "id": "npc_777",
+  "bio": {
+    "full_name": "Yuki Wong",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.893,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 73,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 76,
+      "Firearms": 42,
+      "Stealth": 67
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 53,
+      "extraversion": 99,
+      "agreeableness": 94,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

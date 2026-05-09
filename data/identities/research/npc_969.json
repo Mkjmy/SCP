@@ -1,0 +1,60 @@
+{
+  "id": "npc_969",
+  "bio": {
+    "full_name": "Chen Dubois",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "A+",
+    "genetic_stability": 0.885,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 83,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 15,
+      "Athletics": 21,
+      "Engineering": 36
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 40,
+      "extraversion": 7,
+      "agreeableness": 71,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

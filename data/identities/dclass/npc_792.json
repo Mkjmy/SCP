@@ -1,0 +1,60 @@
+{
+  "id": "npc_792",
+  "bio": {
+    "full_name": "Fatima O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.909,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 78,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 65,
+      "Firearms": 31,
+      "Occult_Research": 94
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 96,
+      "extraversion": 82,
+      "agreeableness": 28,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

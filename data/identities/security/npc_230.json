@@ -1,0 +1,60 @@
+{
+  "id": "npc_230",
+  "bio": {
+    "full_name": "Arjun Miller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 64,
+    "blood_type": "AB+",
+    "genetic_stability": 0.863,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 96,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 39,
+      "Occult_Research": 36,
+      "Stealth": 14
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 8,
+      "extraversion": 41,
+      "agreeableness": 94,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

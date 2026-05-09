@@ -1,0 +1,60 @@
+{
+  "id": "npc_977",
+  "bio": {
+    "full_name": "Anthony Sato",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.9,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 107,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 14,
+      "Persuasion": 55,
+      "Firearms": 23
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 48,
+      "extraversion": 67,
+      "agreeableness": 94,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

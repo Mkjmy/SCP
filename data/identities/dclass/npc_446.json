@@ -1,0 +1,59 @@
+{
+  "id": "npc_446",
+  "bio": {
+    "full_name": "Robert Muller",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "A+",
+    "genetic_stability": 0.904,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 63,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 24,
+      "Engineering": 12,
+      "Hacking": 88
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 84,
+      "extraversion": 89,
+      "agreeableness": 41,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

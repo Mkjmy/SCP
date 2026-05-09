@@ -1,0 +1,60 @@
+{
+  "id": "npc_246",
+  "bio": {
+    "full_name": "Charles Kovacs",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "AB+",
+    "genetic_stability": 0.885,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 78,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 45,
+      "Occult_Research": 66,
+      "Hacking": 55
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 92,
+      "extraversion": 77,
+      "agreeableness": 26,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

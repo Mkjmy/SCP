@@ -1,0 +1,60 @@
+{
+  "id": "npc_154",
+  "bio": {
+    "full_name": "Richard Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "AB+",
+    "genetic_stability": 0.854,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 61,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 84,
+      "Perception": 64,
+      "Firearms": 38
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 68,
+      "extraversion": 100,
+      "agreeableness": 87,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

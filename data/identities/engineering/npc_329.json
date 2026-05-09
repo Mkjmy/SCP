@@ -1,0 +1,60 @@
+{
+  "id": "npc_329",
+  "bio": {
+    "full_name": "Thomas Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.995,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 53,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 59,
+      "Occult_Research": 49,
+      "Medicine": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 59,
+      "extraversion": 17,
+      "agreeableness": 28,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

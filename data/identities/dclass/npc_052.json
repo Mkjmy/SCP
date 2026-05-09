@@ -1,0 +1,60 @@
+{
+  "id": "npc_052",
+  "bio": {
+    "full_name": "Sven Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "O+",
+    "genetic_stability": 0.984,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 102,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 66,
+      "Athletics": 21,
+      "Persuasion": 80
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 22,
+      "extraversion": 14,
+      "agreeableness": 82,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

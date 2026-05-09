@@ -1,0 +1,60 @@
+{
+  "id": "npc_231",
+  "bio": {
+    "full_name": "John Gupta",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.896,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 67,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 45,
+      "Athletics": 43,
+      "Medicine": 12
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 97,
+      "extraversion": 93,
+      "agreeableness": 88,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

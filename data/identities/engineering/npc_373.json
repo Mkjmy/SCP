@@ -1,0 +1,60 @@
+{
+  "id": "npc_373",
+  "bio": {
+    "full_name": "Arjun Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.922,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 97,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 85,
+      "Engineering": 46,
+      "Persuasion": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 51,
+      "extraversion": 95,
+      "agreeableness": 60,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

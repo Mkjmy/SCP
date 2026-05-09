@@ -1,0 +1,60 @@
+{
+  "id": "npc_856",
+  "bio": {
+    "full_name": "Daniel Wong",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 59,
+    "blood_type": "B-",
+    "genetic_stability": 0.926,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 103,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 48,
+      "Athletics": 86,
+      "Stealth": 25
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 21,
+      "extraversion": 38,
+      "agreeableness": 67,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

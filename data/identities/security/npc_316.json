@@ -1,0 +1,60 @@
+{
+  "id": "npc_316",
+  "bio": {
+    "full_name": "Joseph Davis",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 53,
+    "blood_type": "AB-",
+    "genetic_stability": 0.933,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 89,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 72,
+      "Perception": 18,
+      "Occult_Research": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 4,
+      "extraversion": 70,
+      "agreeableness": 47,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_864",
+  "bio": {
+    "full_name": "John Williams",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.908,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 90,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 31,
+      "Occult_Research": 41,
+      "Stealth": 91
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 4,
+      "extraversion": 84,
+      "agreeableness": 40,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_981",
+  "bio": {
+    "full_name": "Paul Bakker",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.918,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 62,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 57,
+      "Containment_Logic": 10,
+      "Medicine": 44
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 0,
+      "extraversion": 96,
+      "agreeableness": 16,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

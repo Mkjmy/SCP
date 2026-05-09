@@ -1,0 +1,59 @@
+{
+  "id": "npc_985",
+  "bio": {
+    "full_name": "Charles Dubois",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.95,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 50,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 95,
+      "Engineering": 53,
+      "Occult_Research": 87
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 27,
+      "extraversion": 43,
+      "agreeableness": 75,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

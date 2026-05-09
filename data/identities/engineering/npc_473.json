@@ -1,0 +1,60 @@
+{
+  "id": "npc_473",
+  "bio": {
+    "full_name": "David Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.97,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 73,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 56,
+      "Hacking": 31,
+      "Containment_Logic": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 10,
+      "extraversion": 97,
+      "agreeableness": 25,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_414",
+  "bio": {
+    "full_name": "Thomas Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "AB-",
+    "genetic_stability": 0.867,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 105,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 39,
+      "Perception": 63,
+      "Medicine": 70
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 24,
+      "extraversion": 99,
+      "agreeableness": 47,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

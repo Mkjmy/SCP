@@ -1,0 +1,60 @@
+{
+  "id": "npc_652",
+  "bio": {
+    "full_name": "Arjun Wong",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.993,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 68,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 62,
+      "Firearms": 88,
+      "Containment_Logic": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 40,
+      "extraversion": 94,
+      "agreeableness": 10,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

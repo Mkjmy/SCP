@@ -1,0 +1,60 @@
+{
+  "id": "npc_473",
+  "bio": {
+    "full_name": "Christopher Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.864,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 76,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 68,
+      "Hacking": 43,
+      "Medicine": 63
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 79,
+      "extraversion": 62,
+      "agreeableness": 81,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

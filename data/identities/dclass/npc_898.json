@@ -1,0 +1,60 @@
+{
+  "id": "npc_898",
+  "bio": {
+    "full_name": "Lars Brown",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "A+",
+    "genetic_stability": 0.893,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 65,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 91,
+      "Persuasion": 81,
+      "Perception": 57
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 76,
+      "extraversion": 59,
+      "agreeableness": 11,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

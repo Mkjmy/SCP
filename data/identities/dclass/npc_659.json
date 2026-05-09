@@ -1,0 +1,59 @@
+{
+  "id": "npc_659",
+  "bio": {
+    "full_name": "Fatima Ivanov",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.938,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 68,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 36,
+      "Hacking": 11,
+      "Occult_Research": 32
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 63,
+      "extraversion": 49,
+      "agreeableness": 11,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

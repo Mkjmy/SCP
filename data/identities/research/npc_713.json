@@ -1,0 +1,60 @@
+{
+  "id": "npc_713",
+  "bio": {
+    "full_name": "Matthew Sato",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 46,
+    "blood_type": "A+",
+    "genetic_stability": 0.897,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 66,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 56,
+      "Hacking": 58,
+      "Athletics": 26
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 6,
+      "extraversion": 73,
+      "agreeableness": 0,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_496",
+  "bio": {
+    "full_name": "Steven Smith",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "A+",
+    "genetic_stability": 0.925,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 51,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 65,
+      "Athletics": 53,
+      "Hacking": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 28,
+      "extraversion": 88,
+      "agreeableness": 8,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

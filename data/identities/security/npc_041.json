@@ -1,0 +1,60 @@
+{
+  "id": "npc_041",
+  "bio": {
+    "full_name": "Michael O'Connor",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.897,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 92,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 44,
+      "Hacking": 27,
+      "Perception": 28
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 71,
+      "extraversion": 91,
+      "agreeableness": 22,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

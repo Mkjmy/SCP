@@ -1,0 +1,60 @@
+{
+  "id": "npc_713",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.928,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 95,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 46,
+      "Engineering": 62,
+      "Occult_Research": 51
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 43,
+      "extraversion": 73,
+      "agreeableness": 9,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

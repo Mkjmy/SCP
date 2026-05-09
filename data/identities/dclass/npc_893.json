@@ -1,0 +1,60 @@
+{
+  "id": "npc_893",
+  "bio": {
+    "full_name": "Donald Tanaka",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.924,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 68,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 85,
+      "Hacking": 91,
+      "Perception": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 76,
+      "extraversion": 96,
+      "agreeableness": 39,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_337",
+  "bio": {
+    "full_name": "Donald Dubois",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.915,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 63,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 47,
+      "Athletics": 90,
+      "Perception": 45
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 3,
+      "extraversion": 69,
+      "agreeableness": 88,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

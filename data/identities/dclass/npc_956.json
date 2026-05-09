@@ -1,0 +1,60 @@
+{
+  "id": "npc_956",
+  "bio": {
+    "full_name": "Daniel Ivanov",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "A-",
+    "genetic_stability": 0.946,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 99,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 49,
+      "Containment_Logic": 33,
+      "Hacking": 78
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 2,
+      "extraversion": 22,
+      "agreeableness": 87,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

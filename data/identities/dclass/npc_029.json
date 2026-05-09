@@ -1,0 +1,59 @@
+{
+  "id": "npc_029",
+  "bio": {
+    "full_name": "Thomas Dubois",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.958,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 99,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 46,
+      "Occult_Research": 62,
+      "Perception": 16
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 90,
+      "extraversion": 27,
+      "agreeableness": 72,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

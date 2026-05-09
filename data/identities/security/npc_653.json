@@ -1,0 +1,60 @@
+{
+  "id": "npc_653",
+  "bio": {
+    "full_name": "Mark Brown",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "A-",
+    "genetic_stability": 0.992,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 68,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 30,
+      "Stealth": 88,
+      "Occult_Research": 70
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 11,
+      "extraversion": 79,
+      "agreeableness": 40,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

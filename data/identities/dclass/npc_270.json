@@ -1,0 +1,60 @@
+{
+  "id": "npc_270",
+  "bio": {
+    "full_name": "Charles Williams",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "B+",
+    "genetic_stability": 0.885,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 67,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 19,
+      "Firearms": 26,
+      "Perception": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 98,
+      "extraversion": 40,
+      "agreeableness": 82,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

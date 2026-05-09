@@ -1,0 +1,60 @@
+{
+  "id": "npc_808",
+  "bio": {
+    "full_name": "Steven Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "AB+",
+    "genetic_stability": 0.944,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 88,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 41,
+      "Engineering": 31,
+      "Stealth": 82
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 66,
+      "extraversion": 64,
+      "agreeableness": 3,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

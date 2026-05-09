@@ -1,0 +1,60 @@
+{
+  "id": "npc_971",
+  "bio": {
+    "full_name": "Arjun Schmidt",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.999,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 107,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 90,
+      "Hacking": 56,
+      "Stealth": 28
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 99,
+      "extraversion": 63,
+      "agreeableness": 34,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

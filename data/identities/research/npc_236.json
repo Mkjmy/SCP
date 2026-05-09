@@ -1,0 +1,60 @@
+{
+  "id": "npc_236",
+  "bio": {
+    "full_name": "David O'Connor",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.935,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 87,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 21,
+      "Engineering": 85,
+      "Perception": 84
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 24,
+      "extraversion": 9,
+      "agreeableness": 92,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

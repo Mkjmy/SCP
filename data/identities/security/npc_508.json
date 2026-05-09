@@ -1,0 +1,59 @@
+{
+  "id": "npc_508",
+  "bio": {
+    "full_name": "Maria Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.949,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 51,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 10,
+      "Containment_Logic": 27,
+      "Occult_Research": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 97,
+      "extraversion": 90,
+      "agreeableness": 73,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

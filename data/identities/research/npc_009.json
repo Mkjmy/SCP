@@ -1,0 +1,59 @@
+{
+  "id": "npc_009",
+  "bio": {
+    "full_name": "Yuki Wong",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.937,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 54,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 33,
+      "Athletics": 26,
+      "Firearms": 37
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 1,
+      "extraversion": 69,
+      "agreeableness": 98,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

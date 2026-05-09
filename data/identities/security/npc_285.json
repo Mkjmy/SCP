@@ -1,0 +1,60 @@
+{
+  "id": "npc_285",
+  "bio": {
+    "full_name": "Paul Tanaka",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 57,
+    "blood_type": "O+",
+    "genetic_stability": 0.91,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 101,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 33,
+      "Persuasion": 70,
+      "Firearms": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 59,
+      "extraversion": 48,
+      "agreeableness": 99,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

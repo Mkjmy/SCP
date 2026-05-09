@@ -1,0 +1,60 @@
+{
+  "id": "npc_837",
+  "bio": {
+    "full_name": "Daniel O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.899,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 92,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 42,
+      "Engineering": 15,
+      "Perception": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 5,
+      "extraversion": 68,
+      "agreeableness": 78,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

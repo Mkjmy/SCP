@@ -1,0 +1,60 @@
+{
+  "id": "npc_875",
+  "bio": {
+    "full_name": "Andrew Garcia",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "O-",
+    "genetic_stability": 0.97,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 84,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 57,
+      "Containment_Logic": 76,
+      "Persuasion": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 99,
+      "extraversion": 11,
+      "agreeableness": 51,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

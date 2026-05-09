@@ -1,0 +1,60 @@
+{
+  "id": "npc_795",
+  "bio": {
+    "full_name": "Michael Dubois",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.889,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 36,
+      "Occult_Research": 37,
+      "Firearms": 77
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 76,
+      "extraversion": 60,
+      "agreeableness": 46,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

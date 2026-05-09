@@ -1,0 +1,59 @@
+{
+  "id": "npc_137",
+  "bio": {
+    "full_name": "Steven Jones",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "AB-",
+    "genetic_stability": 0.917,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 58,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 27,
+      "Containment_Logic": 59,
+      "Stealth": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 21,
+      "extraversion": 61,
+      "agreeableness": 23,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

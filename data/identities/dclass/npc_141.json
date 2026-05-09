@@ -1,0 +1,59 @@
+{
+  "id": "npc_141",
+  "bio": {
+    "full_name": "Sven Brown",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.979,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 106,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 27,
+      "Firearms": 24,
+      "Containment_Logic": 65
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 52,
+      "extraversion": 73,
+      "agreeableness": 18,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

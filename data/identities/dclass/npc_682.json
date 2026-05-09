@@ -1,0 +1,60 @@
+{
+  "id": "npc_682",
+  "bio": {
+    "full_name": "Robert Sato",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.903,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 62,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 83,
+      "Firearms": 87,
+      "Stealth": 46
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 32,
+      "extraversion": 26,
+      "agreeableness": 40,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

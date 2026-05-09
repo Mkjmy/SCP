@@ -1,0 +1,60 @@
+{
+  "id": "npc_791",
+  "bio": {
+    "full_name": "Maria Muller",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.886,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 98,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 75,
+      "Engineering": 85,
+      "Medicine": 78
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 99,
+      "extraversion": 79,
+      "agreeableness": 63,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

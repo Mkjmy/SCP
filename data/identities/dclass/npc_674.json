@@ -1,0 +1,60 @@
+{
+  "id": "npc_674",
+  "bio": {
+    "full_name": "Joseph Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "O+",
+    "genetic_stability": 0.996,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 65,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 41,
+      "Stealth": 65,
+      "Hacking": 16
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 49,
+      "extraversion": 82,
+      "agreeableness": 14,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

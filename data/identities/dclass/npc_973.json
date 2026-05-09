@@ -1,0 +1,59 @@
+{
+  "id": "npc_973",
+  "bio": {
+    "full_name": "Richard Johnson",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "A-",
+    "genetic_stability": 0.939,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 95,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 32,
+      "Hacking": 46,
+      "Perception": 88
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 3,
+      "extraversion": 69,
+      "agreeableness": 33,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

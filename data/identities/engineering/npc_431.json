@@ -1,0 +1,60 @@
+{
+  "id": "npc_431",
+  "bio": {
+    "full_name": "William Miller",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "B-",
+    "genetic_stability": 0.916,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 68,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 85,
+      "Occult_Research": 17,
+      "Athletics": 92
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 5,
+      "extraversion": 55,
+      "agreeableness": 69,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

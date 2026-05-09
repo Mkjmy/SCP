@@ -1,0 +1,60 @@
+{
+  "id": "npc_510",
+  "bio": {
+    "full_name": "Steven Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "AB-",
+    "genetic_stability": 0.995,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 98,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 92,
+      "Engineering": 55,
+      "Persuasion": 21
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 23,
+      "extraversion": 72,
+      "agreeableness": 89,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

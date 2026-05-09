@@ -1,0 +1,59 @@
+{
+  "id": "npc_951",
+  "bio": {
+    "full_name": "Mark Gupta",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.984,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 90,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 11,
+      "Medicine": 47,
+      "Occult_Research": 71
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 63,
+      "extraversion": 88,
+      "agreeableness": 18,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

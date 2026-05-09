@@ -1,0 +1,60 @@
+{
+  "id": "npc_331",
+  "bio": {
+    "full_name": "Donald Tanaka",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "B-",
+    "genetic_stability": 0.959,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 60,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 40,
+      "Hacking": 68,
+      "Stealth": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 99,
+      "extraversion": 5,
+      "agreeableness": 2,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

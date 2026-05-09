@@ -1,0 +1,59 @@
+{
+  "id": "npc_725",
+  "bio": {
+    "full_name": "Charles Kovacs",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "B-",
+    "genetic_stability": 0.898,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 15,
+      "Persuasion": 95,
+      "Engineering": 25
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 54,
+      "extraversion": 65,
+      "agreeableness": 48,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

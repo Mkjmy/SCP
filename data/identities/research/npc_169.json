@@ -1,0 +1,60 @@
+{
+  "id": "npc_169",
+  "bio": {
+    "full_name": "Arjun Miller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "B+",
+    "genetic_stability": 0.948,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 108,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 66,
+      "Occult_Research": 24,
+      "Containment_Logic": 47
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 46,
+      "extraversion": 17,
+      "agreeableness": 74,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

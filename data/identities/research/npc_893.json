@@ -1,0 +1,60 @@
+{
+  "id": "npc_893",
+  "bio": {
+    "full_name": "Yuki Miller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "B+",
+    "genetic_stability": 0.993,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 71,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 46,
+      "Persuasion": 53,
+      "Containment_Logic": 27
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 99,
+      "extraversion": 32,
+      "agreeableness": 36,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

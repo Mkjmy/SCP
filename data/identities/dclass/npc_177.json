@@ -1,0 +1,60 @@
+{
+  "id": "npc_177",
+  "bio": {
+    "full_name": "Paul Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 21,
+    "blood_type": "A+",
+    "genetic_stability": 0.956,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 72,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 15,
+      "Persuasion": 77,
+      "Hacking": 53
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 36,
+      "extraversion": 93,
+      "agreeableness": 91,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_486",
+  "bio": {
+    "full_name": "Christopher Wong",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.912,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 97,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 46,
+      "Persuasion": 43,
+      "Occult_Research": 44
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 9,
+      "extraversion": 84,
+      "agreeableness": 63,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_983",
+  "bio": {
+    "full_name": "Maria Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.856,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 54,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 72,
+      "Persuasion": 57,
+      "Stealth": 54
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 58,
+      "extraversion": 59,
+      "agreeableness": 45,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

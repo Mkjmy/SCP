@@ -1,0 +1,60 @@
+{
+  "id": "npc_816",
+  "bio": {
+    "full_name": "Charles Jones",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "AB-",
+    "genetic_stability": 0.96,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 85,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 81,
+      "Medicine": 69,
+      "Hacking": 30
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 42,
+      "extraversion": 48,
+      "agreeableness": 8,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

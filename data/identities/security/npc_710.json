@@ -1,0 +1,60 @@
+{
+  "id": "npc_710",
+  "bio": {
+    "full_name": "Fatima Schmidt",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.942,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 75,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 61,
+      "Medicine": 59,
+      "Athletics": 88
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 13,
+      "extraversion": 3,
+      "agreeableness": 13,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

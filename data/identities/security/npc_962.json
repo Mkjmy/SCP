@@ -1,0 +1,60 @@
+{
+  "id": "npc_962",
+  "bio": {
+    "full_name": "James Miller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.962,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 95,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 93,
+      "Athletics": 86,
+      "Occult_Research": 14
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 1,
+      "extraversion": 52,
+      "agreeableness": 50,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

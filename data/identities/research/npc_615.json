@@ -1,0 +1,60 @@
+{
+  "id": "npc_615",
+  "bio": {
+    "full_name": "Chen Tanaka",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.864,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 54,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 92,
+      "Engineering": 76,
+      "Occult_Research": 92
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 1,
+      "extraversion": 47,
+      "agreeableness": 76,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

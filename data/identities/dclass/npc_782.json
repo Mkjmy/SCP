@@ -1,0 +1,60 @@
+{
+  "id": "npc_782",
+  "bio": {
+    "full_name": "Michael O'Connor",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.904,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 59,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 67,
+      "Hacking": 70,
+      "Containment_Logic": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 23,
+      "extraversion": 27,
+      "agreeableness": 69,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

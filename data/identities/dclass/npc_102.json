@@ -1,0 +1,59 @@
+{
+  "id": "npc_102",
+  "bio": {
+    "full_name": "Paul Tanaka",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "B+",
+    "genetic_stability": 0.961,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 60,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 55,
+      "Athletics": 61,
+      "Hacking": 87
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 66,
+      "extraversion": 4,
+      "agreeableness": 52,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

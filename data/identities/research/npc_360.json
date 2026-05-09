@@ -1,0 +1,60 @@
+{
+  "id": "npc_360",
+  "bio": {
+    "full_name": "Kenji Gupta",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.977,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 79,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 69,
+      "Medicine": 28,
+      "Stealth": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 65,
+      "extraversion": 87,
+      "agreeableness": 32,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

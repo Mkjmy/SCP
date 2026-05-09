@@ -1,0 +1,60 @@
+{
+  "id": "npc_292",
+  "bio": {
+    "full_name": "Elena Schmidt",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.966,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 53,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 45,
+      "Persuasion": 84,
+      "Stealth": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 63,
+      "extraversion": 49,
+      "agreeableness": 96,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

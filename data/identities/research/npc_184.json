@@ -1,0 +1,60 @@
+{
+  "id": "npc_184",
+  "bio": {
+    "full_name": "Kenji Davis",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "O+",
+    "genetic_stability": 0.876,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 85,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 27,
+      "Firearms": 14,
+      "Persuasion": 30
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 100,
+      "extraversion": 86,
+      "agreeableness": 46,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

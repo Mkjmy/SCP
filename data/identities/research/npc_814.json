@@ -1,0 +1,59 @@
+{
+  "id": "npc_814",
+  "bio": {
+    "full_name": "Daniel Garcia",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.859,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 101,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 39,
+      "Occult_Research": 23,
+      "Athletics": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 47,
+      "extraversion": 68,
+      "agreeableness": 78,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

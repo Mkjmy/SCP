@@ -1,0 +1,60 @@
+{
+  "id": "npc_039",
+  "bio": {
+    "full_name": "Anthony Jones",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 65,
+    "blood_type": "A-",
+    "genetic_stability": 0.919,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 109,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 13,
+      "Hacking": 62,
+      "Perception": 87
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 9,
+      "extraversion": 78,
+      "agreeableness": 91,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

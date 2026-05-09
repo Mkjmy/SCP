@@ -1,0 +1,60 @@
+{
+  "id": "npc_988",
+  "bio": {
+    "full_name": "Maria Dubois",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 64,
+    "blood_type": "B+",
+    "genetic_stability": 0.875,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 65,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 51,
+      "Engineering": 87,
+      "Persuasion": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 93,
+      "extraversion": 74,
+      "agreeableness": 22,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

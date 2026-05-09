@@ -1,0 +1,60 @@
+{
+  "id": "npc_519",
+  "bio": {
+    "full_name": "Steven Williams",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 41,
+    "blood_type": "B-",
+    "genetic_stability": 0.88,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 77,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 31,
+      "Stealth": 54,
+      "Hacking": 15
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 12,
+      "extraversion": 77,
+      "agreeableness": 35,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

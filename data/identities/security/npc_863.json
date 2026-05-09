@@ -1,0 +1,60 @@
+{
+  "id": "npc_863",
+  "bio": {
+    "full_name": "Robert Jones",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 52,
+    "blood_type": "B-",
+    "genetic_stability": 1.0,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 47,
+      "Firearms": 45,
+      "Engineering": 10
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 118,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 16,
+      "extraversion": 85,
+      "agreeableness": 75,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

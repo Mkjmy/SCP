@@ -1,0 +1,60 @@
+{
+  "id": "npc_459",
+  "bio": {
+    "full_name": "Christopher Williams",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "O-",
+    "genetic_stability": 0.894,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 102,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 67,
+      "Engineering": 77,
+      "Hacking": 52
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 76,
+      "extraversion": 38,
+      "agreeableness": 55,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_135",
+  "bio": {
+    "full_name": "Lars Gupta",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "O+",
+    "genetic_stability": 0.924,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 106,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 61,
+      "Persuasion": 76,
+      "Hacking": 65
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 15,
+      "extraversion": 90,
+      "agreeableness": 52,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_170",
+  "bio": {
+    "full_name": "Thomas Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.931,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 106,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 34,
+      "Perception": 85,
+      "Engineering": 17
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 15,
+      "extraversion": 14,
+      "agreeableness": 38,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

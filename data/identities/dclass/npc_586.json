@@ -1,0 +1,60 @@
+{
+  "id": "npc_586",
+  "bio": {
+    "full_name": "Mark Bakker",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.991,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 53,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 16,
+      "Perception": 19,
+      "Hacking": 47
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 27,
+      "extraversion": 1,
+      "agreeableness": 32,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

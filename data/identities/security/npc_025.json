@@ -1,0 +1,60 @@
+{
+  "id": "npc_025",
+  "bio": {
+    "full_name": "Christopher Tanaka",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "O-",
+    "genetic_stability": 0.906,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 106,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 66,
+      "Containment_Logic": 42,
+      "Athletics": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 70,
+      "extraversion": 87,
+      "agreeableness": 55,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

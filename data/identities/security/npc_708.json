@@ -1,0 +1,60 @@
+{
+  "id": "npc_708",
+  "bio": {
+    "full_name": "Christopher Vasiliev",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 59,
+    "blood_type": "O-",
+    "genetic_stability": 0.985,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 93,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 55,
+      "Persuasion": 11,
+      "Engineering": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 0,
+      "extraversion": 56,
+      "agreeableness": 42,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

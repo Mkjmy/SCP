@@ -1,0 +1,60 @@
+{
+  "id": "npc_315",
+  "bio": {
+    "full_name": "Christopher Jones",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "O+",
+    "genetic_stability": 0.937,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 65,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 46,
+      "Occult_Research": 53,
+      "Persuasion": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 75,
+      "extraversion": 87,
+      "agreeableness": 64,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_770",
+  "bio": {
+    "full_name": "Matthew Williams",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "AB-",
+    "genetic_stability": 0.964,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 64,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 88,
+      "Persuasion": 29,
+      "Containment_Logic": 91
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 100,
+      "extraversion": 82,
+      "agreeableness": 55,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

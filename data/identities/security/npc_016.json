@@ -1,0 +1,60 @@
+{
+  "id": "npc_016",
+  "bio": {
+    "full_name": "Matthew Ivanov",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.94,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 102,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 50,
+      "Engineering": 29,
+      "Stealth": 59
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 94,
+      "extraversion": 89,
+      "agreeableness": 97,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

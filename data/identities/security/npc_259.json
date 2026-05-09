@@ -1,0 +1,60 @@
+{
+  "id": "npc_259",
+  "bio": {
+    "full_name": "Fatima Johnson",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "O-",
+    "genetic_stability": 0.953,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 93,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 69,
+      "Hacking": 27,
+      "Occult_Research": 38
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 17,
+      "extraversion": 32,
+      "agreeableness": 96,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

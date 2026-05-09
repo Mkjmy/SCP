@@ -1,0 +1,60 @@
+{
+  "id": "npc_038",
+  "bio": {
+    "full_name": "John Smith",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.976,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 94,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 85,
+      "Medicine": 53,
+      "Firearms": 86
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 38,
+      "extraversion": 67,
+      "agreeableness": 0,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

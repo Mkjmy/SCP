@@ -1,0 +1,59 @@
+{
+  "id": "npc_126",
+  "bio": {
+    "full_name": "Joseph Williams",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.952,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 65,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 15,
+      "Persuasion": 58,
+      "Firearms": 53
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 92,
+      "extraversion": 74,
+      "agreeableness": 77,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

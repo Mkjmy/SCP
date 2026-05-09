@@ -1,0 +1,60 @@
+{
+  "id": "npc_498",
+  "bio": {
+    "full_name": "Elena Brown",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.928,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 58,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 73,
+      "Firearms": 32,
+      "Hacking": 75
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 67,
+      "extraversion": 91,
+      "agreeableness": 59,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_261",
+  "bio": {
+    "full_name": "Donald Schmidt",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "B+",
+    "genetic_stability": 0.947,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 85,
+      "Medicine": 19,
+      "Occult_Research": 15
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 10,
+      "extraversion": 80,
+      "agreeableness": 61,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

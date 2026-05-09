@@ -1,0 +1,60 @@
+{
+  "id": "npc_263",
+  "bio": {
+    "full_name": "Michael Sato",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "B+",
+    "genetic_stability": 0.893,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 61,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 73,
+      "Containment_Logic": 88,
+      "Stealth": 34
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 75,
+      "extraversion": 56,
+      "agreeableness": 56,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

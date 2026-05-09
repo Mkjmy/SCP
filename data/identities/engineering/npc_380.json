@@ -1,0 +1,60 @@
+{
+  "id": "npc_380",
+  "bio": {
+    "full_name": "James Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.906,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 81,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 10,
+      "Perception": 23,
+      "Hacking": 32
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 10,
+      "extraversion": 93,
+      "agreeableness": 22,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

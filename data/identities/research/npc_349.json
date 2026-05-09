@@ -1,0 +1,60 @@
+{
+  "id": "npc_349",
+  "bio": {
+    "full_name": "Olga Williams",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.978,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 87,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 48,
+      "Hacking": 78,
+      "Persuasion": 15
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 74,
+      "extraversion": 54,
+      "agreeableness": 64,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

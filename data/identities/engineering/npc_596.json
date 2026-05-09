@@ -1,0 +1,60 @@
+{
+  "id": "npc_596",
+  "bio": {
+    "full_name": "Maria Bakker",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.915,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 67,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 68,
+      "Containment_Logic": 87,
+      "Athletics": 58
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 54,
+      "extraversion": 48,
+      "agreeableness": 34,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

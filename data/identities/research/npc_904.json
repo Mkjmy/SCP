@@ -1,0 +1,60 @@
+{
+  "id": "npc_904",
+  "bio": {
+    "full_name": "Maria Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.875,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 87,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 32,
+      "Perception": 57,
+      "Engineering": 25
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 10,
+      "extraversion": 57,
+      "agreeableness": 89,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

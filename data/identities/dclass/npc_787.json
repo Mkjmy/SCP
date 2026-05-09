@@ -1,0 +1,59 @@
+{
+  "id": "npc_787",
+  "bio": {
+    "full_name": "Daniel Smith",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "O+",
+    "genetic_stability": 0.992,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 72,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 11,
+      "Medicine": 52,
+      "Persuasion": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 64,
+      "extraversion": 90,
+      "agreeableness": 21,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

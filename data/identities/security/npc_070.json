@@ -1,0 +1,59 @@
+{
+  "id": "npc_070",
+  "bio": {
+    "full_name": "Chen Ivanov",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 57,
+    "blood_type": "O-",
+    "genetic_stability": 0.93,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 110,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 26,
+      "Containment_Logic": 73,
+      "Occult_Research": 32
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 32,
+      "extraversion": 46,
+      "agreeableness": 48,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

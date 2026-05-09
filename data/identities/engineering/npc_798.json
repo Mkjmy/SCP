@@ -1,0 +1,60 @@
+{
+  "id": "npc_798",
+  "bio": {
+    "full_name": "Daniel Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 49,
+    "blood_type": "A-",
+    "genetic_stability": 0.954,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 74,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 83,
+      "Stealth": 55,
+      "Hacking": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 39,
+      "extraversion": 30,
+      "agreeableness": 3,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

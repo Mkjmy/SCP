@@ -1,0 +1,60 @@
+{
+  "id": "npc_758",
+  "bio": {
+    "full_name": "Robert Wong",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "O-",
+    "genetic_stability": 0.891,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 104,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 38,
+      "Engineering": 25,
+      "Perception": 34
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 30,
+      "extraversion": 80,
+      "agreeableness": 80,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

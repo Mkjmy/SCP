@@ -1,0 +1,60 @@
+{
+  "id": "npc_038",
+  "bio": {
+    "full_name": "Robert Garcia",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "O+",
+    "genetic_stability": 0.966,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 67,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 84,
+      "Perception": 12,
+      "Medicine": 73
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 26,
+      "extraversion": 80,
+      "agreeableness": 65,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

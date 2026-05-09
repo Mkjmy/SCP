@@ -1,0 +1,60 @@
+{
+  "id": "npc_106",
+  "bio": {
+    "full_name": "Maria Bakker",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "B+",
+    "genetic_stability": 0.878,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 99,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 31,
+      "Hacking": 59,
+      "Engineering": 77
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 46,
+      "extraversion": 26,
+      "agreeableness": 48,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

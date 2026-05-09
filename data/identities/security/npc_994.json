@@ -1,0 +1,60 @@
+{
+  "id": "npc_994",
+  "bio": {
+    "full_name": "Robert Johnson",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.992,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 57,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 82,
+      "Firearms": 55,
+      "Medicine": 54
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 50,
+      "extraversion": 21,
+      "agreeableness": 90,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

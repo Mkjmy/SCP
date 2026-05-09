@@ -1,0 +1,60 @@
+{
+  "id": "npc_025",
+  "bio": {
+    "full_name": "Steven Brown",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "O+",
+    "genetic_stability": 0.871,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 85,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 83,
+      "Persuasion": 26,
+      "Medicine": 13
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 50,
+      "extraversion": 33,
+      "agreeableness": 51,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

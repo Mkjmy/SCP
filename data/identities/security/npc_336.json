@@ -1,0 +1,60 @@
+{
+  "id": "npc_336",
+  "bio": {
+    "full_name": "Chen Ivanov",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "A-",
+    "genetic_stability": 0.885,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 50,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 61,
+      "Persuasion": 50,
+      "Stealth": 89
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 95,
+      "extraversion": 6,
+      "agreeableness": 83,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

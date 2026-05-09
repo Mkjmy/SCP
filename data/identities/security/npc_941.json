@@ -1,0 +1,60 @@
+{
+  "id": "npc_941",
+  "bio": {
+    "full_name": "Thomas Garcia",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "B+",
+    "genetic_stability": 0.982,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 70,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 27,
+      "Hacking": 15,
+      "Firearms": 14
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 45,
+      "extraversion": 47,
+      "agreeableness": 66,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

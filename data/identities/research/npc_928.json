@@ -1,0 +1,60 @@
+{
+  "id": "npc_928",
+  "bio": {
+    "full_name": "Michael Wong",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "O+",
+    "genetic_stability": 0.891,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 51,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 61,
+      "Occult_Research": 95,
+      "Hacking": 61
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 90,
+      "extraversion": 69,
+      "agreeableness": 47,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

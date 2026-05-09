@@ -1,0 +1,60 @@
+{
+  "id": "npc_036",
+  "bio": {
+    "full_name": "John Kovacs",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.976,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 93,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 85,
+      "Containment_Logic": 91,
+      "Stealth": 47
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 48,
+      "extraversion": 67,
+      "agreeableness": 88,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

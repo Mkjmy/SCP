@@ -1,0 +1,59 @@
+{
+  "id": "npc_741",
+  "bio": {
+    "full_name": "Matthew Wong",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.995,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 60,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 27,
+      "Persuasion": 18,
+      "Containment_Logic": 78
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 16,
+      "extraversion": 82,
+      "agreeableness": 15,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_706",
+  "bio": {
+    "full_name": "Sven Schmidt",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.891,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 108,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 19,
+      "Persuasion": 85,
+      "Engineering": 20
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 67,
+      "extraversion": 79,
+      "agreeableness": 88,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

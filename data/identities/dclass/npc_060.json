@@ -1,0 +1,60 @@
+{
+  "id": "npc_060",
+  "bio": {
+    "full_name": "Anthony Ivanov",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 34,
+    "blood_type": "O-",
+    "genetic_stability": 0.896,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 88,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 20,
+      "Engineering": 44,
+      "Hacking": 32
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 39,
+      "extraversion": 33,
+      "agreeableness": 95,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

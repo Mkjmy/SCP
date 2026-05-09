@@ -1,0 +1,60 @@
+{
+  "id": "npc_148",
+  "bio": {
+    "full_name": "Michael Brown",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "AB+",
+    "genetic_stability": 0.962,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 99,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 87,
+      "Persuasion": 40,
+      "Medicine": 20
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 36,
+      "extraversion": 17,
+      "agreeableness": 2,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

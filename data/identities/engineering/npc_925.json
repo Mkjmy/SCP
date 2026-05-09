@@ -1,0 +1,60 @@
+{
+  "id": "npc_925",
+  "bio": {
+    "full_name": "Paul Garcia",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "A-",
+    "genetic_stability": 0.964,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 68,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 72,
+      "Occult_Research": 38,
+      "Persuasion": 53
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 72,
+      "extraversion": 40,
+      "agreeableness": 1,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

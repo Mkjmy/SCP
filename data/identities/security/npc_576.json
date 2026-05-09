@@ -1,0 +1,60 @@
+{
+  "id": "npc_576",
+  "bio": {
+    "full_name": "John Williams",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.885,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 107,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 86,
+      "Occult_Research": 13,
+      "Perception": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 65,
+      "extraversion": 67,
+      "agreeableness": 24,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

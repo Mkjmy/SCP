@@ -1,0 +1,60 @@
+{
+  "id": "npc_484",
+  "bio": {
+    "full_name": "Donald Jones",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.883,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 98,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 62,
+      "Stealth": 72,
+      "Firearms": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 43,
+      "extraversion": 15,
+      "agreeableness": 46,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

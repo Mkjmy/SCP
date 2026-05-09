@@ -1,0 +1,60 @@
+{
+  "id": "npc_374",
+  "bio": {
+    "full_name": "Matthew Smith",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.993,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 52,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 90,
+      "Hacking": 70,
+      "Firearms": 21
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 12,
+      "extraversion": 10,
+      "agreeableness": 56,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

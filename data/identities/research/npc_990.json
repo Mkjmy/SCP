@@ -1,0 +1,59 @@
+{
+  "id": "npc_990",
+  "bio": {
+    "full_name": "Steven Bakker",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "A+",
+    "genetic_stability": 0.893,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 98,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 95,
+      "Firearms": 35,
+      "Athletics": 87
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 73,
+      "extraversion": 33,
+      "agreeableness": 9,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

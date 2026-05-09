@@ -1,0 +1,60 @@
+{
+  "id": "npc_919",
+  "bio": {
+    "full_name": "Matthew Gupta",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 63,
+    "blood_type": "B+",
+    "genetic_stability": 0.98,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 68,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 12,
+      "Stealth": 41,
+      "Athletics": 61
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 67,
+      "extraversion": 70,
+      "agreeableness": 99,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

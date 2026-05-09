@@ -1,0 +1,59 @@
+{
+  "id": "npc_036",
+  "bio": {
+    "full_name": "Charles Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "AB+",
+    "genetic_stability": 0.875,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 93,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 21,
+      "Athletics": 94,
+      "Perception": 17
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 6,
+      "extraversion": 35,
+      "agreeableness": 10,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

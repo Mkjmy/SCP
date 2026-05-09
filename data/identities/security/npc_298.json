@@ -1,0 +1,59 @@
+{
+  "id": "npc_298",
+  "bio": {
+    "full_name": "Maria Gupta",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "A-",
+    "genetic_stability": 0.872,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 90,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 78,
+      "Hacking": 29,
+      "Stealth": 87
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 4,
+      "extraversion": 48,
+      "agreeableness": 95,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

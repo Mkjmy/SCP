@@ -1,0 +1,59 @@
+{
+  "id": "npc_366",
+  "bio": {
+    "full_name": "Andrew Smith",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "AB-",
+    "genetic_stability": 0.856,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 109,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 93,
+      "Hacking": 60,
+      "Athletics": 87
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 93,
+      "extraversion": 35,
+      "agreeableness": 38,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

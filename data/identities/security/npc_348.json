@@ -1,0 +1,60 @@
+{
+  "id": "npc_348",
+  "bio": {
+    "full_name": "Matthew Johnson",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "B-",
+    "genetic_stability": 0.946,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 97,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 77,
+      "Persuasion": 44,
+      "Occult_Research": 95
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 7,
+      "extraversion": 46,
+      "agreeableness": 26,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

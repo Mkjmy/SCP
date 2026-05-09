@@ -1,0 +1,60 @@
+{
+  "id": "npc_243",
+  "bio": {
+    "full_name": "Michael Dubois",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.952,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 52,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 70,
+      "Medicine": 92,
+      "Perception": 94
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 76,
+      "extraversion": 7,
+      "agreeableness": 9,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

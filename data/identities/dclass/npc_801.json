@@ -1,0 +1,59 @@
+{
+  "id": "npc_801",
+  "bio": {
+    "full_name": "Chen Williams",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.873,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 73,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 85,
+      "Containment_Logic": 11,
+      "Stealth": 28
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 72,
+      "extraversion": 37,
+      "agreeableness": 15,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

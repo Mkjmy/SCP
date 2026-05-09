@@ -1,0 +1,60 @@
+{
+  "id": "npc_606",
+  "bio": {
+    "full_name": "Mark Williams",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "AB-",
+    "genetic_stability": 0.936,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 100,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 34,
+      "Athletics": 53,
+      "Hacking": 11
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 54,
+      "extraversion": 37,
+      "agreeableness": 39,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

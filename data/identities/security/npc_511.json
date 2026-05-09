@@ -1,0 +1,60 @@
+{
+  "id": "npc_511",
+  "bio": {
+    "full_name": "Olga Jones",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.874,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 76,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 42,
+      "Medicine": 36,
+      "Stealth": 30
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 84,
+      "extraversion": 44,
+      "agreeableness": 96,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

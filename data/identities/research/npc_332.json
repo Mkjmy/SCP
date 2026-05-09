@@ -1,0 +1,60 @@
+{
+  "id": "npc_332",
+  "bio": {
+    "full_name": "Thomas Miller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 52,
+    "blood_type": "B-",
+    "genetic_stability": 0.884,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 66,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 68,
+      "Containment_Logic": 81,
+      "Hacking": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 17,
+      "extraversion": 81,
+      "agreeableness": 53,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

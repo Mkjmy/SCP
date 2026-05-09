@@ -1,0 +1,60 @@
+{
+  "id": "npc_868",
+  "bio": {
+    "full_name": "Sven Kovacs",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.908,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 58,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 35,
+      "Medicine": 71,
+      "Firearms": 43
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 85,
+      "extraversion": 75,
+      "agreeableness": 74,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_493",
+  "bio": {
+    "full_name": "Olga Muller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "A-",
+    "genetic_stability": 0.856,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 75,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 43,
+      "Occult_Research": 88,
+      "Medicine": 85
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 60,
+      "extraversion": 33,
+      "agreeableness": 80,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

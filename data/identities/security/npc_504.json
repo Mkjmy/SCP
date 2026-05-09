@@ -1,0 +1,60 @@
+{
+  "id": "npc_504",
+  "bio": {
+    "full_name": "Yuki Davis",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "O-",
+    "genetic_stability": 0.87,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 82,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 67,
+      "Persuasion": 42,
+      "Containment_Logic": 41
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 46,
+      "extraversion": 35,
+      "agreeableness": 30,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

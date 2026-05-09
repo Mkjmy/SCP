@@ -1,0 +1,60 @@
+{
+  "id": "npc_717",
+  "bio": {
+    "full_name": "William Vasiliev",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "O+",
+    "genetic_stability": 0.855,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 92,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 77,
+      "Medicine": 46,
+      "Athletics": 31
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 92,
+      "extraversion": 58,
+      "agreeableness": 86,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

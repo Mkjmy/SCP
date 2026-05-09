@@ -1,0 +1,60 @@
+{
+  "id": "npc_899",
+  "bio": {
+    "full_name": "John Wong",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.967,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 104,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 92,
+      "Persuasion": 81,
+      "Hacking": 85
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 50,
+      "extraversion": 90,
+      "agreeableness": 45,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

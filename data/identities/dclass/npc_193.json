@@ -1,0 +1,59 @@
+{
+  "id": "npc_193",
+  "bio": {
+    "full_name": "David Brown",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 21,
+    "blood_type": "O+",
+    "genetic_stability": 0.957,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 59,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 17,
+      "Persuasion": 81,
+      "Athletics": 42
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 97,
+      "extraversion": 67,
+      "agreeableness": 87,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

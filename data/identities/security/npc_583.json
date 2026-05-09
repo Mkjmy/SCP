@@ -1,0 +1,60 @@
+{
+  "id": "npc_583",
+  "bio": {
+    "full_name": "Arjun Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.872,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 69,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 32,
+      "Stealth": 71,
+      "Occult_Research": 26
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 95,
+      "extraversion": 67,
+      "agreeableness": 37,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_305",
+  "bio": {
+    "full_name": "Thomas Vasiliev",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.992,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 68,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 57,
+      "Firearms": 58,
+      "Athletics": 26
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 25,
+      "extraversion": 81,
+      "agreeableness": 42,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_878",
+  "bio": {
+    "full_name": "James Sato",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.862,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 94,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 26,
+      "Firearms": 33,
+      "Engineering": 56
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 59,
+      "extraversion": 75,
+      "agreeableness": 84,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

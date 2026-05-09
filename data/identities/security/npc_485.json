@@ -1,0 +1,60 @@
+{
+  "id": "npc_485",
+  "bio": {
+    "full_name": "William Smith",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.865,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 105,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 24,
+      "Occult_Research": 35,
+      "Hacking": 43
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 71,
+      "extraversion": 17,
+      "agreeableness": 90,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

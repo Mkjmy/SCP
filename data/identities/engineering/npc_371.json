@@ -1,0 +1,59 @@
+{
+  "id": "npc_371",
+  "bio": {
+    "full_name": "Christopher O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "O-",
+    "genetic_stability": 0.908,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 86,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 11,
+      "Perception": 61,
+      "Stealth": 58
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 97,
+      "extraversion": 52,
+      "agreeableness": 38,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

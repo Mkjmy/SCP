@@ -1,0 +1,60 @@
+{
+  "id": "npc_669",
+  "bio": {
+    "full_name": "Joshua Miller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.874,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 91,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 89,
+      "Perception": 88,
+      "Hacking": 48
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 16,
+      "extraversion": 64,
+      "agreeableness": 96,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_307",
+  "bio": {
+    "full_name": "Fatima Sato",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "AB+",
+    "genetic_stability": 0.984,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 87,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 78,
+      "Perception": 30,
+      "Medicine": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 3,
+      "extraversion": 57,
+      "agreeableness": 97,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

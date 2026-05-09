@@ -1,0 +1,59 @@
+{
+  "id": "npc_374",
+  "bio": {
+    "full_name": "Paul Ivanov",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.945,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 103,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 79,
+      "Containment_Logic": 71,
+      "Athletics": 74
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 46,
+      "extraversion": 35,
+      "agreeableness": 85,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_019",
+  "bio": {
+    "full_name": "John Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.852,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 98,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 54,
+      "Occult_Research": 68,
+      "Perception": 82
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 100,
+      "extraversion": 95,
+      "agreeableness": 100,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

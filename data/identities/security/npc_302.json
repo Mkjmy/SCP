@@ -1,0 +1,60 @@
+{
+  "id": "npc_302",
+  "bio": {
+    "full_name": "Fatima Bakker",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "O+",
+    "genetic_stability": 0.932,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 88,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 68,
+      "Occult_Research": 60,
+      "Perception": 33
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 59,
+      "extraversion": 45,
+      "agreeableness": 1,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

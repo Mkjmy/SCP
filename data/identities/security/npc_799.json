@@ -1,0 +1,59 @@
+{
+  "id": "npc_799",
+  "bio": {
+    "full_name": "William O'Connor",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.972,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 30,
+      "Firearms": 16,
+      "Engineering": 89
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 52,
+      "extraversion": 67,
+      "agreeableness": 34,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

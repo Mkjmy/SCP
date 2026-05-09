@@ -1,0 +1,60 @@
+{
+  "id": "npc_422",
+  "bio": {
+    "full_name": "John Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.949,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 53,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 38,
+      "Firearms": 18,
+      "Persuasion": 51
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 0,
+      "extraversion": 52,
+      "agreeableness": 61,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

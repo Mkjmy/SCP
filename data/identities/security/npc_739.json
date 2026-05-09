@@ -1,0 +1,60 @@
+{
+  "id": "npc_739",
+  "bio": {
+    "full_name": "Mark Gupta",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "AB+",
+    "genetic_stability": 0.967,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 85,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 30,
+      "Hacking": 40,
+      "Firearms": 14
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 57,
+      "extraversion": 28,
+      "agreeableness": 79,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

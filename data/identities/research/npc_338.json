@@ -1,0 +1,60 @@
+{
+  "id": "npc_338",
+  "bio": {
+    "full_name": "Fatima Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.959,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 73,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 81,
+      "Hacking": 93,
+      "Firearms": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 98,
+      "extraversion": 12,
+      "agreeableness": 3,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

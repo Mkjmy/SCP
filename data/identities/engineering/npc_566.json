@@ -1,0 +1,60 @@
+{
+  "id": "npc_566",
+  "bio": {
+    "full_name": "Anthony Jones",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "B-",
+    "genetic_stability": 0.986,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 91,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 28,
+      "Medicine": 86,
+      "Persuasion": 90
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 45,
+      "extraversion": 15,
+      "agreeableness": 67,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

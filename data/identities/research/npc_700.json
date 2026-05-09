@@ -1,0 +1,60 @@
+{
+  "id": "npc_700",
+  "bio": {
+    "full_name": "Joshua Ivanov",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.957,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 81,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 73,
+      "Stealth": 69,
+      "Containment_Logic": 26
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 54,
+      "extraversion": 82,
+      "agreeableness": 20,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

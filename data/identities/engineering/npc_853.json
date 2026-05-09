@@ -1,0 +1,60 @@
+{
+  "id": "npc_853",
+  "bio": {
+    "full_name": "Steven Ivanov",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.995,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 70,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 24,
+      "Firearms": 23,
+      "Hacking": 26
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 13,
+      "extraversion": 41,
+      "agreeableness": 12,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

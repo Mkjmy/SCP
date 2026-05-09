@@ -1,0 +1,60 @@
+{
+  "id": "npc_751",
+  "bio": {
+    "full_name": "Arjun O'Connor",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.994,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 90,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 19,
+      "Engineering": 68,
+      "Athletics": 48
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 97,
+      "extraversion": 98,
+      "agreeableness": 32,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

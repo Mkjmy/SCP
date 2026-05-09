@@ -1,0 +1,60 @@
+{
+  "id": "npc_718",
+  "bio": {
+    "full_name": "Arjun Smith",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.959,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 107,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 23,
+      "Stealth": 72,
+      "Containment_Logic": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 40,
+      "extraversion": 25,
+      "agreeableness": 88,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_734",
+  "bio": {
+    "full_name": "Steven Gupta",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "O+",
+    "genetic_stability": 0.922,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 54,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 22,
+      "Firearms": 12,
+      "Persuasion": 30
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 78,
+      "extraversion": 59,
+      "agreeableness": 87,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

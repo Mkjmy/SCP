@@ -1,0 +1,60 @@
+{
+  "id": "npc_421",
+  "bio": {
+    "full_name": "Olga Davis",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.88,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 103,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 36,
+      "Persuasion": 85,
+      "Athletics": 60
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 47,
+      "extraversion": 14,
+      "agreeableness": 82,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

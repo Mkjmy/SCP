@@ -1,0 +1,60 @@
+{
+  "id": "npc_671",
+  "bio": {
+    "full_name": "Olga Smith",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "B+",
+    "genetic_stability": 0.904,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 99,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Perception": 17,
+      "Athletics": 84,
+      "Engineering": 77
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 93,
+      "extraversion": 95,
+      "agreeableness": 79,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

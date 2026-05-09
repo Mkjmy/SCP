@@ -1,0 +1,60 @@
+{
+  "id": "npc_490",
+  "bio": {
+    "full_name": "Donald Smith",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "AB-",
+    "genetic_stability": 0.951,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 92,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 75,
+      "Containment_Logic": 11,
+      "Athletics": 85
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 22,
+      "extraversion": 61,
+      "agreeableness": 56,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

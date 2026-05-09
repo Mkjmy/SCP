@@ -1,0 +1,60 @@
+{
+  "id": "npc_280",
+  "bio": {
+    "full_name": "Yuki Schmidt",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "O-",
+    "genetic_stability": 0.869,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 106,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 67,
+      "Engineering": 21,
+      "Hacking": 39
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 17,
+      "extraversion": 82,
+      "agreeableness": 35,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

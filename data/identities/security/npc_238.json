@@ -1,0 +1,60 @@
+{
+  "id": "npc_238",
+  "bio": {
+    "full_name": "Olga O'Connor",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "A+",
+    "genetic_stability": 0.868,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 103,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 24,
+      "Medicine": 23,
+      "Athletics": 90
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 52,
+      "extraversion": 44,
+      "agreeableness": 14,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

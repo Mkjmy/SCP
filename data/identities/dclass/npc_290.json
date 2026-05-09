@@ -1,0 +1,59 @@
+{
+  "id": "npc_290",
+  "bio": {
+    "full_name": "Thomas Wong",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.897,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 96,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 68,
+      "Containment_Logic": 26,
+      "Athletics": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 87,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 14,
+      "extraversion": 61,
+      "agreeableness": 49,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

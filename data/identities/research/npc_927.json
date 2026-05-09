@@ -1,0 +1,60 @@
+{
+  "id": "npc_927",
+  "bio": {
+    "full_name": "Charles Schmidt",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "A-",
+    "genetic_stability": 0.929,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 107,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 58,
+      "Occult_Research": 90,
+      "Stealth": 58
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 24,
+      "extraversion": 70,
+      "agreeableness": 34,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

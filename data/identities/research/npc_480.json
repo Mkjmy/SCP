@@ -1,0 +1,60 @@
+{
+  "id": "npc_480",
+  "bio": {
+    "full_name": "Arjun O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "O-",
+    "genetic_stability": 0.925,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 68,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 34,
+      "Athletics": 92,
+      "Medicine": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 91,
+      "extraversion": 76,
+      "agreeableness": 1,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

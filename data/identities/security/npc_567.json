@@ -1,0 +1,59 @@
+{
+  "id": "npc_567",
+  "bio": {
+    "full_name": "James Sato",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.976,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 107,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 16,
+      "Occult_Research": 31,
+      "Medicine": 31
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 0,
+      "extraversion": 72,
+      "agreeableness": 9,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

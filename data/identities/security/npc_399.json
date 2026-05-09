@@ -1,0 +1,60 @@
+{
+  "id": "npc_399",
+  "bio": {
+    "full_name": "Maria Schmidt",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "A-",
+    "genetic_stability": 0.862,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 95,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 42,
+      "Engineering": 60,
+      "Stealth": 62
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 66,
+      "extraversion": 20,
+      "agreeableness": 66,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

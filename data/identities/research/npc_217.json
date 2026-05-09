@@ -1,0 +1,59 @@
+{
+  "id": "npc_217",
+  "bio": {
+    "full_name": "James Gupta",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.894,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 88,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 67,
+      "Firearms": 82,
+      "Engineering": 60
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 14,
+      "extraversion": 4,
+      "agreeableness": 57,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

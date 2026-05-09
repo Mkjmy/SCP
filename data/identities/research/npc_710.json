@@ -1,0 +1,59 @@
+{
+  "id": "npc_710",
+  "bio": {
+    "full_name": "Charles Gupta",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "A-",
+    "genetic_stability": 0.908,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 57,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 43,
+      "Engineering": 23,
+      "Medicine": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 44,
+      "extraversion": 45,
+      "agreeableness": 88,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

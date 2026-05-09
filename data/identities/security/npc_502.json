@@ -1,0 +1,60 @@
+{
+  "id": "npc_502",
+  "bio": {
+    "full_name": "Christopher Smith",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 63,
+    "blood_type": "B-",
+    "genetic_stability": 0.942,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 106,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 90,
+      "Medicine": 39,
+      "Perception": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 14,
+      "extraversion": 98,
+      "agreeableness": 55,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

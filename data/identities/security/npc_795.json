@@ -1,0 +1,60 @@
+{
+  "id": "npc_795",
+  "bio": {
+    "full_name": "Mark Gupta",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.897,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 66,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 14,
+      "Occult_Research": 69,
+      "Stealth": 95
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 89,
+      "extraversion": 39,
+      "agreeableness": 70,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_1010",
+  "bio": {
+    "full_name": "Christopher Miller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.991,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 89,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 28,
+      "Containment_Logic": 89,
+      "Hacking": 88
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 72,
+      "extraversion": 76,
+      "agreeableness": 77,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

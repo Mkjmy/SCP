@@ -1,0 +1,60 @@
+{
+  "id": "npc_266",
+  "bio": {
+    "full_name": "Robert Garcia",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.884,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 57,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 54,
+      "Hacking": 70,
+      "Medicine": 35
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 32,
+      "extraversion": 12,
+      "agreeableness": 25,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

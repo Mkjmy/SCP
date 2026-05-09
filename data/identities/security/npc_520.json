@@ -1,0 +1,60 @@
+{
+  "id": "npc_520",
+  "bio": {
+    "full_name": "Anthony Schmidt",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.934,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 89,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 14,
+      "Engineering": 45,
+      "Athletics": 56
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 62,
+      "extraversion": 20,
+      "agreeableness": 97,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

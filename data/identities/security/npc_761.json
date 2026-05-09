@@ -1,0 +1,60 @@
+{
+  "id": "npc_761",
+  "bio": {
+    "full_name": "Kenji Tanaka",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.954,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 103,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 63,
+      "Containment_Logic": 46,
+      "Firearms": 87
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 58,
+      "extraversion": 0,
+      "agreeableness": 49,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

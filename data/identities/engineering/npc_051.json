@@ -1,0 +1,60 @@
+{
+  "id": "npc_051",
+  "bio": {
+    "full_name": "John Bakker",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "O+",
+    "genetic_stability": 0.853,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 108,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 87,
+      "Occult_Research": 41,
+      "Persuasion": 85
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 54,
+      "extraversion": 56,
+      "agreeableness": 18,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

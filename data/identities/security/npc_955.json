@@ -1,0 +1,60 @@
+{
+  "id": "npc_955",
+  "bio": {
+    "full_name": "Mark Schmidt",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.87,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 62,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 70,
+      "Firearms": 26,
+      "Occult_Research": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 54,
+      "extraversion": 78,
+      "agreeableness": 95,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

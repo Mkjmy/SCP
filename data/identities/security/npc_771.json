@@ -1,0 +1,60 @@
+{
+  "id": "npc_771",
+  "bio": {
+    "full_name": "Elena Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.903,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 75,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 27,
+      "Stealth": 86,
+      "Athletics": 89
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 30,
+      "extraversion": 12,
+      "agreeableness": 72,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

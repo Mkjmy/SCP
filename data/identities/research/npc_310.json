@@ -1,0 +1,60 @@
+{
+  "id": "npc_310",
+  "bio": {
+    "full_name": "Donald Muller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.976,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 64,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 70,
+      "Hacking": 70,
+      "Containment_Logic": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 58,
+      "extraversion": 63,
+      "agreeableness": 100,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

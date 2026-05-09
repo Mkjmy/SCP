@@ -1,0 +1,60 @@
+{
+  "id": "npc_421",
+  "bio": {
+    "full_name": "Fatima Brown",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.975,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 83,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 49,
+      "Containment_Logic": 95,
+      "Occult_Research": 59
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 2,
+      "extraversion": 91,
+      "agreeableness": 66,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

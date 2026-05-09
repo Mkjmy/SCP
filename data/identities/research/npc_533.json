@@ -1,0 +1,60 @@
+{
+  "id": "npc_533",
+  "bio": {
+    "full_name": "Andrew Bakker",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.992,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 75,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 54,
+      "Firearms": 92,
+      "Athletics": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 99,
+      "extraversion": 9,
+      "agreeableness": 9,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

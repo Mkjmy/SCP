@@ -1,0 +1,60 @@
+{
+  "id": "npc_271",
+  "bio": {
+    "full_name": "Joseph Jones",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "O+",
+    "genetic_stability": 0.947,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 56,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 55,
+      "Engineering": 23,
+      "Containment_Logic": 25
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 72,
+      "extraversion": 77,
+      "agreeableness": 34,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

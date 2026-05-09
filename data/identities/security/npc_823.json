@@ -1,0 +1,60 @@
+{
+  "id": "npc_823",
+  "bio": {
+    "full_name": "Fatima Garcia",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.981,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 105,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 22,
+      "Hacking": 60,
+      "Stealth": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 28,
+      "extraversion": 56,
+      "agreeableness": 86,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

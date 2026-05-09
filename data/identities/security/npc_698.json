@@ -1,0 +1,60 @@
+{
+  "id": "npc_698",
+  "bio": {
+    "full_name": "Anthony Miller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.898,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 87,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 11,
+      "Hacking": 82,
+      "Persuasion": 62
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 52,
+      "extraversion": 17,
+      "agreeableness": 5,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

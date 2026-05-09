@@ -1,0 +1,60 @@
+{
+  "id": "npc_132",
+  "bio": {
+    "full_name": "Olga Johnson",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.908,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 89,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 16,
+      "Firearms": 80,
+      "Occult_Research": 74
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 27,
+      "extraversion": 83,
+      "agreeableness": 58,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

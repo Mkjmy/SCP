@@ -1,0 +1,59 @@
+{
+  "id": "npc_256",
+  "bio": {
+    "full_name": "William Bakker",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.886,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 56,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 83,
+      "Hacking": 66,
+      "Stealth": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 61,
+      "extraversion": 46,
+      "agreeableness": 80,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

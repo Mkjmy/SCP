@@ -1,0 +1,60 @@
+{
+  "id": "npc_745",
+  "bio": {
+    "full_name": "Joseph Wong",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "O-",
+    "genetic_stability": 0.952,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 81,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 57,
+      "Stealth": 61,
+      "Medicine": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 71,
+      "extraversion": 93,
+      "agreeableness": 89,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

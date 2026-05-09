@@ -1,0 +1,60 @@
+{
+  "id": "npc_583",
+  "bio": {
+    "full_name": "Chen Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.966,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 53,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 78,
+      "Containment_Logic": 66,
+      "Persuasion": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 63,
+      "extraversion": 71,
+      "agreeableness": 46,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

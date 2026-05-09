@@ -1,0 +1,59 @@
+{
+  "id": "npc_623",
+  "bio": {
+    "full_name": "Mark Gupta",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "AB+",
+    "genetic_stability": 0.869,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 110,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 45,
+      "Medicine": 63,
+      "Hacking": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 40,
+      "extraversion": 54,
+      "agreeableness": 49,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

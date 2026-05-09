@@ -1,0 +1,60 @@
+{
+  "id": "npc_603",
+  "bio": {
+    "full_name": "Richard Johnson",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 34,
+    "blood_type": "AB-",
+    "genetic_stability": 0.856,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 68,
+      "Medicine": 25,
+      "Stealth": 22
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 32,
+      "extraversion": 74,
+      "agreeableness": 37,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

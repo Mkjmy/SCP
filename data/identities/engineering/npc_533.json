@@ -1,0 +1,60 @@
+{
+  "id": "npc_533",
+  "bio": {
+    "full_name": "Fatima Davis",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "O+",
+    "genetic_stability": 0.895,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 72,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 26,
+      "Hacking": 25,
+      "Persuasion": 88
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 2,
+      "extraversion": 17,
+      "agreeableness": 28,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

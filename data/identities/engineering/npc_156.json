@@ -1,0 +1,60 @@
+{
+  "id": "npc_156",
+  "bio": {
+    "full_name": "Fatima Schmidt",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "O+",
+    "genetic_stability": 0.851,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 57,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 89,
+      "Perception": 10,
+      "Containment_Logic": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 51,
+      "extraversion": 60,
+      "agreeableness": 22,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

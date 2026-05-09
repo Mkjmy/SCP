@@ -1,0 +1,60 @@
+{
+  "id": "npc_062",
+  "bio": {
+    "full_name": "Olga O'Connor",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.861,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 70,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 52,
+      "Engineering": 75,
+      "Medicine": 65
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 75,
+      "extraversion": 60,
+      "agreeableness": 84,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

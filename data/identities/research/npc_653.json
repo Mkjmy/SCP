@@ -1,0 +1,59 @@
+{
+  "id": "npc_653",
+  "bio": {
+    "full_name": "Steven Dubois",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.962,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 58,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 73,
+      "Hacking": 46,
+      "Firearms": 84
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 54,
+      "extraversion": 21,
+      "agreeableness": 51,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

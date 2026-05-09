@@ -1,0 +1,60 @@
+{
+  "id": "npc_855",
+  "bio": {
+    "full_name": "Joseph Davis",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.932,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 91,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 29,
+      "Persuasion": 87,
+      "Medicine": 61
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 54,
+      "extraversion": 20,
+      "agreeableness": 32,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

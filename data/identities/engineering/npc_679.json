@@ -1,0 +1,60 @@
+{
+  "id": "npc_679",
+  "bio": {
+    "full_name": "Elena O'Connor",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.861,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 98,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 79,
+      "Hacking": 87,
+      "Occult_Research": 51
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 118,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 90,
+      "extraversion": 46,
+      "agreeableness": 60,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

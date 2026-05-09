@@ -1,0 +1,60 @@
+{
+  "id": "npc_944",
+  "bio": {
+    "full_name": "James Vasiliev",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "AB-",
+    "genetic_stability": 0.936,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 54,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 44,
+      "Perception": 73,
+      "Engineering": 23
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 91,
+      "extraversion": 49,
+      "agreeableness": 74,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

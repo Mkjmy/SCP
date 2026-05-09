@@ -1,0 +1,60 @@
+{
+  "id": "npc_694",
+  "bio": {
+    "full_name": "Chen Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "AB-",
+    "genetic_stability": 0.998,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 83,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 59,
+      "Engineering": 60,
+      "Athletics": 10
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 72,
+      "extraversion": 56,
+      "agreeableness": 35,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

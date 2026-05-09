@@ -1,0 +1,60 @@
+{
+  "id": "npc_707",
+  "bio": {
+    "full_name": "Richard O'Connor",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "A-",
+    "genetic_stability": 0.908,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 105,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 41,
+      "Firearms": 74,
+      "Containment_Logic": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 64,
+      "extraversion": 39,
+      "agreeableness": 8,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

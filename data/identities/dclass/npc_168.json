@@ -1,0 +1,60 @@
+{
+  "id": "npc_168",
+  "bio": {
+    "full_name": "Steven Garcia",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "AB-",
+    "genetic_stability": 0.931,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 81,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 67,
+      "Athletics": 91,
+      "Perception": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 83,
+      "extraversion": 97,
+      "agreeableness": 79,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

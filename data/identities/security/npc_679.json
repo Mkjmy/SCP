@@ -1,0 +1,60 @@
+{
+  "id": "npc_679",
+  "bio": {
+    "full_name": "Andrew Muller",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.918,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 99,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 50,
+      "Engineering": 89,
+      "Perception": 57
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 33,
+      "extraversion": 33,
+      "agreeableness": 46,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

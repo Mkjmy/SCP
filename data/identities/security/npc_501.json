@@ -1,0 +1,60 @@
+{
+  "id": "npc_501",
+  "bio": {
+    "full_name": "Anthony Muller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.859,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 98,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 45,
+      "Occult_Research": 35,
+      "Engineering": 16
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 71,
+      "extraversion": 36,
+      "agreeableness": 27,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

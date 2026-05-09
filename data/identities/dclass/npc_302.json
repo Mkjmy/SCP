@@ -1,0 +1,60 @@
+{
+  "id": "npc_302",
+  "bio": {
+    "full_name": "Lars Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.946,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 63,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 93,
+      "Hacking": 61,
+      "Athletics": 80
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 18,
+      "extraversion": 11,
+      "agreeableness": 75,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

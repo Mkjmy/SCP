@@ -1,0 +1,60 @@
+{
+  "id": "npc_203",
+  "bio": {
+    "full_name": "Matthew Jones",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.993,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 74,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 93,
+      "Firearms": 67,
+      "Containment_Logic": 15
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 84,
+      "extraversion": 60,
+      "agreeableness": 92,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

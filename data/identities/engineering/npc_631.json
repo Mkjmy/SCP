@@ -1,0 +1,60 @@
+{
+  "id": "npc_631",
+  "bio": {
+    "full_name": "Fatima Bakker",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.852,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 51,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 81,
+      "Persuasion": 89,
+      "Hacking": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 22,
+      "extraversion": 20,
+      "agreeableness": 51,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

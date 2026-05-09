@@ -1,0 +1,60 @@
+{
+  "id": "npc_599",
+  "bio": {
+    "full_name": "Mark Miller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "B+",
+    "genetic_stability": 0.858,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 88,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 42,
+      "Hacking": 74,
+      "Stealth": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 0,
+      "extraversion": 75,
+      "agreeableness": 96,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

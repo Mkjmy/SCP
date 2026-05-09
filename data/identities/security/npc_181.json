@@ -1,0 +1,60 @@
+{
+  "id": "npc_181",
+  "bio": {
+    "full_name": "Joshua Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.906,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 91,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 95,
+      "Hacking": 70,
+      "Athletics": 90
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 53,
+      "extraversion": 53,
+      "agreeableness": 43,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

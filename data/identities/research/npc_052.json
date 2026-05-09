@@ -1,0 +1,60 @@
+{
+  "id": "npc_052",
+  "bio": {
+    "full_name": "Andrew Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.904,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 51,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 61,
+      "Perception": 81,
+      "Engineering": 55
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 58,
+      "extraversion": 31,
+      "agreeableness": 94,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

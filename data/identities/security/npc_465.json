@@ -1,0 +1,60 @@
+{
+  "id": "npc_465",
+  "bio": {
+    "full_name": "Sven Davis",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "B-",
+    "genetic_stability": 0.954,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 61,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 28,
+      "Athletics": 38,
+      "Containment_Logic": 58
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 30,
+      "extraversion": 1,
+      "agreeableness": 61,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

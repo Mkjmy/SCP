@@ -1,0 +1,60 @@
+{
+  "id": "npc_997",
+  "bio": {
+    "full_name": "Lars Muller",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "O-",
+    "genetic_stability": 0.94,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 110,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 61,
+      "Perception": 79,
+      "Medicine": 88
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 82,
+      "extraversion": 97,
+      "agreeableness": 15,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

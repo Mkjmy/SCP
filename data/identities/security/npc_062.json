@@ -1,0 +1,60 @@
+{
+  "id": "npc_062",
+  "bio": {
+    "full_name": "Mark Bakker",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 0.886,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 59,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 24,
+      "Athletics": 29,
+      "Stealth": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 72,
+      "extraversion": 60,
+      "agreeableness": 46,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

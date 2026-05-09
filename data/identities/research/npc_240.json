@@ -1,0 +1,60 @@
+{
+  "id": "npc_240",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "AB-",
+    "genetic_stability": 0.863,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 61,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 46,
+      "Perception": 82,
+      "Hacking": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 90,
+      "extraversion": 27,
+      "agreeableness": 55,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

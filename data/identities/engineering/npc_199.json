@@ -1,0 +1,60 @@
+{
+  "id": "npc_199",
+  "bio": {
+    "full_name": "Anthony Muller",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "AB+",
+    "genetic_stability": 0.933,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 98,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 27,
+      "Athletics": 16,
+      "Perception": 95
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 85,
+      "extraversion": 83,
+      "agreeableness": 17,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

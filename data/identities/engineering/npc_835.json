@@ -1,0 +1,60 @@
+{
+  "id": "npc_835",
+  "bio": {
+    "full_name": "Andrew O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.876,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 63,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 93,
+      "Engineering": 10,
+      "Medicine": 67
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 50,
+      "extraversion": 44,
+      "agreeableness": 20,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

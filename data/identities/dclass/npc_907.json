@@ -1,0 +1,60 @@
+{
+  "id": "npc_907",
+  "bio": {
+    "full_name": "Chen Garcia",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.903,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 107,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 36,
+      "Occult_Research": 44,
+      "Stealth": 46
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 40,
+      "extraversion": 44,
+      "agreeableness": 8,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

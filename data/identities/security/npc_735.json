@@ -1,0 +1,60 @@
+{
+  "id": "npc_735",
+  "bio": {
+    "full_name": "Steven Muller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.886,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 98,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 42,
+      "Engineering": 82,
+      "Athletics": 38
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 2,
+      "extraversion": 81,
+      "agreeableness": 6,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

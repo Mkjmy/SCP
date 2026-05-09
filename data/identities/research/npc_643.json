@@ -1,0 +1,60 @@
+{
+  "id": "npc_643",
+  "bio": {
+    "full_name": "Richard O'Connor",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.887,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 106,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 36,
+      "Perception": 30,
+      "Athletics": 22
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 11,
+      "extraversion": 52,
+      "agreeableness": 86,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_916",
+  "bio": {
+    "full_name": "William Schmidt",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.942,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 108,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 19,
+      "Engineering": 95,
+      "Perception": 30
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 47,
+      "extraversion": 1,
+      "agreeableness": 18,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

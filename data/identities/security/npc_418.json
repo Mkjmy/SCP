@@ -1,0 +1,60 @@
+{
+  "id": "npc_418",
+  "bio": {
+    "full_name": "Christopher Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.981,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 97,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 38,
+      "Persuasion": 34,
+      "Stealth": 22
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 99,
+      "extraversion": 97,
+      "agreeableness": 77,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

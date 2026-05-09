@@ -1,0 +1,60 @@
+{
+  "id": "npc_559",
+  "bio": {
+    "full_name": "William Sato",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "AB-",
+    "genetic_stability": 0.94,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 53,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 49,
+      "Engineering": 24,
+      "Perception": 92
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 12,
+      "extraversion": 31,
+      "agreeableness": 65,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

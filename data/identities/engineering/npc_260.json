@@ -1,0 +1,60 @@
+{
+  "id": "npc_260",
+  "bio": {
+    "full_name": "Sven Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "AB-",
+    "genetic_stability": 0.919,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 104,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 20,
+      "Athletics": 76,
+      "Stealth": 41
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 66,
+      "extraversion": 85,
+      "agreeableness": 86,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_906",
+  "bio": {
+    "full_name": "Robert Johnson",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "B-",
+    "genetic_stability": 0.998,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 84,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 68,
+      "Firearms": 91,
+      "Occult_Research": 60
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 80,
+      "extraversion": 95,
+      "agreeableness": 34,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

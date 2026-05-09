@@ -1,0 +1,60 @@
+{
+  "id": "npc_720",
+  "bio": {
+    "full_name": "Matthew Tanaka",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "B+",
+    "genetic_stability": 0.85,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 71,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 86,
+      "Hacking": 59,
+      "Firearms": 60
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 87,
+      "extraversion": 41,
+      "agreeableness": 35,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

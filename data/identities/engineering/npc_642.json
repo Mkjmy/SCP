@@ -1,0 +1,60 @@
+{
+  "id": "npc_642",
+  "bio": {
+    "full_name": "James Ivanov",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.896,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 62,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 89,
+      "Persuasion": 68,
+      "Containment_Logic": 54
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 96,
+      "extraversion": 39,
+      "agreeableness": 21,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

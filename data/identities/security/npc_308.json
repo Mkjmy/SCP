@@ -1,0 +1,60 @@
+{
+  "id": "npc_308",
+  "bio": {
+    "full_name": "William Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "AB-",
+    "genetic_stability": 0.877,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 94,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 82,
+      "Persuasion": 40,
+      "Perception": 56
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 81,
+      "extraversion": 86,
+      "agreeableness": 83,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_050",
+  "bio": {
+    "full_name": "Kenji Sato",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "B-",
+    "genetic_stability": 0.854,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 69,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 27,
+      "Persuasion": 51,
+      "Engineering": 67
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 57,
+      "extraversion": 12,
+      "agreeableness": 51,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

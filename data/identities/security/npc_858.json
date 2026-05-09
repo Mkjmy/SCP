@@ -1,0 +1,60 @@
+{
+  "id": "npc_858",
+  "bio": {
+    "full_name": "Yuki Muller",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.952,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 105,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 61,
+      "Occult_Research": 85,
+      "Persuasion": 39
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 34,
+      "extraversion": 68,
+      "agreeableness": 23,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

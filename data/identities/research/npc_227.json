@@ -1,0 +1,60 @@
+{
+  "id": "npc_227",
+  "bio": {
+    "full_name": "Richard Kovacs",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "A-",
+    "genetic_stability": 0.912,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 90,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Perception": 11,
+      "Athletics": 94,
+      "Firearms": 51
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 34,
+      "extraversion": 40,
+      "agreeableness": 49,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

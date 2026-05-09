@@ -1,0 +1,60 @@
+{
+  "id": "npc_337",
+  "bio": {
+    "full_name": "Steven Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "B+",
+    "genetic_stability": 0.981,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 109,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 30,
+      "Perception": 30,
+      "Stealth": 88
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 93,
+      "extraversion": 25,
+      "agreeableness": 34,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

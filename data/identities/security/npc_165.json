@@ -1,0 +1,60 @@
+{
+  "id": "npc_165",
+  "bio": {
+    "full_name": "Anthony Bakker",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.963,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 77,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 89,
+      "Firearms": 38,
+      "Perception": 57
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 61,
+      "extraversion": 37,
+      "agreeableness": 31,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

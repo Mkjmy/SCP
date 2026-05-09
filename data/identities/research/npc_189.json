@@ -1,0 +1,60 @@
+{
+  "id": "npc_189",
+  "bio": {
+    "full_name": "Chen Schmidt",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "A-",
+    "genetic_stability": 0.972,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 104,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 14,
+      "Containment_Logic": 15,
+      "Occult_Research": 13
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 9,
+      "extraversion": 2,
+      "agreeableness": 15,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

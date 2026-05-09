@@ -1,0 +1,60 @@
+{
+  "id": "npc_622",
+  "bio": {
+    "full_name": "Kenji Sato",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.95,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 109,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 50,
+      "Engineering": 92,
+      "Stealth": 84
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 99,
+      "extraversion": 23,
+      "agreeableness": 15,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

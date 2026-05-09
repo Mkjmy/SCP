@@ -1,0 +1,60 @@
+{
+  "id": "npc_312",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.916,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 97,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 32,
+      "Stealth": 40,
+      "Athletics": 22
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 85,
+      "extraversion": 57,
+      "agreeableness": 26,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

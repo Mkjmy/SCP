@@ -1,0 +1,60 @@
+{
+  "id": "npc_322",
+  "bio": {
+    "full_name": "James Davis",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.894,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 50,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 42,
+      "Persuasion": 60,
+      "Occult_Research": 70
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 95,
+      "extraversion": 84,
+      "agreeableness": 24,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

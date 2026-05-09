@@ -1,0 +1,60 @@
+{
+  "id": "npc_911",
+  "bio": {
+    "full_name": "David Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.864,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 52,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 20,
+      "Medicine": 40,
+      "Engineering": 59
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 67,
+      "extraversion": 36,
+      "agreeableness": 68,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

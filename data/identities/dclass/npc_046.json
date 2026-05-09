@@ -1,0 +1,60 @@
+{
+  "id": "npc_046",
+  "bio": {
+    "full_name": "Elena Ivanov",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.963,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 95,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 92,
+      "Persuasion": 65,
+      "Athletics": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 40,
+      "extraversion": 5,
+      "agreeableness": 44,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_786",
+  "bio": {
+    "full_name": "Elena Williams",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.967,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 94,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 31,
+      "Containment_Logic": 23,
+      "Persuasion": 70
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 33,
+      "extraversion": 65,
+      "agreeableness": 15,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_896",
+  "bio": {
+    "full_name": "John Ivanov",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.924,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 94,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 78,
+      "Occult_Research": 22,
+      "Athletics": 35
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 61,
+      "extraversion": 22,
+      "agreeableness": 44,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_385",
+  "bio": {
+    "full_name": "Olga Schmidt",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.973,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 52,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 47,
+      "Athletics": 63,
+      "Engineering": 86
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 14,
+      "extraversion": 11,
+      "agreeableness": 27,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

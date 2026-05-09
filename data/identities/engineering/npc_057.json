@@ -1,0 +1,60 @@
+{
+  "id": "npc_057",
+  "bio": {
+    "full_name": "Thomas O'Connor",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "B+",
+    "genetic_stability": 0.875,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 86,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 11,
+      "Occult_Research": 72,
+      "Engineering": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 10,
+      "extraversion": 73,
+      "agreeableness": 45,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

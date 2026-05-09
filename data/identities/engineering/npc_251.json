@@ -1,0 +1,60 @@
+{
+  "id": "npc_251",
+  "bio": {
+    "full_name": "Olga Wong",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.867,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 83,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 40,
+      "Perception": 73,
+      "Firearms": 56
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 70,
+      "extraversion": 30,
+      "agreeableness": 8,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

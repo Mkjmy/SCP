@@ -1,0 +1,60 @@
+{
+  "id": "npc_954",
+  "bio": {
+    "full_name": "Charles Ivanov",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "A-",
+    "genetic_stability": 0.894,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 56,
+      "Occult_Research": 56,
+      "Containment_Logic": 66
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 57,
+      "extraversion": 100,
+      "agreeableness": 55,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

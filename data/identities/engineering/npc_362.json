@@ -1,0 +1,60 @@
+{
+  "id": "npc_362",
+  "bio": {
+    "full_name": "David Tanaka",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "A+",
+    "genetic_stability": 0.949,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 57,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 87,
+      "Engineering": 12,
+      "Perception": 70
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 33,
+      "extraversion": 49,
+      "agreeableness": 61,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

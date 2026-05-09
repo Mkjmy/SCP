@@ -1,0 +1,60 @@
+{
+  "id": "npc_726",
+  "bio": {
+    "full_name": "Sven Williams",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "A+",
+    "genetic_stability": 0.934,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 75,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 34,
+      "Occult_Research": 34,
+      "Containment_Logic": 64
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 92,
+      "extraversion": 57,
+      "agreeableness": 28,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

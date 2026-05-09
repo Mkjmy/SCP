@@ -1,0 +1,60 @@
+{
+  "id": "npc_770",
+  "bio": {
+    "full_name": "Fatima Dubois",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.854,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 98,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 34,
+      "Athletics": 86,
+      "Perception": 70
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 70,
+      "extraversion": 21,
+      "agreeableness": 44,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

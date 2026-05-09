@@ -1,0 +1,60 @@
+{
+  "id": "npc_544",
+  "bio": {
+    "full_name": "Mark Kovacs",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.893,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 88,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 65,
+      "Stealth": 80,
+      "Athletics": 70
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 66,
+      "extraversion": 93,
+      "agreeableness": 97,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

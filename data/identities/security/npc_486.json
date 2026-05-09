@@ -1,0 +1,60 @@
+{
+  "id": "npc_486",
+  "bio": {
+    "full_name": "Anthony Brown",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "B-",
+    "genetic_stability": 0.916,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 86,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 36,
+      "Stealth": 49,
+      "Persuasion": 70
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 15,
+      "extraversion": 88,
+      "agreeableness": 55,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_999",
+  "bio": {
+    "full_name": "Daniel Dubois",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.934,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 92,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 10,
+      "Engineering": 93,
+      "Stealth": 72
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 69,
+      "extraversion": 22,
+      "agreeableness": 81,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

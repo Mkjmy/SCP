@@ -1,0 +1,59 @@
+{
+  "id": "npc_479",
+  "bio": {
+    "full_name": "Daniel Kovacs",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 62,
+    "blood_type": "O-",
+    "genetic_stability": 0.855,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 88,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 77,
+      "Engineering": 60,
+      "Firearms": 13
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 88,
+      "extraversion": 90,
+      "agreeableness": 79,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

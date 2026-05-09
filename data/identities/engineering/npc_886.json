@@ -1,0 +1,60 @@
+{
+  "id": "npc_886",
+  "bio": {
+    "full_name": "Matthew Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.993,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 102,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 95,
+      "Firearms": 31,
+      "Athletics": 57
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 47,
+      "extraversion": 30,
+      "agreeableness": 2,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

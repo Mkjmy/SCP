@@ -1,0 +1,60 @@
+{
+  "id": "npc_057",
+  "bio": {
+    "full_name": "Donald Vasiliev",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.861,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 72,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 59,
+      "Medicine": 67,
+      "Hacking": 51
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 24,
+      "extraversion": 5,
+      "agreeableness": 6,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

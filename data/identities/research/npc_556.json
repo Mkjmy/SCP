@@ -1,0 +1,60 @@
+{
+  "id": "npc_556",
+  "bio": {
+    "full_name": "Richard O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.926,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 100,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 60,
+      "Persuasion": 29,
+      "Firearms": 63
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 42,
+      "extraversion": 29,
+      "agreeableness": 92,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

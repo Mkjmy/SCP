@@ -1,0 +1,60 @@
+{
+  "id": "npc_670",
+  "bio": {
+    "full_name": "Olga Smith",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "O-",
+    "genetic_stability": 0.897,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 109,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 63,
+      "Containment_Logic": 91,
+      "Stealth": 15
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 7,
+      "extraversion": 67,
+      "agreeableness": 72,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_154",
+  "bio": {
+    "full_name": "William Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.867,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 85,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 89,
+      "Containment_Logic": 67,
+      "Medicine": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 20,
+      "extraversion": 55,
+      "agreeableness": 14,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

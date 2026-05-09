@@ -1,0 +1,59 @@
+{
+  "id": "npc_469",
+  "bio": {
+    "full_name": "James O'Connor",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "B-",
+    "genetic_stability": 0.971,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 72,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 21,
+      "Persuasion": 75,
+      "Medicine": 30
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 41,
+      "extraversion": 3,
+      "agreeableness": 53,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

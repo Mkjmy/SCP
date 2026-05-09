@@ -1,0 +1,60 @@
+{
+  "id": "npc_182",
+  "bio": {
+    "full_name": "James Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.899,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 89,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 34,
+      "Perception": 81,
+      "Engineering": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 88,
+      "extraversion": 65,
+      "agreeableness": 47,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

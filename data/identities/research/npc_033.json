@@ -1,0 +1,59 @@
+{
+  "id": "npc_033",
+  "bio": {
+    "full_name": "Maria Muller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 62,
+    "blood_type": "AB+",
+    "genetic_stability": 0.872,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 75,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 16,
+      "Hacking": 56,
+      "Stealth": 26
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 86,
+      "extraversion": 77,
+      "agreeableness": 89,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

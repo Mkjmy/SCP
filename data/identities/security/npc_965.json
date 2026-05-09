@@ -1,0 +1,60 @@
+{
+  "id": "npc_965",
+  "bio": {
+    "full_name": "Matthew Garcia",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 65,
+    "blood_type": "B-",
+    "genetic_stability": 0.872,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 76,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 22,
+      "Hacking": 71,
+      "Firearms": 68
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 31,
+      "extraversion": 64,
+      "agreeableness": 53,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

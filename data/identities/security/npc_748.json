@@ -1,0 +1,60 @@
+{
+  "id": "npc_748",
+  "bio": {
+    "full_name": "Lars Sato",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.981,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 97,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 76,
+      "Containment_Logic": 52,
+      "Athletics": 20
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 25,
+      "extraversion": 44,
+      "agreeableness": 57,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

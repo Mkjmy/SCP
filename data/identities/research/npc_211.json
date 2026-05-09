@@ -1,0 +1,60 @@
+{
+  "id": "npc_211",
+  "bio": {
+    "full_name": "Charles Wong",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "AB+",
+    "genetic_stability": 0.934,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 79,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 76,
+      "Athletics": 75,
+      "Medicine": 89
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 0,
+      "extraversion": 62,
+      "agreeableness": 18,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

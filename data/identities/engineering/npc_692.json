@@ -1,0 +1,60 @@
+{
+  "id": "npc_692",
+  "bio": {
+    "full_name": "Yuki Wong",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "A-",
+    "genetic_stability": 0.859,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 92,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 15,
+      "Athletics": 94,
+      "Containment_Logic": 54
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 88,
+      "extraversion": 0,
+      "agreeableness": 12,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

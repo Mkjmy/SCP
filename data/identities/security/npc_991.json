@@ -1,0 +1,60 @@
+{
+  "id": "npc_991",
+  "bio": {
+    "full_name": "Michael Kovacs",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "A-",
+    "genetic_stability": 0.889,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 109,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 60,
+      "Stealth": 89,
+      "Firearms": 57
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 19,
+      "extraversion": 81,
+      "agreeableness": 21,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

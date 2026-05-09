@@ -1,0 +1,60 @@
+{
+  "id": "npc_547",
+  "bio": {
+    "full_name": "Fatima Dubois",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "AB-",
+    "genetic_stability": 0.935,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 105,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 38,
+      "Perception": 10,
+      "Engineering": 22
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 20,
+      "extraversion": 29,
+      "agreeableness": 9,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

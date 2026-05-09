@@ -1,0 +1,60 @@
+{
+  "id": "npc_619",
+  "bio": {
+    "full_name": "Mark Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.962,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 108,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 31,
+      "Containment_Logic": 95,
+      "Medicine": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 49,
+      "extraversion": 5,
+      "agreeableness": 18,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_613",
+  "bio": {
+    "full_name": "Richard Ivanov",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 59,
+    "blood_type": "B+",
+    "genetic_stability": 0.931,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 71,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 13,
+      "Containment_Logic": 32,
+      "Persuasion": 95
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 31,
+      "extraversion": 84,
+      "agreeableness": 72,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

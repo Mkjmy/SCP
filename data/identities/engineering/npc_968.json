@@ -1,0 +1,59 @@
+{
+  "id": "npc_968",
+  "bio": {
+    "full_name": "Fatima Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.919,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 69,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 50,
+      "Occult_Research": 63,
+      "Stealth": 79
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 34,
+      "extraversion": 79,
+      "agreeableness": 67,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

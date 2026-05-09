@@ -1,0 +1,60 @@
+{
+  "id": "npc_103",
+  "bio": {
+    "full_name": "Paul Gupta",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.865,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 103,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 80,
+      "Occult_Research": 27,
+      "Hacking": 49
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 11,
+      "extraversion": 40,
+      "agreeableness": 28,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

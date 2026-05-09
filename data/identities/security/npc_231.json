@@ -1,0 +1,60 @@
+{
+  "id": "npc_231",
+  "bio": {
+    "full_name": "Robert Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "A-",
+    "genetic_stability": 0.864,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 88,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 92,
+      "Stealth": 10,
+      "Containment_Logic": 22
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 85,
+      "extraversion": 84,
+      "agreeableness": 68,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

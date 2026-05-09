@@ -1,0 +1,60 @@
+{
+  "id": "npc_398",
+  "bio": {
+    "full_name": "Chen Ivanov",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "A-",
+    "genetic_stability": 0.965,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 53,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 44,
+      "Engineering": 57,
+      "Persuasion": 59
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 73,
+      "extraversion": 15,
+      "agreeableness": 72,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

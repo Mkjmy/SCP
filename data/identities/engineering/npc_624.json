@@ -1,0 +1,60 @@
+{
+  "id": "npc_624",
+  "bio": {
+    "full_name": "Olga O'Connor",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.939,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 59,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 84,
+      "Perception": 81,
+      "Stealth": 23
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 81,
+      "extraversion": 9,
+      "agreeableness": 100,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

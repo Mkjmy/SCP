@@ -1,0 +1,60 @@
+{
+  "id": "npc_111",
+  "bio": {
+    "full_name": "Charles Muller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 52,
+    "blood_type": "AB+",
+    "genetic_stability": 0.873,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 54,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 60,
+      "Containment_Logic": 46,
+      "Persuasion": 70
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 87,
+      "extraversion": 37,
+      "agreeableness": 47,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

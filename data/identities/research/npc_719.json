@@ -1,0 +1,60 @@
+{
+  "id": "npc_719",
+  "bio": {
+    "full_name": "Joshua Miller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.982,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 83,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 76,
+      "Perception": 65,
+      "Medicine": 13
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 38,
+      "extraversion": 19,
+      "agreeableness": 53,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

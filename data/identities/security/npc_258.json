@@ -1,0 +1,60 @@
+{
+  "id": "npc_258",
+  "bio": {
+    "full_name": "Sven Ivanov",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.972,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 63,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 41,
+      "Engineering": 37,
+      "Medicine": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 91,
+      "extraversion": 79,
+      "agreeableness": 36,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

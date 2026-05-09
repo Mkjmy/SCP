@@ -1,0 +1,60 @@
+{
+  "id": "npc_283",
+  "bio": {
+    "full_name": "James Muller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.859,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 74,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 18,
+      "Containment_Logic": 26,
+      "Medicine": 59
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 87,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 50,
+      "extraversion": 64,
+      "agreeableness": 60,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

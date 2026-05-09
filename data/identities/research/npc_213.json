@@ -1,0 +1,60 @@
+{
+  "id": "npc_213",
+  "bio": {
+    "full_name": "Christopher Smith",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "O-",
+    "genetic_stability": 0.933,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 63,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 45,
+      "Containment_Logic": 12,
+      "Engineering": 22
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 11,
+      "extraversion": 77,
+      "agreeableness": 98,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

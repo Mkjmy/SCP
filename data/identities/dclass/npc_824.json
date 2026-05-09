@@ -1,0 +1,60 @@
+{
+  "id": "npc_824",
+  "bio": {
+    "full_name": "James Muller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.893,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 68,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 38,
+      "Occult_Research": 68,
+      "Engineering": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 79,
+      "extraversion": 61,
+      "agreeableness": 95,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

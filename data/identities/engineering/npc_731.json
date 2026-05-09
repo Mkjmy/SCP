@@ -1,0 +1,60 @@
+{
+  "id": "npc_731",
+  "bio": {
+    "full_name": "Paul Kovacs",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "B+",
+    "genetic_stability": 0.946,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 61,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 59,
+      "Occult_Research": 24,
+      "Firearms": 12
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 73,
+      "extraversion": 12,
+      "agreeableness": 88,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_681",
+  "bio": {
+    "full_name": "Joseph Johnson",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 54,
+    "blood_type": "AB+",
+    "genetic_stability": 0.912,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 73,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 89,
+      "Persuasion": 59,
+      "Containment_Logic": 89
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 36,
+      "extraversion": 13,
+      "agreeableness": 64,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

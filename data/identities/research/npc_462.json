@@ -1,0 +1,60 @@
+{
+  "id": "npc_462",
+  "bio": {
+    "full_name": "Kenji O'Connor",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "A+",
+    "genetic_stability": 0.936,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 53,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 94,
+      "Perception": 92,
+      "Firearms": 19
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 46,
+      "extraversion": 13,
+      "agreeableness": 89,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

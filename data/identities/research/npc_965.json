@@ -1,0 +1,60 @@
+{
+  "id": "npc_965",
+  "bio": {
+    "full_name": "Paul Jones",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "AB-",
+    "genetic_stability": 0.977,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 53,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 52,
+      "Firearms": 41,
+      "Occult_Research": 25
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 95,
+      "extraversion": 80,
+      "agreeableness": 57,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_237",
+  "bio": {
+    "full_name": "Sven Kovacs",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.956,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 96,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 59,
+      "Occult_Research": 94,
+      "Persuasion": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 80,
+      "extraversion": 64,
+      "agreeableness": 83,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

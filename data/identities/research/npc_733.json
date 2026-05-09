@@ -1,0 +1,60 @@
+{
+  "id": "npc_733",
+  "bio": {
+    "full_name": "Steven Brown",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.851,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 54,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 42,
+      "Occult_Research": 83,
+      "Athletics": 56
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 92,
+      "extraversion": 66,
+      "agreeableness": 54,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

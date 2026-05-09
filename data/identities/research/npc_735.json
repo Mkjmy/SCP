@@ -1,0 +1,59 @@
+{
+  "id": "npc_735",
+  "bio": {
+    "full_name": "Arjun Garcia",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 51,
+    "blood_type": "A+",
+    "genetic_stability": 0.93,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 79,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 46,
+      "Firearms": 46,
+      "Persuasion": 60
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 86,
+      "extraversion": 24,
+      "agreeableness": 5,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

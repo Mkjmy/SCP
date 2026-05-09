@@ -1,0 +1,60 @@
+{
+  "id": "npc_358",
+  "bio": {
+    "full_name": "Maria Miller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 51,
+    "blood_type": "B+",
+    "genetic_stability": 0.94,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 74,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 29,
+      "Medicine": 20,
+      "Firearms": 44
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 58,
+      "extraversion": 84,
+      "agreeableness": 31,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

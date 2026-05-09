@@ -1,0 +1,60 @@
+{
+  "id": "npc_971",
+  "bio": {
+    "full_name": "Paul Johnson",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "B+",
+    "genetic_stability": 0.999,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 85,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 57,
+      "Persuasion": 20,
+      "Hacking": 45
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 99,
+      "extraversion": 16,
+      "agreeableness": 69,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

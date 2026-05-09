@@ -1,0 +1,60 @@
+{
+  "id": "npc_184",
+  "bio": {
+    "full_name": "Joseph Muller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.977,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 98,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 92,
+      "Containment_Logic": 61,
+      "Engineering": 54
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 38,
+      "extraversion": 88,
+      "agreeableness": 78,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_021",
+  "bio": {
+    "full_name": "Matthew O'Connor",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.938,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 94,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 31,
+      "Persuasion": 20,
+      "Athletics": 59
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 27,
+      "extraversion": 82,
+      "agreeableness": 52,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_964",
+  "bio": {
+    "full_name": "Michael Vasiliev",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.989,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 62,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 81,
+      "Athletics": 78,
+      "Occult_Research": 34
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 34,
+      "extraversion": 49,
+      "agreeableness": 29,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

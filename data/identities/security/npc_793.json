@@ -1,0 +1,60 @@
+{
+  "id": "npc_793",
+  "bio": {
+    "full_name": "Matthew Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.863,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 80,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 77,
+      "Engineering": 65,
+      "Athletics": 82
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 22,
+      "extraversion": 58,
+      "agreeableness": 56,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

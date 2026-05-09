@@ -1,0 +1,59 @@
+{
+  "id": "npc_154",
+  "bio": {
+    "full_name": "Mark Bakker",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "A-",
+    "genetic_stability": 0.9,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 98,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 34,
+      "Firearms": 12,
+      "Engineering": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 11,
+      "extraversion": 98,
+      "agreeableness": 37,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

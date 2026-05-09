@@ -1,0 +1,60 @@
+{
+  "id": "npc_319",
+  "bio": {
+    "full_name": "Olga Ivanov",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.922,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 108,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 92,
+      "Persuasion": 12,
+      "Occult_Research": 56
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 99,
+      "extraversion": 55,
+      "agreeableness": 2,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

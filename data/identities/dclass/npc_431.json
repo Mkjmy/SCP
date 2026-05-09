@@ -1,0 +1,60 @@
+{
+  "id": "npc_431",
+  "bio": {
+    "full_name": "Andrew Miller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "B-",
+    "genetic_stability": 0.922,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 97,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 85,
+      "Perception": 73,
+      "Engineering": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 31,
+      "extraversion": 91,
+      "agreeableness": 70,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

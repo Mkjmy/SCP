@@ -1,0 +1,60 @@
+{
+  "id": "npc_658",
+  "bio": {
+    "full_name": "Donald Wong",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.91,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 103,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 18,
+      "Medicine": 44,
+      "Stealth": 25
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 60,
+      "extraversion": 80,
+      "agreeableness": 88,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

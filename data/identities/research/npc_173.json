@@ -1,0 +1,60 @@
+{
+  "id": "npc_173",
+  "bio": {
+    "full_name": "Michael Schmidt",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "O+",
+    "genetic_stability": 0.877,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 69,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 41,
+      "Athletics": 84,
+      "Perception": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 91,
+      "extraversion": 9,
+      "agreeableness": 58,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

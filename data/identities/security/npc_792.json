@@ -1,0 +1,60 @@
+{
+  "id": "npc_792",
+  "bio": {
+    "full_name": "Maria Jones",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "B+",
+    "genetic_stability": 0.886,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 90,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 78,
+      "Medicine": 87,
+      "Persuasion": 92
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 27,
+      "extraversion": 34,
+      "agreeableness": 33,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

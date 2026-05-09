@@ -1,0 +1,60 @@
+{
+  "id": "npc_232",
+  "bio": {
+    "full_name": "Arjun Bakker",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 63,
+    "blood_type": "AB-",
+    "genetic_stability": 0.966,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 91,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 29,
+      "Athletics": 33,
+      "Stealth": 29
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 89,
+      "extraversion": 8,
+      "agreeableness": 47,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

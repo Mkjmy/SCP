@@ -1,0 +1,60 @@
+{
+  "id": "npc_617",
+  "bio": {
+    "full_name": "Joshua Kovacs",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.908,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 98,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 89,
+      "Containment_Logic": 81,
+      "Persuasion": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 34,
+      "extraversion": 19,
+      "agreeableness": 13,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

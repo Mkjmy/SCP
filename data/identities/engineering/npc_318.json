@@ -1,0 +1,59 @@
+{
+  "id": "npc_318",
+  "bio": {
+    "full_name": "Joseph Vasiliev",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.911,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 77,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 41,
+      "Medicine": 26,
+      "Perception": 82
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 34,
+      "extraversion": 62,
+      "agreeableness": 70,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

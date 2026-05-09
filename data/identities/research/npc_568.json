@@ -1,0 +1,60 @@
+{
+  "id": "npc_568",
+  "bio": {
+    "full_name": "Daniel Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.972,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 94,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 66,
+      "Occult_Research": 91,
+      "Medicine": 29
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 20,
+      "extraversion": 30,
+      "agreeableness": 20,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

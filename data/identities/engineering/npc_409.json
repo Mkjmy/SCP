@@ -1,0 +1,60 @@
+{
+  "id": "npc_409",
+  "bio": {
+    "full_name": "Kenji Vasiliev",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.903,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 105,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 70,
+      "Stealth": 51,
+      "Perception": 75
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 89,
+      "extraversion": 55,
+      "agreeableness": 79,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

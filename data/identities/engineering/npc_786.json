@@ -1,0 +1,60 @@
+{
+  "id": "npc_786",
+  "bio": {
+    "full_name": "Thomas Ivanov",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "B-",
+    "genetic_stability": 0.992,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 93,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 37,
+      "Athletics": 94,
+      "Containment_Logic": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 22,
+      "extraversion": 77,
+      "agreeableness": 22,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

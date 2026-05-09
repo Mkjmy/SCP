@@ -1,0 +1,60 @@
+{
+  "id": "npc_982",
+  "bio": {
+    "full_name": "Richard Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.951,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 93,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 87,
+      "Athletics": 36,
+      "Firearms": 58
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 37,
+      "extraversion": 88,
+      "agreeableness": 99,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

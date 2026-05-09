@@ -1,0 +1,60 @@
+{
+  "id": "npc_043",
+  "bio": {
+    "full_name": "Elena Brown",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "AB-",
+    "genetic_stability": 0.985,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 54,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 86,
+      "Occult_Research": 14,
+      "Persuasion": 87
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 35,
+      "extraversion": 46,
+      "agreeableness": 20,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

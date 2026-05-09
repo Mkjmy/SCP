@@ -1,0 +1,60 @@
+{
+  "id": "npc_069",
+  "bio": {
+    "full_name": "Mark Davis",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 52,
+    "blood_type": "B-",
+    "genetic_stability": 0.958,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 88,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 37,
+      "Hacking": 43,
+      "Occult_Research": 95
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 35,
+      "extraversion": 75,
+      "agreeableness": 17,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

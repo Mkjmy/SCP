@@ -1,0 +1,60 @@
+{
+  "id": "npc_499",
+  "bio": {
+    "full_name": "Matthew Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.948,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 101,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 46,
+      "Containment_Logic": 76,
+      "Occult_Research": 56
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 81,
+      "extraversion": 79,
+      "agreeableness": 69,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

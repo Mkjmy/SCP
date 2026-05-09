@@ -1,0 +1,60 @@
+{
+  "id": "npc_769",
+  "bio": {
+    "full_name": "Daniel Wong",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "A-",
+    "genetic_stability": 0.95,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 78,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 68,
+      "Perception": 94,
+      "Containment_Logic": 87
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 39,
+      "extraversion": 93,
+      "agreeableness": 17,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

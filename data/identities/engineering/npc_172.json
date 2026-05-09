@@ -1,0 +1,60 @@
+{
+  "id": "npc_172",
+  "bio": {
+    "full_name": "Fatima Brown",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.974,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 55,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 31,
+      "Perception": 60,
+      "Medicine": 22
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 87,
+      "extraversion": 73,
+      "agreeableness": 78,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

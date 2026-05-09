@@ -1,0 +1,60 @@
+{
+  "id": "npc_716",
+  "bio": {
+    "full_name": "Fatima Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "AB-",
+    "genetic_stability": 0.984,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 79,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 85,
+      "Firearms": 88,
+      "Persuasion": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 19,
+      "extraversion": 11,
+      "agreeableness": 70,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_049",
+  "bio": {
+    "full_name": "Sven Wong",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.99,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 105,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 39,
+      "Containment_Logic": 91,
+      "Medicine": 72
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 54,
+      "extraversion": 61,
+      "agreeableness": 72,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

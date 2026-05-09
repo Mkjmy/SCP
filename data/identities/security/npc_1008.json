@@ -1,0 +1,60 @@
+{
+  "id": "npc_1008",
+  "bio": {
+    "full_name": "Joshua Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "A-",
+    "genetic_stability": 0.999,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 54,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 28,
+      "Occult_Research": 15,
+      "Persuasion": 40
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 30,
+      "extraversion": 16,
+      "agreeableness": 87,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

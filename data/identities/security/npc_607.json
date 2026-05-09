@@ -1,0 +1,60 @@
+{
+  "id": "npc_607",
+  "bio": {
+    "full_name": "Joshua Ivanov",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.988,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 92,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 92,
+      "Hacking": 51,
+      "Perception": 75
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 47,
+      "extraversion": 90,
+      "agreeableness": 22,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

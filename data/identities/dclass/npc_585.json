@@ -1,0 +1,60 @@
+{
+  "id": "npc_585",
+  "bio": {
+    "full_name": "Chen Wong",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "O-",
+    "genetic_stability": 0.941,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 56,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 57,
+      "Hacking": 76,
+      "Engineering": 64
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 33,
+      "extraversion": 68,
+      "agreeableness": 53,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

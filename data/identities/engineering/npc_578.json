@@ -1,0 +1,60 @@
+{
+  "id": "npc_578",
+  "bio": {
+    "full_name": "David Smith",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.912,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 62,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 40,
+      "Perception": 81,
+      "Persuasion": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 65,
+      "extraversion": 56,
+      "agreeableness": 81,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

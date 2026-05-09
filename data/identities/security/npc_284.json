@@ -1,0 +1,60 @@
+{
+  "id": "npc_284",
+  "bio": {
+    "full_name": "Charles Gupta",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.985,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 102,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 54,
+      "Occult_Research": 78,
+      "Persuasion": 55
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 40,
+      "extraversion": 39,
+      "agreeableness": 48,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

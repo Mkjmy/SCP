@@ -1,0 +1,59 @@
+{
+  "id": "npc_617",
+  "bio": {
+    "full_name": "Christopher Miller",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "AB+",
+    "genetic_stability": 0.871,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 100,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 28,
+      "Containment_Logic": 88,
+      "Athletics": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 36,
+      "extraversion": 17,
+      "agreeableness": 48,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

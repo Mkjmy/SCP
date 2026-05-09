@@ -1,0 +1,60 @@
+{
+  "id": "npc_017",
+  "bio": {
+    "full_name": "Paul Miller",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.905,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 70,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 85,
+      "Perception": 32,
+      "Containment_Logic": 22
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 78,
+      "extraversion": 48,
+      "agreeableness": 70,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

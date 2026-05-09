@@ -1,0 +1,59 @@
+{
+  "id": "npc_749",
+  "bio": {
+    "full_name": "James Ivanov",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.885,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 96,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 86,
+      "Stealth": 15,
+      "Firearms": 67
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 86,
+      "extraversion": 69,
+      "agreeableness": 1,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

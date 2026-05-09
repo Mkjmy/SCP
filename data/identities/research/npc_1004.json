@@ -1,0 +1,60 @@
+{
+  "id": "npc_1004",
+  "bio": {
+    "full_name": "Maria Tanaka",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.875,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 62,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 66,
+      "Medicine": 65,
+      "Firearms": 24
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 22,
+      "extraversion": 54,
+      "agreeableness": 57,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

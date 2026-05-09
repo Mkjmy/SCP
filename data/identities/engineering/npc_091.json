@@ -1,0 +1,60 @@
+{
+  "id": "npc_091",
+  "bio": {
+    "full_name": "Arjun Brown",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 57,
+    "blood_type": "O-",
+    "genetic_stability": 0.95,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 67,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 90,
+      "Hacking": 31,
+      "Perception": 26
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 8,
+      "extraversion": 66,
+      "agreeableness": 99,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_685",
+  "bio": {
+    "full_name": "Fatima Smith",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.957,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 58,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 93,
+      "Stealth": 11,
+      "Persuasion": 65
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 40,
+      "extraversion": 84,
+      "agreeableness": 69,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

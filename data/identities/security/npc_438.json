@@ -1,0 +1,60 @@
+{
+  "id": "npc_438",
+  "bio": {
+    "full_name": "Maria Vasiliev",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "A+",
+    "genetic_stability": 0.861,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 56,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 81,
+      "Perception": 87,
+      "Hacking": 95
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 37,
+      "extraversion": 62,
+      "agreeableness": 82,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

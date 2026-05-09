@@ -1,0 +1,60 @@
+{
+  "id": "npc_635",
+  "bio": {
+    "full_name": "James Vasiliev",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.942,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 68,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 11,
+      "Containment_Logic": 34,
+      "Perception": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 24,
+      "extraversion": 50,
+      "agreeableness": 89,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

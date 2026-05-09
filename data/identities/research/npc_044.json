@@ -1,0 +1,59 @@
+{
+  "id": "npc_044",
+  "bio": {
+    "full_name": "Robert Bakker",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "O-",
+    "genetic_stability": 0.884,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 110,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 68,
+      "Medicine": 64,
+      "Occult_Research": 48
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 16,
+      "extraversion": 55,
+      "agreeableness": 70,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

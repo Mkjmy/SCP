@@ -1,0 +1,60 @@
+{
+  "id": "npc_691",
+  "bio": {
+    "full_name": "Arjun Davis",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.867,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 77,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 78,
+      "Athletics": 48,
+      "Medicine": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 91,
+      "extraversion": 85,
+      "agreeableness": 4,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

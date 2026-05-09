@@ -1,0 +1,60 @@
+{
+  "id": "npc_678",
+  "bio": {
+    "full_name": "Charles Kovacs",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.997,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 87,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 14,
+      "Engineering": 89,
+      "Firearms": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 57,
+      "extraversion": 82,
+      "agreeableness": 27,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

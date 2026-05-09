@@ -1,0 +1,60 @@
+{
+  "id": "npc_906",
+  "bio": {
+    "full_name": "Joshua Johnson",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "O-",
+    "genetic_stability": 0.979,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 55,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 90,
+      "Perception": 51,
+      "Firearms": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 14,
+      "extraversion": 86,
+      "agreeableness": 31,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

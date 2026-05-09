@@ -1,0 +1,60 @@
+{
+  "id": "npc_251",
+  "bio": {
+    "full_name": "Elena Garcia",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.992,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 66,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 18,
+      "Hacking": 55,
+      "Perception": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 34,
+      "extraversion": 89,
+      "agreeableness": 28,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

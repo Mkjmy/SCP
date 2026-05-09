@@ -1,0 +1,60 @@
+{
+  "id": "npc_139",
+  "bio": {
+    "full_name": "Anthony Tanaka",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.98,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 78,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 44,
+      "Occult_Research": 74,
+      "Stealth": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 37,
+      "extraversion": 69,
+      "agreeableness": 53,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

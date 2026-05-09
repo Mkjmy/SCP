@@ -1,0 +1,60 @@
+{
+  "id": "npc_548",
+  "bio": {
+    "full_name": "Richard Brown",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "AB-",
+    "genetic_stability": 0.985,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 60,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 79,
+      "Firearms": 53,
+      "Occult_Research": 61
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 45,
+      "extraversion": 85,
+      "agreeableness": 26,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

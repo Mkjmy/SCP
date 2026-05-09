@@ -1,0 +1,60 @@
+{
+  "id": "npc_677",
+  "bio": {
+    "full_name": "John Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.905,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 61,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 40,
+      "Athletics": 82,
+      "Occult_Research": 45
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 59,
+      "extraversion": 14,
+      "agreeableness": 65,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_500",
+  "bio": {
+    "full_name": "David Jones",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "O-",
+    "genetic_stability": 0.88,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 55,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 70,
+      "Athletics": 62,
+      "Occult_Research": 54
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 59,
+      "extraversion": 31,
+      "agreeableness": 36,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

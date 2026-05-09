@@ -1,0 +1,60 @@
+{
+  "id": "npc_717",
+  "bio": {
+    "full_name": "Thomas Jones",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "AB+",
+    "genetic_stability": 0.878,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 65,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 77,
+      "Occult_Research": 66,
+      "Firearms": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 85,
+      "extraversion": 43,
+      "agreeableness": 68,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

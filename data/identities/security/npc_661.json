@@ -1,0 +1,60 @@
+{
+  "id": "npc_661",
+  "bio": {
+    "full_name": "David Miller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "B-",
+    "genetic_stability": 0.933,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 86,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 67,
+      "Perception": 12,
+      "Occult_Research": 77
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 93,
+      "extraversion": 17,
+      "agreeableness": 59,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

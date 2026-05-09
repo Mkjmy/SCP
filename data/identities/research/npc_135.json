@@ -1,0 +1,60 @@
+{
+  "id": "npc_135",
+  "bio": {
+    "full_name": "Robert Williams",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 57,
+    "blood_type": "A-",
+    "genetic_stability": 0.996,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 73,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 66,
+      "Containment_Logic": 31,
+      "Engineering": 95
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 90,
+      "extraversion": 57,
+      "agreeableness": 60,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

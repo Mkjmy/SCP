@@ -1,0 +1,60 @@
+{
+  "id": "npc_007",
+  "bio": {
+    "full_name": "William Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "O+",
+    "genetic_stability": 0.989,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 52,
+      "Containment_Logic": 83,
+      "Engineering": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 91,
+      "extraversion": 76,
+      "agreeableness": 18,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

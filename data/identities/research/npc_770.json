@@ -1,0 +1,60 @@
+{
+  "id": "npc_770",
+  "bio": {
+    "full_name": "Lars Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "AB-",
+    "genetic_stability": 0.891,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 81,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 44,
+      "Engineering": 65,
+      "Persuasion": 90
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 0,
+      "extraversion": 1,
+      "agreeableness": 87,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

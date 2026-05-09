@@ -1,0 +1,60 @@
+{
+  "id": "npc_488",
+  "bio": {
+    "full_name": "Sven Miller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "AB+",
+    "genetic_stability": 0.852,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 100,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 42,
+      "Athletics": 54,
+      "Medicine": 82
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 43,
+      "extraversion": 48,
+      "agreeableness": 48,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

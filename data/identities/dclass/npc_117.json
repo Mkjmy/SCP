@@ -1,0 +1,59 @@
+{
+  "id": "npc_117",
+  "bio": {
+    "full_name": "William Davis",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.874,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 104,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 56,
+      "Perception": 75,
+      "Stealth": 76
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 72,
+      "extraversion": 32,
+      "agreeableness": 34,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

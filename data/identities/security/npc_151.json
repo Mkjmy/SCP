@@ -1,0 +1,60 @@
+{
+  "id": "npc_151",
+  "bio": {
+    "full_name": "Robert Smith",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.929,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 74,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 88,
+      "Occult_Research": 67,
+      "Engineering": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 69,
+      "extraversion": 71,
+      "agreeableness": 66,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

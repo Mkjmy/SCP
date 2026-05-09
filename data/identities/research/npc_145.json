@@ -1,0 +1,59 @@
+{
+  "id": "npc_145",
+  "bio": {
+    "full_name": "Steven Ivanov",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "O+",
+    "genetic_stability": 0.924,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 105,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 86,
+      "Persuasion": 43,
+      "Perception": 89
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 18,
+      "extraversion": 40,
+      "agreeableness": 79,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_059",
+  "bio": {
+    "full_name": "Arjun Gupta",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "A-",
+    "genetic_stability": 0.92,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 53,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 76,
+      "Athletics": 33,
+      "Stealth": 43
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 85,
+      "extraversion": 13,
+      "agreeableness": 41,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

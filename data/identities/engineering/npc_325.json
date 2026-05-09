@@ -1,0 +1,60 @@
+{
+  "id": "npc_325",
+  "bio": {
+    "full_name": "Robert Tanaka",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "AB-",
+    "genetic_stability": 0.966,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 63,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 10,
+      "Perception": 30,
+      "Hacking": 22
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 79,
+      "extraversion": 76,
+      "agreeableness": 62,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_861",
+  "bio": {
+    "full_name": "Olga Tanaka",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.906,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 41,
+      "Hacking": 20,
+      "Athletics": 41
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 11,
+      "extraversion": 50,
+      "agreeableness": 40,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

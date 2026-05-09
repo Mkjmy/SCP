@@ -1,0 +1,59 @@
+{
+  "id": "npc_762",
+  "bio": {
+    "full_name": "Charles Gupta",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "AB+",
+    "genetic_stability": 0.955,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 87,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 37,
+      "Containment_Logic": 88,
+      "Hacking": 31
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 30,
+      "extraversion": 11,
+      "agreeableness": 86,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

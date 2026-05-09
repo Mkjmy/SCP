@@ -1,0 +1,59 @@
+{
+  "id": "npc_322",
+  "bio": {
+    "full_name": "Paul O'Connor",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.952,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 71,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 81,
+      "Hacking": 52,
+      "Perception": 10
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 47,
+      "extraversion": 96,
+      "agreeableness": 47,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

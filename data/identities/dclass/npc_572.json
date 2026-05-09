@@ -1,0 +1,60 @@
+{
+  "id": "npc_572",
+  "bio": {
+    "full_name": "Joshua Bakker",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.904,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 88,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 77,
+      "Persuasion": 26,
+      "Containment_Logic": 58
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 68,
+      "extraversion": 95,
+      "agreeableness": 1,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

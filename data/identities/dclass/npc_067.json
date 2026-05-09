@@ -1,0 +1,60 @@
+{
+  "id": "npc_067",
+  "bio": {
+    "full_name": "Daniel Kovacs",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.85,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 102,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 13,
+      "Persuasion": 64,
+      "Occult_Research": 13
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 1,
+      "extraversion": 51,
+      "agreeableness": 17,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

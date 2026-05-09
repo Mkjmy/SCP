@@ -1,0 +1,60 @@
+{
+  "id": "npc_955",
+  "bio": {
+    "full_name": "Joseph Kovacs",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "B-",
+    "genetic_stability": 0.967,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 77,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 16,
+      "Persuasion": 31,
+      "Athletics": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 1,
+      "extraversion": 54,
+      "agreeableness": 80,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

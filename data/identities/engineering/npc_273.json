@@ -1,0 +1,60 @@
+{
+  "id": "npc_273",
+  "bio": {
+    "full_name": "Mark Kovacs",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "O-",
+    "genetic_stability": 0.912,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 72,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 55,
+      "Perception": 35,
+      "Engineering": 37
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 17,
+      "extraversion": 13,
+      "agreeableness": 47,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

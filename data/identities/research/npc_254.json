@@ -1,0 +1,60 @@
+{
+  "id": "npc_254",
+  "bio": {
+    "full_name": "Paul Muller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "O-",
+    "genetic_stability": 0.999,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 99,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 50,
+      "Hacking": 15,
+      "Perception": 67
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 43,
+      "extraversion": 12,
+      "agreeableness": 39,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

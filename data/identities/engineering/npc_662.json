@@ -1,0 +1,60 @@
+{
+  "id": "npc_662",
+  "bio": {
+    "full_name": "Kenji Muller",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "O-",
+    "genetic_stability": 0.863,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 70,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 89,
+      "Persuasion": 17,
+      "Occult_Research": 70
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 84,
+      "extraversion": 18,
+      "agreeableness": 75,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

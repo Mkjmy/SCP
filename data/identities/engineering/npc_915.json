@@ -1,0 +1,60 @@
+{
+  "id": "npc_915",
+  "bio": {
+    "full_name": "Yuki Bakker",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "O-",
+    "genetic_stability": 0.958,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 52,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 61,
+      "Stealth": 28,
+      "Persuasion": 67
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 8,
+      "extraversion": 62,
+      "agreeableness": 54,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

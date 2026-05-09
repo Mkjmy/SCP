@@ -1,0 +1,60 @@
+{
+  "id": "npc_099",
+  "bio": {
+    "full_name": "Olga Miller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 34,
+    "blood_type": "B+",
+    "genetic_stability": 0.991,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 104,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 87,
+      "Containment_Logic": 66,
+      "Hacking": 14
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 96,
+      "extraversion": 9,
+      "agreeableness": 54,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

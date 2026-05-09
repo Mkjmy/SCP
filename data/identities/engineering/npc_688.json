@@ -1,0 +1,60 @@
+{
+  "id": "npc_688",
+  "bio": {
+    "full_name": "Lars Davis",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "AB+",
+    "genetic_stability": 0.955,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 56,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 53,
+      "Hacking": 38,
+      "Stealth": 71
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 53,
+      "extraversion": 73,
+      "agreeableness": 60,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

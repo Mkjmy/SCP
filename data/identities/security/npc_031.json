@@ -1,0 +1,60 @@
+{
+  "id": "npc_031",
+  "bio": {
+    "full_name": "David Smith",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 51,
+    "blood_type": "A+",
+    "genetic_stability": 0.886,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 81,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 39,
+      "Medicine": 21,
+      "Engineering": 40
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 86,
+      "extraversion": 53,
+      "agreeableness": 75,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

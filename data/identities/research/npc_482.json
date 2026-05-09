@@ -1,0 +1,59 @@
+{
+  "id": "npc_482",
+  "bio": {
+    "full_name": "Anthony Schmidt",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 59,
+    "blood_type": "A+",
+    "genetic_stability": 0.929,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 103,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 25,
+      "Containment_Logic": 43,
+      "Firearms": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 66,
+      "extraversion": 73,
+      "agreeableness": 18,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

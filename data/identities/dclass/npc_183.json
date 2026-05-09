@@ -1,0 +1,60 @@
+{
+  "id": "npc_183",
+  "bio": {
+    "full_name": "Maria Williams",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.863,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 60,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 95,
+      "Medicine": 12,
+      "Athletics": 91
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 11,
+      "extraversion": 29,
+      "agreeableness": 92,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

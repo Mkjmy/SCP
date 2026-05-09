@@ -1,0 +1,60 @@
+{
+  "id": "npc_930",
+  "bio": {
+    "full_name": "David Smith",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "AB-",
+    "genetic_stability": 0.97,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 51,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 94,
+      "Perception": 92,
+      "Medicine": 82
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 0,
+      "extraversion": 82,
+      "agreeableness": 24,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

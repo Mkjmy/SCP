@@ -1,0 +1,60 @@
+{
+  "id": "npc_303",
+  "bio": {
+    "full_name": "Maria Smith",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "O-",
+    "genetic_stability": 0.976,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 74,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 35,
+      "Stealth": 54,
+      "Containment_Logic": 59
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 9,
+      "extraversion": 84,
+      "agreeableness": 95,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

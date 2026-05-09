@@ -1,0 +1,60 @@
+{
+  "id": "npc_425",
+  "bio": {
+    "full_name": "Thomas Gupta",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 58,
+    "blood_type": "O+",
+    "genetic_stability": 0.971,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 93,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 43,
+      "Perception": 90,
+      "Engineering": 87
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 57,
+      "extraversion": 38,
+      "agreeableness": 41,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

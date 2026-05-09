@@ -1,0 +1,60 @@
+{
+  "id": "npc_744",
+  "bio": {
+    "full_name": "Lars Gupta",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "B-",
+    "genetic_stability": 0.996,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 60,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 87,
+      "Containment_Logic": 55,
+      "Firearms": 58
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 40,
+      "extraversion": 48,
+      "agreeableness": 77,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

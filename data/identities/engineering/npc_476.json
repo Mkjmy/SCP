@@ -1,0 +1,60 @@
+{
+  "id": "npc_476",
+  "bio": {
+    "full_name": "James Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "AB+",
+    "genetic_stability": 0.9,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 84,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 17,
+      "Perception": 68,
+      "Medicine": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 20,
+      "extraversion": 86,
+      "agreeableness": 84,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

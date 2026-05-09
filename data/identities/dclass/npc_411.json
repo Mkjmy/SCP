@@ -1,0 +1,59 @@
+{
+  "id": "npc_411",
+  "bio": {
+    "full_name": "Mark Bakker",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.954,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 63,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 67,
+      "Occult_Research": 75,
+      "Persuasion": 56
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 71,
+      "extraversion": 56,
+      "agreeableness": 8,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

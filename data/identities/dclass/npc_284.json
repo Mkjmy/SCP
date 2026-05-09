@@ -1,0 +1,60 @@
+{
+  "id": "npc_284",
+  "bio": {
+    "full_name": "Olga Vasiliev",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.977,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 90,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 31,
+      "Athletics": 13,
+      "Medicine": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 40,
+      "extraversion": 9,
+      "agreeableness": 60,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

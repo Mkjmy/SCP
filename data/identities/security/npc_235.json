@@ -1,0 +1,59 @@
+{
+  "id": "npc_235",
+  "bio": {
+    "full_name": "William Davis",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "B+",
+    "genetic_stability": 0.881,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 62,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 87,
+      "Engineering": 69,
+      "Firearms": 81
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 25,
+      "extraversion": 94,
+      "agreeableness": 90,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

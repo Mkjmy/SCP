@@ -1,0 +1,60 @@
+{
+  "id": "npc_375",
+  "bio": {
+    "full_name": "Christopher Kovacs",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "A-",
+    "genetic_stability": 0.893,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 56,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 73,
+      "Occult_Research": 18,
+      "Persuasion": 92
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 27,
+      "extraversion": 23,
+      "agreeableness": 6,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

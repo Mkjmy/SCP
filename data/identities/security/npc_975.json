@@ -1,0 +1,60 @@
+{
+  "id": "npc_975",
+  "bio": {
+    "full_name": "Matthew Sato",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "B+",
+    "genetic_stability": 0.882,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 69,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 11,
+      "Hacking": 87,
+      "Athletics": 61
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 73,
+      "extraversion": 90,
+      "agreeableness": 54,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

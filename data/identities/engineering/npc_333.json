@@ -1,0 +1,60 @@
+{
+  "id": "npc_333",
+  "bio": {
+    "full_name": "Anthony Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "O-",
+    "genetic_stability": 0.973,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 50,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 15,
+      "Perception": 29,
+      "Medicine": 55
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 11,
+      "extraversion": 29,
+      "agreeableness": 73,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

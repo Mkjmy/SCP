@@ -1,0 +1,60 @@
+{
+  "id": "npc_953",
+  "bio": {
+    "full_name": "Matthew Bakker",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "A-",
+    "genetic_stability": 0.851,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 87,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 17,
+      "Medicine": 73,
+      "Occult_Research": 31
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 23,
+      "extraversion": 97,
+      "agreeableness": 47,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

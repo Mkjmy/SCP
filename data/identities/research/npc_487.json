@@ -1,0 +1,60 @@
+{
+  "id": "npc_487",
+  "bio": {
+    "full_name": "Maria Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.858,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 84,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 53,
+      "Occult_Research": 56,
+      "Firearms": 63
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 57,
+      "extraversion": 37,
+      "agreeableness": 20,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

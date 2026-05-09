@@ -1,0 +1,60 @@
+{
+  "id": "npc_313",
+  "bio": {
+    "full_name": "Arjun Jones",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "O+",
+    "genetic_stability": 0.986,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 103,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 42,
+      "Perception": 79,
+      "Containment_Logic": 36
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 22,
+      "extraversion": 88,
+      "agreeableness": 28,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

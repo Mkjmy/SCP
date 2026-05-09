@@ -1,0 +1,60 @@
+{
+  "id": "npc_460",
+  "bio": {
+    "full_name": "James Smith",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.962,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 69,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 58,
+      "Firearms": 31,
+      "Athletics": 74
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 84,
+      "extraversion": 61,
+      "agreeableness": 80,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

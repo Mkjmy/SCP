@@ -1,0 +1,60 @@
+{
+  "id": "npc_400",
+  "bio": {
+    "full_name": "Maria Wong",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "O-",
+    "genetic_stability": 0.977,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 86,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 68,
+      "Occult_Research": 48,
+      "Perception": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 61,
+      "extraversion": 69,
+      "agreeableness": 32,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

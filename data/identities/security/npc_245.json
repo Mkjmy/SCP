@@ -1,0 +1,60 @@
+{
+  "id": "npc_245",
+  "bio": {
+    "full_name": "Donald Johnson",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.952,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 99,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 26,
+      "Stealth": 17,
+      "Engineering": 14
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 26,
+      "extraversion": 1,
+      "agreeableness": 54,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

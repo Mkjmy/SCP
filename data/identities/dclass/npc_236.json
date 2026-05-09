@@ -1,0 +1,60 @@
+{
+  "id": "npc_236",
+  "bio": {
+    "full_name": "Richard Jones",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.908,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 77,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 70,
+      "Medicine": 48,
+      "Stealth": 69
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 43,
+      "extraversion": 19,
+      "agreeableness": 71,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

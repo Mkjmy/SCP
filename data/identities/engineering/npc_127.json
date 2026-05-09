@@ -1,0 +1,60 @@
+{
+  "id": "npc_127",
+  "bio": {
+    "full_name": "Olga Kovacs",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.981,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 105,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 32,
+      "Medicine": 31,
+      "Athletics": 29
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 58,
+      "extraversion": 86,
+      "agreeableness": 51,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

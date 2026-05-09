@@ -1,0 +1,60 @@
+{
+  "id": "npc_264",
+  "bio": {
+    "full_name": "Christopher Jones",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.909,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 79,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 40,
+      "Engineering": 55,
+      "Stealth": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 58,
+      "extraversion": 79,
+      "agreeableness": 95,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

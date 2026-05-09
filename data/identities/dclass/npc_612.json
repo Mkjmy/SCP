@@ -1,0 +1,60 @@
+{
+  "id": "npc_612",
+  "bio": {
+    "full_name": "Robert Ivanov",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "B+",
+    "genetic_stability": 0.91,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 51,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 73,
+      "Medicine": 26,
+      "Stealth": 14
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 79,
+      "extraversion": 57,
+      "agreeableness": 81,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

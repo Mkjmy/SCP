@@ -1,0 +1,60 @@
+{
+  "id": "npc_074",
+  "bio": {
+    "full_name": "Olga Wong",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.88,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 85,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 69,
+      "Engineering": 17,
+      "Stealth": 81
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 29,
+      "extraversion": 94,
+      "agreeableness": 36,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

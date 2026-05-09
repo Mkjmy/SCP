@@ -1,0 +1,60 @@
+{
+  "id": "npc_418",
+  "bio": {
+    "full_name": "Anthony Gupta",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "B+",
+    "genetic_stability": 0.976,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 51,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 84,
+      "Athletics": 78,
+      "Occult_Research": 59
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 50,
+      "extraversion": 32,
+      "agreeableness": 9,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

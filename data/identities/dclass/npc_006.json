@@ -1,0 +1,60 @@
+{
+  "id": "npc_006",
+  "bio": {
+    "full_name": "Mark Smith",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.995,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 69,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 36,
+      "Engineering": 79,
+      "Athletics": 85
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 13,
+      "extraversion": 16,
+      "agreeableness": 31,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

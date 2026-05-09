@@ -1,0 +1,60 @@
+{
+  "id": "npc_463",
+  "bio": {
+    "full_name": "Donald Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "AB-",
+    "genetic_stability": 0.912,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 62,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 56,
+      "Occult_Research": 83,
+      "Persuasion": 45
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 98,
+      "extraversion": 42,
+      "agreeableness": 13,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

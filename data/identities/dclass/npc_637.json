@@ -1,0 +1,60 @@
+{
+  "id": "npc_637",
+  "bio": {
+    "full_name": "Arjun Dubois",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "A-",
+    "genetic_stability": 0.959,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 90,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 87,
+      "Engineering": 66,
+      "Firearms": 54
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 44,
+      "extraversion": 81,
+      "agreeableness": 38,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

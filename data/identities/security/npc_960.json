@@ -1,0 +1,60 @@
+{
+  "id": "npc_960",
+  "bio": {
+    "full_name": "Maria Tanaka",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.946,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 50,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 84,
+      "Stealth": 16,
+      "Engineering": 66
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 24,
+      "extraversion": 51,
+      "agreeableness": 45,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_977",
+  "bio": {
+    "full_name": "John Johnson",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "A-",
+    "genetic_stability": 0.851,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 62,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 56,
+      "Occult_Research": 18,
+      "Stealth": 18
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 14,
+      "extraversion": 100,
+      "agreeableness": 54,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

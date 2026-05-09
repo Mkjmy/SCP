@@ -1,0 +1,60 @@
+{
+  "id": "npc_121",
+  "bio": {
+    "full_name": "David Williams",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "A-",
+    "genetic_stability": 0.852,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 83,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 85,
+      "Containment_Logic": 50,
+      "Stealth": 26
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 17,
+      "extraversion": 26,
+      "agreeableness": 19,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

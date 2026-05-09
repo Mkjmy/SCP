@@ -1,0 +1,60 @@
+{
+  "id": "npc_929",
+  "bio": {
+    "full_name": "Elena Dubois",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.912,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 71,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 46,
+      "Perception": 27,
+      "Containment_Logic": 59
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 23,
+      "extraversion": 44,
+      "agreeableness": 9,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

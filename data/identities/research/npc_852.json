@@ -1,0 +1,60 @@
+{
+  "id": "npc_852",
+  "bio": {
+    "full_name": "Robert Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.963,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 50,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 38,
+      "Perception": 84,
+      "Containment_Logic": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 65,
+      "extraversion": 65,
+      "agreeableness": 18,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

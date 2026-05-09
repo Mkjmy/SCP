@@ -1,0 +1,60 @@
+{
+  "id": "npc_142",
+  "bio": {
+    "full_name": "Fatima Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.935,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 96,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 48,
+      "Firearms": 75,
+      "Containment_Logic": 19
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 94,
+      "extraversion": 44,
+      "agreeableness": 50,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

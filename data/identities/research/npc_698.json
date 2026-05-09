@@ -1,0 +1,60 @@
+{
+  "id": "npc_698",
+  "bio": {
+    "full_name": "David Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "B+",
+    "genetic_stability": 0.95,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 68,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 86,
+      "Athletics": 59,
+      "Persuasion": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 82,
+      "extraversion": 36,
+      "agreeableness": 71,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_260",
+  "bio": {
+    "full_name": "Olga Dubois",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 49,
+    "blood_type": "O+",
+    "genetic_stability": 0.98,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 75,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 20,
+      "Firearms": 66,
+      "Stealth": 26
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 85,
+      "extraversion": 74,
+      "agreeableness": 8,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_604",
+  "bio": {
+    "full_name": "Robert Sato",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.983,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 95,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 16,
+      "Athletics": 33,
+      "Medicine": 72
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 56,
+      "extraversion": 75,
+      "agreeableness": 29,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

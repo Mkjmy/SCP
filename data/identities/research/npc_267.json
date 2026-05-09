@@ -1,0 +1,60 @@
+{
+  "id": "npc_267",
+  "bio": {
+    "full_name": "Mark Brown",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.869,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 67,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 22,
+      "Engineering": 69,
+      "Athletics": 35
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 62,
+      "extraversion": 93,
+      "agreeableness": 95,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

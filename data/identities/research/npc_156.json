@@ -1,0 +1,60 @@
+{
+  "id": "npc_156",
+  "bio": {
+    "full_name": "Charles Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.982,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 84,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 58,
+      "Engineering": 82,
+      "Medicine": 51
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 56,
+      "extraversion": 51,
+      "agreeableness": 21,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

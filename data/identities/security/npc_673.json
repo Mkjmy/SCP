@@ -1,0 +1,60 @@
+{
+  "id": "npc_673",
+  "bio": {
+    "full_name": "Charles Dubois",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 23,
+    "blood_type": "O-",
+    "genetic_stability": 0.903,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 99,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 28,
+      "Athletics": 40,
+      "Occult_Research": 10
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 88,
+      "extraversion": 14,
+      "agreeableness": 82,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

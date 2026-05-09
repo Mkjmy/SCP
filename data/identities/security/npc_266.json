@@ -1,0 +1,60 @@
+{
+  "id": "npc_266",
+  "bio": {
+    "full_name": "William Smith",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "A+",
+    "genetic_stability": 0.914,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 93,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 38,
+      "Occult_Research": 74,
+      "Containment_Logic": 23
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 25,
+      "extraversion": 76,
+      "agreeableness": 96,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

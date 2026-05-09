@@ -1,0 +1,60 @@
+{
+  "id": "npc_374",
+  "bio": {
+    "full_name": "Olga Davis",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.982,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 50,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 17,
+      "Persuasion": 42,
+      "Perception": 57
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 25,
+      "extraversion": 90,
+      "agreeableness": 63,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

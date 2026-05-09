@@ -1,0 +1,60 @@
+{
+  "id": "npc_923",
+  "bio": {
+    "full_name": "Arjun Tanaka",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "B-",
+    "genetic_stability": 0.95,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 55,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 25,
+      "Athletics": 94,
+      "Persuasion": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 39,
+      "extraversion": 51,
+      "agreeableness": 65,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

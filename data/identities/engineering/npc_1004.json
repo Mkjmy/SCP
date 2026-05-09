@@ -1,0 +1,60 @@
+{
+  "id": "npc_1004",
+  "bio": {
+    "full_name": "Robert Smith",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.851,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 107,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 28,
+      "Firearms": 16,
+      "Hacking": 57
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 52,
+      "extraversion": 20,
+      "agreeableness": 18,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

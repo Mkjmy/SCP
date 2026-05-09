@@ -1,0 +1,59 @@
+{
+  "id": "npc_149",
+  "bio": {
+    "full_name": "Paul Gupta",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.996,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 63,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 90,
+      "Persuasion": 89,
+      "Firearms": 19
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 33,
+      "extraversion": 32,
+      "agreeableness": 38,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

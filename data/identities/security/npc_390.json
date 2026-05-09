@@ -1,0 +1,60 @@
+{
+  "id": "npc_390",
+  "bio": {
+    "full_name": "Richard Garcia",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 46,
+    "blood_type": "A+",
+    "genetic_stability": 0.852,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 104,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 31,
+      "Firearms": 35,
+      "Athletics": 49
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 49,
+      "extraversion": 28,
+      "agreeableness": 4,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

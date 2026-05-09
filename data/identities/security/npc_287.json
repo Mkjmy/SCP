@@ -1,0 +1,60 @@
+{
+  "id": "npc_287",
+  "bio": {
+    "full_name": "William Muller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "O+",
+    "genetic_stability": 0.893,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 51,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 73,
+      "Medicine": 15,
+      "Hacking": 64
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 67,
+      "extraversion": 49,
+      "agreeableness": 82,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

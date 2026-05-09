@@ -1,0 +1,59 @@
+{
+  "id": "npc_087",
+  "bio": {
+    "full_name": "Andrew Muller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.978,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 54,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 17,
+      "Stealth": 37,
+      "Engineering": 33
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 76,
+      "extraversion": 62,
+      "agreeableness": 6,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

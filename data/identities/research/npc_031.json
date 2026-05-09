@@ -1,0 +1,60 @@
+{
+  "id": "npc_031",
+  "bio": {
+    "full_name": "Richard Muller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.919,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 68,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 27,
+      "Containment_Logic": 63,
+      "Firearms": 38
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 32,
+      "extraversion": 57,
+      "agreeableness": 74,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

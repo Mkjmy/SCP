@@ -1,0 +1,60 @@
+{
+  "id": "npc_763",
+  "bio": {
+    "full_name": "Fatima Sato",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "O+",
+    "genetic_stability": 0.914,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 89,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 66,
+      "Engineering": 51,
+      "Perception": 15
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 35,
+      "extraversion": 97,
+      "agreeableness": 13,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

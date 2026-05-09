@@ -1,0 +1,60 @@
+{
+  "id": "npc_747",
+  "bio": {
+    "full_name": "Mark Muller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.895,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 91,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 14,
+      "Athletics": 73,
+      "Persuasion": 19
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 69,
+      "extraversion": 31,
+      "agreeableness": 50,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

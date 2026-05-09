@@ -1,0 +1,60 @@
+{
+  "id": "npc_064",
+  "bio": {
+    "full_name": "Joshua O'Connor",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "O-",
+    "genetic_stability": 0.92,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 100,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 88,
+      "Engineering": 82,
+      "Firearms": 93
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 7,
+      "extraversion": 2,
+      "agreeableness": 9,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

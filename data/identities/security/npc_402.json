@@ -1,0 +1,60 @@
+{
+  "id": "npc_402",
+  "bio": {
+    "full_name": "Joshua O'Connor",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "A-",
+    "genetic_stability": 0.988,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 103,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 64,
+      "Perception": 44,
+      "Engineering": 51
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 4,
+      "extraversion": 100,
+      "agreeableness": 3,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

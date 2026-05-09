@@ -1,0 +1,59 @@
+{
+  "id": "npc_1007",
+  "bio": {
+    "full_name": "Chen Wong",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "AB-",
+    "genetic_stability": 0.945,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 83,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 61,
+      "Containment_Logic": 43,
+      "Athletics": 24
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 35,
+      "extraversion": 18,
+      "agreeableness": 32,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

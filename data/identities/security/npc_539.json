@@ -1,0 +1,60 @@
+{
+  "id": "npc_539",
+  "bio": {
+    "full_name": "Anthony O'Connor",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 58,
+    "blood_type": "AB+",
+    "genetic_stability": 0.886,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 104,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 93,
+      "Occult_Research": 71,
+      "Containment_Logic": 55
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 73,
+      "extraversion": 48,
+      "agreeableness": 15,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

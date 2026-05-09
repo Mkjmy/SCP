@@ -1,0 +1,60 @@
+{
+  "id": "npc_423",
+  "bio": {
+    "full_name": "Arjun Dubois",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "O-",
+    "genetic_stability": 0.893,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 104,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 62,
+      "Persuasion": 55,
+      "Engineering": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 8,
+      "extraversion": 91,
+      "agreeableness": 50,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

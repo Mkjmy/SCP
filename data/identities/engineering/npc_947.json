@@ -1,0 +1,60 @@
+{
+  "id": "npc_947",
+  "bio": {
+    "full_name": "Donald Davis",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "B-",
+    "genetic_stability": 0.96,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 85,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 72,
+      "Firearms": 40,
+      "Engineering": 27
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 41,
+      "extraversion": 68,
+      "agreeableness": 61,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

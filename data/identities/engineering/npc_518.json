@@ -1,0 +1,60 @@
+{
+  "id": "npc_518",
+  "bio": {
+    "full_name": "Elena Williams",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.996,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 107,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 51,
+      "Persuasion": 77,
+      "Hacking": 14
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 64,
+      "extraversion": 17,
+      "agreeableness": 14,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

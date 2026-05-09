@@ -1,0 +1,60 @@
+{
+  "id": "npc_967",
+  "bio": {
+    "full_name": "Fatima Jones",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "B-",
+    "genetic_stability": 0.911,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 98,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 84,
+      "Athletics": 54,
+      "Firearms": 87
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 50,
+      "extraversion": 43,
+      "agreeableness": 43,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_420",
+  "bio": {
+    "full_name": "Charles Jones",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "O-",
+    "genetic_stability": 0.975,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 96,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 14,
+      "Athletics": 19,
+      "Firearms": 60
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 65,
+      "extraversion": 11,
+      "agreeableness": 41,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

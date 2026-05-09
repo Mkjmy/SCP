@@ -1,0 +1,60 @@
+{
+  "id": "npc_191",
+  "bio": {
+    "full_name": "Lars Smith",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.953,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 62,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 21,
+      "Perception": 42,
+      "Firearms": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 38,
+      "extraversion": 11,
+      "agreeableness": 39,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_183",
+  "bio": {
+    "full_name": "Robert Dubois",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 26,
+    "blood_type": "A-",
+    "genetic_stability": 0.967,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 83,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 59,
+      "Stealth": 33,
+      "Athletics": 45
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 28,
+      "extraversion": 9,
+      "agreeableness": 32,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

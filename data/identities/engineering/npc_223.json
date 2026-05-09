@@ -1,0 +1,60 @@
+{
+  "id": "npc_223",
+  "bio": {
+    "full_name": "Donald Ivanov",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.934,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 100,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 20,
+      "Perception": 16,
+      "Medicine": 74
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 9,
+      "extraversion": 58,
+      "agreeableness": 39,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

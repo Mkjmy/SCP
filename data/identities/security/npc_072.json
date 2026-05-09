@@ -1,0 +1,60 @@
+{
+  "id": "npc_072",
+  "bio": {
+    "full_name": "David O'Connor",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 52,
+    "blood_type": "A+",
+    "genetic_stability": 0.854,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 53,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 17,
+      "Engineering": 23,
+      "Stealth": 71
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 68,
+      "extraversion": 83,
+      "agreeableness": 87,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

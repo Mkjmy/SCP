@@ -1,0 +1,60 @@
+{
+  "id": "npc_052",
+  "bio": {
+    "full_name": "Lars Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.892,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 55,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 33,
+      "Stealth": 38,
+      "Persuasion": 17
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 26,
+      "extraversion": 99,
+      "agreeableness": 25,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

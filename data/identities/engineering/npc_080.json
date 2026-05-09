@@ -1,0 +1,60 @@
+{
+  "id": "npc_080",
+  "bio": {
+    "full_name": "John Schmidt",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "B-",
+    "genetic_stability": 0.905,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 55,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 77,
+      "Firearms": 49,
+      "Medicine": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 63,
+      "extraversion": 40,
+      "agreeableness": 41,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

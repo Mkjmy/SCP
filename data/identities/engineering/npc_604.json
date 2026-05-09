@@ -1,0 +1,60 @@
+{
+  "id": "npc_604",
+  "bio": {
+    "full_name": "Joshua Jones",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "B+",
+    "genetic_stability": 0.924,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 84,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 13,
+      "Athletics": 57,
+      "Occult_Research": 52
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 30,
+      "extraversion": 40,
+      "agreeableness": 96,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

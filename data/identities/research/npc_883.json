@@ -1,0 +1,59 @@
+{
+  "id": "npc_883",
+  "bio": {
+    "full_name": "Charles Vasiliev",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.853,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 66,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 20,
+      "Occult_Research": 81,
+      "Engineering": 33
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 90,
+      "extraversion": 47,
+      "agreeableness": 29,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

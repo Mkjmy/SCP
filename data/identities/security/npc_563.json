@@ -1,0 +1,60 @@
+{
+  "id": "npc_563",
+  "bio": {
+    "full_name": "Sven Sato",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.886,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 108,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 90,
+      "Containment_Logic": 68,
+      "Athletics": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 26,
+      "extraversion": 34,
+      "agreeableness": 21,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

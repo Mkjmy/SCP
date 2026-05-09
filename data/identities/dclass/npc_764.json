@@ -1,0 +1,60 @@
+{
+  "id": "npc_764",
+  "bio": {
+    "full_name": "Mark Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 20,
+    "blood_type": "O+",
+    "genetic_stability": 0.948,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 92,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 86,
+      "Perception": 87,
+      "Firearms": 20
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 56,
+      "extraversion": 92,
+      "agreeableness": 88,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

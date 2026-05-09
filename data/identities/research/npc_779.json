@@ -1,0 +1,60 @@
+{
+  "id": "npc_779",
+  "bio": {
+    "full_name": "James Ivanov",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.967,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 97,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 58,
+      "Containment_Logic": 28,
+      "Perception": 26
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 44,
+      "extraversion": 92,
+      "agreeableness": 94,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

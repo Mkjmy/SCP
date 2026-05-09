@@ -1,0 +1,60 @@
+{
+  "id": "npc_232",
+  "bio": {
+    "full_name": "Steven Jones",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.943,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 80,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 87,
+      "Occult_Research": 71,
+      "Athletics": 40
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 16,
+      "extraversion": 11,
+      "agreeableness": 11,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -2,61 +2,81 @@ import random
 from player import BODY_PARTS # Import BODY_PARTS for random injury selection
 
 def attack(player, characters_in_room, scps_in_room=None):
-    """Player attempts to attack."""
-    # Check for SCP-specific attack responses
+    """Player attempts to attack a specific target."""
+    # 1. SCP Response (Highest priority)
     if scps_in_room:
         for scp in scps_in_room:
             scp_responses = scp.on_player_attack(player, None)
             if scp_responses:
-                # If an SCP has a specific deadly response, it might end the game
                 full_response = "\n".join(scp_responses)
-                # Check if any response implies death (for simplicity, check for keywords or a flag)
-                is_deadly = "fades to black" in full_response or "neutralized" in full_response or player.health <= 0
+                is_deadly = "fades to black" in full_response or player.health <= 0
                 return full_response, is_deadly
 
-    # Check for severe arm injuries that might prevent attack
+    # 2. Check injuries
     if player.is_part_severely_injured('left_arm') and player.is_part_severely_injured('right_arm'):
-        return "Your arms are too severely injured to even attempt an attack!", False
+        return "Your arms are too mangled to even lift. You can't attack.", False
 
-    guards = [c for c in characters_in_room if c.role == 'Guard']
-    if guards:
-        guard = guards[0]
+    # 3. Human Combat Logic
+    if characters_in_room:
+        target = characters_in_room[0]
         
-        # Player takes damage from attacking a guard
-        base_damage_taken = random.randint(30, 50) # Substantial damage
+        # --- INSTANT DEATH: GUARDS ---
+        if target.role == "Guard":
+            player.health = 0
+            return f"You attempt to strike {target.name}. Before you can even move, they draw their sidearm and fire. A single shot rings out. The world fades to black.", True
+
+        # --- Standard Combat Stats ---
+        p_str = player.attributes['strength']
+        p_dex = player.attributes['dexterity']
+        t_str = target.attributes['strength']
+        t_dex = target.attributes['dexterity']
         
-        # Apply debuffs to player's attack effectiveness (which might indirectly increase damage taken)
-        attack_debuff = player.get_debuff(action_type='attack')
-        # A simple way to model debuff: increase damage taken
-        damage_taken = base_damage_taken + (attack_debuff * 5) # Each debuff point adds 5 damage
-
-        player.health -= damage_taken
-        morale_message = player.change_morale(-5) # Lose morale for taking damage
-
-        # Apply injury to a random body part
-        if damage_taken > 0:
-            injured_part = random.choice(BODY_PARTS)
-            # Severity scales with damage. For simplicity, if damage is high, more severe injury.
-            if damage_taken >= 45:
-                injury_msg = player.apply_injury(injured_part, 'severe_injury')
-            elif damage_taken >= 35:
-                injury_msg = player.apply_injury(injured_part, 'major_injury')
-            elif damage_taken >= 25:
-                injury_msg = player.apply_injury(injured_part, 'minor_injury')
-            else:
-                injury_msg = "" # No new injury if damage is too low
-
-        if player.health <= 0:
-            return f"You foolishly lunge at {guard.name}. They don't even break a sweat as they neutralize you. The world fades to black.", True
+        p_debuff = player.get_debuff(action_type='attack')
+        effective_p_str = max(1, p_str - p_debuff)
+        
+        # Resolution
+        win_chance = 0.5 + (effective_p_str - t_str) * 0.1 + (p_dex - t_dex) * 0.05
+        win_chance = max(0.05, min(0.95, win_chance))
+        
+        if random.random() < win_chance:
+            # Player Wins
+            target.health -= 30
+            morale_gain = player.change_morale(10)
+            
+            # Strength Gain: If no severe injury present
+            growth_msg = ""
+            if not player.is_part_severely_injured('left_arm') and not player.is_part_severely_injured('right_arm'):
+                player.attributes['strength'] += 1
+                growth_msg = f" The thrill of combat makes you feel stronger! Strength is now {player.attributes['strength']}."
+            
+            msg = f"You catch {target.name} off guard with a vicious strike! They stumble back, clutching their side.{growth_msg}"
+            if morale_gain: msg += f" {morale_gain}"
+            return msg, False
         else:
-            final_message = f"You foolishly lunge at {guard.name}. They easily sidestep and counter, dealing {damage_taken} damage! You manage to stumble back, but that was a mistake."
-            if injury_msg:
-                final_message += f" {injury_msg}"
-            if morale_message:
-                final_message += f" {morale_message}"
-            return final_message, False
-    else:
-        return "You swing wildly at the air. There's nothing here to attack.", False
+            # Player Loses
+            damage_taken = random.randint(20, 40)
+            player.health -= damage_taken
+            player.change_morale(-10)
+            
+            injured_part = random.choice(BODY_PARTS)
+            severity = 'major_injury' if damage_taken > 30 else 'minor_injury'
+            injury_msg = player.apply_injury(injured_part, severity)
+            
+            # Strength Gain even on loss if not badly mangled
+            growth_msg = ""
+            if severity == 'minor_injury':
+                player.attributes['strength'] += 1
+                growth_msg = f" Despite the pain, you feel your muscles hardening. Strength is now {player.attributes['strength']}."
+
+            if player.health <= 0:
+                return f"{target.name} delivers a finishing blow. The world fades to black.", True
+            
+            msg = f"{target.name} strikes back hard, dealing {damage_taken} damage."
+            if growth_msg: msg += f" {growth_msg}"
+            if injury_msg: msg += f" {injury_msg}"
+            return msg, False
+
+    return "You swing at shadows. There's no one here to hit.", False
 
 def run(player, characters_in_room, current_room_exits, game_map, scps_in_room=None):
     """Player attempts to run away."""

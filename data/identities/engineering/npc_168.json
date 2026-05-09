@@ -1,0 +1,60 @@
+{
+  "id": "npc_168",
+  "bio": {
+    "full_name": "Richard Sato",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.967,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 58,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 91,
+      "Firearms": 12,
+      "Persuasion": 94
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 13,
+      "extraversion": 32,
+      "agreeableness": 43,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

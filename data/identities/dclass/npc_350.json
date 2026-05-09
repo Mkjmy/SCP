@@ -1,0 +1,60 @@
+{
+  "id": "npc_350",
+  "bio": {
+    "full_name": "Elena Davis",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.955,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 80,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 36,
+      "Occult_Research": 73,
+      "Containment_Logic": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 18,
+      "extraversion": 93,
+      "agreeableness": 6,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_581",
+  "bio": {
+    "full_name": "Paul Dubois",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.87,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 59,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 49,
+      "Perception": 71,
+      "Persuasion": 69
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 30,
+      "extraversion": 68,
+      "agreeableness": 61,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

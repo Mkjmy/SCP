@@ -1,0 +1,60 @@
+{
+  "id": "npc_667",
+  "bio": {
+    "full_name": "John Smith",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "AB+",
+    "genetic_stability": 0.897,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 72,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 94,
+      "Engineering": 81,
+      "Hacking": 44
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 86,
+      "extraversion": 44,
+      "agreeableness": 15,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

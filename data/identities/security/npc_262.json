@@ -1,0 +1,60 @@
+{
+  "id": "npc_262",
+  "bio": {
+    "full_name": "Andrew Wong",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 55,
+    "blood_type": "AB+",
+    "genetic_stability": 0.928,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 81,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 50,
+      "Medicine": 61,
+      "Persuasion": 35
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 35,
+      "extraversion": 99,
+      "agreeableness": 59,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

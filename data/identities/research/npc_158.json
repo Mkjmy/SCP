@@ -1,0 +1,60 @@
+{
+  "id": "npc_158",
+  "bio": {
+    "full_name": "Thomas Kovacs",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "AB+",
+    "genetic_stability": 0.895,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 108,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 24,
+      "Hacking": 89,
+      "Medicine": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 43,
+      "extraversion": 2,
+      "agreeableness": 48,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

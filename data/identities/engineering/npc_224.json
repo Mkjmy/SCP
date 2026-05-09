@@ -1,0 +1,60 @@
+{
+  "id": "npc_224",
+  "bio": {
+    "full_name": "Olga Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "O+",
+    "genetic_stability": 0.958,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 83,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 28,
+      "Engineering": 91,
+      "Occult_Research": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 5,
+      "extraversion": 46,
+      "agreeableness": 2,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

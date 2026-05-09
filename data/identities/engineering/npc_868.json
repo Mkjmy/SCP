@@ -1,0 +1,60 @@
+{
+  "id": "npc_868",
+  "bio": {
+    "full_name": "Richard Sato",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.971,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 66,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 18,
+      "Persuasion": 49,
+      "Medicine": 68
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 22,
+      "extraversion": 39,
+      "agreeableness": 21,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

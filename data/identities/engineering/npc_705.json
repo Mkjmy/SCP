@@ -1,0 +1,60 @@
+{
+  "id": "npc_705",
+  "bio": {
+    "full_name": "Robert Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.927,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 87,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 77,
+      "Engineering": 62,
+      "Containment_Logic": 86
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 29,
+      "extraversion": 36,
+      "agreeableness": 69,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

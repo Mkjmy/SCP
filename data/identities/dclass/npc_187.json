@@ -1,0 +1,60 @@
+{
+  "id": "npc_187",
+  "bio": {
+    "full_name": "Donald Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "O-",
+    "genetic_stability": 0.96,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 101,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 53,
+      "Persuasion": 72,
+      "Occult_Research": 60
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 100,
+      "extraversion": 4,
+      "agreeableness": 44,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

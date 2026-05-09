@@ -1,0 +1,60 @@
+{
+  "id": "npc_767",
+  "bio": {
+    "full_name": "Donald Dubois",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 56,
+    "blood_type": "A+",
+    "genetic_stability": 0.943,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 106,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 43,
+      "Engineering": 41,
+      "Medicine": 39
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 39,
+      "extraversion": 69,
+      "agreeableness": 80,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

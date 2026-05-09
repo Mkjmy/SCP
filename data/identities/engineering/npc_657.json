@@ -1,0 +1,60 @@
+{
+  "id": "npc_657",
+  "bio": {
+    "full_name": "Robert Dubois",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.965,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 88,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 43,
+      "Occult_Research": 20,
+      "Hacking": 80
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 54,
+      "extraversion": 66,
+      "agreeableness": 59,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

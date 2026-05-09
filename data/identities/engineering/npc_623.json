@@ -1,0 +1,60 @@
+{
+  "id": "npc_623",
+  "bio": {
+    "full_name": "Anthony Brown",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.958,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 57,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 56,
+      "Containment_Logic": 79,
+      "Medicine": 11
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 54,
+      "extraversion": 63,
+      "agreeableness": 28,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_747",
+  "bio": {
+    "full_name": "Thomas Kovacs",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.945,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 98,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 26,
+      "Persuasion": 38,
+      "Perception": 25
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 23,
+      "extraversion": 54,
+      "agreeableness": 96,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_117",
+  "bio": {
+    "full_name": "Chen Miller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "B-",
+    "genetic_stability": 0.998,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 98,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 25,
+      "Persuasion": 95,
+      "Stealth": 22
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 32,
+      "extraversion": 28,
+      "agreeableness": 37,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

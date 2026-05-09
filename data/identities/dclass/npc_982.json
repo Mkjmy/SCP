@@ -1,0 +1,59 @@
+{
+  "id": "npc_982",
+  "bio": {
+    "full_name": "Chen Dubois",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "A-",
+    "genetic_stability": 1.0,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 57,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 21,
+      "Perception": 83,
+      "Firearms": 88
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 34,
+      "extraversion": 13,
+      "agreeableness": 17,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

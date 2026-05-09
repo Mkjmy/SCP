@@ -1,0 +1,59 @@
+{
+  "id": "npc_307",
+  "bio": {
+    "full_name": "Paul Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.963,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 71,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 28,
+      "Medicine": 25,
+      "Engineering": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 2,
+      "extraversion": 48,
+      "agreeableness": 35,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

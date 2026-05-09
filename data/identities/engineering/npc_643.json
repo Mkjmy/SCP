@@ -1,0 +1,60 @@
+{
+  "id": "npc_643",
+  "bio": {
+    "full_name": "Anthony Jones",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "B-",
+    "genetic_stability": 0.993,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 101,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 90,
+      "Containment_Logic": 55,
+      "Stealth": 81
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 49,
+      "extraversion": 29,
+      "agreeableness": 83,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

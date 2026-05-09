@@ -1,0 +1,60 @@
+{
+  "id": "npc_955",
+  "bio": {
+    "full_name": "Donald Sato",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.931,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 81,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 35,
+      "Persuasion": 78,
+      "Hacking": 52
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 35,
+      "extraversion": 50,
+      "agreeableness": 59,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

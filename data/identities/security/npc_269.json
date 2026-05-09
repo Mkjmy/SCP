@@ -1,0 +1,60 @@
+{
+  "id": "npc_269",
+  "bio": {
+    "full_name": "Matthew Johnson",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.977,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 80,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 75,
+      "Firearms": 85,
+      "Stealth": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 67,
+      "extraversion": 95,
+      "agreeableness": 55,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

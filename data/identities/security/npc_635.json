@@ -1,0 +1,60 @@
+{
+  "id": "npc_635",
+  "bio": {
+    "full_name": "Arjun Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 52,
+    "blood_type": "A-",
+    "genetic_stability": 0.852,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 91,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 86,
+      "Occult_Research": 25,
+      "Stealth": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 67,
+      "extraversion": 11,
+      "agreeableness": 66,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

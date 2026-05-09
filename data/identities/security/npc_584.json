@@ -1,0 +1,60 @@
+{
+  "id": "npc_584",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.88,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 97,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 93,
+      "Stealth": 89,
+      "Medicine": 79
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 13,
+      "extraversion": 86,
+      "agreeableness": 19,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_312",
+  "bio": {
+    "full_name": "Anthony Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "O+",
+    "genetic_stability": 0.984,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 80,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 23,
+      "Persuasion": 70,
+      "Occult_Research": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 1,
+      "extraversion": 98,
+      "agreeableness": 73,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

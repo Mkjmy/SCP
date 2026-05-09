@@ -1,0 +1,60 @@
+{
+  "id": "npc_435",
+  "bio": {
+    "full_name": "Steven Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "O+",
+    "genetic_stability": 0.884,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 100,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 31,
+      "Containment_Logic": 54,
+      "Hacking": 35
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 2,
+      "extraversion": 16,
+      "agreeableness": 28,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

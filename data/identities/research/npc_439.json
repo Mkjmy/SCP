@@ -1,0 +1,60 @@
+{
+  "id": "npc_439",
+  "bio": {
+    "full_name": "Thomas Williams",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "AB-",
+    "genetic_stability": 0.865,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 107,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Perception": 41,
+      "Athletics": 30,
+      "Hacking": 60
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 76,
+      "extraversion": 99,
+      "agreeableness": 16,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

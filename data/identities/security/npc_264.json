@@ -1,0 +1,60 @@
+{
+  "id": "npc_264",
+  "bio": {
+    "full_name": "Chen Vasiliev",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "B-",
+    "genetic_stability": 0.985,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 68,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 27,
+      "Persuasion": 60,
+      "Perception": 32
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 49,
+      "extraversion": 100,
+      "agreeableness": 10,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

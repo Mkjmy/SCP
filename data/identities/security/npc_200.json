@@ -1,0 +1,60 @@
+{
+  "id": "npc_200",
+  "bio": {
+    "full_name": "Chen Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.894,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 108,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 30,
+      "Firearms": 89,
+      "Stealth": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 25,
+      "extraversion": 25,
+      "agreeableness": 11,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

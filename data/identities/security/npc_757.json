@@ -1,0 +1,60 @@
+{
+  "id": "npc_757",
+  "bio": {
+    "full_name": "Yuki Gupta",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.918,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 75,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 27,
+      "Medicine": 64,
+      "Occult_Research": 54
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 48,
+      "extraversion": 47,
+      "agreeableness": 16,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

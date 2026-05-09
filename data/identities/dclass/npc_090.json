@@ -1,0 +1,60 @@
+{
+  "id": "npc_090",
+  "bio": {
+    "full_name": "Kenji Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.995,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 82,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 34,
+      "Perception": 94,
+      "Engineering": 26
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 4,
+      "extraversion": 35,
+      "agreeableness": 72,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

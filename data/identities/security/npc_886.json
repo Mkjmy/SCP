@@ -1,0 +1,60 @@
+{
+  "id": "npc_886",
+  "bio": {
+    "full_name": "Steven Williams",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "B+",
+    "genetic_stability": 0.946,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 98,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 62,
+      "Persuasion": 92,
+      "Firearms": 65
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 67,
+      "extraversion": 29,
+      "agreeableness": 77,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

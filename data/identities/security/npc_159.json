@@ -1,0 +1,60 @@
+{
+  "id": "npc_159",
+  "bio": {
+    "full_name": "Thomas Wong",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.859,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 94,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 11,
+      "Athletics": 74,
+      "Perception": 93
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 72,
+      "extraversion": 26,
+      "agreeableness": 74,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

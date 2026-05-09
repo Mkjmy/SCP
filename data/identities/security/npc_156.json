@@ -1,0 +1,60 @@
+{
+  "id": "npc_156",
+  "bio": {
+    "full_name": "Charles Smith",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 52,
+    "blood_type": "AB+",
+    "genetic_stability": 0.893,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 103,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 24,
+      "Occult_Research": 20,
+      "Engineering": 69
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 64,
+      "extraversion": 37,
+      "agreeableness": 56,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

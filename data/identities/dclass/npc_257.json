@@ -1,0 +1,60 @@
+{
+  "id": "npc_257",
+  "bio": {
+    "full_name": "John Wong",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "AB+",
+    "genetic_stability": 0.897,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 89,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 44,
+      "Athletics": 30,
+      "Hacking": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 23,
+      "extraversion": 19,
+      "agreeableness": 79,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

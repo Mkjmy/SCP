@@ -1,0 +1,60 @@
+{
+  "id": "npc_870",
+  "bio": {
+    "full_name": "Christopher Miller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "B-",
+    "genetic_stability": 0.977,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 53,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 60,
+      "Medicine": 49,
+      "Stealth": 81
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 7,
+      "extraversion": 52,
+      "agreeableness": 36,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_908",
+  "bio": {
+    "full_name": "David Davis",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.932,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 83,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 41,
+      "Medicine": 87,
+      "Persuasion": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 54,
+      "extraversion": 14,
+      "agreeableness": 39,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

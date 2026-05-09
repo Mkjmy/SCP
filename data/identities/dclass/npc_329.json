@@ -1,0 +1,60 @@
+{
+  "id": "npc_329",
+  "bio": {
+    "full_name": "Donald Muller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.953,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 81,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 85,
+      "Occult_Research": 90,
+      "Hacking": 72
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 23,
+      "extraversion": 30,
+      "agreeableness": 65,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

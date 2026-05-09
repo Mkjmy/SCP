@@ -1,0 +1,60 @@
+{
+  "id": "npc_787",
+  "bio": {
+    "full_name": "Olga Johnson",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.877,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 51,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 64,
+      "Firearms": 63,
+      "Stealth": 18
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 10,
+      "extraversion": 55,
+      "agreeableness": 92,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

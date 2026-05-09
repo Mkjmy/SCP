@@ -1,0 +1,60 @@
+{
+  "id": "npc_978",
+  "bio": {
+    "full_name": "Charles O'Connor",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.936,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 60,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 82,
+      "Firearms": 20,
+      "Hacking": 31
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 80,
+      "extraversion": 71,
+      "agreeableness": 99,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

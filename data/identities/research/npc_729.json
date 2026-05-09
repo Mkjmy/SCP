@@ -1,0 +1,59 @@
+{
+  "id": "npc_729",
+  "bio": {
+    "full_name": "Fatima Bakker",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "A-",
+    "genetic_stability": 0.878,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 65,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 90,
+      "Perception": 84,
+      "Medicine": 38
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 43,
+      "extraversion": 30,
+      "agreeableness": 85,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

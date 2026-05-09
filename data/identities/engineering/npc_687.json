@@ -1,0 +1,60 @@
+{
+  "id": "npc_687",
+  "bio": {
+    "full_name": "David Gupta",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.911,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 63,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 78,
+      "Containment_Logic": 90,
+      "Occult_Research": 80
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 83,
+      "extraversion": 94,
+      "agreeableness": 32,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

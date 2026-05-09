@@ -1,0 +1,60 @@
+{
+  "id": "npc_209",
+  "bio": {
+    "full_name": "Christopher Vasiliev",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "AB+",
+    "genetic_stability": 0.937,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 79,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 56,
+      "Stealth": 41,
+      "Perception": 48
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 0,
+      "extraversion": 100,
+      "agreeableness": 57,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

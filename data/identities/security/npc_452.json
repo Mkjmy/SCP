@@ -1,0 +1,60 @@
+{
+  "id": "npc_452",
+  "bio": {
+    "full_name": "Olga Sato",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.912,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 101,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 40,
+      "Containment_Logic": 62,
+      "Persuasion": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 93,
+      "extraversion": 50,
+      "agreeableness": 98,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

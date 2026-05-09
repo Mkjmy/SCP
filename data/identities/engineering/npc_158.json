@@ -1,0 +1,60 @@
+{
+  "id": "npc_158",
+  "bio": {
+    "full_name": "David Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "A+",
+    "genetic_stability": 0.994,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 65,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 89,
+      "Hacking": 25,
+      "Occult_Research": 61
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 74,
+      "extraversion": 78,
+      "agreeableness": 63,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_314",
+  "bio": {
+    "full_name": "Robert Tanaka",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.907,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 52,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 64,
+      "Stealth": 34,
+      "Persuasion": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 53,
+      "extraversion": 1,
+      "agreeableness": 57,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

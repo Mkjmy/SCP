@@ -1,0 +1,60 @@
+{
+  "id": "npc_760",
+  "bio": {
+    "full_name": "Donald Sato",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "AB+",
+    "genetic_stability": 0.885,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 55,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 76,
+      "Persuasion": 79,
+      "Perception": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 51,
+      "extraversion": 27,
+      "agreeableness": 25,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

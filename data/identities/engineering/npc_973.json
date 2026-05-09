@@ -1,0 +1,60 @@
+{
+  "id": "npc_973",
+  "bio": {
+    "full_name": "Yuki Dubois",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.89,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 71,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 78,
+      "Stealth": 20,
+      "Occult_Research": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 58,
+      "extraversion": 49,
+      "agreeableness": 27,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

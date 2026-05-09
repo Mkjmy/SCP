@@ -1,0 +1,60 @@
+{
+  "id": "npc_898",
+  "bio": {
+    "full_name": "James Miller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 62,
+    "blood_type": "O+",
+    "genetic_stability": 0.93,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 61,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 80,
+      "Containment_Logic": 59,
+      "Occult_Research": 18
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 2,
+      "extraversion": 63,
+      "agreeableness": 53,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

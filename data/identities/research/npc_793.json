@@ -1,0 +1,59 @@
+{
+  "id": "npc_793",
+  "bio": {
+    "full_name": "William Davis",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "B-",
+    "genetic_stability": 0.943,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 65,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 61,
+      "Medicine": 63,
+      "Persuasion": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 30,
+      "extraversion": 77,
+      "agreeableness": 84,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

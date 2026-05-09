@@ -1,0 +1,60 @@
+{
+  "id": "npc_834",
+  "bio": {
+    "full_name": "Kenji Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.949,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 103,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 45,
+      "Firearms": 27,
+      "Engineering": 68
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 2,
+      "extraversion": 88,
+      "agreeableness": 69,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

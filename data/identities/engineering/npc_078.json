@@ -1,0 +1,60 @@
+{
+  "id": "npc_078",
+  "bio": {
+    "full_name": "Charles Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.946,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 108,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 88,
+      "Stealth": 78,
+      "Hacking": 65
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 74,
+      "extraversion": 94,
+      "agreeableness": 0,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

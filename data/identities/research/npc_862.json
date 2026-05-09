@@ -1,0 +1,60 @@
+{
+  "id": "npc_862",
+  "bio": {
+    "full_name": "Elena Garcia",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "AB+",
+    "genetic_stability": 0.866,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 91,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 55,
+      "Hacking": 17,
+      "Containment_Logic": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 66,
+      "extraversion": 99,
+      "agreeableness": 38,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_026",
+  "bio": {
+    "full_name": "Andrew Ivanov",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.924,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 100,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 31,
+      "Persuasion": 14,
+      "Containment_Logic": 14
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 54,
+      "extraversion": 2,
+      "agreeableness": 40,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

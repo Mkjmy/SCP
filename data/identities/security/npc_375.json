@@ -1,0 +1,60 @@
+{
+  "id": "npc_375",
+  "bio": {
+    "full_name": "David Muller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.91,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 77,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 91,
+      "Persuasion": 57,
+      "Hacking": 42
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 0,
+      "extraversion": 95,
+      "agreeableness": 10,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_859",
+  "bio": {
+    "full_name": "Lars Schmidt",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.888,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 58,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 47,
+      "Stealth": 86,
+      "Occult_Research": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 82,
+      "extraversion": 27,
+      "agreeableness": 76,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

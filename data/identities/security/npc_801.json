@@ -1,0 +1,60 @@
+{
+  "id": "npc_801",
+  "bio": {
+    "full_name": "Robert Brown",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.988,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 69,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 17,
+      "Engineering": 42,
+      "Perception": 35
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 41,
+      "extraversion": 73,
+      "agreeableness": 44,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

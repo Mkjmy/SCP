@@ -1,0 +1,60 @@
+{
+  "id": "npc_329",
+  "bio": {
+    "full_name": "James Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "B+",
+    "genetic_stability": 0.92,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 92,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 12,
+      "Engineering": 38,
+      "Firearms": 60
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 16,
+      "extraversion": 87,
+      "agreeableness": 26,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

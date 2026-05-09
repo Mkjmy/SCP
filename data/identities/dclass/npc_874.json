@@ -1,0 +1,60 @@
+{
+  "id": "npc_874",
+  "bio": {
+    "full_name": "Paul O'Connor",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.894,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 106,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 52,
+      "Stealth": 66,
+      "Firearms": 33
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 73,
+      "extraversion": 77,
+      "agreeableness": 72,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

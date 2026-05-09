@@ -1,0 +1,60 @@
+{
+  "id": "npc_664",
+  "bio": {
+    "full_name": "Christopher Muller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.96,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 59,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 94,
+      "Perception": 51,
+      "Medicine": 29
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 75,
+      "extraversion": 8,
+      "agreeableness": 47,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

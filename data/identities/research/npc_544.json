@@ -1,0 +1,60 @@
+{
+  "id": "npc_544",
+  "bio": {
+    "full_name": "William Garcia",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 49,
+    "blood_type": "B+",
+    "genetic_stability": 0.894,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 57,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 38,
+      "Athletics": 70,
+      "Persuasion": 37
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 33,
+      "extraversion": 31,
+      "agreeableness": 87,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_058",
+  "bio": {
+    "full_name": "William Muller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "AB+",
+    "genetic_stability": 0.918,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 47,
+      "Hacking": 16,
+      "Containment_Logic": 24
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 43,
+      "extraversion": 35,
+      "agreeableness": 61,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

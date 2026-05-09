@@ -1,0 +1,60 @@
+{
+  "id": "npc_435",
+  "bio": {
+    "full_name": "Robert Gupta",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.986,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 52,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 44,
+      "Athletics": 51,
+      "Stealth": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 83,
+      "extraversion": 7,
+      "agreeableness": 35,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

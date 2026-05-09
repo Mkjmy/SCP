@@ -1,0 +1,60 @@
+{
+  "id": "npc_029",
+  "bio": {
+    "full_name": "Arjun Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.954,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 104,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 36,
+      "Perception": 85,
+      "Athletics": 35
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 3,
+      "extraversion": 72,
+      "agreeableness": 92,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

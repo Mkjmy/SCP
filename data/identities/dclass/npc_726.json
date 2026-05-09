@@ -1,0 +1,60 @@
+{
+  "id": "npc_726",
+  "bio": {
+    "full_name": "Yuki Vasiliev",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.85,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 90,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 20,
+      "Firearms": 93,
+      "Medicine": 35
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 77,
+      "extraversion": 47,
+      "agreeableness": 71,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

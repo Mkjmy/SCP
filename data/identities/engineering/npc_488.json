@@ -1,0 +1,60 @@
+{
+  "id": "npc_488",
+  "bio": {
+    "full_name": "Fatima Brown",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "AB-",
+    "genetic_stability": 0.904,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 109,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 61,
+      "Medicine": 14,
+      "Occult_Research": 61
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 78,
+      "extraversion": 67,
+      "agreeableness": 83,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

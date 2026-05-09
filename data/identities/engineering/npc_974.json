@@ -1,0 +1,60 @@
+{
+  "id": "npc_974",
+  "bio": {
+    "full_name": "James Wong",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "B-",
+    "genetic_stability": 0.891,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 59,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 77,
+      "Containment_Logic": 90,
+      "Athletics": 71
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 69,
+      "extraversion": 53,
+      "agreeableness": 33,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

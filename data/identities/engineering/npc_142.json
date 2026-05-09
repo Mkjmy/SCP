@@ -1,0 +1,60 @@
+{
+  "id": "npc_142",
+  "bio": {
+    "full_name": "Richard Muller",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.985,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 34,
+      "Medicine": 23,
+      "Athletics": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 5,
+      "extraversion": 50,
+      "agreeableness": 15,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

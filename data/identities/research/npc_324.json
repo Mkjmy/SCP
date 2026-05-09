@@ -1,0 +1,60 @@
+{
+  "id": "npc_324",
+  "bio": {
+    "full_name": "Matthew Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "A+",
+    "genetic_stability": 0.855,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 95,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 92,
+      "Persuasion": 45,
+      "Perception": 65
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 69,
+      "extraversion": 54,
+      "agreeableness": 11,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

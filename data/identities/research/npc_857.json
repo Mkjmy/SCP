@@ -1,0 +1,60 @@
+{
+  "id": "npc_857",
+  "bio": {
+    "full_name": "Robert Brown",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "AB-",
+    "genetic_stability": 0.944,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 74,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 32,
+      "Occult_Research": 47,
+      "Persuasion": 90
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 4,
+      "extraversion": 36,
+      "agreeableness": 17,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

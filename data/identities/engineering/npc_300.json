@@ -1,0 +1,60 @@
+{
+  "id": "npc_300",
+  "bio": {
+    "full_name": "Richard Muller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.883,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 88,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 54,
+      "Perception": 54,
+      "Engineering": 81
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 50,
+      "extraversion": 27,
+      "agreeableness": 4,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

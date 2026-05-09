@@ -1,0 +1,60 @@
+{
+  "id": "npc_114",
+  "bio": {
+    "full_name": "Joseph Ivanov",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 54,
+    "blood_type": "B+",
+    "genetic_stability": 0.933,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 75,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 86,
+      "Hacking": 76,
+      "Perception": 45
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 78,
+      "extraversion": 56,
+      "agreeableness": 60,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

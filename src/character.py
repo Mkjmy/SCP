@@ -40,6 +40,52 @@ class Character:
         self.attributes = attributes
         self.level = 1 # Added for debug display
         self.current_behavior = self.get_behavioral_description()
+        
+        # --- Sim Needs (Hidden) ---
+        self.needs = {
+            "hunger": random.randint(0, 30),
+            "energy": random.randint(70, 100),
+            "bladder": random.randint(0, 20),
+            "stress": 0
+        }
+        
+        # --- Task System ---
+        self.current_task = None # { "type": "ESCORT", "target": "npc_id", "dest": "room_id" }
+        self.is_on_critical_duty = False 
+        
+        # --- Focus / LOD System ---
+        self.is_focused = False
+        self.focus_timer = 0
+
+    def needs_tick(self):
+        """Updates needs for a single turn."""
+        self.needs["hunger"] = min(100, self.needs["hunger"] + 1)
+        self.needs["energy"] = max(0, self.needs["energy"] - 1)
+        self.needs["bladder"] = min(100, self.needs["bladder"] + 2)
+        
+        # Mental stability affects stress gain
+        stability = getattr(self, 'master_identity', {}).get('psychological_profile', {}).get('mental_stability', 0.5)
+        if stability < 0.5:
+            self.needs["stress"] = min(100, self.needs["stress"] + 1)
+
+    def get_sensation(self):
+        """Returns a narrative description of physical/mental state."""
+        h = self.needs["hunger"]
+        e = self.needs["energy"]
+        s = self.needs["stress"]
+        
+        sensations = []
+        if h > 80: sensations.append("famished")
+        elif h > 50: sensations.append("hungry")
+        
+        if e < 20: sensations.append("exhausted")
+        elif e < 50: sensations.append("tired")
+        
+        if s > 70: sensations.append("panicked")
+        elif s > 40: sensations.append("on edge")
+        
+        if not sensations: return "feeling stable"
+        return "feeling " + " and ".join(sensations)
 
     def update_behavior(self):
         """Updates the character's behavioral description for a new turn."""
@@ -61,6 +107,8 @@ class Character:
         # Default/Sane behaviors
         if self.role == "Guard":
             return random.choice(["is standing guard, hand near their holster.", "is checking their radio with a bored expression.", "is scanning the room with clinical detachment."])
+        elif self.role == "ISD Agent":
+            return random.choice(["is observing the personnel with an unsettling, blank stare.", "is taking precise notes on a digital tablet.", "is standing perfectly still, watching for any sign of disloyalty."])
         else:
             return random.choice(["is sitting quietly on the edge of a bunk.", "is staring at the heavy steel door.", "is resting their head against the cool concrete wall."])
 
@@ -127,6 +175,13 @@ def generate_character(role):
         attributes['dexterity'] += random.randint(1, 3) # Guards are also quick
         health = random.randint(90, 130) # More healthy
         stamina = random.randint(90, 130) # More stamina
+    elif role_str == 'isd agent':
+        specialty = "Internal Security"
+        clearance_level = 4
+        attributes['intelligence'] += random.randint(3, 5)
+        attributes['dexterity'] += random.randint(2, 4)
+        health = random.randint(100, 140)
+        stamina = random.randint(100, 140)
     else: # D-Class
         specialty = "Expendable"
         clearance_level = 0

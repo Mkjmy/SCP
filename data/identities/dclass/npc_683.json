@@ -1,0 +1,60 @@
+{
+  "id": "npc_683",
+  "bio": {
+    "full_name": "Arjun Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.927,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 92,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 25,
+      "Occult_Research": 21,
+      "Stealth": 61
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 84,
+      "extraversion": 42,
+      "agreeableness": 18,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_782",
+  "bio": {
+    "full_name": "Yuki Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 65,
+    "blood_type": "AB-",
+    "genetic_stability": 0.933,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 109,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 65,
+      "Hacking": 32,
+      "Engineering": 22
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 92,
+      "extraversion": 77,
+      "agreeableness": 79,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

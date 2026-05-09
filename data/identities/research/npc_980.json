@@ -1,0 +1,60 @@
+{
+  "id": "npc_980",
+  "bio": {
+    "full_name": "Robert Davis",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.868,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 98,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 65,
+      "Stealth": 49,
+      "Containment_Logic": 35
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 35,
+      "extraversion": 13,
+      "agreeableness": 86,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_394",
+  "bio": {
+    "full_name": "Kenji Smith",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "O+",
+    "genetic_stability": 0.978,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 89,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 21,
+      "Hacking": 27,
+      "Containment_Logic": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 98,
+      "extraversion": 26,
+      "agreeableness": 1,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

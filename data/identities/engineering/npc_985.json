@@ -1,0 +1,60 @@
+{
+  "id": "npc_985",
+  "bio": {
+    "full_name": "Mark Kovacs",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.877,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 70,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 53,
+      "Firearms": 62,
+      "Containment_Logic": 28
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 71,
+      "extraversion": 43,
+      "agreeableness": 9,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

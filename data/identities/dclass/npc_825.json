@@ -1,0 +1,60 @@
+{
+  "id": "npc_825",
+  "bio": {
+    "full_name": "Christopher O'Connor",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.852,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 68,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 67,
+      "Perception": 55,
+      "Stealth": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 60,
+      "extraversion": 24,
+      "agreeableness": 22,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_619",
+  "bio": {
+    "full_name": "Fatima Johnson",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.917,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 89,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 41,
+      "Persuasion": 22,
+      "Firearms": 30
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 21,
+      "extraversion": 13,
+      "agreeableness": 31,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

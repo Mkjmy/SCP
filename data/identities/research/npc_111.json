@@ -1,0 +1,60 @@
+{
+  "id": "npc_111",
+  "bio": {
+    "full_name": "Chen Miller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 65,
+    "blood_type": "B-",
+    "genetic_stability": 0.883,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 76,
+      "Medicine": 43,
+      "Perception": 60
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 85,
+      "extraversion": 72,
+      "agreeableness": 1,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

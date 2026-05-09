@@ -1,0 +1,60 @@
+{
+  "id": "npc_513",
+  "bio": {
+    "full_name": "John Miller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 50,
+    "blood_type": "AB-",
+    "genetic_stability": 0.924,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 92,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 26,
+      "Hacking": 73,
+      "Perception": 25
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 3,
+      "extraversion": 66,
+      "agreeableness": 40,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

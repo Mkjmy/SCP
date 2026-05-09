@@ -1,0 +1,60 @@
+{
+  "id": "npc_150",
+  "bio": {
+    "full_name": "Robert Schmidt",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "O+",
+    "genetic_stability": 0.862,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 85,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 28,
+      "Perception": 81,
+      "Persuasion": 13
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 10,
+      "extraversion": 66,
+      "agreeableness": 99,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

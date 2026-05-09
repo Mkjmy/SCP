@@ -1,0 +1,60 @@
+{
+  "id": "npc_302",
+  "bio": {
+    "full_name": "Yuki Smith",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.983,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 76,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 15,
+      "Hacking": 34,
+      "Perception": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 96,
+      "extraversion": 50,
+      "agreeableness": 57,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

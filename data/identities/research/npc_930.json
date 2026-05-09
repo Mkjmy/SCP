@@ -1,0 +1,60 @@
+{
+  "id": "npc_930",
+  "bio": {
+    "full_name": "Mark Bakker",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.878,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 55,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 79,
+      "Perception": 94,
+      "Occult_Research": 16
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 89,
+      "extraversion": 70,
+      "agreeableness": 82,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

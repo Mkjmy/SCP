@@ -1,0 +1,60 @@
+{
+  "id": "npc_323",
+  "bio": {
+    "full_name": "Mark Williams",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 65,
+    "blood_type": "A+",
+    "genetic_stability": 0.865,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 104,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 33,
+      "Occult_Research": 70,
+      "Hacking": 61
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 22,
+      "extraversion": 55,
+      "agreeableness": 58,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

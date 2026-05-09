@@ -1,0 +1,60 @@
+{
+  "id": "npc_582",
+  "bio": {
+    "full_name": "Robert Garcia",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "O+",
+    "genetic_stability": 0.87,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 94,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 23,
+      "Athletics": 87,
+      "Stealth": 91
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 44,
+      "extraversion": 36,
+      "agreeableness": 13,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

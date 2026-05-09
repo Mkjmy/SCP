@@ -1,0 +1,59 @@
+{
+  "id": "npc_312",
+  "bio": {
+    "full_name": "Donald Muller",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.951,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 80,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 28,
+      "Engineering": 49,
+      "Perception": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 3,
+      "extraversion": 98,
+      "agreeableness": 33,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

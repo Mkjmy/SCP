@@ -1,0 +1,60 @@
+{
+  "id": "npc_393",
+  "bio": {
+    "full_name": "Fatima Brown",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.858,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 83,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 51,
+      "Containment_Logic": 23,
+      "Engineering": 55
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 51,
+      "extraversion": 93,
+      "agreeableness": 80,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

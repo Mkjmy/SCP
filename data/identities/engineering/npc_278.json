@@ -1,0 +1,60 @@
+{
+  "id": "npc_278",
+  "bio": {
+    "full_name": "Steven Muller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.903,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 60,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 39,
+      "Hacking": 57,
+      "Occult_Research": 43
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 2,
+      "extraversion": 57,
+      "agreeableness": 34,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

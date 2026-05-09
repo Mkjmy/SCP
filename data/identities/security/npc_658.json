@@ -1,0 +1,60 @@
+{
+  "id": "npc_658",
+  "bio": {
+    "full_name": "David Sato",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.922,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 67,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 68,
+      "Hacking": 15,
+      "Persuasion": 39
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 85,
+      "extraversion": 86,
+      "agreeableness": 54,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

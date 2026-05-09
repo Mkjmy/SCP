@@ -1,0 +1,60 @@
+{
+  "id": "npc_844",
+  "bio": {
+    "full_name": "Paul Gupta",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 56,
+    "blood_type": "A-",
+    "genetic_stability": 0.922,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 78,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 51,
+      "Firearms": 51,
+      "Athletics": 75
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 10,
+      "extraversion": 77,
+      "agreeableness": 32,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

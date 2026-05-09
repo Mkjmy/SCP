@@ -1,0 +1,60 @@
+{
+  "id": "npc_155",
+  "bio": {
+    "full_name": "Elena Muller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.988,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 84,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 63,
+      "Containment_Logic": 54,
+      "Engineering": 36
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 40,
+      "extraversion": 94,
+      "agreeableness": 14,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_044",
+  "bio": {
+    "full_name": "Michael Jones",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.952,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 107,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 64,
+      "Stealth": 59,
+      "Perception": 83
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 68,
+      "extraversion": 38,
+      "agreeableness": 9,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

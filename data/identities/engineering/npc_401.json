@@ -1,0 +1,60 @@
+{
+  "id": "npc_401",
+  "bio": {
+    "full_name": "James Tanaka",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "A-",
+    "genetic_stability": 0.869,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 82,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 40,
+      "Occult_Research": 69,
+      "Persuasion": 79
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 29,
+      "extraversion": 19,
+      "agreeableness": 79,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

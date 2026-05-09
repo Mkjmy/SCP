@@ -1,0 +1,59 @@
+{
+  "id": "npc_777",
+  "bio": {
+    "full_name": "Charles Vasiliev",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "O+",
+    "genetic_stability": 0.913,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 62,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 82,
+      "Medicine": 88,
+      "Perception": 34
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 60,
+      "extraversion": 65,
+      "agreeableness": 12,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

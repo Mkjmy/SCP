@@ -1,0 +1,60 @@
+{
+  "id": "npc_693",
+  "bio": {
+    "full_name": "Yuki Johnson",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "AB-",
+    "genetic_stability": 0.977,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 61,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 91,
+      "Firearms": 22,
+      "Stealth": 40
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 80,
+      "extraversion": 96,
+      "agreeableness": 85,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

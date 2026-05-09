@@ -1,0 +1,60 @@
+{
+  "id": "npc_081",
+  "bio": {
+    "full_name": "James Dubois",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.993,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 95,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 24,
+      "Containment_Logic": 56,
+      "Perception": 37
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 79,
+      "extraversion": 69,
+      "agreeableness": 6,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

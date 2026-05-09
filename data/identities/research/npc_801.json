@@ -1,0 +1,60 @@
+{
+  "id": "npc_801",
+  "bio": {
+    "full_name": "Sven Gupta",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "B-",
+    "genetic_stability": 0.966,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 110,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 78,
+      "Engineering": 70,
+      "Containment_Logic": 36
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 20,
+      "extraversion": 12,
+      "agreeableness": 37,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

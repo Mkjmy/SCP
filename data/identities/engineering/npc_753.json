@@ -1,0 +1,60 @@
+{
+  "id": "npc_753",
+  "bio": {
+    "full_name": "Elena Dubois",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.989,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 104,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 89,
+      "Hacking": 45,
+      "Perception": 15
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 52,
+      "extraversion": 93,
+      "agreeableness": 4,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

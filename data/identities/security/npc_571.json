@@ -1,0 +1,60 @@
+{
+  "id": "npc_571",
+  "bio": {
+    "full_name": "Christopher Sato",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "O-",
+    "genetic_stability": 0.913,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 78,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 58,
+      "Athletics": 95,
+      "Engineering": 58
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 7,
+      "extraversion": 3,
+      "agreeableness": 90,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

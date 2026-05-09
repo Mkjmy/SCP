@@ -1,0 +1,60 @@
+{
+  "id": "npc_403",
+  "bio": {
+    "full_name": "Robert Dubois",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 57,
+    "blood_type": "O-",
+    "genetic_stability": 0.955,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 65,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 80,
+      "Engineering": 78,
+      "Containment_Logic": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 27,
+      "extraversion": 88,
+      "agreeableness": 96,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

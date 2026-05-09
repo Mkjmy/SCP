@@ -1,0 +1,60 @@
+{
+  "id": "npc_621",
+  "bio": {
+    "full_name": "Christopher Wong",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.882,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 55,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 84,
+      "Hacking": 72,
+      "Containment_Logic": 75
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 100,
+      "extraversion": 18,
+      "agreeableness": 48,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

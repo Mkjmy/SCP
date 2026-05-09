@@ -1,0 +1,60 @@
+{
+  "id": "npc_097",
+  "bio": {
+    "full_name": "Robert Sato",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "B-",
+    "genetic_stability": 0.926,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 61,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 10,
+      "Perception": 69,
+      "Athletics": 88
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 65,
+      "extraversion": 3,
+      "agreeableness": 58,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

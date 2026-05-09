@@ -1,0 +1,60 @@
+{
+  "id": "npc_306",
+  "bio": {
+    "full_name": "Richard Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "B+",
+    "genetic_stability": 0.986,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 98,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 65,
+      "Persuasion": 38,
+      "Hacking": 33
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 48,
+      "extraversion": 98,
+      "agreeableness": 30,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

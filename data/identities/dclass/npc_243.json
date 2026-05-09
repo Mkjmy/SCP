@@ -1,0 +1,60 @@
+{
+  "id": "npc_243",
+  "bio": {
+    "full_name": "David Gupta",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 21,
+    "blood_type": "A-",
+    "genetic_stability": 0.928,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 100,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 90,
+      "Persuasion": 63,
+      "Containment_Logic": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 8,
+      "extraversion": 100,
+      "agreeableness": 51,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

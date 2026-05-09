@@ -1,0 +1,60 @@
+{
+  "id": "npc_890",
+  "bio": {
+    "full_name": "Sven Smith",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.891,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 85,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 73,
+      "Medicine": 69,
+      "Containment_Logic": 66
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 29,
+      "extraversion": 62,
+      "agreeableness": 95,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

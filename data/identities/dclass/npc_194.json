@@ -1,0 +1,59 @@
+{
+  "id": "npc_194",
+  "bio": {
+    "full_name": "Thomas Sato",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.858,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 99,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 25,
+      "Hacking": 72,
+      "Stealth": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 63,
+      "extraversion": 61,
+      "agreeableness": 8,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_921",
+  "bio": {
+    "full_name": "Joseph Garcia",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "A-",
+    "genetic_stability": 0.926,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 64,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 73,
+      "Stealth": 39,
+      "Containment_Logic": 57
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 89,
+      "extraversion": 96,
+      "agreeableness": 33,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

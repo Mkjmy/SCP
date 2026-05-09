@@ -1,0 +1,60 @@
+{
+  "id": "npc_919",
+  "bio": {
+    "full_name": "James Kovacs",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "AB-",
+    "genetic_stability": 0.967,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 107,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 13,
+      "Occult_Research": 31,
+      "Persuasion": 71
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 96,
+      "extraversion": 65,
+      "agreeableness": 28,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

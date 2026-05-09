@@ -1,0 +1,60 @@
+{
+  "id": "npc_802",
+  "bio": {
+    "full_name": "Sven Wong",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "O-",
+    "genetic_stability": 0.857,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 107,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 37,
+      "Medicine": 56,
+      "Firearms": 95
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 47,
+      "extraversion": 27,
+      "agreeableness": 69,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

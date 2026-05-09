@@ -1,0 +1,60 @@
+{
+  "id": "npc_087",
+  "bio": {
+    "full_name": "Robert Bakker",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.942,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 102,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 42,
+      "Engineering": 62,
+      "Occult_Research": 51
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 76,
+      "extraversion": 96,
+      "agreeableness": 61,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

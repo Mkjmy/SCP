@@ -1,0 +1,60 @@
+{
+  "id": "npc_720",
+  "bio": {
+    "full_name": "Mark Wong",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.923,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 94,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 53,
+      "Persuasion": 86,
+      "Hacking": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 85,
+      "extraversion": 75,
+      "agreeableness": 44,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_537",
+  "bio": {
+    "full_name": "Mark Davis",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 57,
+    "blood_type": "O-",
+    "genetic_stability": 0.972,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 93,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 91,
+      "Medicine": 20,
+      "Hacking": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 72,
+      "extraversion": 17,
+      "agreeableness": 84,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

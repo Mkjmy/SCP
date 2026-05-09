@@ -1,0 +1,60 @@
+{
+  "id": "npc_777",
+  "bio": {
+    "full_name": "Joseph Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.914,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 51,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 25,
+      "Containment_Logic": 62,
+      "Firearms": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 97,
+      "extraversion": 99,
+      "agreeableness": 58,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_191",
+  "bio": {
+    "full_name": "William Tanaka",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 21,
+    "blood_type": "AB+",
+    "genetic_stability": 0.928,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 54,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 15,
+      "Persuasion": 28,
+      "Athletics": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 29,
+      "extraversion": 76,
+      "agreeableness": 42,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

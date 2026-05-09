@@ -1,0 +1,60 @@
+{
+  "id": "npc_652",
+  "bio": {
+    "full_name": "Maria Sato",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.949,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 65,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 70,
+      "Medicine": 42,
+      "Containment_Logic": 11
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 55,
+      "extraversion": 29,
+      "agreeableness": 31,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

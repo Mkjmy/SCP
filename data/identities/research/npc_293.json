@@ -1,0 +1,60 @@
+{
+  "id": "npc_293",
+  "bio": {
+    "full_name": "Chen Williams",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "O-",
+    "genetic_stability": 0.941,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 82,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 58,
+      "Engineering": 59,
+      "Stealth": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 42,
+      "extraversion": 65,
+      "agreeableness": 25,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

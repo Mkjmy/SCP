@@ -1,0 +1,60 @@
+{
+  "id": "npc_138",
+  "bio": {
+    "full_name": "Chen Wong",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.939,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 102,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 75,
+      "Firearms": 24,
+      "Medicine": 38
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 83,
+      "extraversion": 69,
+      "agreeableness": 14,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

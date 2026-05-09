@@ -1,0 +1,60 @@
+{
+  "id": "npc_880",
+  "bio": {
+    "full_name": "James Davis",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.888,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 105,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 57,
+      "Containment_Logic": 56,
+      "Athletics": 63
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 30,
+      "extraversion": 18,
+      "agreeableness": 79,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

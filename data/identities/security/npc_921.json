@@ -1,0 +1,60 @@
+{
+  "id": "npc_921",
+  "bio": {
+    "full_name": "Arjun Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 62,
+    "blood_type": "B+",
+    "genetic_stability": 0.97,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 77,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 65,
+      "Occult_Research": 83,
+      "Athletics": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 31,
+      "extraversion": 65,
+      "agreeableness": 82,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

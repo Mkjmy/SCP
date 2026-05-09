@@ -1,0 +1,60 @@
+{
+  "id": "npc_081",
+  "bio": {
+    "full_name": "Michael Vasiliev",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "B+",
+    "genetic_stability": 0.941,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 64,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Perception": 86,
+      "Hacking": 66,
+      "Engineering": 84
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 75,
+      "extraversion": 93,
+      "agreeableness": 43,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

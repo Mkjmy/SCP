@@ -1,0 +1,60 @@
+{
+  "id": "npc_292",
+  "bio": {
+    "full_name": "Donald Smith",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 1.0,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 93,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 51,
+      "Containment_Logic": 38,
+      "Occult_Research": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 9,
+      "extraversion": 35,
+      "agreeableness": 45,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

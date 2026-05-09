@@ -1,0 +1,60 @@
+{
+  "id": "npc_070",
+  "bio": {
+    "full_name": "Michael Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.856,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 62,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 17,
+      "Persuasion": 79,
+      "Firearms": 56
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 66,
+      "extraversion": 6,
+      "agreeableness": 51,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

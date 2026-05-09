@@ -1,0 +1,60 @@
+{
+  "id": "npc_528",
+  "bio": {
+    "full_name": "Charles O'Connor",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "AB+",
+    "genetic_stability": 0.855,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 60,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 14,
+      "Occult_Research": 69,
+      "Perception": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 25,
+      "extraversion": 85,
+      "agreeableness": 100,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

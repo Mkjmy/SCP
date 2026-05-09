@@ -1,0 +1,59 @@
+{
+  "id": "npc_711",
+  "bio": {
+    "full_name": "Charles Miller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.985,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 71,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 62,
+      "Firearms": 94,
+      "Stealth": 23
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 68,
+      "extraversion": 60,
+      "agreeableness": 68,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

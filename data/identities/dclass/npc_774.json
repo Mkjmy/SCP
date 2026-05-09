@@ -1,0 +1,60 @@
+{
+  "id": "npc_774",
+  "bio": {
+    "full_name": "Christopher Williams",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.866,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 88,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 50,
+      "Occult_Research": 24,
+      "Persuasion": 38
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 1,
+      "extraversion": 82,
+      "agreeableness": 41,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

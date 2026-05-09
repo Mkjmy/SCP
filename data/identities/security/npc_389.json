@@ -1,0 +1,60 @@
+{
+  "id": "npc_389",
+  "bio": {
+    "full_name": "Chen Smith",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.852,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 55,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 68,
+      "Firearms": 18,
+      "Stealth": 60
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 72,
+      "extraversion": 49,
+      "agreeableness": 89,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

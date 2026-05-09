@@ -1,0 +1,60 @@
+{
+  "id": "npc_919",
+  "bio": {
+    "full_name": "Richard Wong",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "B+",
+    "genetic_stability": 0.936,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 85,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 81,
+      "Engineering": 24,
+      "Athletics": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 59,
+      "extraversion": 42,
+      "agreeableness": 5,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

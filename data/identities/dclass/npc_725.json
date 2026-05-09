@@ -1,0 +1,59 @@
+{
+  "id": "npc_725",
+  "bio": {
+    "full_name": "Donald Wong",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 41,
+    "blood_type": "AB-",
+    "genetic_stability": 0.973,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 62,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 42,
+      "Stealth": 43,
+      "Engineering": 64
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 7,
+      "extraversion": 41,
+      "agreeableness": 40,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

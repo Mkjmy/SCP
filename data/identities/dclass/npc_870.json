@@ -1,0 +1,59 @@
+{
+  "id": "npc_870",
+  "bio": {
+    "full_name": "Elena O'Connor",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "A-",
+    "genetic_stability": 0.973,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 81,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 54,
+      "Occult_Research": 52,
+      "Medicine": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 84,
+      "extraversion": 7,
+      "agreeableness": 57,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

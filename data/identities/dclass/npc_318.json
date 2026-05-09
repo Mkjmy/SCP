@@ -1,0 +1,60 @@
+{
+  "id": "npc_318",
+  "bio": {
+    "full_name": "Maria Davis",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.858,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 78,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 66,
+      "Engineering": 35,
+      "Occult_Research": 84
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 41,
+      "extraversion": 23,
+      "agreeableness": 20,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

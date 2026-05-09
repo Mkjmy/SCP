@@ -1,0 +1,60 @@
+{
+  "id": "npc_321",
+  "bio": {
+    "full_name": "Richard Wong",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "B+",
+    "genetic_stability": 0.995,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 79,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 62,
+      "Containment_Logic": 80,
+      "Stealth": 84
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 59,
+      "extraversion": 76,
+      "agreeableness": 63,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

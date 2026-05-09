@@ -1,0 +1,60 @@
+{
+  "id": "npc_157",
+  "bio": {
+    "full_name": "Paul Tanaka",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.936,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 104,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 93,
+      "Perception": 66,
+      "Medicine": 26
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 27,
+      "extraversion": 98,
+      "agreeableness": 52,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

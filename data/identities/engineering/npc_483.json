@@ -1,0 +1,60 @@
+{
+  "id": "npc_483",
+  "bio": {
+    "full_name": "Sven Williams",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "O-",
+    "genetic_stability": 0.917,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 74,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 63,
+      "Stealth": 95,
+      "Medicine": 67
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 46,
+      "extraversion": 76,
+      "agreeableness": 6,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

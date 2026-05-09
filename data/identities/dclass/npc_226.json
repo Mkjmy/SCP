@@ -1,0 +1,60 @@
+{
+  "id": "npc_226",
+  "bio": {
+    "full_name": "Elena O'Connor",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.938,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 57,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 48,
+      "Persuasion": 11,
+      "Occult_Research": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 18,
+      "extraversion": 8,
+      "agreeableness": 28,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

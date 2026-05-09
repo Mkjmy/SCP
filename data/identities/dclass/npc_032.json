@@ -1,0 +1,59 @@
+{
+  "id": "npc_032",
+  "bio": {
+    "full_name": "Steven Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "B-",
+    "genetic_stability": 0.987,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 64,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 61,
+      "Stealth": 43,
+      "Medicine": 75
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 87,
+      "extraversion": 86,
+      "agreeableness": 27,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_514",
+  "bio": {
+    "full_name": "Sven Muller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "AB-",
+    "genetic_stability": 0.9,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 77,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 37,
+      "Stealth": 24,
+      "Engineering": 84
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 96,
+      "extraversion": 4,
+      "agreeableness": 10,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

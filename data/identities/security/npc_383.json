@@ -1,0 +1,60 @@
+{
+  "id": "npc_383",
+  "bio": {
+    "full_name": "Kenji Williams",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.89,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 110,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 20,
+      "Engineering": 11,
+      "Hacking": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 28,
+      "extraversion": 90,
+      "agreeableness": 96,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

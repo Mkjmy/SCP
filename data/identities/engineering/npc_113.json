@@ -1,0 +1,59 @@
+{
+  "id": "npc_113",
+  "bio": {
+    "full_name": "Arjun Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.885,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 109,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 19,
+      "Persuasion": 92,
+      "Engineering": 31
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 24,
+      "extraversion": 35,
+      "agreeableness": 14,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

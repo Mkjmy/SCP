@@ -1,0 +1,60 @@
+{
+  "id": "npc_987",
+  "bio": {
+    "full_name": "David Dubois",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.931,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 75,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 83,
+      "Stealth": 20,
+      "Persuasion": 67
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 2,
+      "extraversion": 39,
+      "agreeableness": 15,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

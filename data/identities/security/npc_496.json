@@ -1,0 +1,60 @@
+{
+  "id": "npc_496",
+  "bio": {
+    "full_name": "Andrew Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.876,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 91,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 79,
+      "Engineering": 83,
+      "Athletics": 33
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 45,
+      "extraversion": 58,
+      "agreeableness": 86,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

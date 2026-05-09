@@ -1,0 +1,60 @@
+{
+  "id": "npc_511",
+  "bio": {
+    "full_name": "Joshua Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.977,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 51,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 66,
+      "Stealth": 93,
+      "Medicine": 60
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 57,
+      "extraversion": 89,
+      "agreeableness": 80,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

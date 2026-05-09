@@ -1,0 +1,60 @@
+{
+  "id": "npc_440",
+  "bio": {
+    "full_name": "Christopher Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.881,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 71,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 72,
+      "Stealth": 51,
+      "Perception": 71
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 37,
+      "extraversion": 96,
+      "agreeableness": 54,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

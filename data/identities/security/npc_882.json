@@ -1,0 +1,60 @@
+{
+  "id": "npc_882",
+  "bio": {
+    "full_name": "James Garcia",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "A-",
+    "genetic_stability": 0.971,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 103,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 86,
+      "Stealth": 26,
+      "Occult_Research": 63
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 49,
+      "extraversion": 57,
+      "agreeableness": 92,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_356",
+  "bio": {
+    "full_name": "Joseph Schmidt",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "AB-",
+    "genetic_stability": 0.886,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 88,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 54,
+      "Medicine": 32,
+      "Perception": 84
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 19,
+      "extraversion": 92,
+      "agreeableness": 81,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

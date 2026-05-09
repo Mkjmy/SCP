@@ -1,0 +1,60 @@
+{
+  "id": "npc_101",
+  "bio": {
+    "full_name": "John Muller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "B-",
+    "genetic_stability": 0.892,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 65,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 93,
+      "Engineering": 35,
+      "Perception": 59
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 49,
+      "extraversion": 2,
+      "agreeableness": 23,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

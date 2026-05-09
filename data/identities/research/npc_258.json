@@ -1,0 +1,60 @@
+{
+  "id": "npc_258",
+  "bio": {
+    "full_name": "Matthew Schmidt",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.864,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 55,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 25,
+      "Perception": 50,
+      "Engineering": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 15,
+      "extraversion": 23,
+      "agreeableness": 95,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

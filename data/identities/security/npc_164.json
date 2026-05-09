@@ -1,0 +1,60 @@
+{
+  "id": "npc_164",
+  "bio": {
+    "full_name": "Sven Brown",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 52,
+    "blood_type": "A-",
+    "genetic_stability": 0.95,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 99,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 82,
+      "Medicine": 18,
+      "Athletics": 42
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 93,
+      "extraversion": 50,
+      "agreeableness": 84,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

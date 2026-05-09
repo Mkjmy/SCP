@@ -1,0 +1,60 @@
+{
+  "id": "npc_610",
+  "bio": {
+    "full_name": "Sven Tanaka",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.925,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 75,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 48,
+      "Medicine": 34,
+      "Occult_Research": 83
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 75,
+      "extraversion": 56,
+      "agreeableness": 83,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

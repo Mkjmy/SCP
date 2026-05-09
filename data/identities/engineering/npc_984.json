@@ -1,0 +1,60 @@
+{
+  "id": "npc_984",
+  "bio": {
+    "full_name": "James Sato",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.918,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 98,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 17,
+      "Occult_Research": 47,
+      "Firearms": 77
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 100,
+      "extraversion": 93,
+      "agreeableness": 84,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_592",
+  "bio": {
+    "full_name": "Daniel Dubois",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 49,
+    "blood_type": "O-",
+    "genetic_stability": 0.975,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 72,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 65,
+      "Firearms": 47,
+      "Engineering": 95
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 94,
+      "extraversion": 85,
+      "agreeableness": 100,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

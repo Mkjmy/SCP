@@ -1,0 +1,60 @@
+{
+  "id": "npc_217",
+  "bio": {
+    "full_name": "William Gupta",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "A+",
+    "genetic_stability": 0.973,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 101,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 57,
+      "Engineering": 10,
+      "Firearms": 30
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 62,
+      "extraversion": 85,
+      "agreeableness": 93,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

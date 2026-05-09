@@ -1,0 +1,60 @@
+{
+  "id": "npc_389",
+  "bio": {
+    "full_name": "Olga Bakker",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "A+",
+    "genetic_stability": 0.953,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 71,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 16,
+      "Containment_Logic": 72,
+      "Occult_Research": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 4,
+      "extraversion": 84,
+      "agreeableness": 2,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_328",
+  "bio": {
+    "full_name": "Charles Garcia",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.908,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 95,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 37,
+      "Persuasion": 88,
+      "Containment_Logic": 93
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 48,
+      "extraversion": 8,
+      "agreeableness": 83,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_173",
+  "bio": {
+    "full_name": "Sven Muller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "A-",
+    "genetic_stability": 0.931,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 70,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 50,
+      "Firearms": 83,
+      "Engineering": 14
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 35,
+      "extraversion": 100,
+      "agreeableness": 12,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

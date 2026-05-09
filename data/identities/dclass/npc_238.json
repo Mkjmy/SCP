@@ -1,0 +1,60 @@
+{
+  "id": "npc_238",
+  "bio": {
+    "full_name": "Yuki Kovacs",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 21,
+    "blood_type": "O-",
+    "genetic_stability": 0.863,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 81,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 50,
+      "Persuasion": 64,
+      "Engineering": 15
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 13,
+      "extraversion": 43,
+      "agreeableness": 42,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

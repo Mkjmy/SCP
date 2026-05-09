@@ -1,0 +1,60 @@
+{
+  "id": "npc_952",
+  "bio": {
+    "full_name": "Charles Smith",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.909,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 69,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 77,
+      "Containment_Logic": 14,
+      "Athletics": 49
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 12,
+      "extraversion": 93,
+      "agreeableness": 46,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

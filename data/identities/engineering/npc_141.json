@@ -1,0 +1,60 @@
+{
+  "id": "npc_141",
+  "bio": {
+    "full_name": "Joseph Schmidt",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.85,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 86,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 44,
+      "Occult_Research": 80,
+      "Medicine": 57
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 97,
+      "extraversion": 57,
+      "agreeableness": 2,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

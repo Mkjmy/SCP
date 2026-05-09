@@ -1,0 +1,59 @@
+{
+  "id": "npc_882",
+  "bio": {
+    "full_name": "Arjun Garcia",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "A-",
+    "genetic_stability": 0.87,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 70,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 47,
+      "Stealth": 49,
+      "Engineering": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 24,
+      "extraversion": 64,
+      "agreeableness": 87,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

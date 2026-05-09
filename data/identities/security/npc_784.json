@@ -1,0 +1,60 @@
+{
+  "id": "npc_784",
+  "bio": {
+    "full_name": "Fatima Bakker",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "B+",
+    "genetic_stability": 0.926,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 104,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 18,
+      "Perception": 10,
+      "Containment_Logic": 78
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 14,
+      "extraversion": 44,
+      "agreeableness": 40,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_400",
+  "bio": {
+    "full_name": "William Sato",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.93,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 67,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 37,
+      "Athletics": 50,
+      "Occult_Research": 28
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 62,
+      "extraversion": 12,
+      "agreeableness": 20,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_484",
+  "bio": {
+    "full_name": "Joshua Williams",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 55,
+    "blood_type": "B+",
+    "genetic_stability": 0.976,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 91,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 59,
+      "Athletics": 38,
+      "Containment_Logic": 81
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 32,
+      "extraversion": 3,
+      "agreeableness": 32,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

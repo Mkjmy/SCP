@@ -1,0 +1,60 @@
+{
+  "id": "npc_433",
+  "bio": {
+    "full_name": "Olga Miller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.859,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 101,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 22,
+      "Medicine": 25,
+      "Occult_Research": 78
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 93,
+      "extraversion": 97,
+      "agreeableness": 82,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_888",
+  "bio": {
+    "full_name": "Donald Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 34,
+    "blood_type": "AB-",
+    "genetic_stability": 0.903,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 81,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 10,
+      "Firearms": 91,
+      "Stealth": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 93,
+      "extraversion": 34,
+      "agreeableness": 36,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

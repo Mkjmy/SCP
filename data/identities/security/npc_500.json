@@ -1,0 +1,60 @@
+{
+  "id": "npc_500",
+  "bio": {
+    "full_name": "Daniel Schmidt",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.908,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 71,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 52,
+      "Athletics": 14,
+      "Perception": 12
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 80,
+      "extraversion": 9,
+      "agreeableness": 5,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

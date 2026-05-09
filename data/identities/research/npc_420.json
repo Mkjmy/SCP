@@ -1,0 +1,59 @@
+{
+  "id": "npc_420",
+  "bio": {
+    "full_name": "Charles Muller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.863,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 67,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 68,
+      "Containment_Logic": 24,
+      "Medicine": 57
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 65,
+      "extraversion": 46,
+      "agreeableness": 7,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

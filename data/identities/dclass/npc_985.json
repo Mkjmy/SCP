@@ -1,0 +1,60 @@
+{
+  "id": "npc_985",
+  "bio": {
+    "full_name": "Robert Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.967,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 84,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 89,
+      "Hacking": 76,
+      "Firearms": 24
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 64,
+      "extraversion": 29,
+      "agreeableness": 86,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

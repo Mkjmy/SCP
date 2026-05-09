@@ -1,0 +1,60 @@
+{
+  "id": "npc_347",
+  "bio": {
+    "full_name": "Matthew Schmidt",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "O+",
+    "genetic_stability": 0.942,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 85,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 32,
+      "Containment_Logic": 82,
+      "Firearms": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 17,
+      "extraversion": 34,
+      "agreeableness": 41,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

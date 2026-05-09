@@ -1,0 +1,60 @@
+{
+  "id": "npc_230",
+  "bio": {
+    "full_name": "Arjun Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.995,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 58,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 14,
+      "Firearms": 46,
+      "Hacking": 45
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 87,
+      "extraversion": 68,
+      "agreeableness": 19,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

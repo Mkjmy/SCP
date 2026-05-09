@@ -1,0 +1,59 @@
+{
+  "id": "npc_111",
+  "bio": {
+    "full_name": "Matthew Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "AB-",
+    "genetic_stability": 0.944,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 109,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 63,
+      "Athletics": 57,
+      "Medicine": 47
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 62,
+      "extraversion": 93,
+      "agreeableness": 24,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

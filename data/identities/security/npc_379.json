@@ -1,0 +1,60 @@
+{
+  "id": "npc_379",
+  "bio": {
+    "full_name": "Michael Garcia",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 59,
+    "blood_type": "O-",
+    "genetic_stability": 0.901,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 50,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 74,
+      "Medicine": 87,
+      "Occult_Research": 35
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 77,
+      "extraversion": 20,
+      "agreeableness": 5,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

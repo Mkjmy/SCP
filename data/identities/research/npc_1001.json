@@ -1,0 +1,60 @@
+{
+  "id": "npc_1001",
+  "bio": {
+    "full_name": "Thomas Williams",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.943,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 96,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 50,
+      "Stealth": 75,
+      "Occult_Research": 52
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 38,
+      "extraversion": 95,
+      "agreeableness": 79,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

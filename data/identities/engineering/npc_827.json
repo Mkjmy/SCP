@@ -1,0 +1,60 @@
+{
+  "id": "npc_827",
+  "bio": {
+    "full_name": "Daniel Miller",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.961,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 62,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 46,
+      "Occult_Research": 28,
+      "Engineering": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 44,
+      "extraversion": 75,
+      "agreeableness": 88,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

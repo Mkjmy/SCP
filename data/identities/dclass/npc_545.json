@@ -1,0 +1,60 @@
+{
+  "id": "npc_545",
+  "bio": {
+    "full_name": "Kenji Miller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.934,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 74,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 60,
+      "Engineering": 50,
+      "Athletics": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 32,
+      "extraversion": 73,
+      "agreeableness": 46,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

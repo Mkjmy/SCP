@@ -1,0 +1,60 @@
+{
+  "id": "npc_360",
+  "bio": {
+    "full_name": "Sven Sato",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "A+",
+    "genetic_stability": 0.866,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 85,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 54,
+      "Athletics": 88,
+      "Engineering": 71
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 93,
+      "extraversion": 12,
+      "agreeableness": 18,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

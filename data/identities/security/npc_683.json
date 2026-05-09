@@ -1,0 +1,60 @@
+{
+  "id": "npc_683",
+  "bio": {
+    "full_name": "Andrew Jones",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 62,
+    "blood_type": "B-",
+    "genetic_stability": 0.917,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 53,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 85,
+      "Firearms": 81,
+      "Stealth": 54
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 64,
+      "extraversion": 26,
+      "agreeableness": 89,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

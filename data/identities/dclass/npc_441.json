@@ -1,0 +1,60 @@
+{
+  "id": "npc_441",
+  "bio": {
+    "full_name": "Sven Sato",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.997,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 92,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 73,
+      "Occult_Research": 80,
+      "Medicine": 64
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 28,
+      "extraversion": 33,
+      "agreeableness": 20,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

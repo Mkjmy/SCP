@@ -1,0 +1,60 @@
+{
+  "id": "npc_300",
+  "bio": {
+    "full_name": "James Miller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 54,
+    "blood_type": "O+",
+    "genetic_stability": 0.877,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 95,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 78,
+      "Persuasion": 36,
+      "Occult_Research": 33
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 42,
+      "extraversion": 31,
+      "agreeableness": 43,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

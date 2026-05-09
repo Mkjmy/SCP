@@ -1,0 +1,60 @@
+{
+  "id": "npc_909",
+  "bio": {
+    "full_name": "Robert Johnson",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "AB+",
+    "genetic_stability": 0.88,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 83,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 75,
+      "Persuasion": 11,
+      "Hacking": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 42,
+      "extraversion": 97,
+      "agreeableness": 72,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_533",
+  "bio": {
+    "full_name": "William O'Connor",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.892,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 89,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 41,
+      "Stealth": 49,
+      "Hacking": 86
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 8,
+      "extraversion": 57,
+      "agreeableness": 15,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_837",
+  "bio": {
+    "full_name": "Andrew Garcia",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "O+",
+    "genetic_stability": 0.973,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 78,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 70,
+      "Stealth": 25,
+      "Hacking": 23
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 75,
+      "extraversion": 87,
+      "agreeableness": 4,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

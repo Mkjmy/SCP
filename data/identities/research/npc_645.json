@@ -1,0 +1,60 @@
+{
+  "id": "npc_645",
+  "bio": {
+    "full_name": "Thomas Tanaka",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.904,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 81,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 54,
+      "Athletics": 41,
+      "Hacking": 94
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 78,
+      "extraversion": 94,
+      "agreeableness": 38,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_971",
+  "bio": {
+    "full_name": "Chen Vasiliev",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "A+",
+    "genetic_stability": 0.95,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 56,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 91,
+      "Firearms": 40,
+      "Hacking": 30
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 58,
+      "extraversion": 48,
+      "agreeableness": 56,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

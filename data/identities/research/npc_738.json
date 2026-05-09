@@ -1,0 +1,60 @@
+{
+  "id": "npc_738",
+  "bio": {
+    "full_name": "Steven Muller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "AB+",
+    "genetic_stability": 0.873,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 72,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 23,
+      "Occult_Research": 17,
+      "Athletics": 15
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 96,
+      "extraversion": 36,
+      "agreeableness": 13,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_261",
+  "bio": {
+    "full_name": "Thomas Ivanov",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.895,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 97,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 63,
+      "Perception": 17,
+      "Containment_Logic": 82
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 47,
+      "extraversion": 20,
+      "agreeableness": 100,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_056",
+  "bio": {
+    "full_name": "Paul Ivanov",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "A-",
+    "genetic_stability": 0.937,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 74,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 77,
+      "Hacking": 22,
+      "Containment_Logic": 84
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 85,
+      "extraversion": 58,
+      "agreeableness": 42,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_466",
+  "bio": {
+    "full_name": "James Dubois",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.97,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 59,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 62,
+      "Perception": 54,
+      "Engineering": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 118,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 6,
+      "extraversion": 80,
+      "agreeableness": 66,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

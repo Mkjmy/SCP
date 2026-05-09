@@ -1,0 +1,60 @@
+{
+  "id": "npc_760",
+  "bio": {
+    "full_name": "William O'Connor",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.874,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 95,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 39,
+      "Perception": 18,
+      "Athletics": 22
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 17,
+      "extraversion": 64,
+      "agreeableness": 70,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

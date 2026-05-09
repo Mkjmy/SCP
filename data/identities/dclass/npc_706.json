@@ -1,0 +1,59 @@
+{
+  "id": "npc_706",
+  "bio": {
+    "full_name": "Chen Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.97,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 50,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 15,
+      "Persuasion": 11,
+      "Athletics": 83
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 36,
+      "extraversion": 58,
+      "agreeableness": 39,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_126",
+  "bio": {
+    "full_name": "Joseph Sato",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.859,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 68,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 94,
+      "Athletics": 71,
+      "Containment_Logic": 18
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 26,
+      "extraversion": 18,
+      "agreeableness": 73,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

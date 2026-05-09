@@ -1,0 +1,60 @@
+{
+  "id": "npc_116",
+  "bio": {
+    "full_name": "James Sato",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "AB-",
+    "genetic_stability": 0.936,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 96,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 48,
+      "Firearms": 54,
+      "Athletics": 14
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 38,
+      "extraversion": 87,
+      "agreeableness": 95,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

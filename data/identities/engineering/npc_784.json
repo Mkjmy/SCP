@@ -1,0 +1,60 @@
+{
+  "id": "npc_784",
+  "bio": {
+    "full_name": "Thomas Wong",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "AB-",
+    "genetic_stability": 0.998,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 54,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 57,
+      "Occult_Research": 17,
+      "Stealth": 36
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 74,
+      "extraversion": 94,
+      "agreeableness": 21,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

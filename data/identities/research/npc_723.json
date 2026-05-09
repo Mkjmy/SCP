@@ -1,0 +1,60 @@
+{
+  "id": "npc_723",
+  "bio": {
+    "full_name": "Michael O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.951,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 58,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 75,
+      "Hacking": 29,
+      "Medicine": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 58,
+      "extraversion": 57,
+      "agreeableness": 28,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

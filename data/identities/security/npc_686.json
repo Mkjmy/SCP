@@ -1,0 +1,60 @@
+{
+  "id": "npc_686",
+  "bio": {
+    "full_name": "Olga Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 55,
+    "blood_type": "A+",
+    "genetic_stability": 0.948,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 57,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 93,
+      "Hacking": 94,
+      "Engineering": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 87,
+      "extraversion": 29,
+      "agreeableness": 74,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

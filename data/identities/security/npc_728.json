@@ -1,0 +1,60 @@
+{
+  "id": "npc_728",
+  "bio": {
+    "full_name": "Yuki Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "O-",
+    "genetic_stability": 0.871,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 93,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 59,
+      "Perception": 60,
+      "Hacking": 54
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 80,
+      "extraversion": 3,
+      "agreeableness": 4,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

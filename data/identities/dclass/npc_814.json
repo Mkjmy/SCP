@@ -1,0 +1,60 @@
+{
+  "id": "npc_814",
+  "bio": {
+    "full_name": "Daniel Muller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.883,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 88,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 40,
+      "Firearms": 61,
+      "Containment_Logic": 50
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 36,
+      "extraversion": 26,
+      "agreeableness": 28,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

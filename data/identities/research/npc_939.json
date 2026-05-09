@@ -1,0 +1,60 @@
+{
+  "id": "npc_939",
+  "bio": {
+    "full_name": "Joshua Garcia",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "B+",
+    "genetic_stability": 0.973,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 59,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 61,
+      "Persuasion": 47,
+      "Hacking": 10
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 33,
+      "extraversion": 57,
+      "agreeableness": 77,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

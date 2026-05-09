@@ -1,0 +1,60 @@
+{
+  "id": "npc_278",
+  "bio": {
+    "full_name": "Charles Williams",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.951,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 77,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 92,
+      "Perception": 66,
+      "Firearms": 20
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 57,
+      "extraversion": 96,
+      "agreeableness": 51,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

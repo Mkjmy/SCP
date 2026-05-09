@@ -1,0 +1,60 @@
+{
+  "id": "npc_647",
+  "bio": {
+    "full_name": "Donald Ivanov",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.858,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 56,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 31,
+      "Engineering": 73,
+      "Athletics": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 82,
+      "extraversion": 86,
+      "agreeableness": 63,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

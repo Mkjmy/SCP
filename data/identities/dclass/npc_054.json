@@ -1,0 +1,60 @@
+{
+  "id": "npc_054",
+  "bio": {
+    "full_name": "Anthony Smith",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "A-",
+    "genetic_stability": 0.964,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 87,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 57,
+      "Perception": 32,
+      "Stealth": 39
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 88,
+      "extraversion": 33,
+      "agreeableness": 50,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

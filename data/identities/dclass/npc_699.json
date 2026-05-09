@@ -1,0 +1,60 @@
+{
+  "id": "npc_699",
+  "bio": {
+    "full_name": "Kenji Davis",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.875,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 96,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 81,
+      "Perception": 43,
+      "Persuasion": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 24,
+      "extraversion": 14,
+      "agreeableness": 53,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

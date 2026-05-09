@@ -1,0 +1,60 @@
+{
+  "id": "npc_014",
+  "bio": {
+    "full_name": "David Williams",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "B-",
+    "genetic_stability": 0.856,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 64,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 43,
+      "Firearms": 67,
+      "Occult_Research": 73
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 21,
+      "extraversion": 15,
+      "agreeableness": 69,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

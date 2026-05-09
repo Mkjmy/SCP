@@ -1,0 +1,60 @@
+{
+  "id": "npc_461",
+  "bio": {
+    "full_name": "Olga Garcia",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "O-",
+    "genetic_stability": 0.918,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 108,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 59,
+      "Stealth": 38,
+      "Containment_Logic": 27
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 24,
+      "extraversion": 6,
+      "agreeableness": 27,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

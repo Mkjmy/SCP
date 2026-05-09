@@ -1,0 +1,60 @@
+{
+  "id": "npc_417",
+  "bio": {
+    "full_name": "Thomas Garcia",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.935,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 56,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 67,
+      "Hacking": 79,
+      "Stealth": 85
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 99,
+      "extraversion": 94,
+      "agreeableness": 16,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_759",
+  "bio": {
+    "full_name": "Joshua Muller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.896,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 103,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 27,
+      "Containment_Logic": 82,
+      "Athletics": 51
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 45,
+      "extraversion": 32,
+      "agreeableness": 43,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

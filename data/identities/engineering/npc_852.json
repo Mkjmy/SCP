@@ -1,0 +1,60 @@
+{
+  "id": "npc_852",
+  "bio": {
+    "full_name": "Joshua Bakker",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "A+",
+    "genetic_stability": 0.942,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 77,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 18,
+      "Containment_Logic": 94,
+      "Perception": 51
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 44,
+      "extraversion": 42,
+      "agreeableness": 1,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

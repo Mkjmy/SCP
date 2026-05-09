@@ -1,0 +1,60 @@
+{
+  "id": "npc_913",
+  "bio": {
+    "full_name": "Paul Smith",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.976,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 104,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 44,
+      "Athletics": 85,
+      "Firearms": 49
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 87,
+      "extraversion": 96,
+      "agreeableness": 61,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_369",
+  "bio": {
+    "full_name": "Yuki Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "AB+",
+    "genetic_stability": 0.947,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 91,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 62,
+      "Occult_Research": 89,
+      "Hacking": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 29,
+      "extraversion": 3,
+      "agreeableness": 3,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

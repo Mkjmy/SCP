@@ -1,0 +1,60 @@
+{
+  "id": "npc_878",
+  "bio": {
+    "full_name": "Mark Kovacs",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "AB-",
+    "genetic_stability": 0.877,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 64,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 31,
+      "Firearms": 46,
+      "Athletics": 66
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 13,
+      "extraversion": 65,
+      "agreeableness": 73,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

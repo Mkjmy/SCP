@@ -1,0 +1,60 @@
+{
+  "id": "npc_424",
+  "bio": {
+    "full_name": "Charles Wong",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.917,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 109,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 78,
+      "Hacking": 53,
+      "Persuasion": 33
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 62,
+      "extraversion": 18,
+      "agreeableness": 79,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

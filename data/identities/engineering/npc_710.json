@@ -1,0 +1,60 @@
+{
+  "id": "npc_710",
+  "bio": {
+    "full_name": "Christopher Davis",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "AB-",
+    "genetic_stability": 0.989,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 92,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 75,
+      "Firearms": 35,
+      "Stealth": 65
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 43,
+      "extraversion": 39,
+      "agreeableness": 36,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

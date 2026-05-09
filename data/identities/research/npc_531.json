@@ -1,0 +1,60 @@
+{
+  "id": "npc_531",
+  "bio": {
+    "full_name": "Michael Bakker",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 53,
+    "blood_type": "B+",
+    "genetic_stability": 0.941,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 82,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 27,
+      "Hacking": 18,
+      "Persuasion": 17
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 89,
+      "extraversion": 43,
+      "agreeableness": 60,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

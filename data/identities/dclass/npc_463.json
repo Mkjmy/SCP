@@ -1,0 +1,60 @@
+{
+  "id": "npc_463",
+  "bio": {
+    "full_name": "Mark Gupta",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.963,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 60,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 67,
+      "Hacking": 95,
+      "Athletics": 24
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 9,
+      "extraversion": 62,
+      "agreeableness": 37,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

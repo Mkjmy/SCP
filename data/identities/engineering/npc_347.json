@@ -1,0 +1,60 @@
+{
+  "id": "npc_347",
+  "bio": {
+    "full_name": "Yuki Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "AB-",
+    "genetic_stability": 0.906,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 80,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 62,
+      "Medicine": 91,
+      "Containment_Logic": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 64,
+      "extraversion": 75,
+      "agreeableness": 82,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

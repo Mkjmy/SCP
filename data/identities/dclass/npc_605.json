@@ -1,0 +1,60 @@
+{
+  "id": "npc_605",
+  "bio": {
+    "full_name": "Lars Tanaka",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.915,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 92,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 31,
+      "Stealth": 80,
+      "Occult_Research": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 36,
+      "extraversion": 44,
+      "agreeableness": 58,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

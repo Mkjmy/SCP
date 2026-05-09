@@ -1,0 +1,60 @@
+{
+  "id": "npc_817",
+  "bio": {
+    "full_name": "Andrew Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "AB-",
+    "genetic_stability": 0.921,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 77,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 83,
+      "Hacking": 18,
+      "Occult_Research": 87
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 44,
+      "extraversion": 4,
+      "agreeableness": 91,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

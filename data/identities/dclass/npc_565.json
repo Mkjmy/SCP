@@ -1,0 +1,60 @@
+{
+  "id": "npc_565",
+  "bio": {
+    "full_name": "William Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.991,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 89,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 50,
+      "Occult_Research": 11,
+      "Containment_Logic": 30
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 69,
+      "extraversion": 32,
+      "agreeableness": 32,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

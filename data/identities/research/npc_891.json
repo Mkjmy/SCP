@@ -1,0 +1,60 @@
+{
+  "id": "npc_891",
+  "bio": {
+    "full_name": "Matthew Gupta",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.985,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 109,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 70,
+      "Engineering": 16,
+      "Stealth": 12
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 55,
+      "extraversion": 93,
+      "agreeableness": 28,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

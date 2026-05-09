@@ -1,0 +1,60 @@
+{
+  "id": "npc_690",
+  "bio": {
+    "full_name": "Steven Brown",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 54,
+    "blood_type": "B-",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 77,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 31,
+      "Hacking": 80,
+      "Occult_Research": 71
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 15,
+      "extraversion": 61,
+      "agreeableness": 84,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

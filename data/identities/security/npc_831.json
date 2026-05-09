@@ -1,0 +1,60 @@
+{
+  "id": "npc_831",
+  "bio": {
+    "full_name": "Michael Jones",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "AB-",
+    "genetic_stability": 0.993,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 74,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 18,
+      "Perception": 43,
+      "Persuasion": 13
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 65,
+      "extraversion": 17,
+      "agreeableness": 71,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

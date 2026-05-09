@@ -1,0 +1,60 @@
+{
+  "id": "npc_300",
+  "bio": {
+    "full_name": "Paul Kovacs",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.902,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 71,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 95,
+      "Athletics": 15,
+      "Stealth": 50
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 69,
+      "extraversion": 18,
+      "agreeableness": 20,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

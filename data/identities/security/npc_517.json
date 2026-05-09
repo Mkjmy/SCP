@@ -1,0 +1,60 @@
+{
+  "id": "npc_517",
+  "bio": {
+    "full_name": "Joshua Tanaka",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.955,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 92,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 47,
+      "Hacking": 94,
+      "Containment_Logic": 39
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 70,
+      "extraversion": 67,
+      "agreeableness": 93,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_042",
+  "bio": {
+    "full_name": "Anthony Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.952,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 94,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 41,
+      "Perception": 74,
+      "Medicine": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 89,
+      "extraversion": 81,
+      "agreeableness": 47,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_172",
+  "bio": {
+    "full_name": "Olga Miller",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.952,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 73,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 24,
+      "Containment_Logic": 26,
+      "Medicine": 54
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 28,
+      "extraversion": 59,
+      "agreeableness": 70,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

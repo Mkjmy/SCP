@@ -1,0 +1,60 @@
+{
+  "id": "npc_240",
+  "bio": {
+    "full_name": "Lars Johnson",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.956,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 74,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 38,
+      "Hacking": 29,
+      "Engineering": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 78,
+      "extraversion": 47,
+      "agreeableness": 0,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

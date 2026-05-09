@@ -1,0 +1,59 @@
+{
+  "id": "npc_055",
+  "bio": {
+    "full_name": "Arjun Ivanov",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.873,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 51,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 60,
+      "Medicine": 94,
+      "Occult_Research": 84
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 56,
+      "extraversion": 59,
+      "agreeableness": 80,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

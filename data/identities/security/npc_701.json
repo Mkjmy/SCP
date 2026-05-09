@@ -1,0 +1,60 @@
+{
+  "id": "npc_701",
+  "bio": {
+    "full_name": "Yuki Gupta",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.895,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 101,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 35,
+      "Athletics": 31,
+      "Stealth": 62
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 32,
+      "extraversion": 61,
+      "agreeableness": 66,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

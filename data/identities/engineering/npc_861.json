@@ -1,0 +1,60 @@
+{
+  "id": "npc_861",
+  "bio": {
+    "full_name": "Fatima Williams",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "A-",
+    "genetic_stability": 0.884,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 78,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 57,
+      "Persuasion": 36,
+      "Containment_Logic": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 12,
+      "extraversion": 39,
+      "agreeableness": 29,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

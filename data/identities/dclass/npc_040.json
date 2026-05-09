@@ -1,0 +1,59 @@
+{
+  "id": "npc_040",
+  "bio": {
+    "full_name": "Robert Schmidt",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "A+",
+    "genetic_stability": 0.888,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 109,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 33,
+      "Engineering": 13,
+      "Hacking": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 7,
+      "extraversion": 96,
+      "agreeableness": 22,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

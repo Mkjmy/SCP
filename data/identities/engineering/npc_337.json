@@ -1,0 +1,60 @@
+{
+  "id": "npc_337",
+  "bio": {
+    "full_name": "Steven Davis",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.984,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 52,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 55,
+      "Stealth": 39,
+      "Perception": 78
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 13,
+      "extraversion": 56,
+      "agreeableness": 8,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

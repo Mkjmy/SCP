@@ -1,0 +1,60 @@
+{
+  "id": "npc_390",
+  "bio": {
+    "full_name": "Michael Bakker",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "AB-",
+    "genetic_stability": 0.915,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 75,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 39,
+      "Containment_Logic": 23,
+      "Perception": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 11,
+      "extraversion": 19,
+      "agreeableness": 49,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_133",
+  "bio": {
+    "full_name": "Elena Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.941,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 51,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 50,
+      "Athletics": 63,
+      "Stealth": 87
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 58,
+      "extraversion": 16,
+      "agreeableness": 62,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

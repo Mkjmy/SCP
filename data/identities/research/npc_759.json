@@ -1,0 +1,60 @@
+{
+  "id": "npc_759",
+  "bio": {
+    "full_name": "Elena Johnson",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.929,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 68,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 60,
+      "Hacking": 72,
+      "Occult_Research": 29
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 82,
+      "extraversion": 18,
+      "agreeableness": 62,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

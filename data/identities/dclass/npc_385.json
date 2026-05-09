@@ -1,0 +1,60 @@
+{
+  "id": "npc_385",
+  "bio": {
+    "full_name": "Daniel Sato",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.901,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 84,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 86,
+      "Athletics": 30,
+      "Engineering": 84
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 38,
+      "extraversion": 48,
+      "agreeableness": 48,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

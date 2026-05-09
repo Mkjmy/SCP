@@ -1,0 +1,60 @@
+{
+  "id": "npc_605",
+  "bio": {
+    "full_name": "Paul O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "AB-",
+    "genetic_stability": 0.971,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 102,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 86,
+      "Engineering": 93,
+      "Occult_Research": 69
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 66,
+      "extraversion": 7,
+      "agreeableness": 83,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

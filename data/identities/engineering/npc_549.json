@@ -1,0 +1,60 @@
+{
+  "id": "npc_549",
+  "bio": {
+    "full_name": "Paul Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "AB-",
+    "genetic_stability": 0.869,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 75,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 22,
+      "Occult_Research": 53,
+      "Athletics": 44
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 21,
+      "extraversion": 63,
+      "agreeableness": 49,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

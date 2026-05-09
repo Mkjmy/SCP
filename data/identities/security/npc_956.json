@@ -1,0 +1,60 @@
+{
+  "id": "npc_956",
+  "bio": {
+    "full_name": "Christopher Muller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "A+",
+    "genetic_stability": 0.985,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 55,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 88,
+      "Medicine": 75,
+      "Firearms": 53
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 96,
+      "extraversion": 66,
+      "agreeableness": 41,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

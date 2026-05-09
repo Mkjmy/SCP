@@ -1,0 +1,60 @@
+{
+  "id": "npc_086",
+  "bio": {
+    "full_name": "Daniel Garcia",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "B-",
+    "genetic_stability": 0.916,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 83,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 83,
+      "Persuasion": 92,
+      "Containment_Logic": 88
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 31,
+      "extraversion": 70,
+      "agreeableness": 96,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

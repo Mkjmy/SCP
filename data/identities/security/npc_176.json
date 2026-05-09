@@ -1,0 +1,60 @@
+{
+  "id": "npc_176",
+  "bio": {
+    "full_name": "David Brown",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "AB+",
+    "genetic_stability": 0.939,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 70,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 20,
+      "Stealth": 87,
+      "Containment_Logic": 62
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 33,
+      "extraversion": 93,
+      "agreeableness": 26,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

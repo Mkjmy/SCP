@@ -1,0 +1,60 @@
+{
+  "id": "npc_859",
+  "bio": {
+    "full_name": "John Dubois",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.933,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 97,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 21,
+      "Firearms": 87,
+      "Persuasion": 89
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 29,
+      "extraversion": 96,
+      "agreeableness": 29,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

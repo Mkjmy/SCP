@@ -1,0 +1,60 @@
+{
+  "id": "npc_378",
+  "bio": {
+    "full_name": "Maria Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "O+",
+    "genetic_stability": 0.94,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 59,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 86,
+      "Engineering": 13,
+      "Medicine": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 78,
+      "extraversion": 11,
+      "agreeableness": 66,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

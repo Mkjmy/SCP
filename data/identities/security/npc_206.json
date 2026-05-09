@@ -1,0 +1,60 @@
+{
+  "id": "npc_206",
+  "bio": {
+    "full_name": "Joshua Vasiliev",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "AB+",
+    "genetic_stability": 0.95,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 83,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 26,
+      "Engineering": 46,
+      "Medicine": 30
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 34,
+      "extraversion": 76,
+      "agreeableness": 31,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

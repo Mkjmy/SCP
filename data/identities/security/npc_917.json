@@ -1,0 +1,60 @@
+{
+  "id": "npc_917",
+  "bio": {
+    "full_name": "James Gupta",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 63,
+    "blood_type": "AB+",
+    "genetic_stability": 0.989,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 57,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 88,
+      "Firearms": 87,
+      "Stealth": 44
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 31,
+      "extraversion": 49,
+      "agreeableness": 3,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

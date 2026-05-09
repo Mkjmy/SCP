@@ -1,0 +1,60 @@
+{
+  "id": "npc_387",
+  "bio": {
+    "full_name": "Lars Ivanov",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "A-",
+    "genetic_stability": 0.944,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 96,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 81,
+      "Perception": 72,
+      "Persuasion": 75
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 89,
+      "extraversion": 3,
+      "agreeableness": 83,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

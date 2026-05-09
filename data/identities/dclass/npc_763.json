@@ -1,0 +1,60 @@
+{
+  "id": "npc_763",
+  "bio": {
+    "full_name": "Sven Kovacs",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.988,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 93,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 64,
+      "Persuasion": 36,
+      "Stealth": 37
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 8,
+      "conscientiousness": 63,
+      "extraversion": 91,
+      "agreeableness": 58,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

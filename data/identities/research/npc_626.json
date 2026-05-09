@@ -1,0 +1,60 @@
+{
+  "id": "npc_626",
+  "bio": {
+    "full_name": "Matthew Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.899,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 89,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 79,
+      "Medicine": 18,
+      "Stealth": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 51,
+      "extraversion": 77,
+      "agreeableness": 74,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

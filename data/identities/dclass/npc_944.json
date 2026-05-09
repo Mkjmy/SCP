@@ -1,0 +1,60 @@
+{
+  "id": "npc_944",
+  "bio": {
+    "full_name": "Robert O'Connor",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.935,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 91,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 81,
+      "Engineering": 61,
+      "Medicine": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 20,
+      "extraversion": 35,
+      "agreeableness": 87,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

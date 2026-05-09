@@ -1,0 +1,60 @@
+{
+  "id": "npc_324",
+  "bio": {
+    "full_name": "Olga Miller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.948,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 103,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 33,
+      "Engineering": 67,
+      "Athletics": 76
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 77,
+      "extraversion": 75,
+      "agreeableness": 22,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

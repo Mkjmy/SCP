@@ -1,0 +1,60 @@
+{
+  "id": "npc_998",
+  "bio": {
+    "full_name": "William Gupta",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.885,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 88,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 26,
+      "Containment_Logic": 87,
+      "Firearms": 19
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 91,
+      "extraversion": 15,
+      "agreeableness": 52,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

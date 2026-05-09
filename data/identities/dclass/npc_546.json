@@ -1,0 +1,60 @@
+{
+  "id": "npc_546",
+  "bio": {
+    "full_name": "Robert Smith",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.854,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 65,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 47,
+      "Medicine": 52,
+      "Engineering": 18
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 58,
+      "extraversion": 25,
+      "agreeableness": 69,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_013",
+  "bio": {
+    "full_name": "Yuki Johnson",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.872,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 82,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 50,
+      "Engineering": 68,
+      "Hacking": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 63,
+      "extraversion": 91,
+      "agreeableness": 38,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

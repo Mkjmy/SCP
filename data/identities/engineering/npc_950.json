@@ -1,0 +1,60 @@
+{
+  "id": "npc_950",
+  "bio": {
+    "full_name": "David Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.968,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 107,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 88,
+      "Stealth": 47,
+      "Perception": 47
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 16,
+      "extraversion": 57,
+      "agreeableness": 46,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

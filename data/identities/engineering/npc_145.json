@@ -1,0 +1,60 @@
+{
+  "id": "npc_145",
+  "bio": {
+    "full_name": "Daniel Davis",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.932,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 84,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 14,
+      "Perception": 29,
+      "Stealth": 22
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 14,
+      "extraversion": 44,
+      "agreeableness": 56,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

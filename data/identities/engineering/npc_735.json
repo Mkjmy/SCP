@@ -1,0 +1,60 @@
+{
+  "id": "npc_735",
+  "bio": {
+    "full_name": "Christopher Davis",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 46,
+    "blood_type": "A+",
+    "genetic_stability": 0.939,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 94,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 63,
+      "Stealth": 75,
+      "Engineering": 84
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 36,
+      "extraversion": 70,
+      "agreeableness": 76,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_640",
+  "bio": {
+    "full_name": "Sven Brown",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.875,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 108,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 80,
+      "Occult_Research": 18,
+      "Stealth": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 96,
+      "extraversion": 21,
+      "agreeableness": 11,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

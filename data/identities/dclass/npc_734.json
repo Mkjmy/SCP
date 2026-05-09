@@ -1,0 +1,60 @@
+{
+  "id": "npc_734",
+  "bio": {
+    "full_name": "William Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.897,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 71,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 11,
+      "Perception": 13,
+      "Medicine": 80
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 52,
+      "extraversion": 99,
+      "agreeableness": 9,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

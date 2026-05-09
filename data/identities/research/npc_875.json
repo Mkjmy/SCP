@@ -1,0 +1,59 @@
+{
+  "id": "npc_875",
+  "bio": {
+    "full_name": "Elena Jones",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.911,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 61,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 47,
+      "Athletics": 58,
+      "Perception": 84
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 98,
+      "extraversion": 80,
+      "agreeableness": 71,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

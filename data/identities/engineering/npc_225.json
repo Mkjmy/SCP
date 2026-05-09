@@ -1,0 +1,60 @@
+{
+  "id": "npc_225",
+  "bio": {
+    "full_name": "Maria Muller",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.901,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 105,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 24,
+      "Stealth": 57,
+      "Perception": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 11,
+      "extraversion": 100,
+      "agreeableness": 33,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

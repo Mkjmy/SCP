@@ -1,0 +1,60 @@
+{
+  "id": "npc_246",
+  "bio": {
+    "full_name": "Thomas Williams",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "AB-",
+    "genetic_stability": 0.883,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 87,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 53,
+      "Athletics": 23,
+      "Perception": 14
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 0,
+      "extraversion": 65,
+      "agreeableness": 30,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

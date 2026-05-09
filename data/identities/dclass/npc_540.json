@@ -1,0 +1,60 @@
+{
+  "id": "npc_540",
+  "bio": {
+    "full_name": "Arjun Vasiliev",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.877,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 104,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 38,
+      "Medicine": 91,
+      "Stealth": 26
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 75,
+      "extraversion": 74,
+      "agreeableness": 96,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

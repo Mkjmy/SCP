@@ -1,0 +1,60 @@
+{
+  "id": "npc_746",
+  "bio": {
+    "full_name": "Arjun Gupta",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "A-",
+    "genetic_stability": 0.928,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 92,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 56,
+      "Athletics": 66,
+      "Stealth": 51
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 37,
+      "extraversion": 78,
+      "agreeableness": 19,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

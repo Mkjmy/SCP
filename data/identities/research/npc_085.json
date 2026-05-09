@@ -1,0 +1,60 @@
+{
+  "id": "npc_085",
+  "bio": {
+    "full_name": "Lars Johnson",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.897,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 78,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 21,
+      "Persuasion": 74,
+      "Firearms": 10
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 37,
+      "extraversion": 62,
+      "agreeableness": 73,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

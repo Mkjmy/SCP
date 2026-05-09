@@ -1,0 +1,59 @@
+{
+  "id": "npc_295",
+  "bio": {
+    "full_name": "Paul Johnson",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.935,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 76,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 79,
+      "Medicine": 60,
+      "Stealth": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 39,
+      "extraversion": 52,
+      "agreeableness": 13,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

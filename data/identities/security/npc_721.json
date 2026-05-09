@@ -1,0 +1,60 @@
+{
+  "id": "npc_721",
+  "bio": {
+    "full_name": "Yuki Dubois",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.904,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 86,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 12,
+      "Firearms": 75,
+      "Perception": 17
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 59,
+      "extraversion": 32,
+      "agreeableness": 10,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_314",
+  "bio": {
+    "full_name": "Paul Wong",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 54,
+    "blood_type": "B-",
+    "genetic_stability": 0.933,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 77,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 36,
+      "Engineering": 14,
+      "Medicine": 59
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 90,
+      "extraversion": 64,
+      "agreeableness": 51,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

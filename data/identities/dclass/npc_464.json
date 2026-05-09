@@ -1,0 +1,60 @@
+{
+  "id": "npc_464",
+  "bio": {
+    "full_name": "Donald Garcia",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.984,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 65,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 12,
+      "Hacking": 71,
+      "Medicine": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 92,
+      "extraversion": 13,
+      "agreeableness": 60,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_832",
+  "bio": {
+    "full_name": "Joshua Kovacs",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.901,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 55,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 23,
+      "Containment_Logic": 22,
+      "Firearms": 59
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 13,
+      "extraversion": 48,
+      "agreeableness": 89,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

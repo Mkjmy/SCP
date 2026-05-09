@@ -1,0 +1,59 @@
+{
+  "id": "npc_008",
+  "bio": {
+    "full_name": "Paul Muller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "B+",
+    "genetic_stability": 0.995,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 86,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 85,
+      "Occult_Research": 68,
+      "Containment_Logic": 65
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 25,
+      "extraversion": 3,
+      "agreeableness": 39,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

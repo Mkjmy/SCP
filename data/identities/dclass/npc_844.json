@@ -1,0 +1,60 @@
+{
+  "id": "npc_844",
+  "bio": {
+    "full_name": "James Dubois",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.974,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 77,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 64,
+      "Medicine": 44,
+      "Firearms": 58
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 2,
+      "extraversion": 14,
+      "agreeableness": 48,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

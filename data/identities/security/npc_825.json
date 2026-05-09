@@ -1,0 +1,60 @@
+{
+  "id": "npc_825",
+  "bio": {
+    "full_name": "Matthew Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "A-",
+    "genetic_stability": 0.895,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 98,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 70,
+      "Stealth": 74,
+      "Engineering": 42
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 54,
+      "extraversion": 87,
+      "agreeableness": 88,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

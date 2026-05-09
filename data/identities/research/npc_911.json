@@ -1,0 +1,59 @@
+{
+  "id": "npc_911",
+  "bio": {
+    "full_name": "Michael Ivanov",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "A+",
+    "genetic_stability": 0.91,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 84,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 13,
+      "Perception": 89,
+      "Stealth": 59
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 30,
+      "extraversion": 72,
+      "agreeableness": 1,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

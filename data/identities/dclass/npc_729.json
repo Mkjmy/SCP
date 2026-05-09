@@ -1,0 +1,60 @@
+{
+  "id": "npc_729",
+  "bio": {
+    "full_name": "John Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.93,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 82,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 84,
+      "Occult_Research": 69,
+      "Containment_Logic": 45
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 79,
+      "extraversion": 25,
+      "agreeableness": 51,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

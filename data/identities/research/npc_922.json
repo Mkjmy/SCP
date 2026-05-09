@@ -1,0 +1,59 @@
+{
+  "id": "npc_922",
+  "bio": {
+    "full_name": "Maria Gupta",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.969,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 58,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 28,
+      "Occult_Research": 22,
+      "Hacking": 54
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 14,
+      "extraversion": 46,
+      "agreeableness": 50,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

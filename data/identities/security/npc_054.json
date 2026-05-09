@@ -1,0 +1,60 @@
+{
+  "id": "npc_054",
+  "bio": {
+    "full_name": "Yuki Gupta",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "AB+",
+    "genetic_stability": 0.961,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 101,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 54,
+      "Athletics": 21,
+      "Firearms": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 60,
+      "extraversion": 3,
+      "agreeableness": 89,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

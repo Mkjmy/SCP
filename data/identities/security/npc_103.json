@@ -1,0 +1,59 @@
+{
+  "id": "npc_103",
+  "bio": {
+    "full_name": "Anthony Brown",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "AB+",
+    "genetic_stability": 0.911,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 87,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 26,
+      "Containment_Logic": 41,
+      "Occult_Research": 92
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 29,
+      "extraversion": 0,
+      "agreeableness": 16,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

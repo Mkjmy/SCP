@@ -1,0 +1,60 @@
+{
+  "id": "npc_659",
+  "bio": {
+    "full_name": "Kenji Miller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.941,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 62,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 53,
+      "Containment_Logic": 30,
+      "Medicine": 60
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 2,
+      "extraversion": 2,
+      "agreeableness": 81,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

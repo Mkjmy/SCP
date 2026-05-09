@@ -1,0 +1,60 @@
+{
+  "id": "npc_035",
+  "bio": {
+    "full_name": "Kenji Dubois",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 46,
+    "blood_type": "AB-",
+    "genetic_stability": 0.977,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 108,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 41,
+      "Containment_Logic": 36,
+      "Engineering": 43
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 9,
+      "extraversion": 9,
+      "agreeableness": 8,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

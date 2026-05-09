@@ -1,0 +1,59 @@
+{
+  "id": "npc_935",
+  "bio": {
+    "full_name": "Mark Smith",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.961,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 57,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 22,
+      "Occult_Research": 34,
+      "Hacking": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 77,
+      "extraversion": 46,
+      "agreeableness": 19,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

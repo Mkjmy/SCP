@@ -1,0 +1,60 @@
+{
+  "id": "npc_448",
+  "bio": {
+    "full_name": "Michael Davis",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "A-",
+    "genetic_stability": 0.868,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 98,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 75,
+      "Stealth": 40,
+      "Perception": 21
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 16,
+      "extraversion": 33,
+      "agreeableness": 73,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

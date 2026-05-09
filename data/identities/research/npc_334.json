@@ -1,0 +1,59 @@
+{
+  "id": "npc_334",
+  "bio": {
+    "full_name": "Sven Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 52,
+    "blood_type": "B+",
+    "genetic_stability": 0.857,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 102,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 79,
+      "Occult_Research": 27,
+      "Persuasion": 71
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 82,
+      "extraversion": 91,
+      "agreeableness": 90,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

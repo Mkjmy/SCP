@@ -1,0 +1,60 @@
+{
+  "id": "npc_396",
+  "bio": {
+    "full_name": "Chen Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "O+",
+    "genetic_stability": 0.868,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 59,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 61,
+      "Medicine": 15,
+      "Stealth": 36
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 44,
+      "extraversion": 95,
+      "agreeableness": 63,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

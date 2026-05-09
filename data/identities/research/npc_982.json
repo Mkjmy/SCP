@@ -1,0 +1,60 @@
+{
+  "id": "npc_982",
+  "bio": {
+    "full_name": "John Schmidt",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.933,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 93,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 79,
+      "Hacking": 38,
+      "Containment_Logic": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 4,
+      "extraversion": 42,
+      "agreeableness": 80,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

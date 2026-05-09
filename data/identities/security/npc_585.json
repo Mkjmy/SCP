@@ -1,0 +1,60 @@
+{
+  "id": "npc_585",
+  "bio": {
+    "full_name": "Daniel Garcia",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.885,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 65,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 38,
+      "Stealth": 23,
+      "Perception": 48
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 62,
+      "extraversion": 83,
+      "agreeableness": 55,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

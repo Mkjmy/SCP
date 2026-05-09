@@ -1,0 +1,60 @@
+{
+  "id": "npc_412",
+  "bio": {
+    "full_name": "Yuki Miller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.94,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 108,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 56,
+      "Perception": 34,
+      "Occult_Research": 10
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 75,
+      "extraversion": 22,
+      "agreeableness": 96,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

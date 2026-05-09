@@ -1,0 +1,60 @@
+{
+  "id": "npc_110",
+  "bio": {
+    "full_name": "Christopher Brown",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.957,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 85,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 51,
+      "Stealth": 14,
+      "Hacking": 32
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 89,
+      "extraversion": 13,
+      "agreeableness": 90,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

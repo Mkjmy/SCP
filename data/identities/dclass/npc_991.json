@@ -1,0 +1,60 @@
+{
+  "id": "npc_991",
+  "bio": {
+    "full_name": "Steven Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.924,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 65,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 49,
+      "Hacking": 90,
+      "Stealth": 57
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 14,
+      "extraversion": 58,
+      "agreeableness": 16,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_557",
+  "bio": {
+    "full_name": "Maria Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.878,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 87,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 24,
+      "Engineering": 53,
+      "Containment_Logic": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 53,
+      "extraversion": 54,
+      "agreeableness": 90,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

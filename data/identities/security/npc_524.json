@@ -1,0 +1,60 @@
+{
+  "id": "npc_524",
+  "bio": {
+    "full_name": "Steven Tanaka",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "A+",
+    "genetic_stability": 0.969,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 94,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 20,
+      "Containment_Logic": 85,
+      "Occult_Research": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 20,
+      "extraversion": 9,
+      "agreeableness": 15,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

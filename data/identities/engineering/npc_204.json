@@ -1,0 +1,60 @@
+{
+  "id": "npc_204",
+  "bio": {
+    "full_name": "Robert Dubois",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 52,
+    "blood_type": "B+",
+    "genetic_stability": 0.934,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 67,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 59,
+      "Firearms": 91,
+      "Persuasion": 24
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 95,
+      "extraversion": 91,
+      "agreeableness": 63,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

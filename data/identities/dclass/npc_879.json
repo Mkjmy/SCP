@@ -1,0 +1,59 @@
+{
+  "id": "npc_879",
+  "bio": {
+    "full_name": "Richard Williams",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "AB+",
+    "genetic_stability": 0.873,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 101,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 68,
+      "Engineering": 91,
+      "Medicine": 84
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 66,
+      "extraversion": 22,
+      "agreeableness": 79,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

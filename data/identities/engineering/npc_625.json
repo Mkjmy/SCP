@@ -1,0 +1,60 @@
+{
+  "id": "npc_625",
+  "bio": {
+    "full_name": "William Schmidt",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "O-",
+    "genetic_stability": 0.946,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 96,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 79,
+      "Containment_Logic": 30,
+      "Perception": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 30,
+      "extraversion": 65,
+      "agreeableness": 6,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

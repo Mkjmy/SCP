@@ -1,0 +1,40 @@
+{
+  "facility_prologue": {
+    "name": "The Morning Collection",
+    "description": "Standard procedure for D-Class subjects. Security teams retrieve subjects for daily experimentation.",
+    "events": [
+      {
+        "id": "guards_arrival_warning",
+        "trigger_turn": 4,
+        "type": "MESSAGE",
+        "message": "The distant rhythmic thud of combat boots is getting closer. 'D-902, get ready!' a voice barks from the intercom."
+      },
+      {
+        "id": "the_arrest",
+        "trigger_turn": 5,
+        "type": "CHOICE",
+        "message": "The dormitory door slams open. Three armed Guards stand there, rifles raised. 'D-902! Step forward immediately. You are scheduled for immediate testing in Sector 4.'",
+        "options": [
+          {
+            "id": "comply",
+            "text": "Stand up and follow the guards quietly.",
+            "effect": { "morale": 5, "task": "BEING_ESCORTED" },
+            "log": "D-902 complied without resistance. Proceeding with standard escort."
+          },
+          {
+            "id": "resist",
+            "text": "Refuse to move and glare at them.",
+            "effect": { "morale": -10, "health": -10, "task": "FORCED_SUBMISSION" },
+            "log": "D-902 attempted to resist. Compliance enforced via physical strike."
+          },
+          {
+            "id": "hide_keycard",
+            "text": "Quickly hide your found keycard and then stand up.",
+            "effect": { "sanity": -5, "knowledge": "hidden_contraband", "task": "BEING_ESCORTED" },
+            "log": "D-902 showed slight hesitation but complied. No search performed."
+          }
+        ]
+      }
+    ]
+  }
+}

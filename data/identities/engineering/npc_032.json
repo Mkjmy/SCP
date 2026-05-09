@@ -1,0 +1,60 @@
+{
+  "id": "npc_032",
+  "bio": {
+    "full_name": "Joshua Schmidt",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "O-",
+    "genetic_stability": 0.896,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 83,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 89,
+      "Hacking": 60,
+      "Athletics": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 46,
+      "extraversion": 66,
+      "agreeableness": 49,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

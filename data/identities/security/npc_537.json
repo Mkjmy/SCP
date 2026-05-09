@@ -1,0 +1,60 @@
+{
+  "id": "npc_537",
+  "bio": {
+    "full_name": "Richard Brown",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.891,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 56,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 12,
+      "Firearms": 64,
+      "Athletics": 70
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 23,
+      "extraversion": 68,
+      "agreeableness": 44,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

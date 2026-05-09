@@ -1,0 +1,60 @@
+{
+  "id": "npc_988",
+  "bio": {
+    "full_name": "Olga Muller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 23,
+    "blood_type": "A-",
+    "genetic_stability": 0.946,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 53,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 42,
+      "Engineering": 52,
+      "Firearms": 93
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 18,
+      "extraversion": 40,
+      "agreeableness": 66,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_237",
+  "bio": {
+    "full_name": "Mark Wong",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 56,
+    "blood_type": "B+",
+    "genetic_stability": 0.87,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 88,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 22,
+      "Firearms": 14,
+      "Perception": 38
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 62,
+      "extraversion": 50,
+      "agreeableness": 38,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

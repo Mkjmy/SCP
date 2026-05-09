@@ -1,0 +1,60 @@
+{
+  "id": "npc_487",
+  "bio": {
+    "full_name": "Charles Davis",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "AB-",
+    "genetic_stability": 0.969,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 83,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 10,
+      "Medicine": 64,
+      "Stealth": 59
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 14,
+      "extraversion": 20,
+      "agreeableness": 82,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

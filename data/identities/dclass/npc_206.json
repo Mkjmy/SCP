@@ -1,0 +1,60 @@
+{
+  "id": "npc_206",
+  "bio": {
+    "full_name": "Steven Gupta",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.917,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 92,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 51,
+      "Medicine": 84,
+      "Persuasion": 36
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 17,
+      "extraversion": 4,
+      "agreeableness": 25,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

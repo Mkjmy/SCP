@@ -1,0 +1,60 @@
+{
+  "id": "npc_812",
+  "bio": {
+    "full_name": "David Tanaka",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "O+",
+    "genetic_stability": 0.983,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 57,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 53,
+      "Stealth": 71,
+      "Perception": 52
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 30,
+      "extraversion": 39,
+      "agreeableness": 62,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

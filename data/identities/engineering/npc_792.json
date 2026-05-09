@@ -1,0 +1,60 @@
+{
+  "id": "npc_792",
+  "bio": {
+    "full_name": "Steven Sato",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.975,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 80,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 47,
+      "Firearms": 10,
+      "Medicine": 88
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 17,
+      "extraversion": 45,
+      "agreeableness": 53,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_091",
+  "bio": {
+    "full_name": "James Davis",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.989,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 69,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 15,
+      "Persuasion": 43,
+      "Containment_Logic": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 17,
+      "extraversion": 44,
+      "agreeableness": 46,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_791",
+  "bio": {
+    "full_name": "Arjun Davis",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 62,
+    "blood_type": "O+",
+    "genetic_stability": 0.916,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 100,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 12,
+      "Firearms": 79,
+      "Occult_Research": 18
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 68,
+      "extraversion": 12,
+      "agreeableness": 9,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

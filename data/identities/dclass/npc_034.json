@@ -1,0 +1,60 @@
+{
+  "id": "npc_034",
+  "bio": {
+    "full_name": "Matthew O'Connor",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "O+",
+    "genetic_stability": 0.94,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 96,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 62,
+      "Firearms": 92,
+      "Athletics": 56
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 42,
+      "extraversion": 80,
+      "agreeableness": 32,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

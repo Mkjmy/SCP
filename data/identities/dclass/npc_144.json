@@ -1,0 +1,59 @@
+{
+  "id": "npc_144",
+  "bio": {
+    "full_name": "Paul Johnson",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.95,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 101,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 43,
+      "Medicine": 73,
+      "Containment_Logic": 56
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 2,
+      "extraversion": 55,
+      "agreeableness": 14,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

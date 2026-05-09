@@ -1,0 +1,60 @@
+{
+  "id": "npc_839",
+  "bio": {
+    "full_name": "William Muller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.886,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 56,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 73,
+      "Containment_Logic": 72,
+      "Occult_Research": 32
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 89,
+      "extraversion": 69,
+      "agreeableness": 10,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

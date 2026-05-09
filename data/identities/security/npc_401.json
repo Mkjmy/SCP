@@ -1,0 +1,60 @@
+{
+  "id": "npc_401",
+  "bio": {
+    "full_name": "William Kovacs",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "A+",
+    "genetic_stability": 0.887,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 55,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 82,
+      "Athletics": 43,
+      "Persuasion": 71
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 45,
+      "extraversion": 41,
+      "agreeableness": 82,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

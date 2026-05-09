@@ -1,0 +1,60 @@
+{
+  "id": "npc_872",
+  "bio": {
+    "full_name": "Andrew Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "O-",
+    "genetic_stability": 0.941,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 54,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 63,
+      "Hacking": 78,
+      "Medicine": 91
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 14,
+      "extraversion": 72,
+      "agreeableness": 81,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

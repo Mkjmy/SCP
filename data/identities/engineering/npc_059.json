@@ -1,0 +1,60 @@
+{
+  "id": "npc_059",
+  "bio": {
+    "full_name": "William Miller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.953,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 91,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 92,
+      "Containment_Logic": 22,
+      "Occult_Research": 72
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 90,
+      "extraversion": 57,
+      "agreeableness": 13,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

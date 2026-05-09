@@ -1,0 +1,60 @@
+{
+  "id": "npc_393",
+  "bio": {
+    "full_name": "Chen Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 21,
+    "blood_type": "B+",
+    "genetic_stability": 0.999,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 94,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 16,
+      "Stealth": 39,
+      "Perception": 71
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 64,
+      "extraversion": 86,
+      "agreeableness": 38,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

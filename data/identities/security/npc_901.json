@@ -1,0 +1,60 @@
+{
+  "id": "npc_901",
+  "bio": {
+    "full_name": "Donald Williams",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "A-",
+    "genetic_stability": 0.902,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 57,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 91,
+      "Hacking": 32,
+      "Containment_Logic": 53
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 12,
+      "extraversion": 83,
+      "agreeableness": 30,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_632",
+  "bio": {
+    "full_name": "John Sato",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.868,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 95,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 32,
+      "Occult_Research": 73,
+      "Firearms": 18
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 71,
+      "extraversion": 23,
+      "agreeableness": 76,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

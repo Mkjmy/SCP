@@ -1,0 +1,60 @@
+{
+  "id": "npc_136",
+  "bio": {
+    "full_name": "Yuki Wong",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "O-",
+    "genetic_stability": 0.931,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 77,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 15,
+      "Occult_Research": 72,
+      "Stealth": 31
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 98,
+      "extraversion": 21,
+      "agreeableness": 12,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_758",
+  "bio": {
+    "full_name": "David Brown",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "O+",
+    "genetic_stability": 0.912,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 95,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 28,
+      "Persuasion": 19,
+      "Athletics": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 52,
+      "extraversion": 81,
+      "agreeableness": 62,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

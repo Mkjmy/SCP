@@ -1,0 +1,60 @@
+{
+  "id": "npc_377",
+  "bio": {
+    "full_name": "Thomas Sato",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "B+",
+    "genetic_stability": 0.878,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 83,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 79,
+      "Athletics": 68,
+      "Perception": 53
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 32,
+      "extraversion": 55,
+      "agreeableness": 57,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

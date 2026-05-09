@@ -1,0 +1,60 @@
+{
+  "id": "npc_321",
+  "bio": {
+    "full_name": "Mark Brown",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "B+",
+    "genetic_stability": 0.971,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 56,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 12,
+      "Firearms": 66,
+      "Occult_Research": 38
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 4,
+      "extraversion": 67,
+      "agreeableness": 10,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

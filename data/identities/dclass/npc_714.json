@@ -1,0 +1,60 @@
+{
+  "id": "npc_714",
+  "bio": {
+    "full_name": "Sven Ivanov",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.89,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 74,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 40,
+      "Occult_Research": 31,
+      "Containment_Logic": 39
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 44,
+      "extraversion": 67,
+      "agreeableness": 52,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

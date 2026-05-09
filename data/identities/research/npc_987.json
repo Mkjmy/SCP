@@ -1,0 +1,60 @@
+{
+  "id": "npc_987",
+  "bio": {
+    "full_name": "Fatima Miller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.945,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 96,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 17,
+      "Stealth": 39,
+      "Occult_Research": 10
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 88,
+      "extraversion": 19,
+      "agreeableness": 98,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

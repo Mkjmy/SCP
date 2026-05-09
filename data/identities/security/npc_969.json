@@ -1,0 +1,60 @@
+{
+  "id": "npc_969",
+  "bio": {
+    "full_name": "Maria O'Connor",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.911,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 70,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 31,
+      "Stealth": 28,
+      "Containment_Logic": 92
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 28,
+      "extraversion": 23,
+      "agreeableness": 40,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

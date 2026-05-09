@@ -1,0 +1,60 @@
+{
+  "id": "npc_910",
+  "bio": {
+    "full_name": "Olga Tanaka",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "AB-",
+    "genetic_stability": 0.895,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 61,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 56,
+      "Firearms": 62,
+      "Athletics": 86
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 55,
+      "extraversion": 67,
+      "agreeableness": 31,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

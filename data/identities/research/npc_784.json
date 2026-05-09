@@ -1,0 +1,60 @@
+{
+  "id": "npc_784",
+  "bio": {
+    "full_name": "Kenji Miller",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.971,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 87,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 45,
+      "Persuasion": 82,
+      "Occult_Research": 15
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 92,
+      "extraversion": 29,
+      "agreeableness": 91,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

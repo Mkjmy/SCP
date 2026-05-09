@@ -1,0 +1,60 @@
+{
+  "id": "npc_793",
+  "bio": {
+    "full_name": "Robert Kovacs",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "B-",
+    "genetic_stability": 0.961,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 63,
+      "Firearms": 42,
+      "Stealth": 44
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 3,
+      "extraversion": 41,
+      "agreeableness": 65,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

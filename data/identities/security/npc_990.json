@@ -1,0 +1,60 @@
+{
+  "id": "npc_990",
+  "bio": {
+    "full_name": "David Kovacs",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "B-",
+    "genetic_stability": 0.911,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 91,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 60,
+      "Engineering": 66,
+      "Medicine": 46
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 56,
+      "extraversion": 91,
+      "agreeableness": 67,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

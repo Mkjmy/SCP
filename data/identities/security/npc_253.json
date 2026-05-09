@@ -1,0 +1,60 @@
+{
+  "id": "npc_253",
+  "bio": {
+    "full_name": "Maria Smith",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "O+",
+    "genetic_stability": 0.956,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 103,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 12,
+      "Medicine": 54,
+      "Firearms": 12
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 81,
+      "extraversion": 1,
+      "agreeableness": 76,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

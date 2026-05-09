@@ -1,0 +1,60 @@
+{
+  "id": "npc_511",
+  "bio": {
+    "full_name": "James Dubois",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.866,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 86,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 79,
+      "Medicine": 14,
+      "Athletics": 36
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 12,
+      "extraversion": 68,
+      "agreeableness": 44,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

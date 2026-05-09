@@ -1,0 +1,60 @@
+{
+  "id": "npc_148",
+  "bio": {
+    "full_name": "John Muller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 55,
+    "blood_type": "B+",
+    "genetic_stability": 0.955,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 105,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 31,
+      "Occult_Research": 61,
+      "Athletics": 91
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 88,
+      "extraversion": 82,
+      "agreeableness": 88,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

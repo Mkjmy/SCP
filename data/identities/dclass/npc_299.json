@@ -1,0 +1,60 @@
+{
+  "id": "npc_299",
+  "bio": {
+    "full_name": "Sven Brown",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "B-",
+    "genetic_stability": 0.876,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 95,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 62,
+      "Engineering": 47,
+      "Stealth": 59
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 73,
+      "extraversion": 37,
+      "agreeableness": 26,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_477",
+  "bio": {
+    "full_name": "Christopher Williams",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "A+",
+    "genetic_stability": 0.873,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 68,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 84,
+      "Engineering": 10,
+      "Persuasion": 19
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 38,
+      "extraversion": 97,
+      "agreeableness": 83,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

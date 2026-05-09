@@ -1,0 +1,60 @@
+{
+  "id": "npc_313",
+  "bio": {
+    "full_name": "John Tanaka",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.974,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 75,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 85,
+      "Engineering": 27,
+      "Hacking": 48
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 88,
+      "extraversion": 1,
+      "agreeableness": 31,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

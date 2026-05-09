@@ -1,0 +1,60 @@
+{
+  "id": "npc_940",
+  "bio": {
+    "full_name": "Chen Vasiliev",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 61,
+    "blood_type": "B-",
+    "genetic_stability": 0.88,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 96,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 26,
+      "Athletics": 60,
+      "Persuasion": 57
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 28,
+      "extraversion": 26,
+      "agreeableness": 69,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

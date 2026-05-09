@@ -1,0 +1,60 @@
+{
+  "id": "npc_048",
+  "bio": {
+    "full_name": "Paul Bakker",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.976,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 100,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 76,
+      "Athletics": 81,
+      "Perception": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 79,
+      "extraversion": 2,
+      "agreeableness": 20,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

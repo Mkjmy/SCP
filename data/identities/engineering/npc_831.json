@@ -1,0 +1,60 @@
+{
+  "id": "npc_831",
+  "bio": {
+    "full_name": "Chen Ivanov",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.9,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 96,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 42,
+      "Occult_Research": 80,
+      "Athletics": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 9,
+      "extraversion": 18,
+      "agreeableness": 31,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

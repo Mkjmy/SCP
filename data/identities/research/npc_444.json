@@ -1,0 +1,60 @@
+{
+  "id": "npc_444",
+  "bio": {
+    "full_name": "Donald Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.964,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 98,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 86,
+      "Occult_Research": 34,
+      "Engineering": 82
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 14,
+      "extraversion": 82,
+      "agreeableness": 1,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

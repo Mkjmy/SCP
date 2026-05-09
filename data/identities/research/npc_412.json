@@ -1,0 +1,60 @@
+{
+  "id": "npc_412",
+  "bio": {
+    "full_name": "Andrew O'Connor",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "AB+",
+    "genetic_stability": 0.919,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 105,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 80,
+      "Firearms": 85,
+      "Occult_Research": 36
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 19,
+      "extraversion": 20,
+      "agreeableness": 49,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

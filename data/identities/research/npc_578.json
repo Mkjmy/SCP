@@ -1,0 +1,60 @@
+{
+  "id": "npc_578",
+  "bio": {
+    "full_name": "Robert Tanaka",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "B-",
+    "genetic_stability": 0.877,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 68,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 28,
+      "Medicine": 90,
+      "Athletics": 84
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 33,
+      "extraversion": 69,
+      "agreeableness": 94,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

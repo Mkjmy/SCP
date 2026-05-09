@@ -1,0 +1,60 @@
+{
+  "id": "npc_929",
+  "bio": {
+    "full_name": "William Muller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "O-",
+    "genetic_stability": 0.928,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 67,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 31,
+      "Containment_Logic": 31,
+      "Persuasion": 27
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 82,
+      "extraversion": 12,
+      "agreeableness": 99,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

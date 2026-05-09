@@ -1,0 +1,60 @@
+{
+  "id": "npc_527",
+  "bio": {
+    "full_name": "Charles Ivanov",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.862,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 69,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 77,
+      "Containment_Logic": 53,
+      "Persuasion": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 69,
+      "extraversion": 26,
+      "agreeableness": 44,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

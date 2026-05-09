@@ -1,0 +1,60 @@
+{
+  "id": "npc_035",
+  "bio": {
+    "full_name": "David Schmidt",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "O-",
+    "genetic_stability": 0.915,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 67,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 49,
+      "Perception": 49,
+      "Persuasion": 93
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 14,
+      "extraversion": 50,
+      "agreeableness": 53,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

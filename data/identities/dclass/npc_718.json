@@ -1,0 +1,59 @@
+{
+  "id": "npc_718",
+  "bio": {
+    "full_name": "Sven Schmidt",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.971,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 53,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 25,
+      "Stealth": 72,
+      "Containment_Logic": 60
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 49,
+      "extraversion": 48,
+      "agreeableness": 39,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

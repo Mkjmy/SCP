@@ -1,0 +1,60 @@
+{
+  "id": "npc_310",
+  "bio": {
+    "full_name": "John Vasiliev",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 62,
+    "blood_type": "A-",
+    "genetic_stability": 0.889,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 67,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 16,
+      "Persuasion": 84,
+      "Containment_Logic": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 57,
+      "extraversion": 11,
+      "agreeableness": 100,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

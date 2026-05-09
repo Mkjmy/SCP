@@ -1,0 +1,60 @@
+{
+  "id": "npc_393",
+  "bio": {
+    "full_name": "Chen Williams",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.868,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 107,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 41,
+      "Perception": 27,
+      "Occult_Research": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 81,
+      "extraversion": 0,
+      "agreeableness": 17,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

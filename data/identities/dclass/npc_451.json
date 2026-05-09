@@ -1,0 +1,60 @@
+{
+  "id": "npc_451",
+  "bio": {
+    "full_name": "Chen Johnson",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.998,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 55,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 30,
+      "Perception": 35,
+      "Persuasion": 35
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 13,
+      "extraversion": 45,
+      "agreeableness": 82,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

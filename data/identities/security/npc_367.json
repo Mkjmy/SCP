@@ -1,0 +1,60 @@
+{
+  "id": "npc_367",
+  "bio": {
+    "full_name": "Paul Wong",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "B+",
+    "genetic_stability": 0.868,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 54,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 14,
+      "Firearms": 54,
+      "Hacking": 69
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 81,
+      "extraversion": 83,
+      "agreeableness": 33,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

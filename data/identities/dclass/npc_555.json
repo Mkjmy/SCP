@@ -1,0 +1,60 @@
+{
+  "id": "npc_555",
+  "bio": {
+    "full_name": "Daniel Garcia",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.921,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 104,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 81,
+      "Perception": 64,
+      "Containment_Logic": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 57,
+      "extraversion": 64,
+      "agreeableness": 1,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

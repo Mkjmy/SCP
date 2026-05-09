@@ -1,0 +1,60 @@
+{
+  "id": "npc_441",
+  "bio": {
+    "full_name": "William Muller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.953,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 99,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 42,
+      "Medicine": 31,
+      "Hacking": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 29,
+      "extraversion": 90,
+      "agreeableness": 41,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

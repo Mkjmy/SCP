@@ -1,0 +1,60 @@
+{
+  "id": "npc_554",
+  "bio": {
+    "full_name": "Richard Jones",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "AB-",
+    "genetic_stability": 0.975,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 101,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 80,
+      "Containment_Logic": 21,
+      "Hacking": 37
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 74,
+      "extraversion": 37,
+      "agreeableness": 35,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

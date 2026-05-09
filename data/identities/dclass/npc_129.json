@@ -1,0 +1,60 @@
+{
+  "id": "npc_129",
+  "bio": {
+    "full_name": "Elena Vasiliev",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.926,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 101,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 14,
+      "Stealth": 47,
+      "Engineering": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 59,
+      "extraversion": 84,
+      "agreeableness": 74,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

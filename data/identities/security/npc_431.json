@@ -1,0 +1,60 @@
+{
+  "id": "npc_431",
+  "bio": {
+    "full_name": "Daniel Garcia",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.984,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 67,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 45,
+      "Medicine": 29,
+      "Occult_Research": 73
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 2,
+      "extraversion": 40,
+      "agreeableness": 49,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

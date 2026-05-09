@@ -1,0 +1,60 @@
+{
+  "id": "npc_548",
+  "bio": {
+    "full_name": "Mark Ivanov",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.871,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 100,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 51,
+      "Firearms": 64,
+      "Medicine": 10
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 97,
+      "extraversion": 81,
+      "agreeableness": 23,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

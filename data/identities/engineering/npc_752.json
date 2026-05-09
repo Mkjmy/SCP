@@ -1,0 +1,60 @@
+{
+  "id": "npc_752",
+  "bio": {
+    "full_name": "Daniel Williams",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.894,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 51,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 68,
+      "Firearms": 59,
+      "Containment_Logic": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 51,
+      "extraversion": 13,
+      "agreeableness": 95,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

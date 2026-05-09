@@ -1,0 +1,60 @@
+{
+  "id": "npc_422",
+  "bio": {
+    "full_name": "Richard Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.981,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 93,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 63,
+      "Firearms": 22,
+      "Perception": 59
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 43,
+      "extraversion": 24,
+      "agreeableness": 30,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

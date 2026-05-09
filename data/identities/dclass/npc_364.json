@@ -1,0 +1,60 @@
+{
+  "id": "npc_364",
+  "bio": {
+    "full_name": "Donald Wong",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.978,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 52,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 80,
+      "Occult_Research": 21,
+      "Hacking": 75
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 90,
+      "extraversion": 53,
+      "agreeableness": 87,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

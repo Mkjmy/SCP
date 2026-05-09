@@ -1,0 +1,60 @@
+{
+  "id": "npc_541",
+  "bio": {
+    "full_name": "Mark Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "O+",
+    "genetic_stability": 0.988,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 57,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 69,
+      "Hacking": 43,
+      "Occult_Research": 59
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 9,
+      "extraversion": 16,
+      "agreeableness": 86,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

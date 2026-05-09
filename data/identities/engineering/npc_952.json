@@ -1,0 +1,60 @@
+{
+  "id": "npc_952",
+  "bio": {
+    "full_name": "Mark Davis",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 57,
+    "blood_type": "AB-",
+    "genetic_stability": 0.904,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 61,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 57,
+      "Hacking": 25,
+      "Engineering": 87
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 88,
+      "extraversion": 84,
+      "agreeableness": 6,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

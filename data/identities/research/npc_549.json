@@ -1,0 +1,60 @@
+{
+  "id": "npc_549",
+  "bio": {
+    "full_name": "Joshua Sato",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 32,
+    "blood_type": "A+",
+    "genetic_stability": 0.962,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 82,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 69,
+      "Athletics": 64,
+      "Containment_Logic": 53
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 90,
+      "extraversion": 6,
+      "agreeableness": 90,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

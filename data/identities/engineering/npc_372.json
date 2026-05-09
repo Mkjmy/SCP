@@ -1,0 +1,60 @@
+{
+  "id": "npc_372",
+  "bio": {
+    "full_name": "Michael Tanaka",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "O+",
+    "genetic_stability": 0.858,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 57,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 70,
+      "Engineering": 23,
+      "Medicine": 92
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 48,
+      "extraversion": 16,
+      "agreeableness": 46,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

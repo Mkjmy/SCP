@@ -1,0 +1,60 @@
+{
+  "id": "npc_042",
+  "bio": {
+    "full_name": "Christopher O'Connor",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.981,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 109,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 85,
+      "Firearms": 94,
+      "Stealth": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 94,
+      "extraversion": 35,
+      "agreeableness": 34,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

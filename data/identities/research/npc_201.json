@@ -1,0 +1,60 @@
+{
+  "id": "npc_201",
+  "bio": {
+    "full_name": "Anthony Ivanov",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.903,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 59,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 30,
+      "Containment_Logic": 90,
+      "Athletics": 48
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 18,
+      "extraversion": 62,
+      "agreeableness": 72,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

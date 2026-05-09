@@ -1,0 +1,59 @@
+{
+  "id": "npc_801",
+  "bio": {
+    "full_name": "Yuki Smith",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.921,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 97,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 74,
+      "Athletics": 58,
+      "Persuasion": 55
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 96,
+      "extraversion": 94,
+      "agreeableness": 64,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

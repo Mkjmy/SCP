@@ -1,0 +1,60 @@
+{
+  "id": "npc_413",
+  "bio": {
+    "full_name": "Thomas Vasiliev",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "AB+",
+    "genetic_stability": 0.903,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 87,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 64,
+      "Athletics": 61,
+      "Medicine": 65
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 70,
+      "extraversion": 10,
+      "agreeableness": 10,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

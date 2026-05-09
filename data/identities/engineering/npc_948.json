@@ -1,0 +1,60 @@
+{
+  "id": "npc_948",
+  "bio": {
+    "full_name": "Joseph Ivanov",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.862,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 85,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 92,
+      "Containment_Logic": 66,
+      "Persuasion": 71
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 13,
+      "extraversion": 68,
+      "agreeableness": 24,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

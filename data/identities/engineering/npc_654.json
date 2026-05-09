@@ -1,0 +1,60 @@
+{
+  "id": "npc_654",
+  "bio": {
+    "full_name": "Charles Johnson",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "O+",
+    "genetic_stability": 0.863,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 108,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 59,
+      "Medicine": 67,
+      "Hacking": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 20,
+      "extraversion": 71,
+      "agreeableness": 100,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

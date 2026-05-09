@@ -1,0 +1,60 @@
+{
+  "id": "npc_467",
+  "bio": {
+    "full_name": "Andrew Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "O-",
+    "genetic_stability": 0.887,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 52,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 21,
+      "Medicine": 57,
+      "Hacking": 58
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 61,
+      "extraversion": 36,
+      "agreeableness": 52,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

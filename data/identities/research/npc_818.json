@@ -1,0 +1,60 @@
+{
+  "id": "npc_818",
+  "bio": {
+    "full_name": "Mark Johnson",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "B+",
+    "genetic_stability": 0.882,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 60,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 30,
+      "Perception": 43,
+      "Athletics": 62
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 37,
+      "extraversion": 80,
+      "agreeableness": 70,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

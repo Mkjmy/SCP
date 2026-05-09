@@ -1,0 +1,60 @@
+{
+  "id": "npc_123",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.97,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 80,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 73,
+      "Stealth": 50,
+      "Engineering": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 91,
+      "extraversion": 5,
+      "agreeableness": 93,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

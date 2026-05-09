@@ -1,0 +1,60 @@
+{
+  "id": "npc_682",
+  "bio": {
+    "full_name": "Anthony Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 54,
+    "blood_type": "AB+",
+    "genetic_stability": 0.86,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 80,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 21,
+      "Firearms": 89,
+      "Engineering": 15
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 91,
+      "extraversion": 89,
+      "agreeableness": 47,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

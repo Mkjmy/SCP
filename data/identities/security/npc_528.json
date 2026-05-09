@@ -1,0 +1,60 @@
+{
+  "id": "npc_528",
+  "bio": {
+    "full_name": "Anthony Williams",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "A-",
+    "genetic_stability": 0.922,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 101,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 10,
+      "Athletics": 13,
+      "Perception": 45
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 60,
+      "extraversion": 22,
+      "agreeableness": 83,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

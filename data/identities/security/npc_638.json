@@ -1,0 +1,60 @@
+{
+  "id": "npc_638",
+  "bio": {
+    "full_name": "Maria Dubois",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.901,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 96,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 58,
+      "Medicine": 44,
+      "Athletics": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 62,
+      "extraversion": 14,
+      "agreeableness": 29,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

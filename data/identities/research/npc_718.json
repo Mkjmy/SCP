@@ -1,0 +1,60 @@
+{
+  "id": "npc_718",
+  "bio": {
+    "full_name": "Matthew Wong",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "O-",
+    "genetic_stability": 0.944,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 54,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 17,
+      "Perception": 72,
+      "Firearms": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 76,
+      "extraversion": 15,
+      "agreeableness": 51,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

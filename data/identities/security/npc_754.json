@@ -1,0 +1,60 @@
+{
+  "id": "npc_754",
+  "bio": {
+    "full_name": "Matthew Johnson",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.946,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 78,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 80,
+      "Persuasion": 77,
+      "Firearms": 80
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 26,
+      "extraversion": 66,
+      "agreeableness": 18,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_338",
+  "bio": {
+    "full_name": "Yuki Ivanov",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.994,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 72,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 53,
+      "Perception": 58,
+      "Engineering": 35
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 38,
+      "extraversion": 34,
+      "agreeableness": 25,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

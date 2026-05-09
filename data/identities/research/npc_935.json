@@ -1,0 +1,60 @@
+{
+  "id": "npc_935",
+  "bio": {
+    "full_name": "William Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.895,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 99,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 11,
+      "Athletics": 88,
+      "Containment_Logic": 85
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 32,
+      "extraversion": 83,
+      "agreeableness": 46,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

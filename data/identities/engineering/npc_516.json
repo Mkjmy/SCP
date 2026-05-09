@@ -1,0 +1,60 @@
+{
+  "id": "npc_516",
+  "bio": {
+    "full_name": "Joseph Miller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "B+",
+    "genetic_stability": 0.853,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 75,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 15,
+      "Medicine": 45,
+      "Occult_Research": 94
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 16,
+      "extraversion": 51,
+      "agreeableness": 92,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

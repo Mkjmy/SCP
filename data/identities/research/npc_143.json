@@ -1,0 +1,60 @@
+{
+  "id": "npc_143",
+  "bio": {
+    "full_name": "William Wong",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "O-",
+    "genetic_stability": 0.907,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 82,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 41,
+      "Engineering": 40,
+      "Firearms": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 9,
+      "extraversion": 96,
+      "agreeableness": 44,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

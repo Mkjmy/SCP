@@ -1,0 +1,60 @@
+{
+  "id": "npc_070",
+  "bio": {
+    "full_name": "Chen Williams",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "A-",
+    "genetic_stability": 0.953,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 70,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 21,
+      "Containment_Logic": 80,
+      "Engineering": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 15,
+      "extraversion": 43,
+      "agreeableness": 41,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

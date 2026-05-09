@@ -1,0 +1,60 @@
+{
+  "id": "npc_128",
+  "bio": {
+    "full_name": "Thomas Jones",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "A+",
+    "genetic_stability": 0.928,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 82,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 11,
+      "Athletics": 79,
+      "Containment_Logic": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 49,
+      "extraversion": 27,
+      "agreeableness": 38,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

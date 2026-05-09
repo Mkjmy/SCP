@@ -1,0 +1,60 @@
+{
+  "id": "npc_684",
+  "bio": {
+    "full_name": "Paul Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "A+",
+    "genetic_stability": 0.903,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 57,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 27,
+      "Medicine": 95,
+      "Stealth": 19
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 57,
+      "extraversion": 32,
+      "agreeableness": 6,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

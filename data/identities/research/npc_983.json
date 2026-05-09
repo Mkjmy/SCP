@@ -1,0 +1,60 @@
+{
+  "id": "npc_983",
+  "bio": {
+    "full_name": "Olga Garcia",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 54,
+    "blood_type": "AB+",
+    "genetic_stability": 0.914,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 84,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 43,
+      "Perception": 37,
+      "Containment_Logic": 72
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 100,
+      "extraversion": 76,
+      "agreeableness": 22,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

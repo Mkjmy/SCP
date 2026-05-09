@@ -1,0 +1,60 @@
+{
+  "id": "npc_845",
+  "bio": {
+    "full_name": "Maria Miller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.93,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 52,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 79,
+      "Firearms": 46,
+      "Engineering": 17
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 97,
+      "extraversion": 23,
+      "agreeableness": 58,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

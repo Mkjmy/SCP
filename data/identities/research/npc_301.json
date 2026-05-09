@@ -1,0 +1,60 @@
+{
+  "id": "npc_301",
+  "bio": {
+    "full_name": "Joshua Smith",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.987,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 89,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 17,
+      "Firearms": 79,
+      "Containment_Logic": 18
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 77,
+      "extraversion": 16,
+      "agreeableness": 83,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

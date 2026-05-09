@@ -1,0 +1,60 @@
+{
+  "id": "npc_021",
+  "bio": {
+    "full_name": "Matthew Garcia",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.9,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 61,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 58,
+      "Stealth": 89,
+      "Persuasion": 70
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 85,
+      "extraversion": 33,
+      "agreeableness": 12,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

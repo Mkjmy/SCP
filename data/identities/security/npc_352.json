@@ -1,0 +1,60 @@
+{
+  "id": "npc_352",
+  "bio": {
+    "full_name": "Robert Kovacs",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "AB-",
+    "genetic_stability": 0.921,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 78,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 72,
+      "Occult_Research": 73,
+      "Stealth": 25
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 82,
+      "extraversion": 22,
+      "agreeableness": 86,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

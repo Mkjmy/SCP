@@ -1,0 +1,60 @@
+{
+  "id": "npc_714",
+  "bio": {
+    "full_name": "Joshua Sato",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "O-",
+    "genetic_stability": 0.919,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 106,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 76,
+      "Engineering": 50,
+      "Perception": 85
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 37,
+      "extraversion": 92,
+      "agreeableness": 55,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

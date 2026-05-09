@@ -1,0 +1,60 @@
+{
+  "id": "npc_712",
+  "bio": {
+    "full_name": "Chen Dubois",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 65,
+    "blood_type": "A-",
+    "genetic_stability": 0.943,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 108,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 49,
+      "Containment_Logic": 56,
+      "Hacking": 20
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 46,
+      "extraversion": 89,
+      "agreeableness": 24,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

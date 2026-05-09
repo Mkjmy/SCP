@@ -1,0 +1,60 @@
+{
+  "id": "npc_044",
+  "bio": {
+    "full_name": "Yuki Tanaka",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 57,
+    "blood_type": "A-",
+    "genetic_stability": 1.0,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 104,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 88,
+      "Occult_Research": 57,
+      "Athletics": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 118,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 21,
+      "extraversion": 37,
+      "agreeableness": 78,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

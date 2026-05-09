@@ -1,0 +1,60 @@
+{
+  "id": "npc_057",
+  "bio": {
+    "full_name": "Robert Schmidt",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.855,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 77,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 15,
+      "Medicine": 93,
+      "Stealth": 44
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 95,
+      "extraversion": 62,
+      "agreeableness": 67,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_912",
+  "bio": {
+    "full_name": "John Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.854,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 62,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 82,
+      "Occult_Research": 24,
+      "Engineering": 45
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 33,
+      "extraversion": 10,
+      "agreeableness": 84,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

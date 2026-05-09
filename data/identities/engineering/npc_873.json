@@ -1,0 +1,60 @@
+{
+  "id": "npc_873",
+  "bio": {
+    "full_name": "Christopher Miller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "B-",
+    "genetic_stability": 0.852,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 89,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 19,
+      "Engineering": 11,
+      "Medicine": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 93,
+      "extraversion": 17,
+      "agreeableness": 90,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_371",
+  "bio": {
+    "full_name": "Paul Garcia",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.992,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 67,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 89,
+      "Containment_Logic": 13,
+      "Stealth": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 50,
+      "extraversion": 23,
+      "agreeableness": 90,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_139",
+  "bio": {
+    "full_name": "Mark Sato",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "A+",
+    "genetic_stability": 0.864,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 76,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 58,
+      "Persuasion": 47,
+      "Engineering": 82
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 83,
+      "extraversion": 8,
+      "agreeableness": 56,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

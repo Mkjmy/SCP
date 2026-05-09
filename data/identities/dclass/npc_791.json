@@ -1,0 +1,59 @@
+{
+  "id": "npc_791",
+  "bio": {
+    "full_name": "Thomas Davis",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.941,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 68,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 63,
+      "Firearms": 68,
+      "Stealth": 89
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 65,
+      "extraversion": 11,
+      "agreeableness": 18,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

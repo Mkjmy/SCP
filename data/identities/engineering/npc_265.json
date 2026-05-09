@@ -1,0 +1,60 @@
+{
+  "id": "npc_265",
+  "bio": {
+    "full_name": "James Garcia",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "O-",
+    "genetic_stability": 0.928,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 93,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 31,
+      "Occult_Research": 24,
+      "Hacking": 47
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 50,
+      "extraversion": 56,
+      "agreeableness": 60,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_370",
+  "bio": {
+    "full_name": "Matthew Williams",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.915,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 96,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 45,
+      "Persuasion": 33,
+      "Engineering": 44
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 23,
+      "extraversion": 48,
+      "agreeableness": 43,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

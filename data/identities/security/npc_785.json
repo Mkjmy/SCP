@@ -1,0 +1,60 @@
+{
+  "id": "npc_785",
+  "bio": {
+    "full_name": "Christopher Davis",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 23,
+    "blood_type": "B+",
+    "genetic_stability": 0.99,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 81,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 33,
+      "Occult_Research": 32,
+      "Firearms": 88
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 68,
+      "extraversion": 85,
+      "agreeableness": 19,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_757",
+  "bio": {
+    "full_name": "Michael Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "O-",
+    "genetic_stability": 0.951,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 84,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 75,
+      "Firearms": 40,
+      "Persuasion": 73
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 74,
+      "extraversion": 85,
+      "agreeableness": 33,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

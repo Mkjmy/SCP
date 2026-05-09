@@ -1,0 +1,60 @@
+{
+  "id": "npc_840",
+  "bio": {
+    "full_name": "Sven Miller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "A-",
+    "genetic_stability": 0.972,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 63,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 18,
+      "Engineering": 11,
+      "Occult_Research": 58
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 32,
+      "extraversion": 58,
+      "agreeableness": 41,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

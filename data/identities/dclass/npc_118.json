@@ -1,0 +1,59 @@
+{
+  "id": "npc_118",
+  "bio": {
+    "full_name": "Mark Davis",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.854,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 85,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 89,
+      "Stealth": 35,
+      "Engineering": 56
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 40,
+      "extraversion": 45,
+      "agreeableness": 33,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_577",
+  "bio": {
+    "full_name": "Arjun Dubois",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.919,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 58,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 70,
+      "Stealth": 85,
+      "Medicine": 17
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 28,
+      "extraversion": 96,
+      "agreeableness": 73,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

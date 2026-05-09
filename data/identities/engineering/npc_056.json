@@ -1,0 +1,60 @@
+{
+  "id": "npc_056",
+  "bio": {
+    "full_name": "Daniel Bakker",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.991,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 85,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 13,
+      "Hacking": 27,
+      "Stealth": 69
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 77,
+      "extraversion": 3,
+      "agreeableness": 7,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

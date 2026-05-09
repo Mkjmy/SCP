@@ -1,0 +1,60 @@
+{
+  "id": "npc_677",
+  "bio": {
+    "full_name": "Lars Miller",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 52,
+    "blood_type": "AB+",
+    "genetic_stability": 0.995,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 83,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 85,
+      "Occult_Research": 70,
+      "Hacking": 62
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 25,
+      "extraversion": 96,
+      "agreeableness": 12,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

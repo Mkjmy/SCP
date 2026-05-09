@@ -1,0 +1,60 @@
+{
+  "id": "npc_680",
+  "bio": {
+    "full_name": "Daniel Muller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.863,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 61,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 19,
+      "Perception": 56,
+      "Stealth": 68
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 27,
+      "extraversion": 73,
+      "agreeableness": 33,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

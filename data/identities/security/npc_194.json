@@ -1,0 +1,60 @@
+{
+  "id": "npc_194",
+  "bio": {
+    "full_name": "Fatima Garcia",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "A+",
+    "genetic_stability": 0.96,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 80,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 63,
+      "Perception": 34,
+      "Medicine": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 39,
+      "extraversion": 100,
+      "agreeableness": 76,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

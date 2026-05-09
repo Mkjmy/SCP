@@ -1,0 +1,60 @@
+{
+  "id": "npc_174",
+  "bio": {
+    "full_name": "Elena Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.933,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 53,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 95,
+      "Perception": 56,
+      "Medicine": 64
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 94,
+      "extraversion": 87,
+      "agreeableness": 76,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

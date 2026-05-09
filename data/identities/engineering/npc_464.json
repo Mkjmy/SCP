@@ -1,0 +1,60 @@
+{
+  "id": "npc_464",
+  "bio": {
+    "full_name": "Andrew Johnson",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 52,
+    "blood_type": "B-",
+    "genetic_stability": 0.924,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 82,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 94,
+      "Firearms": 12,
+      "Medicine": 55
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 40,
+      "extraversion": 30,
+      "agreeableness": 71,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_201",
+  "bio": {
+    "full_name": "Michael Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "O-",
+    "genetic_stability": 0.927,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 56,
+      "Containment_Logic": 19,
+      "Medicine": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 49,
+      "extraversion": 94,
+      "agreeableness": 89,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

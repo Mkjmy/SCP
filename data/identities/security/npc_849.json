@@ -1,0 +1,60 @@
+{
+  "id": "npc_849",
+  "bio": {
+    "full_name": "William Gupta",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "A+",
+    "genetic_stability": 0.916,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 109,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 51,
+      "Containment_Logic": 90,
+      "Hacking": 68
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 86,
+      "extraversion": 73,
+      "agreeableness": 9,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

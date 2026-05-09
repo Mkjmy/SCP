@@ -1,0 +1,60 @@
+{
+  "id": "npc_829",
+  "bio": {
+    "full_name": "Joseph Dubois",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.933,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 75,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 22,
+      "Firearms": 16,
+      "Hacking": 85
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 16,
+      "extraversion": 96,
+      "agreeableness": 48,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

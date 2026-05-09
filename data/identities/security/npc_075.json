@@ -1,0 +1,60 @@
+{
+  "id": "npc_075",
+  "bio": {
+    "full_name": "Joshua Ivanov",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 52,
+    "blood_type": "O-",
+    "genetic_stability": 0.891,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 57,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 19,
+      "Firearms": 81,
+      "Containment_Logic": 44
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 25,
+      "extraversion": 9,
+      "agreeableness": 93,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_675",
+  "bio": {
+    "full_name": "Andrew Bakker",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "O+",
+    "genetic_stability": 0.998,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 101,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 18,
+      "Firearms": 30,
+      "Medicine": 86
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 80,
+      "extraversion": 2,
+      "agreeableness": 70,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

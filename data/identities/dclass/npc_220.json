@@ -1,0 +1,60 @@
+{
+  "id": "npc_220",
+  "bio": {
+    "full_name": "Daniel Smith",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 20,
+    "blood_type": "O-",
+    "genetic_stability": 0.92,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 78,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 75,
+      "Containment_Logic": 62,
+      "Engineering": 24
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 43,
+      "extraversion": 69,
+      "agreeableness": 53,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_421",
+  "bio": {
+    "full_name": "Charles Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.982,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 55,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 77,
+      "Medicine": 29,
+      "Engineering": 39
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 85,
+      "extraversion": 35,
+      "agreeableness": 61,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

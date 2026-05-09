@@ -1,0 +1,60 @@
+{
+  "id": "npc_507",
+  "bio": {
+    "full_name": "Chen Tanaka",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "O-",
+    "genetic_stability": 0.875,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 75,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 65,
+      "Athletics": 35,
+      "Occult_Research": 64
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 44,
+      "extraversion": 79,
+      "agreeableness": 11,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

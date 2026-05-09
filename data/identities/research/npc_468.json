@@ -1,0 +1,59 @@
+{
+  "id": "npc_468",
+  "bio": {
+    "full_name": "Joshua Dubois",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.879,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 60,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 73,
+      "Athletics": 51,
+      "Engineering": 43
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 23,
+      "extraversion": 48,
+      "agreeableness": 90,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

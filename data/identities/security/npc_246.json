@@ -1,0 +1,60 @@
+{
+  "id": "npc_246",
+  "bio": {
+    "full_name": "Michael Muller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "O-",
+    "genetic_stability": 0.992,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 100,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 53,
+      "Perception": 10,
+      "Medicine": 95
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 18,
+      "extraversion": 33,
+      "agreeableness": 73,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

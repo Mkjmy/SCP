@@ -1,0 +1,60 @@
+{
+  "id": "npc_757",
+  "bio": {
+    "full_name": "Yuki Smith",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "A-",
+    "genetic_stability": 0.883,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 103,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 14,
+      "Persuasion": 74,
+      "Stealth": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 90,
+      "extraversion": 19,
+      "agreeableness": 0,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

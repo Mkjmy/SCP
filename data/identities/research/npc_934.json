@@ -1,0 +1,60 @@
+{
+  "id": "npc_934",
+  "bio": {
+    "full_name": "Elena Ivanov",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.903,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 58,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 73,
+      "Athletics": 30,
+      "Medicine": 93
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 33,
+      "extraversion": 32,
+      "agreeableness": 71,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

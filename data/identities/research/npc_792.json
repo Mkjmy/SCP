@@ -1,0 +1,60 @@
+{
+  "id": "npc_792",
+  "bio": {
+    "full_name": "Richard Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.897,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 83,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 92,
+      "Occult_Research": 86,
+      "Persuasion": 89
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 73,
+      "extraversion": 77,
+      "agreeableness": 21,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

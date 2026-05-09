@@ -1,0 +1,60 @@
+{
+  "id": "npc_215",
+  "bio": {
+    "full_name": "Thomas Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 61,
+    "blood_type": "B-",
+    "genetic_stability": 0.952,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 98,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 50,
+      "Stealth": 94,
+      "Athletics": 90
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 21,
+      "extraversion": 75,
+      "agreeableness": 7,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

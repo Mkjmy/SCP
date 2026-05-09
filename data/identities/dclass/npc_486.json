@@ -1,0 +1,59 @@
+{
+  "id": "npc_486",
+  "bio": {
+    "full_name": "William O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.915,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 70,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 12,
+      "Occult_Research": 63,
+      "Firearms": 92
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 87,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 95,
+      "extraversion": 80,
+      "agreeableness": 35,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_920",
+  "bio": {
+    "full_name": "Mark Sato",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "O+",
+    "genetic_stability": 0.916,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 94,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 89,
+      "Medicine": 84,
+      "Perception": 82
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 52,
+      "extraversion": 81,
+      "agreeableness": 18,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

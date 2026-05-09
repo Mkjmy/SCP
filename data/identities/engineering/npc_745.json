@@ -1,0 +1,60 @@
+{
+  "id": "npc_745",
+  "bio": {
+    "full_name": "Chen Muller",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 61,
+    "blood_type": "AB+",
+    "genetic_stability": 0.914,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 68,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 18,
+      "Persuasion": 75,
+      "Containment_Logic": 40
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 65,
+      "extraversion": 9,
+      "agreeableness": 56,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

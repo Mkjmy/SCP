@@ -1,0 +1,60 @@
+{
+  "id": "npc_780",
+  "bio": {
+    "full_name": "Joshua Jones",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "B+",
+    "genetic_stability": 0.874,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 71,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 30,
+      "Medicine": 82,
+      "Hacking": 93
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 58,
+      "extraversion": 52,
+      "agreeableness": 36,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

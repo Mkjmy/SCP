@@ -1,0 +1,60 @@
+{
+  "id": "npc_968",
+  "bio": {
+    "full_name": "Kenji Brown",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 21,
+    "blood_type": "AB-",
+    "genetic_stability": 0.905,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 88,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 88,
+      "Engineering": 55,
+      "Perception": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 84,
+      "extraversion": 62,
+      "agreeableness": 87,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

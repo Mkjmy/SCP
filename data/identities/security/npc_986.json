@@ -1,0 +1,60 @@
+{
+  "id": "npc_986",
+  "bio": {
+    "full_name": "James Johnson",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.96,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 55,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 11,
+      "Occult_Research": 65,
+      "Containment_Logic": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 38,
+      "extraversion": 66,
+      "agreeableness": 17,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

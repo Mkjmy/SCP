@@ -1,0 +1,60 @@
+{
+  "id": "npc_001",
+  "bio": {
+    "full_name": "Michael Garcia",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "AB+",
+    "genetic_stability": 0.919,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 104,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 54,
+      "Persuasion": 29,
+      "Perception": 78
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 25,
+      "extraversion": 95,
+      "agreeableness": 10,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

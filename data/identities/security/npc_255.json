@@ -1,0 +1,60 @@
+{
+  "id": "npc_255",
+  "bio": {
+    "full_name": "Richard Muller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.946,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 87,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 86,
+      "Hacking": 37,
+      "Engineering": 35
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 26,
+      "extraversion": 54,
+      "agreeableness": 86,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

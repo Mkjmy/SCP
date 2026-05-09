@@ -1,0 +1,60 @@
+{
+  "id": "npc_132",
+  "bio": {
+    "full_name": "Joshua Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "B-",
+    "genetic_stability": 0.972,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 109,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 83,
+      "Occult_Research": 75,
+      "Engineering": 82
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 100,
+      "extraversion": 23,
+      "agreeableness": 54,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

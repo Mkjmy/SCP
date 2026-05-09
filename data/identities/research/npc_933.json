@@ -1,0 +1,60 @@
+{
+  "id": "npc_933",
+  "bio": {
+    "full_name": "Michael Garcia",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "A-",
+    "genetic_stability": 0.938,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 55,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 88,
+      "Persuasion": 81,
+      "Perception": 48
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 25,
+      "extraversion": 71,
+      "agreeableness": 54,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

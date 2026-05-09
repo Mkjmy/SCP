@@ -1,0 +1,60 @@
+{
+  "id": "npc_634",
+  "bio": {
+    "full_name": "Joseph Johnson",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.994,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 69,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 78,
+      "Engineering": 22,
+      "Stealth": 31
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 92,
+      "extraversion": 66,
+      "agreeableness": 9,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

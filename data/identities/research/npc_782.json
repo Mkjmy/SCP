@@ -1,0 +1,59 @@
+{
+  "id": "npc_782",
+  "bio": {
+    "full_name": "Chen Brown",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.981,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 67,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 53,
+      "Perception": 39,
+      "Containment_Logic": 63
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 85,
+      "extraversion": 66,
+      "agreeableness": 54,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

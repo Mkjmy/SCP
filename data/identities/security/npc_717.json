@@ -1,0 +1,60 @@
+{
+  "id": "npc_717",
+  "bio": {
+    "full_name": "Joshua Kovacs",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.964,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 63,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 61,
+      "Engineering": 21,
+      "Containment_Logic": 40
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 88,
+      "extraversion": 95,
+      "agreeableness": 69,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

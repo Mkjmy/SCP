@@ -1,0 +1,59 @@
+{
+  "id": "npc_155",
+  "bio": {
+    "full_name": "Arjun Ivanov",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.956,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 63,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 24,
+      "Firearms": 20,
+      "Occult_Research": 30
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 72,
+      "extraversion": 1,
+      "agreeableness": 10,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

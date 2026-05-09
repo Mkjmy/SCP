@@ -1,0 +1,60 @@
+{
+  "id": "npc_144",
+  "bio": {
+    "full_name": "Charles Jones",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "O+",
+    "genetic_stability": 0.992,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 51,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 88,
+      "Containment_Logic": 19,
+      "Stealth": 84
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 11,
+      "extraversion": 81,
+      "agreeableness": 78,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

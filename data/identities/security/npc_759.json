@@ -1,0 +1,60 @@
+{
+  "id": "npc_759",
+  "bio": {
+    "full_name": "Michael O'Connor",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 0.872,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 100,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 50,
+      "Stealth": 78,
+      "Containment_Logic": 95
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 67,
+      "extraversion": 14,
+      "agreeableness": 4,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

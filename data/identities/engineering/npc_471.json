@@ -1,0 +1,60 @@
+{
+  "id": "npc_471",
+  "bio": {
+    "full_name": "James O'Connor",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "AB+",
+    "genetic_stability": 0.948,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 51,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 15,
+      "Hacking": 30,
+      "Stealth": 88
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 84,
+      "extraversion": 95,
+      "agreeableness": 89,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

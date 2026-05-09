@@ -1,0 +1,59 @@
+{
+  "id": "npc_818",
+  "bio": {
+    "full_name": "Kenji O'Connor",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 21,
+    "blood_type": "B+",
+    "genetic_stability": 0.991,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 91,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 42,
+      "Engineering": 85,
+      "Hacking": 31
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 19,
+      "extraversion": 20,
+      "agreeableness": 42,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

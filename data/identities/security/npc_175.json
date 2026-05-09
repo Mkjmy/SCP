@@ -1,0 +1,60 @@
+{
+  "id": "npc_175",
+  "bio": {
+    "full_name": "Joshua Muller",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.93,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 79,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 50,
+      "Hacking": 71,
+      "Firearms": 91
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 58,
+      "extraversion": 67,
+      "agreeableness": 0,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

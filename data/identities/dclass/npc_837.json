@@ -1,0 +1,60 @@
+{
+  "id": "npc_837",
+  "bio": {
+    "full_name": "David Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.992,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 59,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 32,
+      "Firearms": 56,
+      "Persuasion": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 41,
+      "extraversion": 94,
+      "agreeableness": 65,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

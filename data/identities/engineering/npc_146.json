@@ -1,0 +1,60 @@
+{
+  "id": "npc_146",
+  "bio": {
+    "full_name": "Kenji Davis",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "O+",
+    "genetic_stability": 0.928,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 70,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 89,
+      "Persuasion": 19,
+      "Perception": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 15,
+      "extraversion": 47,
+      "agreeableness": 52,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

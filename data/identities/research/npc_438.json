@@ -1,0 +1,60 @@
+{
+  "id": "npc_438",
+  "bio": {
+    "full_name": "Joseph Ivanov",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.938,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 92,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 19,
+      "Athletics": 44,
+      "Containment_Logic": 33
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 88,
+      "extraversion": 42,
+      "agreeableness": 77,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

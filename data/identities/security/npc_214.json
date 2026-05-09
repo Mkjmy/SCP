@@ -1,0 +1,60 @@
+{
+  "id": "npc_214",
+  "bio": {
+    "full_name": "Matthew Williams",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.855,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 57,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 38,
+      "Occult_Research": 21,
+      "Stealth": 81
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 36,
+      "extraversion": 16,
+      "agreeableness": 37,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

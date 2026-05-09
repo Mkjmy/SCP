@@ -1,0 +1,60 @@
+{
+  "id": "npc_382",
+  "bio": {
+    "full_name": "Christopher Miller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "B-",
+    "genetic_stability": 0.976,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 57,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 64,
+      "Occult_Research": 28,
+      "Containment_Logic": 15
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 21,
+      "extraversion": 71,
+      "agreeableness": 15,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_111",
+  "bio": {
+    "full_name": "Paul Brown",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.958,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 86,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 69,
+      "Firearms": 87,
+      "Persuasion": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 6,
+      "extraversion": 71,
+      "agreeableness": 67,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

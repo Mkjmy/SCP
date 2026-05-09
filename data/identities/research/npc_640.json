@@ -1,0 +1,60 @@
+{
+  "id": "npc_640",
+  "bio": {
+    "full_name": "Matthew O'Connor",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.87,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 97,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 42,
+      "Containment_Logic": 90,
+      "Firearms": 69
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 13,
+      "extraversion": 43,
+      "agreeableness": 92,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

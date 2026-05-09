@@ -1,0 +1,59 @@
+{
+  "id": "npc_868",
+  "bio": {
+    "full_name": "David Wong",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "A+",
+    "genetic_stability": 0.919,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 75,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 64,
+      "Engineering": 41,
+      "Athletics": 10
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 42,
+      "extraversion": 44,
+      "agreeableness": 31,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

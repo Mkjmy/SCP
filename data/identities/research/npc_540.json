@@ -1,0 +1,59 @@
+{
+  "id": "npc_540",
+  "bio": {
+    "full_name": "Chen Gupta",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 50,
+    "blood_type": "AB-",
+    "genetic_stability": 0.886,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 76,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 68,
+      "Perception": 67,
+      "Occult_Research": 81
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 8,
+      "extraversion": 98,
+      "agreeableness": 49,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

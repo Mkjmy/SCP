@@ -1,0 +1,60 @@
+{
+  "id": "npc_982",
+  "bio": {
+    "full_name": "William Jones",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.949,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 71,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 20,
+      "Medicine": 59,
+      "Containment_Logic": 45
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 20,
+      "extraversion": 34,
+      "agreeableness": 40,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

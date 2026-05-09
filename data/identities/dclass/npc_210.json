@@ -1,0 +1,60 @@
+{
+  "id": "npc_210",
+  "bio": {
+    "full_name": "Kenji Williams",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.914,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 66,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 82,
+      "Occult_Research": 50,
+      "Stealth": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 43,
+      "extraversion": 65,
+      "agreeableness": 49,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

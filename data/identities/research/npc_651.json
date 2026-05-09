@@ -1,0 +1,60 @@
+{
+  "id": "npc_651",
+  "bio": {
+    "full_name": "Steven Jones",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.856,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 55,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 70,
+      "Athletics": 58,
+      "Stealth": 43
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 95,
+      "extraversion": 64,
+      "agreeableness": 87,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

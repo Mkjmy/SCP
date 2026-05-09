@@ -1,0 +1,60 @@
+{
+  "id": "npc_429",
+  "bio": {
+    "full_name": "Mark Smith",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "A-",
+    "genetic_stability": 0.955,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 106,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 51,
+      "Firearms": 88,
+      "Containment_Logic": 57
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 75,
+      "extraversion": 86,
+      "agreeableness": 25,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

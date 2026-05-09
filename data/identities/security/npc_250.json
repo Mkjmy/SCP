@@ -1,0 +1,60 @@
+{
+  "id": "npc_250",
+  "bio": {
+    "full_name": "Chen Muller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 53,
+    "blood_type": "O+",
+    "genetic_stability": 0.908,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 73,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 12,
+      "Containment_Logic": 58,
+      "Perception": 91
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 26,
+      "extraversion": 63,
+      "agreeableness": 95,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

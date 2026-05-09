@@ -1,0 +1,60 @@
+{
+  "id": "npc_404",
+  "bio": {
+    "full_name": "Christopher Smith",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "AB-",
+    "genetic_stability": 0.997,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 56,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 38,
+      "Occult_Research": 22,
+      "Medicine": 62
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 52,
+      "extraversion": 18,
+      "agreeableness": 47,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_744",
+  "bio": {
+    "full_name": "Anthony Schmidt",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "O-",
+    "genetic_stability": 0.884,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 94,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 23,
+      "Hacking": 46,
+      "Engineering": 50
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 76,
+      "extraversion": 94,
+      "agreeableness": 17,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

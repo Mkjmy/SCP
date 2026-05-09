@@ -1,0 +1,60 @@
+{
+  "id": "npc_554",
+  "bio": {
+    "full_name": "Chen Davis",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "AB+",
+    "genetic_stability": 0.944,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 23,
+      "Engineering": 47,
+      "Perception": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 80,
+      "extraversion": 63,
+      "agreeableness": 38,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

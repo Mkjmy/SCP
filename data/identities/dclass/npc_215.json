@@ -1,0 +1,59 @@
+{
+  "id": "npc_215",
+  "bio": {
+    "full_name": "Michael Johnson",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.923,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 101,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 92,
+      "Perception": 88,
+      "Athletics": 60
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 16,
+      "extraversion": 63,
+      "agreeableness": 48,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

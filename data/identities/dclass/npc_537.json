@@ -1,0 +1,60 @@
+{
+  "id": "npc_537",
+  "bio": {
+    "full_name": "Robert Sato",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.949,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 51,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 89,
+      "Containment_Logic": 40,
+      "Athletics": 44
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 54,
+      "extraversion": 72,
+      "agreeableness": 84,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

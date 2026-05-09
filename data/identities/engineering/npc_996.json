@@ -1,0 +1,60 @@
+{
+  "id": "npc_996",
+  "bio": {
+    "full_name": "Thomas O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 54,
+    "blood_type": "A+",
+    "genetic_stability": 0.85,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 84,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 92,
+      "Engineering": 13,
+      "Hacking": 35
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 65,
+      "extraversion": 20,
+      "agreeableness": 12,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

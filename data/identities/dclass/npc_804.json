@@ -1,0 +1,59 @@
+{
+  "id": "npc_804",
+  "bio": {
+    "full_name": "John Garcia",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "A-",
+    "genetic_stability": 0.887,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 99,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 61,
+      "Hacking": 36,
+      "Stealth": 67
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 77,
+      "extraversion": 65,
+      "agreeableness": 92,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

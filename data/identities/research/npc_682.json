@@ -1,0 +1,60 @@
+{
+  "id": "npc_682",
+  "bio": {
+    "full_name": "John Miller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.997,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 101,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 77,
+      "Firearms": 90,
+      "Occult_Research": 30
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 63,
+      "extraversion": 73,
+      "agreeableness": 80,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

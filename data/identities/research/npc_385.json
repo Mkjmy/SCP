@@ -1,0 +1,60 @@
+{
+  "id": "npc_385",
+  "bio": {
+    "full_name": "Andrew Garcia",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.879,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 50,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 51,
+      "Occult_Research": 22,
+      "Engineering": 85
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 64,
+      "extraversion": 19,
+      "agreeableness": 6,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

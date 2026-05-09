@@ -1,0 +1,60 @@
+{
+  "id": "npc_046",
+  "bio": {
+    "full_name": "Robert O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 64,
+    "blood_type": "A-",
+    "genetic_stability": 0.862,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 55,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 11,
+      "Perception": 23,
+      "Firearms": 67
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 78,
+      "extraversion": 58,
+      "agreeableness": 60,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

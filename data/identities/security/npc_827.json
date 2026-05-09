@@ -1,0 +1,60 @@
+{
+  "id": "npc_827",
+  "bio": {
+    "full_name": "Mark Jones",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.888,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 65,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 30,
+      "Medicine": 15,
+      "Athletics": 59
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 88,
+      "extraversion": 86,
+      "agreeableness": 32,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

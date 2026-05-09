@@ -1,0 +1,60 @@
+{
+  "id": "npc_430",
+  "bio": {
+    "full_name": "Elena Bakker",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "AB-",
+    "genetic_stability": 0.964,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 97,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 63,
+      "Stealth": 43,
+      "Containment_Logic": 22
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 52,
+      "extraversion": 27,
+      "agreeableness": 21,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

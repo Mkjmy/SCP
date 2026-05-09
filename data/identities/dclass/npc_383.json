@@ -1,0 +1,60 @@
+{
+  "id": "npc_383",
+  "bio": {
+    "full_name": "Elena Schmidt",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "B-",
+    "genetic_stability": 0.995,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 95,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 85,
+      "Hacking": 19,
+      "Persuasion": 79
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 41,
+      "extraversion": 34,
+      "agreeableness": 34,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

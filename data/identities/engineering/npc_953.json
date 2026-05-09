@@ -1,0 +1,60 @@
+{
+  "id": "npc_953",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.955,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 110,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 95,
+      "Occult_Research": 57,
+      "Containment_Logic": 38
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 100,
+      "extraversion": 34,
+      "agreeableness": 51,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

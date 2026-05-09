@@ -1,0 +1,59 @@
+{
+  "id": "npc_746",
+  "bio": {
+    "full_name": "Chen Williams",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.858,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 81,
+      "Medicine": 26,
+      "Athletics": 93
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 5,
+      "extraversion": 40,
+      "agreeableness": 63,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

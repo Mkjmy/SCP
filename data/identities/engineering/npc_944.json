@@ -1,0 +1,60 @@
+{
+  "id": "npc_944",
+  "bio": {
+    "full_name": "Kenji Jones",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.96,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 67,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 77,
+      "Engineering": 44,
+      "Persuasion": 53
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 69,
+      "extraversion": 40,
+      "agreeableness": 8,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

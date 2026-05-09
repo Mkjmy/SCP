@@ -1,0 +1,60 @@
+{
+  "id": "npc_082",
+  "bio": {
+    "full_name": "Donald Schmidt",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 20,
+    "blood_type": "O-",
+    "genetic_stability": 0.939,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 76,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 21,
+      "Perception": 84,
+      "Medicine": 37
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 79,
+      "extraversion": 50,
+      "agreeableness": 1,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

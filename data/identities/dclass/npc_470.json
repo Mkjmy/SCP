@@ -1,0 +1,59 @@
+{
+  "id": "npc_470",
+  "bio": {
+    "full_name": "Andrew Dubois",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 21,
+    "blood_type": "B+",
+    "genetic_stability": 0.996,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 62,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 20,
+      "Athletics": 23,
+      "Engineering": 33
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 42,
+      "extraversion": 53,
+      "agreeableness": 35,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

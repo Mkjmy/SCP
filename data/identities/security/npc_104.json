@@ -1,0 +1,60 @@
+{
+  "id": "npc_104",
+  "bio": {
+    "full_name": "David Gupta",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "A+",
+    "genetic_stability": 0.909,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 52,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 13,
+      "Engineering": 86,
+      "Persuasion": 54
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 70,
+      "extraversion": 32,
+      "agreeableness": 36,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

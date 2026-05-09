@@ -1,0 +1,60 @@
+{
+  "id": "npc_234",
+  "bio": {
+    "full_name": "John Tanaka",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.873,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 76,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 56,
+      "Firearms": 61,
+      "Perception": 94
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 51,
+      "extraversion": 30,
+      "agreeableness": 91,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

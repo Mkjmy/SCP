@@ -1,0 +1,60 @@
+{
+  "id": "npc_974",
+  "bio": {
+    "full_name": "Lars Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.965,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 88,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 89,
+      "Perception": 35,
+      "Hacking": 55
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 77,
+      "extraversion": 86,
+      "agreeableness": 43,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

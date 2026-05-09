@@ -1,0 +1,60 @@
+{
+  "id": "npc_799",
+  "bio": {
+    "full_name": "John Smith",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "AB+",
+    "genetic_stability": 0.945,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 57,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 22,
+      "Engineering": 27,
+      "Stealth": 49
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 48,
+      "extraversion": 25,
+      "agreeableness": 72,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

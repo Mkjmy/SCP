@@ -1,0 +1,60 @@
+{
+  "id": "npc_575",
+  "bio": {
+    "full_name": "Olga Miller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.912,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 79,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 10,
+      "Medicine": 70,
+      "Perception": 52
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 45,
+      "extraversion": 0,
+      "agreeableness": 64,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

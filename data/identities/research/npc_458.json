@@ -1,0 +1,60 @@
+{
+  "id": "npc_458",
+  "bio": {
+    "full_name": "Sven Miller",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.887,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 70,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 58,
+      "Containment_Logic": 20,
+      "Medicine": 19
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 67,
+      "extraversion": 29,
+      "agreeableness": 63,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

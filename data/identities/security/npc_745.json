@@ -1,0 +1,60 @@
+{
+  "id": "npc_745",
+  "bio": {
+    "full_name": "John Vasiliev",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "O+",
+    "genetic_stability": 0.924,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 66,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 48,
+      "Hacking": 85,
+      "Perception": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 28,
+      "extraversion": 56,
+      "agreeableness": 95,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_205",
+  "bio": {
+    "full_name": "Yuki Sato",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "O+",
+    "genetic_stability": 0.981,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 82,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 14,
+      "Perception": 32,
+      "Engineering": 91
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 47,
+      "extraversion": 79,
+      "agreeableness": 38,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

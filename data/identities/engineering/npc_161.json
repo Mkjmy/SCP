@@ -1,0 +1,59 @@
+{
+  "id": "npc_161",
+  "bio": {
+    "full_name": "Joshua Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "O-",
+    "genetic_stability": 0.858,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 56,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 45,
+      "Engineering": 92,
+      "Athletics": 53
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 27,
+      "extraversion": 72,
+      "agreeableness": 31,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

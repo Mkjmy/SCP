@@ -1,0 +1,60 @@
+{
+  "id": "npc_312",
+  "bio": {
+    "full_name": "Elena Muller",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "B+",
+    "genetic_stability": 0.924,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 95,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 62,
+      "Engineering": 14,
+      "Athletics": 88
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 42,
+      "extraversion": 20,
+      "agreeableness": 6,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

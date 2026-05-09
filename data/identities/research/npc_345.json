@@ -1,0 +1,60 @@
+{
+  "id": "npc_345",
+  "bio": {
+    "full_name": "Maria Sato",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.884,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 68,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 86,
+      "Perception": 14,
+      "Firearms": 67
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 98,
+      "extraversion": 76,
+      "agreeableness": 17,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

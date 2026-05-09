@@ -1,0 +1,60 @@
+{
+  "id": "npc_225",
+  "bio": {
+    "full_name": "Thomas O'Connor",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "AB-",
+    "genetic_stability": 0.959,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 61,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 51,
+      "Occult_Research": 75,
+      "Engineering": 34
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 55,
+      "extraversion": 19,
+      "agreeableness": 88,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

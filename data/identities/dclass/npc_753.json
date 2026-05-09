@@ -1,0 +1,60 @@
+{
+  "id": "npc_753",
+  "bio": {
+    "full_name": "Anthony Tanaka",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.99,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 53,
+      "Occult_Research": 33,
+      "Perception": 48
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 1,
+      "extraversion": 21,
+      "agreeableness": 43,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

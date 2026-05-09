@@ -1,0 +1,60 @@
+{
+  "id": "npc_614",
+  "bio": {
+    "full_name": "Sven Davis",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "A-",
+    "genetic_stability": 0.924,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 103,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 12,
+      "Hacking": 25,
+      "Persuasion": 54
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 62,
+      "extraversion": 68,
+      "agreeableness": 78,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

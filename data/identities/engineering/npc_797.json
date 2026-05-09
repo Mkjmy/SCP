@@ -1,0 +1,60 @@
+{
+  "id": "npc_797",
+  "bio": {
+    "full_name": "Arjun Williams",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "AB-",
+    "genetic_stability": 0.965,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 86,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 32,
+      "Perception": 12,
+      "Firearms": 78
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 82,
+      "extraversion": 45,
+      "agreeableness": 74,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

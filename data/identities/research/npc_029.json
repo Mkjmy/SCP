@@ -1,0 +1,59 @@
+{
+  "id": "npc_029",
+  "bio": {
+    "full_name": "Maria Davis",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.89,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 86,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 90,
+      "Engineering": 25,
+      "Firearms": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 32,
+      "extraversion": 18,
+      "agreeableness": 99,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

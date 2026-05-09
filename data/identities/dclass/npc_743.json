@@ -1,0 +1,60 @@
+{
+  "id": "npc_743",
+  "bio": {
+    "full_name": "Daniel Vasiliev",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.961,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 91,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 62,
+      "Persuasion": 35,
+      "Containment_Logic": 31
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 40,
+      "extraversion": 93,
+      "agreeableness": 67,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

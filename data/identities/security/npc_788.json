@@ -1,0 +1,59 @@
+{
+  "id": "npc_788",
+  "bio": {
+    "full_name": "Arjun Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "O+",
+    "genetic_stability": 0.97,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 52,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 60,
+      "Athletics": 77,
+      "Firearms": 54
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 100,
+      "extraversion": 11,
+      "agreeableness": 32,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

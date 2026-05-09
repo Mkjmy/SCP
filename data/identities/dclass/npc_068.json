@@ -1,0 +1,60 @@
+{
+  "id": "npc_068",
+  "bio": {
+    "full_name": "David Kovacs",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.872,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 93,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 89,
+      "Persuasion": 23,
+      "Perception": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 68,
+      "extraversion": 3,
+      "agreeableness": 55,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

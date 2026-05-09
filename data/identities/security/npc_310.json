@@ -1,0 +1,60 @@
+{
+  "id": "npc_310",
+  "bio": {
+    "full_name": "Paul Jones",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.925,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 83,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 42,
+      "Containment_Logic": 70,
+      "Occult_Research": 16
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 78,
+      "extraversion": 16,
+      "agreeableness": 39,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

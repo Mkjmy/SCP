@@ -1,0 +1,60 @@
+{
+  "id": "npc_529",
+  "bio": {
+    "full_name": "Elena Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "AB+",
+    "genetic_stability": 0.896,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 61,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 78,
+      "Athletics": 60,
+      "Persuasion": 26
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 72,
+      "extraversion": 30,
+      "agreeableness": 59,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

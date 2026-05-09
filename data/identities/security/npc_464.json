@@ -1,0 +1,60 @@
+{
+  "id": "npc_464",
+  "bio": {
+    "full_name": "John Williams",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "B+",
+    "genetic_stability": 0.995,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 101,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 70,
+      "Occult_Research": 93,
+      "Containment_Logic": 59
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 76,
+      "extraversion": 70,
+      "agreeableness": 70,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

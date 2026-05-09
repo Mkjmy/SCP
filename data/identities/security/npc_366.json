@@ -1,0 +1,60 @@
+{
+  "id": "npc_366",
+  "bio": {
+    "full_name": "Andrew Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "A-",
+    "genetic_stability": 0.853,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 74,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 58,
+      "Medicine": 59,
+      "Athletics": 95
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 70,
+      "extraversion": 32,
+      "agreeableness": 63,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

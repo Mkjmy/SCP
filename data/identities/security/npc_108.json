@@ -1,0 +1,60 @@
+{
+  "id": "npc_108",
+  "bio": {
+    "full_name": "Robert Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "A-",
+    "genetic_stability": 0.989,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 84,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 28,
+      "Perception": 85,
+      "Containment_Logic": 26
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 60,
+      "extraversion": 33,
+      "agreeableness": 59,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

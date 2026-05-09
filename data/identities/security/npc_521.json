@@ -1,0 +1,60 @@
+{
+  "id": "npc_521",
+  "bio": {
+    "full_name": "Kenji Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.873,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 61,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 14,
+      "Perception": 47,
+      "Containment_Logic": 71
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 75,
+      "extraversion": 94,
+      "agreeableness": 57,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

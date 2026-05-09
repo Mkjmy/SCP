@@ -1,0 +1,60 @@
+{
+  "id": "npc_646",
+  "bio": {
+    "full_name": "Chen Vasiliev",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "A-",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 106,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 24,
+      "Perception": 72,
+      "Containment_Logic": 73
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 92,
+      "extraversion": 71,
+      "agreeableness": 50,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

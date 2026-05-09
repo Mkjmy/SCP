@@ -1,0 +1,60 @@
+{
+  "id": "npc_061",
+  "bio": {
+    "full_name": "Thomas Garcia",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.869,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 81,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 29,
+      "Medicine": 15,
+      "Stealth": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 8,
+      "extraversion": 79,
+      "agreeableness": 44,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

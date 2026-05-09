@@ -1,0 +1,60 @@
+{
+  "id": "npc_902",
+  "bio": {
+    "full_name": "Robert Muller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "O-",
+    "genetic_stability": 0.966,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 65,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 76,
+      "Containment_Logic": 90,
+      "Persuasion": 80
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 46,
+      "extraversion": 36,
+      "agreeableness": 78,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

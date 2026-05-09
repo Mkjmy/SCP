@@ -1,0 +1,59 @@
+{
+  "id": "npc_272",
+  "bio": {
+    "full_name": "Elena Muller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "B+",
+    "genetic_stability": 0.863,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 104,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 16,
+      "Stealth": 60,
+      "Firearms": 38
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 100,
+      "extraversion": 29,
+      "agreeableness": 65,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

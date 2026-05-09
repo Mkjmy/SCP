@@ -1,0 +1,60 @@
+{
+  "id": "npc_183",
+  "bio": {
+    "full_name": "John Schmidt",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "B+",
+    "genetic_stability": 0.89,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 106,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 71,
+      "Perception": 91,
+      "Firearms": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 47,
+      "extraversion": 18,
+      "agreeableness": 44,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

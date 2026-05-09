@@ -1,0 +1,60 @@
+{
+  "id": "npc_304",
+  "bio": {
+    "full_name": "Joseph Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "B+",
+    "genetic_stability": 0.929,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 66,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 13,
+      "Occult_Research": 31,
+      "Stealth": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 65,
+      "extraversion": 66,
+      "agreeableness": 26,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_625",
+  "bio": {
+    "full_name": "Thomas Sato",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.909,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 94,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 77,
+      "Stealth": 36,
+      "Occult_Research": 36
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 37,
+      "conscientiousness": 61,
+      "extraversion": 2,
+      "agreeableness": 60,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

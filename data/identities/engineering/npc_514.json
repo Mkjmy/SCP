@@ -1,0 +1,60 @@
+{
+  "id": "npc_514",
+  "bio": {
+    "full_name": "David Gupta",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "AB-",
+    "genetic_stability": 0.973,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 58,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 53,
+      "Occult_Research": 59,
+      "Persuasion": 60
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 12,
+      "extraversion": 3,
+      "agreeableness": 1,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

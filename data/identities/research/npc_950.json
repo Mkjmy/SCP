@@ -1,0 +1,60 @@
+{
+  "id": "npc_950",
+  "bio": {
+    "full_name": "John Bakker",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.91,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 72,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 87,
+      "Persuasion": 68,
+      "Perception": 53
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 26,
+      "extraversion": 86,
+      "agreeableness": 46,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_783",
+  "bio": {
+    "full_name": "Elena Sato",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "A+",
+    "genetic_stability": 0.998,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 89,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 90,
+      "Athletics": 31,
+      "Persuasion": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 64,
+      "extraversion": 20,
+      "agreeableness": 6,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

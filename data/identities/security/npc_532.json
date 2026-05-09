@@ -1,0 +1,60 @@
+{
+  "id": "npc_532",
+  "bio": {
+    "full_name": "Kenji Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.893,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 56,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 45,
+      "Medicine": 93,
+      "Perception": 19
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 66,
+      "extraversion": 55,
+      "agreeableness": 74,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

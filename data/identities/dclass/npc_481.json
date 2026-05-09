@@ -1,0 +1,60 @@
+{
+  "id": "npc_481",
+  "bio": {
+    "full_name": "Elena Wong",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.951,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 84,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 21,
+      "Stealth": 79,
+      "Medicine": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 63,
+      "extraversion": 27,
+      "agreeableness": 9,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

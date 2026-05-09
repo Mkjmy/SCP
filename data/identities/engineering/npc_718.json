@@ -1,0 +1,60 @@
+{
+  "id": "npc_718",
+  "bio": {
+    "full_name": "James O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.894,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 64,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 47,
+      "Stealth": 62,
+      "Medicine": 61
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 38,
+      "extraversion": 99,
+      "agreeableness": 75,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

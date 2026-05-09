@@ -1,0 +1,60 @@
+{
+  "id": "npc_681",
+  "bio": {
+    "full_name": "Daniel Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "B+",
+    "genetic_stability": 0.864,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 109,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 51,
+      "Stealth": 31,
+      "Athletics": 31
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 38,
+      "extraversion": 50,
+      "agreeableness": 3,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

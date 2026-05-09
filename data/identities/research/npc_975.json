@@ -1,0 +1,60 @@
+{
+  "id": "npc_975",
+  "bio": {
+    "full_name": "Elena Sato",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "O-",
+    "genetic_stability": 0.923,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 86,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 52,
+      "Stealth": 13,
+      "Medicine": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 41,
+      "extraversion": 22,
+      "agreeableness": 70,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

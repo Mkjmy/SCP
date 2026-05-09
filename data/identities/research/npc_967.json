@@ -1,0 +1,59 @@
+{
+  "id": "npc_967",
+  "bio": {
+    "full_name": "Robert Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.916,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 50,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 78,
+      "Firearms": 89,
+      "Containment_Logic": 25
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 63,
+      "extraversion": 66,
+      "agreeableness": 76,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

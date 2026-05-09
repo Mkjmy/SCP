@@ -1,0 +1,60 @@
+{
+  "id": "npc_984",
+  "bio": {
+    "full_name": "Chen Garcia",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.85,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 86,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 92,
+      "Athletics": 51,
+      "Engineering": 87
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 24,
+      "extraversion": 57,
+      "agreeableness": 36,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

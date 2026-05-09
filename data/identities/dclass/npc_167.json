@@ -1,0 +1,60 @@
+{
+  "id": "npc_167",
+  "bio": {
+    "full_name": "Olga Jones",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.863,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 52,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 87,
+      "Persuasion": 80,
+      "Containment_Logic": 68
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 56,
+      "extraversion": 20,
+      "agreeableness": 74,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_145",
+  "bio": {
+    "full_name": "Daniel Brown",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "O+",
+    "genetic_stability": 0.851,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 96,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 52,
+      "Medicine": 43,
+      "Containment_Logic": 67
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 17,
+      "extraversion": 6,
+      "agreeableness": 84,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

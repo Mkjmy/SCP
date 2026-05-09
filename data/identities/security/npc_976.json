@@ -1,0 +1,60 @@
+{
+  "id": "npc_976",
+  "bio": {
+    "full_name": "William Miller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "B+",
+    "genetic_stability": 0.975,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 72,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 90,
+      "Engineering": 40,
+      "Firearms": 52
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 6,
+      "extraversion": 78,
+      "agreeableness": 44,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

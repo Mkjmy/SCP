@@ -1,0 +1,60 @@
+{
+  "id": "npc_830",
+  "bio": {
+    "full_name": "Mark Tanaka",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "B+",
+    "genetic_stability": 0.909,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 82,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 18,
+      "Hacking": 85,
+      "Perception": 93
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 24,
+      "extraversion": 43,
+      "agreeableness": 86,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

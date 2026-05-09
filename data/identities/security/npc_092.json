@@ -1,0 +1,60 @@
+{
+  "id": "npc_092",
+  "bio": {
+    "full_name": "Robert Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.95,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 63,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 71,
+      "Engineering": 22,
+      "Persuasion": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 66,
+      "extraversion": 70,
+      "agreeableness": 17,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

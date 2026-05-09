@@ -1,0 +1,60 @@
+{
+  "id": "npc_308",
+  "bio": {
+    "full_name": "Thomas Schmidt",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.868,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 67,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 93,
+      "Engineering": 64,
+      "Persuasion": 70
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 26,
+      "extraversion": 93,
+      "agreeableness": 46,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

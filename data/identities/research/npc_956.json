@@ -1,0 +1,60 @@
+{
+  "id": "npc_956",
+  "bio": {
+    "full_name": "Richard Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "O+",
+    "genetic_stability": 0.922,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 97,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 35,
+      "Athletics": 88,
+      "Stealth": 56
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 56,
+      "extraversion": 76,
+      "agreeableness": 52,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

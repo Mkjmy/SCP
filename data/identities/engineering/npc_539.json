@@ -1,0 +1,60 @@
+{
+  "id": "npc_539",
+  "bio": {
+    "full_name": "Robert Miller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "B-",
+    "genetic_stability": 0.899,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 109,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 33,
+      "Engineering": 15,
+      "Stealth": 36
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 79,
+      "extraversion": 31,
+      "agreeableness": 9,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

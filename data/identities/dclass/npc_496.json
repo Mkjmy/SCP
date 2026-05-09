@@ -1,0 +1,60 @@
+{
+  "id": "npc_496",
+  "bio": {
+    "full_name": "John Miller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.903,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 58,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 50,
+      "Medicine": 36,
+      "Perception": 46
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 18,
+      "extraversion": 0,
+      "agreeableness": 84,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

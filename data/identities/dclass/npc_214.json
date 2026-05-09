@@ -1,0 +1,59 @@
+{
+  "id": "npc_214",
+  "bio": {
+    "full_name": "Thomas Smith",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "B+",
+    "genetic_stability": 0.855,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 108,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 62,
+      "Persuasion": 58,
+      "Hacking": 51
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 9,
+      "extraversion": 0,
+      "agreeableness": 49,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

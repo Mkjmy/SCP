@@ -1,0 +1,60 @@
+{
+  "id": "npc_903",
+  "bio": {
+    "full_name": "Andrew Gupta",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.993,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 69,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 38,
+      "Containment_Logic": 74,
+      "Occult_Research": 14
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 67,
+      "extraversion": 7,
+      "agreeableness": 38,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_195",
+  "bio": {
+    "full_name": "Richard Smith",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.988,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 61,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 16,
+      "Firearms": 72,
+      "Medicine": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 40,
+      "extraversion": 0,
+      "agreeableness": 42,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

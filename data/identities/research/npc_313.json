@@ -1,0 +1,60 @@
+{
+  "id": "npc_313",
+  "bio": {
+    "full_name": "Yuki Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.9,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 92,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 36,
+      "Medicine": 42,
+      "Persuasion": 81
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 67,
+      "extraversion": 78,
+      "agreeableness": 93,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_038",
+  "bio": {
+    "full_name": "James Wong",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 54,
+    "blood_type": "B-",
+    "genetic_stability": 0.884,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 105,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 13,
+      "Athletics": 31,
+      "Occult_Research": 87
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 2,
+      "extraversion": 47,
+      "agreeableness": 42,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

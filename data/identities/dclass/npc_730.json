@@ -1,0 +1,60 @@
+{
+  "id": "npc_730",
+  "bio": {
+    "full_name": "Joshua Wong",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "B+",
+    "genetic_stability": 0.889,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 106,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 20,
+      "Occult_Research": 26,
+      "Hacking": 68
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 84,
+      "conscientiousness": 50,
+      "extraversion": 80,
+      "agreeableness": 14,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

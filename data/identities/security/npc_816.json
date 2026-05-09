@@ -1,0 +1,60 @@
+{
+  "id": "npc_816",
+  "bio": {
+    "full_name": "Steven O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "A+",
+    "genetic_stability": 0.916,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 110,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 67,
+      "Perception": 33,
+      "Engineering": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 3,
+      "extraversion": 9,
+      "agreeableness": 63,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

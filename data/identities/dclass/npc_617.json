@@ -1,0 +1,60 @@
+{
+  "id": "npc_617",
+  "bio": {
+    "full_name": "Sven Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "A+",
+    "genetic_stability": 0.964,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 69,
+      "Hacking": 80,
+      "Engineering": 22
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 99,
+      "extraversion": 18,
+      "agreeableness": 11,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_469",
+  "bio": {
+    "full_name": "Elena Bakker",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 63,
+    "blood_type": "A+",
+    "genetic_stability": 0.953,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 77,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 83,
+      "Firearms": 90,
+      "Medicine": 29
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 37,
+      "extraversion": 43,
+      "agreeableness": 15,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

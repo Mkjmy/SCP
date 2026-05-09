@@ -1,0 +1,59 @@
+{
+  "id": "npc_234",
+  "bio": {
+    "full_name": "Andrew Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "AB-",
+    "genetic_stability": 0.996,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 73,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 79,
+      "Firearms": 95,
+      "Persuasion": 29
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 93,
+      "extraversion": 5,
+      "agreeableness": 5,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

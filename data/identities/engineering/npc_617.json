@@ -1,0 +1,60 @@
+{
+  "id": "npc_617",
+  "bio": {
+    "full_name": "Christopher Muller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "AB-",
+    "genetic_stability": 0.887,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 55,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 12,
+      "Occult_Research": 14,
+      "Containment_Logic": 57
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 6,
+      "extraversion": 82,
+      "agreeableness": 32,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

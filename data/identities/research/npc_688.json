@@ -1,0 +1,59 @@
+{
+  "id": "npc_688",
+  "bio": {
+    "full_name": "William Tanaka",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "A+",
+    "genetic_stability": 0.974,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 92,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 48,
+      "Firearms": 66,
+      "Engineering": 23
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 47,
+      "extraversion": 85,
+      "agreeableness": 73,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

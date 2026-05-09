@@ -1,0 +1,60 @@
+{
+  "id": "npc_709",
+  "bio": {
+    "full_name": "Mark Davis",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.984,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 62,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 42,
+      "Athletics": 72,
+      "Hacking": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 21,
+      "extraversion": 74,
+      "agreeableness": 13,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

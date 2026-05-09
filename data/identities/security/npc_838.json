@@ -1,0 +1,60 @@
+{
+  "id": "npc_838",
+  "bio": {
+    "full_name": "Paul Garcia",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.863,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 72,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 75,
+      "Medicine": 55,
+      "Persuasion": 35
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 21,
+      "extraversion": 59,
+      "agreeableness": 45,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

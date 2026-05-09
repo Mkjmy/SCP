@@ -1,0 +1,60 @@
+{
+  "id": "npc_995",
+  "bio": {
+    "full_name": "Donald Schmidt",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.928,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 80,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 88,
+      "Hacking": 58,
+      "Medicine": 42
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 54,
+      "extraversion": 100,
+      "agreeableness": 28,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

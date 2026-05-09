@@ -1,0 +1,60 @@
+{
+  "id": "npc_362",
+  "bio": {
+    "full_name": "Sven Jones",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 62,
+    "blood_type": "B+",
+    "genetic_stability": 0.894,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 100,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 31,
+      "Athletics": 68,
+      "Firearms": 59
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 62,
+      "extraversion": 2,
+      "agreeableness": 64,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

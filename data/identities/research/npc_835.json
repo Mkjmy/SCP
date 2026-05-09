@@ -1,0 +1,60 @@
+{
+  "id": "npc_835",
+  "bio": {
+    "full_name": "Thomas Williams",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.915,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 68,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 50,
+      "Firearms": 69,
+      "Occult_Research": 76
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 71,
+      "extraversion": 18,
+      "agreeableness": 78,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

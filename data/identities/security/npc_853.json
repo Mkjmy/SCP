@@ -1,0 +1,60 @@
+{
+  "id": "npc_853",
+  "bio": {
+    "full_name": "Mark Garcia",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "AB+",
+    "genetic_stability": 0.927,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 64,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 64,
+      "Engineering": 28,
+      "Medicine": 93
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 10,
+      "extraversion": 18,
+      "agreeableness": 54,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

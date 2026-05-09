@@ -1,0 +1,60 @@
+{
+  "id": "npc_399",
+  "bio": {
+    "full_name": "James Brown",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "A-",
+    "genetic_stability": 0.995,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 105,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 17,
+      "Stealth": 94,
+      "Athletics": 22
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 13,
+      "extraversion": 64,
+      "agreeableness": 79,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

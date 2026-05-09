@@ -1,0 +1,60 @@
+{
+  "id": "npc_013",
+  "bio": {
+    "full_name": "Christopher Williams",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.92,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 79,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 90,
+      "Occult_Research": 41,
+      "Perception": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 37,
+      "extraversion": 70,
+      "agreeableness": 29,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

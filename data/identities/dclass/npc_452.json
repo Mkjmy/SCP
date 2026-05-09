@@ -1,0 +1,60 @@
+{
+  "id": "npc_452",
+  "bio": {
+    "full_name": "Olga O'Connor",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "B+",
+    "genetic_stability": 0.922,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 63,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 73,
+      "Occult_Research": 61,
+      "Containment_Logic": 56
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 37,
+      "extraversion": 19,
+      "agreeableness": 61,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

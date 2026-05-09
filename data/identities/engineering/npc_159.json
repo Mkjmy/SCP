@@ -1,0 +1,60 @@
+{
+  "id": "npc_159",
+  "bio": {
+    "full_name": "Olga Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.9,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 86,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 19,
+      "Medicine": 91,
+      "Perception": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 10,
+      "extraversion": 84,
+      "agreeableness": 64,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

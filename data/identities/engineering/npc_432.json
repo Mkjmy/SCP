@@ -1,0 +1,60 @@
+{
+  "id": "npc_432",
+  "bio": {
+    "full_name": "David Ivanov",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.939,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 70,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 32,
+      "Stealth": 73,
+      "Engineering": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 41,
+      "extraversion": 48,
+      "agreeableness": 92,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

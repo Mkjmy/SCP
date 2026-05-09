@@ -1,0 +1,60 @@
+{
+  "id": "npc_169",
+  "bio": {
+    "full_name": "Fatima Brown",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "O+",
+    "genetic_stability": 0.94,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 96,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 28,
+      "Stealth": 80,
+      "Occult_Research": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 11,
+      "extraversion": 41,
+      "agreeableness": 99,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

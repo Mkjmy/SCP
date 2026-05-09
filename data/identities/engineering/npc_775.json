@@ -1,0 +1,60 @@
+{
+  "id": "npc_775",
+  "bio": {
+    "full_name": "Arjun Dubois",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.855,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 65,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 53,
+      "Perception": 15,
+      "Athletics": 80
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 63,
+      "extraversion": 38,
+      "agreeableness": 90,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

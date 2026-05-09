@@ -1,0 +1,60 @@
+{
+  "id": "npc_772",
+  "bio": {
+    "full_name": "Richard Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "B+",
+    "genetic_stability": 0.983,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 93,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 72,
+      "Firearms": 22,
+      "Containment_Logic": 21
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 1,
+      "extraversion": 9,
+      "agreeableness": 74,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

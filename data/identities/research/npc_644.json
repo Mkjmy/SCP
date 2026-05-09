@@ -1,0 +1,60 @@
+{
+  "id": "npc_644",
+  "bio": {
+    "full_name": "Richard Ivanov",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "AB+",
+    "genetic_stability": 0.873,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 53,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 50,
+      "Hacking": 80,
+      "Stealth": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 80,
+      "extraversion": 44,
+      "agreeableness": 56,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

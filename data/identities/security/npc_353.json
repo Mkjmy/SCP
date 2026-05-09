@@ -1,0 +1,60 @@
+{
+  "id": "npc_353",
+  "bio": {
+    "full_name": "Arjun Garcia",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.951,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 59,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 79,
+      "Stealth": 74,
+      "Engineering": 21
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 18,
+      "extraversion": 26,
+      "agreeableness": 52,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

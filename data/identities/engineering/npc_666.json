@@ -1,0 +1,60 @@
+{
+  "id": "npc_666",
+  "bio": {
+    "full_name": "William Ivanov",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "AB+",
+    "genetic_stability": 0.89,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 82,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 13,
+      "Firearms": 31,
+      "Containment_Logic": 79
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 58,
+      "extraversion": 77,
+      "agreeableness": 92,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

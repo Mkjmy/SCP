@@ -1,0 +1,59 @@
+{
+  "id": "npc_142",
+  "bio": {
+    "full_name": "Charles Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "AB+",
+    "genetic_stability": 0.888,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 104,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 35,
+      "Engineering": 78,
+      "Hacking": 80
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 8,
+      "extraversion": 62,
+      "agreeableness": 71,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

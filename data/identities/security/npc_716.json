@@ -1,0 +1,60 @@
+{
+  "id": "npc_716",
+  "bio": {
+    "full_name": "John Johnson",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.885,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 90,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 18,
+      "Firearms": 28,
+      "Persuasion": 50
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 118,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 50,
+      "extraversion": 86,
+      "agreeableness": 5,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

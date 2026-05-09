@@ -1,0 +1,60 @@
+{
+  "id": "npc_268",
+  "bio": {
+    "full_name": "Maria Williams",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.99,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 54,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 83,
+      "Perception": 22,
+      "Engineering": 66
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 3,
+      "extraversion": 62,
+      "agreeableness": 81,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

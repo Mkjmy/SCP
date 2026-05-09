@@ -1,0 +1,60 @@
+{
+  "id": "npc_125",
+  "bio": {
+    "full_name": "Charles Miller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.996,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 89,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 90,
+      "Occult_Research": 59,
+      "Perception": 11
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 28,
+      "extraversion": 22,
+      "agreeableness": 31,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

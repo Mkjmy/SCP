@@ -1,0 +1,60 @@
+{
+  "id": "npc_029",
+  "bio": {
+    "full_name": "Joshua Gupta",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "B-",
+    "genetic_stability": 0.989,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 88,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 60,
+      "Hacking": 75,
+      "Perception": 41
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 61,
+      "extraversion": 58,
+      "agreeableness": 67,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

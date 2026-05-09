@@ -1,0 +1,60 @@
+{
+  "id": "npc_119",
+  "bio": {
+    "full_name": "Daniel Garcia",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.961,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 80,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 63,
+      "Perception": 61,
+      "Hacking": 95
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 15,
+      "extraversion": 40,
+      "agreeableness": 43,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

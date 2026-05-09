@@ -1,0 +1,60 @@
+{
+  "id": "npc_427",
+  "bio": {
+    "full_name": "Richard Smith",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 46,
+    "blood_type": "O-",
+    "genetic_stability": 0.999,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 89,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 15,
+      "Athletics": 40,
+      "Occult_Research": 56
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 14,
+      "extraversion": 26,
+      "agreeableness": 76,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

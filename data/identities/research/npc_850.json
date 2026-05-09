@@ -1,0 +1,60 @@
+{
+  "id": "npc_850",
+  "bio": {
+    "full_name": "Arjun Tanaka",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.957,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 53,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 17,
+      "Engineering": 48,
+      "Occult_Research": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 96,
+      "extraversion": 41,
+      "agreeableness": 13,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

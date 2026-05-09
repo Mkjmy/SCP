@@ -1,0 +1,60 @@
+{
+  "id": "npc_949",
+  "bio": {
+    "full_name": "Yuki Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.923,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 52,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 74,
+      "Engineering": 61,
+      "Athletics": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 26,
+      "extraversion": 20,
+      "agreeableness": 24,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

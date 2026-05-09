@@ -1,0 +1,60 @@
+{
+  "id": "npc_564",
+  "bio": {
+    "full_name": "Steven Schmidt",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.884,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 110,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 14,
+      "Hacking": 55,
+      "Perception": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 70,
+      "extraversion": 90,
+      "agreeableness": 6,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

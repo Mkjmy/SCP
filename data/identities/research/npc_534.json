@@ -1,0 +1,60 @@
+{
+  "id": "npc_534",
+  "bio": {
+    "full_name": "Robert Smith",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.967,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 99,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 63,
+      "Engineering": 66,
+      "Stealth": 47
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 77,
+      "extraversion": 34,
+      "agreeableness": 67,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

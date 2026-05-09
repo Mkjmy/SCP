@@ -1,0 +1,60 @@
+{
+  "id": "npc_591",
+  "bio": {
+    "full_name": "Lars Garcia",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.953,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 62,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 53,
+      "Engineering": 85,
+      "Medicine": 42
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 89,
+      "extraversion": 55,
+      "agreeableness": 55,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

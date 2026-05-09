@@ -1,0 +1,60 @@
+{
+  "id": "npc_535",
+  "bio": {
+    "full_name": "Lars Schmidt",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "AB-",
+    "genetic_stability": 0.881,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 102,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 67,
+      "Engineering": 49,
+      "Perception": 30
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 85,
+      "extraversion": 21,
+      "agreeableness": 5,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

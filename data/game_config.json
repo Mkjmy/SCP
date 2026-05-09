@@ -22,7 +22,7 @@
   "map_settings": {
     "mode": "generate_random",
     "static_map_file": "debug_output/debug_map.json",
-    "random_map_num_rooms": 25
+    "random_map_num_rooms": 50
   },
   "npcs": [],
   "scps": {

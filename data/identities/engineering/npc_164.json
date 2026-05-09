@@ -1,0 +1,60 @@
+{
+  "id": "npc_164",
+  "bio": {
+    "full_name": "Fatima Dubois",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.921,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 96,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 84,
+      "Occult_Research": 89,
+      "Hacking": 10
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 53,
+      "extraversion": 88,
+      "agreeableness": 63,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

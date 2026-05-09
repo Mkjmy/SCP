@@ -1,0 +1,60 @@
+{
+  "id": "npc_635",
+  "bio": {
+    "full_name": "Donald Smith",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "O+",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 109,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 41,
+      "Medicine": 66,
+      "Engineering": 19
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 0,
+      "extraversion": 51,
+      "agreeableness": 16,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

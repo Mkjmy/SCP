@@ -1,0 +1,60 @@
+{
+  "id": "npc_825",
+  "bio": {
+    "full_name": "Elena Schmidt",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.929,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 96,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 50,
+      "Perception": 76,
+      "Occult_Research": 78
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 88,
+      "extraversion": 57,
+      "agreeableness": 45,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

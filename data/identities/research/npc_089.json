@@ -1,0 +1,60 @@
+{
+  "id": "npc_089",
+  "bio": {
+    "full_name": "David Brown",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "O+",
+    "genetic_stability": 0.931,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 101,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 74,
+      "Athletics": 58,
+      "Containment_Logic": 54
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 65,
+      "extraversion": 25,
+      "agreeableness": 60,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

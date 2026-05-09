@@ -1,0 +1,60 @@
+{
+  "id": "npc_227",
+  "bio": {
+    "full_name": "Olga Smith",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.885,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 56,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 12,
+      "Engineering": 81,
+      "Stealth": 70
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 47,
+      "extraversion": 72,
+      "agreeableness": 24,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

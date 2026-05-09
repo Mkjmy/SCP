@@ -1,0 +1,60 @@
+{
+  "id": "npc_472",
+  "bio": {
+    "full_name": "Michael Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.981,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 96,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 38,
+      "Firearms": 85,
+      "Persuasion": 30
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 83,
+      "extraversion": 25,
+      "agreeableness": 81,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

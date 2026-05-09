@@ -1,0 +1,60 @@
+{
+  "id": "npc_791",
+  "bio": {
+    "full_name": "Fatima Brown",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "B+",
+    "genetic_stability": 0.965,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 110,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 82,
+      "Occult_Research": 23,
+      "Hacking": 84
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 10,
+      "extraversion": 76,
+      "agreeableness": 30,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

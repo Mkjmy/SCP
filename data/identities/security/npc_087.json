@@ -1,0 +1,60 @@
+{
+  "id": "npc_087",
+  "bio": {
+    "full_name": "James Davis",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 47,
+    "blood_type": "AB+",
+    "genetic_stability": 0.919,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 86,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 70,
+      "Persuasion": 17,
+      "Perception": 92
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 27,
+      "extraversion": 22,
+      "agreeableness": 9,
+      "neuroticism": 49
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

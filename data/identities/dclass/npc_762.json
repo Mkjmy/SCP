@@ -1,0 +1,60 @@
+{
+  "id": "npc_762",
+  "bio": {
+    "full_name": "Elena Johnson",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.873,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 80,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 24,
+      "Perception": 95,
+      "Medicine": 65
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 39,
+      "extraversion": 90,
+      "agreeableness": 57,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

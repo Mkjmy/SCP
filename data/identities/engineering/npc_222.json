@@ -1,0 +1,60 @@
+{
+  "id": "npc_222",
+  "bio": {
+    "full_name": "Thomas Ivanov",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "B+",
+    "genetic_stability": 0.954,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 55,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 88,
+      "Firearms": 26,
+      "Containment_Logic": 64
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 43,
+      "extraversion": 19,
+      "agreeableness": 64,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_885",
+  "bio": {
+    "full_name": "Kenji Davis",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "AB+",
+    "genetic_stability": 0.854,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 59,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 35,
+      "Persuasion": 40,
+      "Containment_Logic": 89
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 38,
+      "extraversion": 23,
+      "agreeableness": 32,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_678",
+  "bio": {
+    "full_name": "Elena O'Connor",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.939,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 58,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 80,
+      "Persuasion": 61,
+      "Athletics": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 13,
+      "extraversion": 56,
+      "agreeableness": 86,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

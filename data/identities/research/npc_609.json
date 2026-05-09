@@ -1,0 +1,59 @@
+{
+  "id": "npc_609",
+  "bio": {
+    "full_name": "William Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "B-",
+    "genetic_stability": 0.985,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 54,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 32,
+      "Hacking": 19,
+      "Stealth": 11
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 25,
+      "extraversion": 95,
+      "agreeableness": 51,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

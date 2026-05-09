@@ -1,0 +1,59 @@
+{
+  "id": "npc_289",
+  "bio": {
+    "full_name": "William Sato",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.961,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 95,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 45,
+      "Medicine": 62,
+      "Perception": 20
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 74,
+      "extraversion": 68,
+      "agreeableness": 40,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

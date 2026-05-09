@@ -1,0 +1,60 @@
+{
+  "id": "npc_986",
+  "bio": {
+    "full_name": "James Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.953,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 78,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 42,
+      "Medicine": 22,
+      "Firearms": 21
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 41,
+      "extraversion": 29,
+      "agreeableness": 77,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

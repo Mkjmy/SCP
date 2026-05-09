@@ -1,0 +1,60 @@
+{
+  "id": "npc_779",
+  "bio": {
+    "full_name": "Andrew Bakker",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "B-",
+    "genetic_stability": 0.965,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 106,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 20,
+      "Perception": 23,
+      "Stealth": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 83,
+      "extraversion": 74,
+      "agreeableness": 20,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

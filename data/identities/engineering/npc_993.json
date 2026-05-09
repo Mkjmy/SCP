@@ -1,0 +1,60 @@
+{
+  "id": "npc_993",
+  "bio": {
+    "full_name": "James Kovacs",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "A-",
+    "genetic_stability": 0.922,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 57,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 42,
+      "Containment_Logic": 12,
+      "Hacking": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 56,
+      "extraversion": 75,
+      "agreeableness": 15,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

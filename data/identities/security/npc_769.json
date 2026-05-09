@@ -1,0 +1,60 @@
+{
+  "id": "npc_769",
+  "bio": {
+    "full_name": "Arjun O'Connor",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.891,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 53,
+      "Hacking": 14,
+      "Occult_Research": 87
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 35,
+      "extraversion": 74,
+      "agreeableness": 22,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

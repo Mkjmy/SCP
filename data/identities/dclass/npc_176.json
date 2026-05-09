@@ -1,0 +1,60 @@
+{
+  "id": "npc_176",
+  "bio": {
+    "full_name": "Charles Garcia",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "AB-",
+    "genetic_stability": 0.851,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 94,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 10,
+      "Athletics": 14,
+      "Engineering": 89
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 75,
+      "extraversion": 73,
+      "agreeableness": 54,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

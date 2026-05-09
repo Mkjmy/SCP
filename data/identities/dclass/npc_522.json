@@ -1,0 +1,60 @@
+{
+  "id": "npc_522",
+  "bio": {
+    "full_name": "David Sato",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.89,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 104,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 61,
+      "Containment_Logic": 24,
+      "Athletics": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 33,
+      "extraversion": 27,
+      "agreeableness": 31,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

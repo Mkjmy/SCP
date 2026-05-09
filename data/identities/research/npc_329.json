@@ -1,0 +1,59 @@
+{
+  "id": "npc_329",
+  "bio": {
+    "full_name": "David Jones",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 34,
+    "blood_type": "O-",
+    "genetic_stability": 0.892,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 64,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 70,
+      "Occult_Research": 61,
+      "Medicine": 33
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 12,
+      "extraversion": 5,
+      "agreeableness": 76,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

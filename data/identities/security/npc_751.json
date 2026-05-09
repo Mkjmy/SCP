@@ -1,0 +1,60 @@
+{
+  "id": "npc_751",
+  "bio": {
+    "full_name": "Mark Tanaka",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "AB+",
+    "genetic_stability": 0.923,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 66,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 36,
+      "Medicine": 55,
+      "Stealth": 53
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 21,
+      "extraversion": 60,
+      "agreeableness": 40,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_978",
+  "bio": {
+    "full_name": "Elena Vasiliev",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "A-",
+    "genetic_stability": 0.931,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 53,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 25,
+      "Occult_Research": 33,
+      "Firearms": 55
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 74,
+      "extraversion": 95,
+      "agreeableness": 75,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

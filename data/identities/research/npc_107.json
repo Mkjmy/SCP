@@ -1,0 +1,59 @@
+{
+  "id": "npc_107",
+  "bio": {
+    "full_name": "Christopher Williams",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "B-",
+    "genetic_stability": 0.9,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 95,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 12,
+      "Perception": 14,
+      "Hacking": 59
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 10,
+      "extraversion": 21,
+      "agreeableness": 31,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

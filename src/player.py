@@ -248,3 +248,12 @@ class Player:
     def is_part_severely_injured(self, part):
         """Checks if a specific body part has a severe injury."""
         return DAMAGE_STATES.get(self.body_parts.get(part, 'uninjured')) >= DAMAGE_STATES['severe_injury']
+
+    def reduce_attribute(self, attribute, amount):
+        """Reduces a specific base attribute. Useful for penalties after losing fights."""
+        if attribute in self.attributes:
+            old_val = self.attributes[attribute]
+            self.attributes[attribute] = max(1, self.attributes[attribute] - amount)
+            if self.attributes[attribute] < old_val:
+                return f"Your {attribute.capitalize()} has decreased to {self.attributes[attribute]} due to your injuries."
+        return ""

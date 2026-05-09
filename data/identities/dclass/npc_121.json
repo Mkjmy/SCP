@@ -1,0 +1,60 @@
+{
+  "id": "npc_121",
+  "bio": {
+    "full_name": "Chen Davis",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.932,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 105,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 24,
+      "Medicine": 48,
+      "Occult_Research": 81
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 88,
+      "extraversion": 32,
+      "agreeableness": 42,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

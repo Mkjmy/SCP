@@ -1,0 +1,60 @@
+{
+  "id": "npc_625",
+  "bio": {
+    "full_name": "Thomas Garcia",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "A+",
+    "genetic_stability": 0.967,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 108,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 87,
+      "Persuasion": 57,
+      "Stealth": 34
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 5,
+      "extraversion": 15,
+      "agreeableness": 34,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

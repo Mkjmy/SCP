@@ -1,0 +1,59 @@
+{
+  "id": "npc_686",
+  "bio": {
+    "full_name": "Richard Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.991,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 101,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 79,
+      "Engineering": 33,
+      "Containment_Logic": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 13,
+      "extraversion": 20,
+      "agreeableness": 16,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_354",
+  "bio": {
+    "full_name": "Joseph Wong",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "B-",
+    "genetic_stability": 0.973,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 65,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 35,
+      "Medicine": 47,
+      "Persuasion": 21
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 75,
+      "extraversion": 2,
+      "agreeableness": 91,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

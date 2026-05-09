@@ -1,0 +1,60 @@
+{
+  "id": "npc_529",
+  "bio": {
+    "full_name": "Elena Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.892,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 105,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 79,
+      "Occult_Research": 67,
+      "Hacking": 84
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 68,
+      "extraversion": 6,
+      "agreeableness": 99,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

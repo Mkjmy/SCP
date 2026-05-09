@@ -1,0 +1,60 @@
+{
+  "id": "npc_482",
+  "bio": {
+    "full_name": "Michael Johnson",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "O-",
+    "genetic_stability": 0.969,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 67,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 42,
+      "Hacking": 51,
+      "Persuasion": 21
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 83,
+      "extraversion": 15,
+      "agreeableness": 64,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

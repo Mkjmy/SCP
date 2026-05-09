@@ -1,0 +1,59 @@
+{
+  "id": "npc_433",
+  "bio": {
+    "full_name": "Matthew Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "A+",
+    "genetic_stability": 0.94,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 83,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 30,
+      "Stealth": 46,
+      "Containment_Logic": 40
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 88,
+      "extraversion": 18,
+      "agreeableness": 32,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

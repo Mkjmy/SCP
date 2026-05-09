@@ -1,0 +1,59 @@
+{
+  "id": "npc_866",
+  "bio": {
+    "full_name": "Christopher Johnson",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.994,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 105,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 54,
+      "Athletics": 34,
+      "Perception": 92
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 29,
+      "extraversion": 68,
+      "agreeableness": 66,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

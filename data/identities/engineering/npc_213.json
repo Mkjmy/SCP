@@ -1,0 +1,59 @@
+{
+  "id": "npc_213",
+  "bio": {
+    "full_name": "Sven Davis",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 46,
+    "blood_type": "AB-",
+    "genetic_stability": 0.991,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 78,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 53,
+      "Medicine": 19,
+      "Engineering": 17
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 34,
+      "extraversion": 79,
+      "agreeableness": 58,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

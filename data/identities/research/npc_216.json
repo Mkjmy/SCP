@@ -1,0 +1,60 @@
+{
+  "id": "npc_216",
+  "bio": {
+    "full_name": "Arjun Dubois",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.905,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 100,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 31,
+      "Perception": 79,
+      "Persuasion": 34
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 70,
+      "extraversion": 86,
+      "agreeableness": 10,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_826",
+  "bio": {
+    "full_name": "Daniel Davis",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.91,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 77,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 12,
+      "Hacking": 71,
+      "Medicine": 49
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 26,
+      "extraversion": 65,
+      "agreeableness": 73,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

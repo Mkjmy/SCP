@@ -1,0 +1,60 @@
+{
+  "id": "npc_675",
+  "bio": {
+    "full_name": "Robert Kovacs",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.866,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 83,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 58,
+      "Athletics": 61,
+      "Persuasion": 64
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 59,
+      "extraversion": 86,
+      "agreeableness": 89,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

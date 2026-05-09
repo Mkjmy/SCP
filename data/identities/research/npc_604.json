@@ -1,0 +1,60 @@
+{
+  "id": "npc_604",
+  "bio": {
+    "full_name": "Matthew Williams",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "A-",
+    "genetic_stability": 0.878,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Hacking": 61,
+      "Stealth": 71,
+      "Perception": 86
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 39,
+      "extraversion": 4,
+      "agreeableness": 86,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

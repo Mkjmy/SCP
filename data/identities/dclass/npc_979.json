@@ -1,0 +1,60 @@
+{
+  "id": "npc_979",
+  "bio": {
+    "full_name": "Arjun Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.895,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 100,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 86,
+      "Containment_Logic": 63,
+      "Medicine": 41
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 40,
+      "extraversion": 45,
+      "agreeableness": 1,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

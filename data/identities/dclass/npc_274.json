@@ -1,0 +1,60 @@
+{
+  "id": "npc_274",
+  "bio": {
+    "full_name": "Chen Wong",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 52,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 68,
+      "Occult_Research": 35,
+      "Containment_Logic": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 36,
+      "extraversion": 43,
+      "agreeableness": 79,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

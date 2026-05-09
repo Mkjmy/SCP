@@ -1,0 +1,60 @@
+{
+  "id": "npc_957",
+  "bio": {
+    "full_name": "Paul Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.981,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 104,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 55,
+      "Containment_Logic": 64,
+      "Engineering": 48
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 56,
+      "extraversion": 96,
+      "agreeableness": 15,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

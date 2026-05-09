@@ -1,0 +1,59 @@
+{
+  "id": "npc_656",
+  "bio": {
+    "full_name": "Chen O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.991,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 108,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 53,
+      "Containment_Logic": 28,
+      "Stealth": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 43,
+      "extraversion": 99,
+      "agreeableness": 67,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

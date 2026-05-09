@@ -1,0 +1,59 @@
+{
+  "id": "npc_750",
+  "bio": {
+    "full_name": "Lars Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "B-",
+    "genetic_stability": 0.924,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 50,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 51,
+      "Containment_Logic": 33,
+      "Occult_Research": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 41,
+      "extraversion": 40,
+      "agreeableness": 49,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

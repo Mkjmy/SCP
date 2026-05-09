@@ -1,0 +1,60 @@
+{
+  "id": "npc_899",
+  "bio": {
+    "full_name": "Chen Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 57,
+    "blood_type": "A+",
+    "genetic_stability": 0.963,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 103,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 48,
+      "Occult_Research": 61,
+      "Medicine": 38
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 21,
+      "extraversion": 68,
+      "agreeableness": 34,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

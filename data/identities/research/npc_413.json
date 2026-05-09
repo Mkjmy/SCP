@@ -1,0 +1,59 @@
+{
+  "id": "npc_413",
+  "bio": {
+    "full_name": "David Williams",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "AB-",
+    "genetic_stability": 0.888,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 110,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 87,
+      "Containment_Logic": 28,
+      "Perception": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 21,
+      "extraversion": 2,
+      "agreeableness": 70,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

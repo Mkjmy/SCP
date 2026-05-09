@@ -1,0 +1,60 @@
+{
+  "id": "npc_644",
+  "bio": {
+    "full_name": "Joshua Brown",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "AB+",
+    "genetic_stability": 0.891,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 64,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 75,
+      "Persuasion": 72,
+      "Engineering": 48
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 98,
+      "extraversion": 79,
+      "agreeableness": 65,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

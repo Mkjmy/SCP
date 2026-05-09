@@ -1,0 +1,60 @@
+{
+  "id": "npc_619",
+  "bio": {
+    "full_name": "Steven O'Connor",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.921,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 106,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 71,
+      "Persuasion": 29,
+      "Perception": 37
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 43,
+      "extraversion": 90,
+      "agreeableness": 35,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

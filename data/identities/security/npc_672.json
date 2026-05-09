@@ -1,0 +1,60 @@
+{
+  "id": "npc_672",
+  "bio": {
+    "full_name": "Lars Smith",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "AB+",
+    "genetic_stability": 0.982,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 104,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 25,
+      "Persuasion": 55,
+      "Athletics": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 63,
+      "extraversion": 85,
+      "agreeableness": 40,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

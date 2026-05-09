@@ -1,0 +1,60 @@
+{
+  "id": "npc_567",
+  "bio": {
+    "full_name": "Lars Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.915,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 77,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 84,
+      "Athletics": 12,
+      "Perception": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 65,
+      "extraversion": 7,
+      "agreeableness": 2,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

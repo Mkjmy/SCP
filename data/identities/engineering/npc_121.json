@@ -1,0 +1,60 @@
+{
+  "id": "npc_121",
+  "bio": {
+    "full_name": "Mark Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "B-",
+    "genetic_stability": 0.918,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 93,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 24,
+      "Containment_Logic": 42,
+      "Occult_Research": 14
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 90,
+      "extraversion": 67,
+      "agreeableness": 85,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

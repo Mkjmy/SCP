@@ -1,0 +1,60 @@
+{
+  "id": "npc_928",
+  "bio": {
+    "full_name": "Steven Miller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 21,
+    "blood_type": "O-",
+    "genetic_stability": 0.891,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 72,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 25,
+      "Occult_Research": 35,
+      "Medicine": 16
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 14,
+      "extraversion": 95,
+      "agreeableness": 10,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

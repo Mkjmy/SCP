@@ -1,0 +1,60 @@
+{
+  "id": "npc_127",
+  "bio": {
+    "full_name": "Lars Dubois",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "AB-",
+    "genetic_stability": 0.918,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 91,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 28,
+      "Hacking": 93,
+      "Medicine": 78
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 77,
+      "extraversion": 26,
+      "agreeableness": 26,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

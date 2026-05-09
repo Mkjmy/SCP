@@ -1,0 +1,60 @@
+{
+  "id": "npc_921",
+  "bio": {
+    "full_name": "Robert O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.943,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 96,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 42,
+      "Medicine": 76,
+      "Containment_Logic": 31
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 0,
+      "extraversion": 53,
+      "agreeableness": 42,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

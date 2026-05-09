@@ -1,0 +1,59 @@
+{
+  "id": "npc_351",
+  "bio": {
+    "full_name": "Sven Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.987,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 84,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 69,
+      "Hacking": 92,
+      "Containment_Logic": 50
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 63,
+      "extraversion": 56,
+      "agreeableness": 21,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

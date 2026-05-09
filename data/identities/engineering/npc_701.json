@@ -1,0 +1,60 @@
+{
+  "id": "npc_701",
+  "bio": {
+    "full_name": "Joshua Gupta",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.908,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 99,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 82,
+      "Engineering": 83,
+      "Persuasion": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 55,
+      "extraversion": 66,
+      "agreeableness": 96,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

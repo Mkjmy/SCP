@@ -1,0 +1,60 @@
+{
+  "id": "npc_281",
+  "bio": {
+    "full_name": "Sven Wong",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.907,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 90,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 87,
+      "Perception": 49,
+      "Medicine": 89
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 53,
+      "extraversion": 10,
+      "agreeableness": 84,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

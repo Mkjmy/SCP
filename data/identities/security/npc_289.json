@@ -1,0 +1,60 @@
+{
+  "id": "npc_289",
+  "bio": {
+    "full_name": "Joseph Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "B-",
+    "genetic_stability": 0.902,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 80,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 90,
+      "Perception": 81,
+      "Engineering": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 2,
+      "extraversion": 11,
+      "agreeableness": 30,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

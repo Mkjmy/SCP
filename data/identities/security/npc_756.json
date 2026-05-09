@@ -1,0 +1,60 @@
+{
+  "id": "npc_756",
+  "bio": {
+    "full_name": "Fatima Ivanov",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "A-",
+    "genetic_stability": 0.993,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 69,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 77,
+      "Medicine": 39,
+      "Containment_Logic": 19
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 62,
+      "extraversion": 92,
+      "agreeableness": 8,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

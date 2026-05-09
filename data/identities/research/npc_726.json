@@ -1,0 +1,60 @@
+{
+  "id": "npc_726",
+  "bio": {
+    "full_name": "Joseph Garcia",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "AB-",
+    "genetic_stability": 0.859,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 53,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 15,
+      "Occult_Research": 70,
+      "Firearms": 46
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 84,
+      "extraversion": 23,
+      "agreeableness": 9,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_857",
+  "bio": {
+    "full_name": "Steven Dubois",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.858,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 62,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 91,
+      "Medicine": 44,
+      "Containment_Logic": 91
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 23,
+      "extraversion": 56,
+      "agreeableness": 96,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

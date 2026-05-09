@@ -1,0 +1,60 @@
+{
+  "id": "npc_535",
+  "bio": {
+    "full_name": "Robert Williams",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.897,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 64,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 31,
+      "Persuasion": 26,
+      "Medicine": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 100,
+      "extraversion": 50,
+      "agreeableness": 4,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

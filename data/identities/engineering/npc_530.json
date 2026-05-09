@@ -1,0 +1,60 @@
+{
+  "id": "npc_530",
+  "bio": {
+    "full_name": "Robert Johnson",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "O-",
+    "genetic_stability": 0.912,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 78,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 58,
+      "Stealth": 61,
+      "Perception": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 55,
+      "extraversion": 12,
+      "agreeableness": 38,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_861",
+  "bio": {
+    "full_name": "Christopher Garcia",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.906,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 108,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 21,
+      "Occult_Research": 33,
+      "Hacking": 37
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 49,
+      "extraversion": 21,
+      "agreeableness": 6,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

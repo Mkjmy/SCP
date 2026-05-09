@@ -1,0 +1,60 @@
+{
+  "id": "npc_836",
+  "bio": {
+    "full_name": "Matthew Dubois",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.887,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 66,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 54,
+      "Perception": 81,
+      "Persuasion": 24
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 67,
+      "extraversion": 87,
+      "agreeableness": 9,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

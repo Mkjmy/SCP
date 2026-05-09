@@ -1,0 +1,60 @@
+{
+  "id": "npc_097",
+  "bio": {
+    "full_name": "Michael Johnson",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "A+",
+    "genetic_stability": 0.98,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 57,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 54,
+      "Hacking": 29,
+      "Perception": 80
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 63,
+      "extraversion": 7,
+      "agreeableness": 30,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_772",
+  "bio": {
+    "full_name": "Anthony Davis",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.855,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 101,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 30,
+      "Firearms": 48,
+      "Medicine": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 49,
+      "extraversion": 90,
+      "agreeableness": 29,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_700",
+  "bio": {
+    "full_name": "Yuki Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "O+",
+    "genetic_stability": 0.917,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 59,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 42,
+      "Persuasion": 20,
+      "Hacking": 58
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 17,
+      "extraversion": 62,
+      "agreeableness": 76,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

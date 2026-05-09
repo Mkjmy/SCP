@@ -1,0 +1,59 @@
+{
+  "id": "npc_994",
+  "bio": {
+    "full_name": "Olga Sato",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "A+",
+    "genetic_stability": 0.944,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 69,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 58,
+      "Medicine": 49,
+      "Occult_Research": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 2,
+      "extraversion": 37,
+      "agreeableness": 20,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

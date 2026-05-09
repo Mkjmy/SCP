@@ -1,0 +1,60 @@
+{
+  "id": "npc_380",
+  "bio": {
+    "full_name": "Chen Schmidt",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.986,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 57,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 43,
+      "Medicine": 27,
+      "Containment_Logic": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 65,
+      "extraversion": 34,
+      "agreeableness": 61,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

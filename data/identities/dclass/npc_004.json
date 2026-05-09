@@ -1,0 +1,60 @@
+{
+  "id": "npc_004",
+  "bio": {
+    "full_name": "Joshua Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.986,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 67,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 62,
+      "Engineering": 81,
+      "Medicine": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 5,
+      "extraversion": 96,
+      "agreeableness": 87,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

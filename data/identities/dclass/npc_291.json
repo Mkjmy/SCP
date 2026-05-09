@@ -1,0 +1,59 @@
+{
+  "id": "npc_291",
+  "bio": {
+    "full_name": "Paul Smith",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.923,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 86,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 53,
+      "Perception": 62,
+      "Stealth": 70
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 27,
+      "extraversion": 93,
+      "agreeableness": 34,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

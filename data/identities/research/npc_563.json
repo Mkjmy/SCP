@@ -1,0 +1,60 @@
+{
+  "id": "npc_563",
+  "bio": {
+    "full_name": "Steven Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "O+",
+    "genetic_stability": 0.961,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 50,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 64,
+      "Medicine": 64,
+      "Athletics": 60
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 85,
+      "extraversion": 7,
+      "agreeableness": 29,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

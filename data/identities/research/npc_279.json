@@ -1,0 +1,60 @@
+{
+  "id": "npc_279",
+  "bio": {
+    "full_name": "Richard Muller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 54,
+    "blood_type": "AB+",
+    "genetic_stability": 0.908,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 69,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 21,
+      "Firearms": 23,
+      "Occult_Research": 52
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 41,
+      "extraversion": 74,
+      "agreeableness": 0,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_894",
+  "bio": {
+    "full_name": "Lars Williams",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.948,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 94,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 59,
+      "Stealth": 15,
+      "Containment_Logic": 38
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 3,
+      "extraversion": 75,
+      "agreeableness": 100,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_949",
+  "bio": {
+    "full_name": "Elena Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "O+",
+    "genetic_stability": 0.874,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 107,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 56,
+      "Athletics": 18,
+      "Hacking": 78
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 52,
+      "extraversion": 29,
+      "agreeableness": 38,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

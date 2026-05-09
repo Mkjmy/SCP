@@ -1,0 +1,60 @@
+{
+  "id": "npc_221",
+  "bio": {
+    "full_name": "Joseph Kovacs",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.955,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 84,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 43,
+      "Persuasion": 51,
+      "Occult_Research": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 100,
+      "extraversion": 7,
+      "agreeableness": 31,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

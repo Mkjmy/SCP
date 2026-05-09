@@ -1,0 +1,60 @@
+{
+  "id": "npc_352",
+  "bio": {
+    "full_name": "Donald Schmidt",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "O+",
+    "genetic_stability": 0.904,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 67,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 13,
+      "Containment_Logic": 28,
+      "Occult_Research": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 91,
+      "extraversion": 59,
+      "agreeableness": 28,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_694",
+  "bio": {
+    "full_name": "John Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "B+",
+    "genetic_stability": 0.911,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 67,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 18,
+      "Engineering": 14,
+      "Containment_Logic": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 16,
+      "extraversion": 63,
+      "agreeableness": 14,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

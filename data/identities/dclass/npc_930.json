@@ -1,0 +1,60 @@
+{
+  "id": "npc_930",
+  "bio": {
+    "full_name": "Maria Jones",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.993,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 73,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 40,
+      "Stealth": 93,
+      "Containment_Logic": 92
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 38,
+      "extraversion": 89,
+      "agreeableness": 76,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

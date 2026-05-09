@@ -1,0 +1,60 @@
+{
+  "id": "npc_922",
+  "bio": {
+    "full_name": "Yuki Muller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.877,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 62,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 25,
+      "Engineering": 43,
+      "Persuasion": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 11,
+      "extraversion": 96,
+      "agreeableness": 22,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

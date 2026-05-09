@@ -1,0 +1,60 @@
+{
+  "id": "npc_526",
+  "bio": {
+    "full_name": "Richard Brown",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.924,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 51,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 24,
+      "Persuasion": 53,
+      "Engineering": 38
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 76,
+      "extraversion": 28,
+      "agreeableness": 47,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

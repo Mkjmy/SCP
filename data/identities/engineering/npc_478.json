@@ -1,0 +1,60 @@
+{
+  "id": "npc_478",
+  "bio": {
+    "full_name": "Chen Vasiliev",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 64,
+    "blood_type": "A-",
+    "genetic_stability": 0.926,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 62,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 21,
+      "Firearms": 86,
+      "Engineering": 45
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 51,
+      "extraversion": 32,
+      "agreeableness": 27,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

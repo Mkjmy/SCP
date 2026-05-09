@@ -1,0 +1,60 @@
+{
+  "id": "npc_495",
+  "bio": {
+    "full_name": "Anthony Garcia",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.935,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 72,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 73,
+      "Hacking": 85,
+      "Occult_Research": 19
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 55,
+      "extraversion": 99,
+      "agreeableness": 0,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_022",
+  "bio": {
+    "full_name": "Paul Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.952,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 100,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 72,
+      "Engineering": 53,
+      "Stealth": 16
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 46,
+      "extraversion": 65,
+      "agreeableness": 78,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

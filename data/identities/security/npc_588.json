@@ -1,0 +1,60 @@
+{
+  "id": "npc_588",
+  "bio": {
+    "full_name": "Olga Kovacs",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "O+",
+    "genetic_stability": 0.861,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 110,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 79,
+      "Perception": 85,
+      "Persuasion": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 90,
+      "extraversion": 12,
+      "agreeableness": 25,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

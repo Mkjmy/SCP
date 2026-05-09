@@ -1,0 +1,60 @@
+{
+  "id": "npc_094",
+  "bio": {
+    "full_name": "Steven O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.952,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 66,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 82,
+      "Perception": 19,
+      "Medicine": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 66,
+      "extraversion": 49,
+      "agreeableness": 97,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

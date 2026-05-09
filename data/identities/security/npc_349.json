@@ -1,0 +1,60 @@
+{
+  "id": "npc_349",
+  "bio": {
+    "full_name": "Maria Williams",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "O+",
+    "genetic_stability": 0.964,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 104,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 32,
+      "Perception": 30,
+      "Persuasion": 44
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 90,
+      "extraversion": 11,
+      "agreeableness": 58,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

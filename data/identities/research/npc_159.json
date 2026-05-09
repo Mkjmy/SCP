@@ -1,0 +1,60 @@
+{
+  "id": "npc_159",
+  "bio": {
+    "full_name": "Anthony Davis",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "A+",
+    "genetic_stability": 0.858,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 94,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 36,
+      "Persuasion": 39,
+      "Occult_Research": 18
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 80,
+      "extraversion": 23,
+      "agreeableness": 62,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

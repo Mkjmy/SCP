@@ -1,0 +1,60 @@
+{
+  "id": "npc_803",
+  "bio": {
+    "full_name": "David Schmidt",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "A-",
+    "genetic_stability": 0.972,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 92,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 68,
+      "Firearms": 58,
+      "Persuasion": 16
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 35,
+      "extraversion": 72,
+      "agreeableness": 9,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 1.0
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

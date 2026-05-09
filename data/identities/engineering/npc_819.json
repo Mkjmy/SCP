@@ -1,0 +1,60 @@
+{
+  "id": "npc_819",
+  "bio": {
+    "full_name": "James Williams",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 49,
+    "blood_type": "B+",
+    "genetic_stability": 0.889,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 58,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 72,
+      "Perception": 80,
+      "Containment_Logic": 92
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 3,
+      "extraversion": 64,
+      "agreeableness": 68,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

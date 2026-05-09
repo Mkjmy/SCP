@@ -1,0 +1,60 @@
+{
+  "id": "npc_821",
+  "bio": {
+    "full_name": "Donald Smith",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.99,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 52,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 79,
+      "Engineering": 56,
+      "Hacking": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 51,
+      "extraversion": 21,
+      "agreeableness": 59,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

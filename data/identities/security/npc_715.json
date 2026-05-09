@@ -1,0 +1,60 @@
+{
+  "id": "npc_715",
+  "bio": {
+    "full_name": "Andrew Jones",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "A+",
+    "genetic_stability": 0.857,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 97,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 63,
+      "Athletics": 29,
+      "Medicine": 44
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 59,
+      "extraversion": 11,
+      "agreeableness": 42,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

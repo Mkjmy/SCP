@@ -1,0 +1,60 @@
+{
+  "id": "npc_620",
+  "bio": {
+    "full_name": "Yuki Johnson",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 55,
+    "blood_type": "AB+",
+    "genetic_stability": 0.925,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 56,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 12,
+      "Hacking": 16,
+      "Containment_Logic": 84
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 9,
+      "extraversion": 49,
+      "agreeableness": 65,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

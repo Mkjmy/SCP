@@ -1,0 +1,60 @@
+{
+  "id": "npc_713",
+  "bio": {
+    "full_name": "Richard Davis",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "A-",
+    "genetic_stability": 0.938,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 98,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 17,
+      "Persuasion": 10,
+      "Athletics": 56
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 97,
+      "extraversion": 49,
+      "agreeableness": 28,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

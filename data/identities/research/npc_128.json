@@ -1,0 +1,60 @@
+{
+  "id": "npc_128",
+  "bio": {
+    "full_name": "Yuki Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.957,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 54,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 56,
+      "Engineering": 39,
+      "Firearms": 48
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 10,
+      "extraversion": 36,
+      "agreeableness": 36,
+      "neuroticism": 4
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

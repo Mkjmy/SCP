@@ -1,0 +1,60 @@
+{
+  "id": "npc_943",
+  "bio": {
+    "full_name": "Fatima Jones",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 53,
+    "blood_type": "O+",
+    "genetic_stability": 0.868,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 92,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 88,
+      "Engineering": 12,
+      "Firearms": 45
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 33,
+      "extraversion": 43,
+      "agreeableness": 10,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

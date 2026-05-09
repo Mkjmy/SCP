@@ -1,0 +1,60 @@
+{
+  "id": "npc_204",
+  "bio": {
+    "full_name": "Arjun Davis",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 62,
+    "blood_type": "AB+",
+    "genetic_stability": 0.944,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 63,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 74,
+      "Persuasion": 42,
+      "Athletics": 33
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 23,
+      "extraversion": 39,
+      "agreeableness": 42,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

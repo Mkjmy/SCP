@@ -1,0 +1,60 @@
+{
+  "id": "npc_628",
+  "bio": {
+    "full_name": "Matthew Gupta",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 58,
+    "blood_type": "O+",
+    "genetic_stability": 0.886,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 106,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 47,
+      "Hacking": 11,
+      "Persuasion": 26
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 86,
+      "extraversion": 51,
+      "agreeableness": 57,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

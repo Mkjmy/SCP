@@ -1,0 +1,60 @@
+{
+  "id": "npc_435",
+  "bio": {
+    "full_name": "Christopher Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "AB-",
+    "genetic_stability": 1.0,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 79,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 72,
+      "Athletics": 76,
+      "Perception": 11
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 32,
+      "extraversion": 28,
+      "agreeableness": 97,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

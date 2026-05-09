@@ -1,0 +1,60 @@
+{
+  "id": "npc_527",
+  "bio": {
+    "full_name": "Fatima Wong",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "B-",
+    "genetic_stability": 0.876,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 92,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 78,
+      "Stealth": 27,
+      "Firearms": 31
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 18,
+      "extraversion": 74,
+      "agreeableness": 17,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

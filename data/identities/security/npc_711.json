@@ -1,0 +1,60 @@
+{
+  "id": "npc_711",
+  "bio": {
+    "full_name": "Paul Jones",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "B+",
+    "genetic_stability": 0.964,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 96,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 11,
+      "Medicine": 56,
+      "Hacking": 19
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 64,
+      "extraversion": 26,
+      "agreeableness": 90,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

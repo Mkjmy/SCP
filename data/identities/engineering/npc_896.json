@@ -1,0 +1,60 @@
+{
+  "id": "npc_896",
+  "bio": {
+    "full_name": "David Davis",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "O-",
+    "genetic_stability": 0.909,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 65,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 25,
+      "Occult_Research": 29,
+      "Engineering": 87
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 99,
+      "extraversion": 75,
+      "agreeableness": 53,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_090",
+  "bio": {
+    "full_name": "Yuki Smith",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 63,
+    "blood_type": "B-",
+    "genetic_stability": 0.865,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 85,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 40,
+      "Firearms": 60,
+      "Perception": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 13,
+      "extraversion": 12,
+      "agreeableness": 24,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

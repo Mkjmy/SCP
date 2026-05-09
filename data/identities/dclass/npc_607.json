@@ -1,0 +1,59 @@
+{
+  "id": "npc_607",
+  "bio": {
+    "full_name": "Richard Brown",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.993,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 60,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 86,
+      "Medicine": 51,
+      "Stealth": 20
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 51,
+      "extraversion": 22,
+      "agreeableness": 44,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

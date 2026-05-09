@@ -1,0 +1,60 @@
+{
+  "id": "npc_054",
+  "bio": {
+    "full_name": "Christopher Wong",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "AB-",
+    "genetic_stability": 0.984,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 88,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 25,
+      "Hacking": 79,
+      "Stealth": 52
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 26,
+      "extraversion": 16,
+      "agreeableness": 93,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

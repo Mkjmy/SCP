@@ -1,0 +1,60 @@
+{
+  "id": "npc_586",
+  "bio": {
+    "full_name": "Donald Wong",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "A-",
+    "genetic_stability": 0.952,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 78,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 87,
+      "Containment_Logic": 41,
+      "Stealth": 22
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 96,
+      "extraversion": 88,
+      "agreeableness": 68,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

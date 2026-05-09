@@ -1,0 +1,60 @@
+{
+  "id": "npc_394",
+  "bio": {
+    "full_name": "Olga O'Connor",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.915,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 67,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 71,
+      "Stealth": 12,
+      "Containment_Logic": 66
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 77,
+      "extraversion": 57,
+      "agreeableness": 95,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

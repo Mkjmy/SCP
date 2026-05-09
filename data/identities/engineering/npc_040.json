@@ -1,0 +1,59 @@
+{
+  "id": "npc_040",
+  "bio": {
+    "full_name": "Michael Brown",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "A-",
+    "genetic_stability": 0.921,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 63,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 89,
+      "Athletics": 72,
+      "Occult_Research": 54
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 58,
+      "extraversion": 90,
+      "agreeableness": 86,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

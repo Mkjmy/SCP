@@ -1,0 +1,60 @@
+{
+  "id": "npc_294",
+  "bio": {
+    "full_name": "Joshua Davis",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 56,
+    "blood_type": "B+",
+    "genetic_stability": 0.923,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 90,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 66,
+      "Stealth": 21,
+      "Containment_Logic": 57
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 54,
+      "extraversion": 96,
+      "agreeableness": 5,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

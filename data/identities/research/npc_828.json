@@ -1,0 +1,60 @@
+{
+  "id": "npc_828",
+  "bio": {
+    "full_name": "Thomas Sato",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "O-",
+    "genetic_stability": 0.925,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 57,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 86,
+      "Firearms": 75,
+      "Perception": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 62,
+      "extraversion": 76,
+      "agreeableness": 41,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

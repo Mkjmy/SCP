@@ -1,0 +1,60 @@
+{
+  "id": "npc_834",
+  "bio": {
+    "full_name": "Yuki Vasiliev",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.975,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 106,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 49,
+      "Persuasion": 12,
+      "Engineering": 44
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 47,
+      "extraversion": 41,
+      "agreeableness": 42,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

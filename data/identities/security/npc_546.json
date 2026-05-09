@@ -1,0 +1,60 @@
+{
+  "id": "npc_546",
+  "bio": {
+    "full_name": "Kenji Williams",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 61,
+    "blood_type": "O+",
+    "genetic_stability": 0.975,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 85,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 19,
+      "Hacking": 37,
+      "Occult_Research": 90
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 92,
+      "extraversion": 50,
+      "agreeableness": 42,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

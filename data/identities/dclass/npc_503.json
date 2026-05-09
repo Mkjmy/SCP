@@ -1,0 +1,59 @@
+{
+  "id": "npc_503",
+  "bio": {
+    "full_name": "William Brown",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "B+",
+    "genetic_stability": 0.902,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 100,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 17,
+      "Hacking": 60,
+      "Stealth": 22
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 3,
+      "extraversion": 71,
+      "agreeableness": 27,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

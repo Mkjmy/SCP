@@ -1,0 +1,60 @@
+{
+  "id": "npc_323",
+  "bio": {
+    "full_name": "Mark Kovacs",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 46,
+    "blood_type": "AB+",
+    "genetic_stability": 0.923,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 104,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 50,
+      "Hacking": 35,
+      "Containment_Logic": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 9,
+      "extraversion": 47,
+      "agreeableness": 30,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

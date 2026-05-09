@@ -1,0 +1,60 @@
+{
+  "id": "npc_773",
+  "bio": {
+    "full_name": "Arjun Kovacs",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.875,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 92,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 71,
+      "Athletics": 29,
+      "Perception": 91
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 34,
+      "extraversion": 6,
+      "agreeableness": 90,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_959",
+  "bio": {
+    "full_name": "Joseph Kovacs",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.944,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 90,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 37,
+      "Stealth": 12,
+      "Engineering": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 16,
+      "extraversion": 70,
+      "agreeableness": 25,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_365",
+  "bio": {
+    "full_name": "Maria O'Connor",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.989,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 59,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 87,
+      "Containment_Logic": 30,
+      "Perception": 12
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 11,
+      "extraversion": 49,
+      "agreeableness": 7,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

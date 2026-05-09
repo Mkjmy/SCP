@@ -1,0 +1,60 @@
+{
+  "id": "npc_138",
+  "bio": {
+    "full_name": "Chen Sato",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 57,
+    "blood_type": "AB-",
+    "genetic_stability": 0.861,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 51,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 82,
+      "Persuasion": 22,
+      "Medicine": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 69,
+      "extraversion": 55,
+      "agreeableness": 45,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

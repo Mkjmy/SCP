@@ -1,0 +1,60 @@
+{
+  "id": "npc_939",
+  "bio": {
+    "full_name": "Mark Garcia",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "B-",
+    "genetic_stability": 0.974,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 90,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 32,
+      "Persuasion": 14,
+      "Athletics": 43
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 30,
+      "extraversion": 2,
+      "agreeableness": 47,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

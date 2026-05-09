@@ -1,0 +1,60 @@
+{
+  "id": "npc_631",
+  "bio": {
+    "full_name": "Joseph Jones",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.958,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 110,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 14,
+      "Engineering": 80,
+      "Persuasion": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 4,
+      "extraversion": 41,
+      "agreeableness": 69,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

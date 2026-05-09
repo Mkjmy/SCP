@@ -1,0 +1,60 @@
+{
+  "id": "npc_845",
+  "bio": {
+    "full_name": "Daniel Brown",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.982,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 67,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 92,
+      "Engineering": 41,
+      "Persuasion": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 25,
+      "extraversion": 95,
+      "agreeableness": 64,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

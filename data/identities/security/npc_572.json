@@ -1,0 +1,60 @@
+{
+  "id": "npc_572",
+  "bio": {
+    "full_name": "Matthew Muller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "O+",
+    "genetic_stability": 0.975,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 78,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 62,
+      "Containment_Logic": 89,
+      "Perception": 86
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 52,
+      "extraversion": 79,
+      "agreeableness": 65,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

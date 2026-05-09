@@ -1,0 +1,60 @@
+{
+  "id": "npc_523",
+  "bio": {
+    "full_name": "Donald Johnson",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.89,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 82,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 59,
+      "Stealth": 90,
+      "Firearms": 19
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 82,
+      "extraversion": 70,
+      "agreeableness": 2,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

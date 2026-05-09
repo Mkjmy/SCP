@@ -1,0 +1,60 @@
+{
+  "id": "npc_616",
+  "bio": {
+    "full_name": "Daniel Schmidt",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.941,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 73,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 51,
+      "Perception": 26,
+      "Occult_Research": 52
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 96,
+      "extraversion": 24,
+      "agreeableness": 26,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

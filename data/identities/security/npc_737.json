@@ -1,0 +1,60 @@
+{
+  "id": "npc_737",
+  "bio": {
+    "full_name": "Richard Wong",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 57,
+    "blood_type": "AB+",
+    "genetic_stability": 0.855,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 56,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 75,
+      "Medicine": 15,
+      "Firearms": 66
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 57,
+      "extraversion": 42,
+      "agreeableness": 5,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

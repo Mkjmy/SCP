@@ -1,0 +1,60 @@
+{
+  "id": "npc_425",
+  "bio": {
+    "full_name": "Elena Smith",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 21,
+    "blood_type": "AB+",
+    "genetic_stability": 0.96,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 59,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 94,
+      "Athletics": 56,
+      "Firearms": 42
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 96,
+      "extraversion": 36,
+      "agreeableness": 73,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

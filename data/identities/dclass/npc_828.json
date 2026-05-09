@@ -1,0 +1,59 @@
+{
+  "id": "npc_828",
+  "bio": {
+    "full_name": "Donald Brown",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.857,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 87,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 25,
+      "Firearms": 68,
+      "Hacking": 84
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 74,
+      "extraversion": 46,
+      "agreeableness": 84,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

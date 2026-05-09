@@ -1,0 +1,60 @@
+{
+  "id": "npc_561",
+  "bio": {
+    "full_name": "Donald Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "A+",
+    "genetic_stability": 0.946,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 109,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 43,
+      "Firearms": 15,
+      "Containment_Logic": 48
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 34,
+      "extraversion": 86,
+      "agreeableness": 94,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

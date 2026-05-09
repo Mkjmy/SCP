@@ -1,0 +1,60 @@
+{
+  "id": "npc_594",
+  "bio": {
+    "full_name": "Anthony Muller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "AB+",
+    "genetic_stability": 0.976,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 84,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 65,
+      "Containment_Logic": 83,
+      "Athletics": 26
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 89,
+      "extraversion": 97,
+      "agreeableness": 38,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

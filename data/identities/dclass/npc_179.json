@@ -1,0 +1,59 @@
+{
+  "id": "npc_179",
+  "bio": {
+    "full_name": "Joshua Davis",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.918,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 52,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 22,
+      "Containment_Logic": 68,
+      "Occult_Research": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 83,
+      "extraversion": 100,
+      "agreeableness": 99,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

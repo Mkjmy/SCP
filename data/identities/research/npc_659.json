@@ -1,0 +1,59 @@
+{
+  "id": "npc_659",
+  "bio": {
+    "full_name": "Robert Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "O+",
+    "genetic_stability": 0.983,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 63,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 12,
+      "Perception": 20,
+      "Engineering": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 85,
+      "extraversion": 4,
+      "agreeableness": 18,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

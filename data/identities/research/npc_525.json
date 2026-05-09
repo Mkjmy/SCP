@@ -1,0 +1,59 @@
+{
+  "id": "npc_525",
+  "bio": {
+    "full_name": "David Garcia",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "O+",
+    "genetic_stability": 0.93,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 105,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 26,
+      "Engineering": 89,
+      "Containment_Logic": 14
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 94,
+      "extraversion": 76,
+      "agreeableness": 87,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

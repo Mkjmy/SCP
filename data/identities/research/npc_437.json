@@ -1,0 +1,60 @@
+{
+  "id": "npc_437",
+  "bio": {
+    "full_name": "Maria Davis",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 64,
+    "blood_type": "B+",
+    "genetic_stability": 0.974,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 86,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 76,
+      "Athletics": 45,
+      "Stealth": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 11,
+      "extraversion": 66,
+      "agreeableness": 1,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

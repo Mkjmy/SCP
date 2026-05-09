@@ -1,0 +1,60 @@
+{
+  "id": "npc_803",
+  "bio": {
+    "full_name": "James Dubois",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.919,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 63,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 18,
+      "Containment_Logic": 46,
+      "Occult_Research": 73
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 38,
+      "extraversion": 91,
+      "agreeableness": 69,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

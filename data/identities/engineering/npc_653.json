@@ -1,0 +1,60 @@
+{
+  "id": "npc_653",
+  "bio": {
+    "full_name": "Joshua Johnson",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.918,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 95,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 22,
+      "Containment_Logic": 40,
+      "Medicine": 35
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 58,
+      "extraversion": 73,
+      "agreeableness": 39,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

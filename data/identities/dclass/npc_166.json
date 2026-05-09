@@ -1,0 +1,60 @@
+{
+  "id": "npc_166",
+  "bio": {
+    "full_name": "Robert Jones",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.919,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 60,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 49,
+      "Stealth": 87,
+      "Occult_Research": 61
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 100,
+      "extraversion": 56,
+      "agreeableness": 11,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

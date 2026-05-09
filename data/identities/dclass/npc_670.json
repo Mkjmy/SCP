@@ -1,0 +1,59 @@
+{
+  "id": "npc_670",
+  "bio": {
+    "full_name": "Joshua Brown",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.928,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 57,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 71,
+      "Perception": 63,
+      "Firearms": 39
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 25,
+      "extraversion": 18,
+      "agreeableness": 58,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

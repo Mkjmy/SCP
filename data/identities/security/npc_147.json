@@ -1,0 +1,60 @@
+{
+  "id": "npc_147",
+  "bio": {
+    "full_name": "Kenji Bakker",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "A+",
+    "genetic_stability": 0.958,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 58,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 33,
+      "Athletics": 11,
+      "Persuasion": 25
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 81,
+      "extraversion": 31,
+      "agreeableness": 21,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

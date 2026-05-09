@@ -1,0 +1,59 @@
+{
+  "id": "npc_096",
+  "bio": {
+    "full_name": "William Brown",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.873,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 83,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 74,
+      "Persuasion": 18,
+      "Containment_Logic": 12
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 49,
+      "extraversion": 25,
+      "agreeableness": 58,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_902",
+  "bio": {
+    "full_name": "Richard Tanaka",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "AB-",
+    "genetic_stability": 0.901,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 61,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 57,
+      "Perception": 52,
+      "Medicine": 14
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 67,
+      "extraversion": 61,
+      "agreeableness": 56,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

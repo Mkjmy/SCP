@@ -1,0 +1,60 @@
+{
+  "id": "npc_149",
+  "bio": {
+    "full_name": "Kenji Bakker",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "B-",
+    "genetic_stability": 0.969,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 108,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 14,
+      "Firearms": 18,
+      "Hacking": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 42,
+      "extraversion": 56,
+      "agreeableness": 29,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

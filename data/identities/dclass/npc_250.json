@@ -1,0 +1,60 @@
+{
+  "id": "npc_250",
+  "bio": {
+    "full_name": "Olga Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.889,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 50,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 36,
+      "Medicine": 94,
+      "Engineering": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 36,
+      "extraversion": 47,
+      "agreeableness": 17,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

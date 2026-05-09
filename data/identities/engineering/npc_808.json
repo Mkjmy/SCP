@@ -1,0 +1,60 @@
+{
+  "id": "npc_808",
+  "bio": {
+    "full_name": "Joseph Williams",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "AB-",
+    "genetic_stability": 0.856,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 109,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 84,
+      "Persuasion": 24,
+      "Occult_Research": 14
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 34,
+      "extraversion": 25,
+      "agreeableness": 73,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

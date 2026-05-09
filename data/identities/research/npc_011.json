@@ -1,0 +1,60 @@
+{
+  "id": "npc_011",
+  "bio": {
+    "full_name": "Arjun Sato",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.967,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 89,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 70,
+      "Occult_Research": 75,
+      "Containment_Logic": 64
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 2,
+      "extraversion": 6,
+      "agreeableness": 40,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

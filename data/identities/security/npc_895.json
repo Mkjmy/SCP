@@ -1,0 +1,60 @@
+{
+  "id": "npc_895",
+  "bio": {
+    "full_name": "Robert Vasiliev",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 55,
+    "blood_type": "AB-",
+    "genetic_stability": 0.893,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 57,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 85,
+      "Medicine": 82,
+      "Occult_Research": 54
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 54,
+      "extraversion": 20,
+      "agreeableness": 88,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

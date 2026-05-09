@@ -1,0 +1,60 @@
+{
+  "id": "npc_399",
+  "bio": {
+    "full_name": "Lars O'Connor",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.992,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 96,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 18,
+      "Hacking": 68,
+      "Engineering": 67
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 24,
+      "extraversion": 44,
+      "agreeableness": 79,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

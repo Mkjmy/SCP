@@ -1,0 +1,60 @@
+{
+  "id": "npc_818",
+  "bio": {
+    "full_name": "Joseph Johnson",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.873,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 54,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 15,
+      "Hacking": 90,
+      "Perception": 33
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 84,
+      "extraversion": 70,
+      "agreeableness": 6,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

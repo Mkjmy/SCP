@@ -1,0 +1,60 @@
+{
+  "id": "npc_964",
+  "bio": {
+    "full_name": "John O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.931,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 72,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 59,
+      "Athletics": 19,
+      "Medicine": 21
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 68,
+      "extraversion": 28,
+      "agreeableness": 70,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

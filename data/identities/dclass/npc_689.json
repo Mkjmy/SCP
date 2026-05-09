@@ -1,0 +1,60 @@
+{
+  "id": "npc_689",
+  "bio": {
+    "full_name": "Christopher Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "A+",
+    "genetic_stability": 0.927,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 55,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 62,
+      "Stealth": 93,
+      "Occult_Research": 42
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 5,
+      "extraversion": 60,
+      "agreeableness": 34,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_590",
+  "bio": {
+    "full_name": "Mark Gupta",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "O+",
+    "genetic_stability": 0.98,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 98,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 33,
+      "Athletics": 20,
+      "Hacking": 69
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 66,
+      "extraversion": 36,
+      "agreeableness": 3,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

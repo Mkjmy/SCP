@@ -1,0 +1,60 @@
+{
+  "id": "npc_199",
+  "bio": {
+    "full_name": "Arjun Wong",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "O+",
+    "genetic_stability": 0.937,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 58,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 25,
+      "Athletics": 47,
+      "Stealth": 47
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 34,
+      "extraversion": 31,
+      "agreeableness": 77,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

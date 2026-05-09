@@ -1,0 +1,60 @@
+{
+  "id": "npc_991",
+  "bio": {
+    "full_name": "Charles Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 50,
+    "blood_type": "B+",
+    "genetic_stability": 0.979,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 66,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 12,
+      "Medicine": 47,
+      "Perception": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 24,
+      "extraversion": 82,
+      "agreeableness": 27,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

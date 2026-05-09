@@ -1,0 +1,60 @@
+{
+  "id": "npc_959",
+  "bio": {
+    "full_name": "Robert Garcia",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.993,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 83,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 35,
+      "Medicine": 95,
+      "Athletics": 66
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 95,
+      "extraversion": 27,
+      "agreeableness": 39,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

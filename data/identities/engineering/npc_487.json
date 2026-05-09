@@ -1,0 +1,60 @@
+{
+  "id": "npc_487",
+  "bio": {
+    "full_name": "Donald Sato",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "A+",
+    "genetic_stability": 0.952,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 58,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 48,
+      "Occult_Research": 66,
+      "Hacking": 15
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 49,
+      "extraversion": 0,
+      "agreeableness": 28,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

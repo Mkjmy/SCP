@@ -1,0 +1,60 @@
+{
+  "id": "npc_848",
+  "bio": {
+    "full_name": "Joseph Muller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "AB+",
+    "genetic_stability": 0.952,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 102,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 58,
+      "Athletics": 59,
+      "Engineering": 36
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 88,
+      "extraversion": 69,
+      "agreeableness": 89,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

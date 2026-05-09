@@ -1,0 +1,60 @@
+{
+  "id": "npc_921",
+  "bio": {
+    "full_name": "Charles Williams",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "AB-",
+    "genetic_stability": 0.994,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 56,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 89,
+      "Persuasion": 74,
+      "Stealth": 42
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 90,
+      "extraversion": 95,
+      "agreeableness": 30,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

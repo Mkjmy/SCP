@@ -1,0 +1,60 @@
+{
+  "id": "npc_010",
+  "bio": {
+    "full_name": "Maria Kovacs",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 98,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 56,
+      "Stealth": 80,
+      "Perception": 52
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 4,
+      "extraversion": 17,
+      "agreeableness": 34,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_250",
+  "bio": {
+    "full_name": "Chen Kovacs",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "AB+",
+    "genetic_stability": 0.862,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 103,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 21,
+      "Firearms": 37,
+      "Persuasion": 57
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 7,
+      "extraversion": 95,
+      "agreeableness": 89,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

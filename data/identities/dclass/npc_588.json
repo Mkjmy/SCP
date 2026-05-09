@@ -1,0 +1,60 @@
+{
+  "id": "npc_588",
+  "bio": {
+    "full_name": "Andrew Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.949,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 84,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 55,
+      "Engineering": 68,
+      "Athletics": 86
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 94,
+      "extraversion": 42,
+      "agreeableness": 49,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

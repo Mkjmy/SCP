@@ -1,0 +1,60 @@
+{
+  "id": "npc_669",
+  "bio": {
+    "full_name": "Arjun Williams",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.913,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 61,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 63,
+      "Medicine": 41,
+      "Persuasion": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 27,
+      "extraversion": 42,
+      "agreeableness": 74,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

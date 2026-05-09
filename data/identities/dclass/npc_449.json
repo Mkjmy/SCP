@@ -1,0 +1,60 @@
+{
+  "id": "npc_449",
+  "bio": {
+    "full_name": "Chen Johnson",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.905,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 55,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 39,
+      "Persuasion": 48,
+      "Perception": 61
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 72,
+      "extraversion": 50,
+      "agreeableness": 19,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

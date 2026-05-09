@@ -1,0 +1,60 @@
+{
+  "id": "npc_486",
+  "bio": {
+    "full_name": "Maria O'Connor",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "B-",
+    "genetic_stability": 0.961,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 97,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 53,
+      "Medicine": 41,
+      "Firearms": 41
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 35,
+      "conscientiousness": 6,
+      "extraversion": 93,
+      "agreeableness": 33,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

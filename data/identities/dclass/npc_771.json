@@ -1,0 +1,60 @@
+{
+  "id": "npc_771",
+  "bio": {
+    "full_name": "Fatima Miller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "O+",
+    "genetic_stability": 0.878,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 89,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 36,
+      "Athletics": 33,
+      "Engineering": 22
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 46,
+      "extraversion": 60,
+      "agreeableness": 49,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_722",
+  "bio": {
+    "full_name": "Paul Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.981,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 63,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 19,
+      "Hacking": 57,
+      "Containment_Logic": 64
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 94,
+      "extraversion": 38,
+      "agreeableness": 38,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

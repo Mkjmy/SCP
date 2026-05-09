@@ -1,0 +1,60 @@
+{
+  "id": "npc_391",
+  "bio": {
+    "full_name": "William Johnson",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.989,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 74,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 78,
+      "Stealth": 40,
+      "Firearms": 65
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 62,
+      "extraversion": 18,
+      "agreeableness": 7,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_361",
+  "bio": {
+    "full_name": "Michael O'Connor",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.999,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 78,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 46,
+      "Containment_Logic": 77,
+      "Persuasion": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 69,
+      "extraversion": 18,
+      "agreeableness": 86,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

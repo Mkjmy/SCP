@@ -1,0 +1,59 @@
+{
+  "id": "npc_981",
+  "bio": {
+    "full_name": "Christopher Davis",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.99,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 93,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 70,
+      "Engineering": 85,
+      "Perception": 88
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 99,
+      "extraversion": 25,
+      "agreeableness": 51,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

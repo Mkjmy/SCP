@@ -1,0 +1,59 @@
+{
+  "id": "npc_847",
+  "bio": {
+    "full_name": "Matthew Jones",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "O-",
+    "genetic_stability": 0.942,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 103,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 74,
+      "Occult_Research": 73,
+      "Persuasion": 93
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 38,
+      "extraversion": 62,
+      "agreeableness": 18,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

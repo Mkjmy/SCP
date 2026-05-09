@@ -1,0 +1,60 @@
+{
+  "id": "npc_160",
+  "bio": {
+    "full_name": "Donald Jones",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 65,
+    "blood_type": "B+",
+    "genetic_stability": 0.903,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 74,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 25,
+      "Stealth": 45,
+      "Perception": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 9,
+      "extraversion": 27,
+      "agreeableness": 29,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_350",
+  "bio": {
+    "full_name": "Anthony Davis",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.946,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 109,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 77,
+      "Occult_Research": 17,
+      "Hacking": 77
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 29,
+      "extraversion": 86,
+      "agreeableness": 40,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

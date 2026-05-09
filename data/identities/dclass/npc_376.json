@@ -1,0 +1,60 @@
+{
+  "id": "npc_376",
+  "bio": {
+    "full_name": "Elena Smith",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "B-",
+    "genetic_stability": 0.887,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 76,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 54,
+      "Perception": 76,
+      "Persuasion": 34
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 71,
+      "extraversion": 10,
+      "agreeableness": 57,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

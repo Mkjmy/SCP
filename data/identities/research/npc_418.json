@@ -1,0 +1,60 @@
+{
+  "id": "npc_418",
+  "bio": {
+    "full_name": "Kenji Schmidt",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "O+",
+    "genetic_stability": 0.859,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 74,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 75,
+      "Medicine": 49,
+      "Occult_Research": 63
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 11,
+      "extraversion": 3,
+      "agreeableness": 92,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

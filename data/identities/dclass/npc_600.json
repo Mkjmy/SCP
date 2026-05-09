@@ -1,0 +1,59 @@
+{
+  "id": "npc_600",
+  "bio": {
+    "full_name": "Donald Johnson",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "A-",
+    "genetic_stability": 0.931,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 51,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 34,
+      "Stealth": 71,
+      "Persuasion": 76
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 21,
+      "extraversion": 99,
+      "agreeableness": 65,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

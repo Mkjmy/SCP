@@ -1,0 +1,60 @@
+{
+  "id": "npc_205",
+  "bio": {
+    "full_name": "Sven Sato",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "O+",
+    "genetic_stability": 0.901,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 98,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 27,
+      "Athletics": 94,
+      "Engineering": 26
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 39,
+      "extraversion": 82,
+      "agreeableness": 97,
+      "neuroticism": 9
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

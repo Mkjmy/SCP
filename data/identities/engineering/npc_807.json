@@ -1,0 +1,60 @@
+{
+  "id": "npc_807",
+  "bio": {
+    "full_name": "Arjun Tanaka",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "O+",
+    "genetic_stability": 0.93,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 91,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 36,
+      "Engineering": 93,
+      "Containment_Logic": 87
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 40,
+      "extraversion": 48,
+      "agreeableness": 27,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

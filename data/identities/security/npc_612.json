@@ -1,0 +1,60 @@
+{
+  "id": "npc_612",
+  "bio": {
+    "full_name": "Olga Johnson",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.887,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 62,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 47,
+      "Perception": 81,
+      "Athletics": 66
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 42,
+      "extraversion": 88,
+      "agreeableness": 92,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_645",
+  "bio": {
+    "full_name": "John Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "O-",
+    "genetic_stability": 0.882,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 79,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 77,
+      "Containment_Logic": 28,
+      "Stealth": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 93,
+      "extraversion": 77,
+      "agreeableness": 23,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

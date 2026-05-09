@@ -1,0 +1,60 @@
+{
+  "id": "npc_306",
+  "bio": {
+    "full_name": "Kenji Jones",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.905,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 83,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 68,
+      "Hacking": 32,
+      "Perception": 59
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 25,
+      "extraversion": 77,
+      "agreeableness": 8,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

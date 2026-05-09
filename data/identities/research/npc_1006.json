@@ -1,0 +1,60 @@
+{
+  "id": "npc_1006",
+  "bio": {
+    "full_name": "Charles Bakker",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "AB+",
+    "genetic_stability": 0.874,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 57,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 86,
+      "Perception": 54,
+      "Engineering": 35
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 94,
+      "extraversion": 19,
+      "agreeableness": 33,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

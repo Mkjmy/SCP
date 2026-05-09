@@ -1,0 +1,60 @@
+{
+  "id": "npc_035",
+  "bio": {
+    "full_name": "John Vasiliev",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.996,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 102,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 88,
+      "Hacking": 91,
+      "Medicine": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 90,
+      "conscientiousness": 41,
+      "extraversion": 64,
+      "agreeableness": 7,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

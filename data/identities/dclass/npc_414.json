@@ -1,0 +1,60 @@
+{
+  "id": "npc_414",
+  "bio": {
+    "full_name": "Robert Ivanov",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "B+",
+    "genetic_stability": 0.886,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 101,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 64,
+      "Stealth": 82,
+      "Containment_Logic": 24
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 25,
+      "extraversion": 27,
+      "agreeableness": 63,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

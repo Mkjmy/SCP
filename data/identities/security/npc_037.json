@@ -1,0 +1,60 @@
+{
+  "id": "npc_037",
+  "bio": {
+    "full_name": "Kenji Davis",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "AB+",
+    "genetic_stability": 0.894,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 54,
+      "Stealth": 27,
+      "Perception": 39
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 20,
+      "extraversion": 65,
+      "agreeableness": 85,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

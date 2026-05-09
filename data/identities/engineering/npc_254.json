@@ -1,0 +1,60 @@
+{
+  "id": "npc_254",
+  "bio": {
+    "full_name": "Kenji Williams",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "O+",
+    "genetic_stability": 0.914,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 89,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 33,
+      "Athletics": 40,
+      "Containment_Logic": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 2,
+      "extraversion": 65,
+      "agreeableness": 13,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_636",
+  "bio": {
+    "full_name": "Kenji Williams",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "O+",
+    "genetic_stability": 0.969,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 75,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 10,
+      "Athletics": 66,
+      "Medicine": 81
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 44,
+      "extraversion": 94,
+      "agreeableness": 82,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

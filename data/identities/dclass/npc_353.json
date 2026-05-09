@@ -1,0 +1,60 @@
+{
+  "id": "npc_353",
+  "bio": {
+    "full_name": "Arjun Bakker",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.917,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 54,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 41,
+      "Engineering": 63,
+      "Occult_Research": 49
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 96,
+      "extraversion": 2,
+      "agreeableness": 25,
+      "neuroticism": 80
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

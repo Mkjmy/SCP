@@ -1,0 +1,60 @@
+{
+  "id": "npc_245",
+  "bio": {
+    "full_name": "Matthew Gupta",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.944,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 74,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 12,
+      "Containment_Logic": 50,
+      "Medicine": 30
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 54,
+      "extraversion": 92,
+      "agreeableness": 54,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

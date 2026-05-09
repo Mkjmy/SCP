@@ -1,0 +1,60 @@
+{
+  "id": "npc_810",
+  "bio": {
+    "full_name": "James O'Connor",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "B+",
+    "genetic_stability": 0.871,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 57,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 64,
+      "Perception": 49,
+      "Medicine": 29
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 41,
+      "extraversion": 59,
+      "agreeableness": 54,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

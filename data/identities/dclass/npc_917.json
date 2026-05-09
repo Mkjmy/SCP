@@ -1,0 +1,60 @@
+{
+  "id": "npc_917",
+  "bio": {
+    "full_name": "James Tanaka",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "AB+",
+    "genetic_stability": 0.851,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 68,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 85,
+      "Occult_Research": 17,
+      "Containment_Logic": 48
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 0,
+      "extraversion": 63,
+      "agreeableness": 29,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

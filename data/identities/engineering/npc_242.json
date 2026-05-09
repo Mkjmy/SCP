@@ -1,0 +1,60 @@
+{
+  "id": "npc_242",
+  "bio": {
+    "full_name": "Steven Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.935,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 62,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 16,
+      "Perception": 80,
+      "Medicine": 85
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 88,
+      "extraversion": 15,
+      "agreeableness": 67,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

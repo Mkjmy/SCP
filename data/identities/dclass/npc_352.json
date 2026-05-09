@@ -1,0 +1,60 @@
+{
+  "id": "npc_352",
+  "bio": {
+    "full_name": "Andrew Johnson",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.955,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 105,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 24,
+      "Engineering": 77,
+      "Containment_Logic": 84
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 84,
+      "extraversion": 35,
+      "agreeableness": 72,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

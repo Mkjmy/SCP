@@ -1,0 +1,60 @@
+{
+  "id": "npc_331",
+  "bio": {
+    "full_name": "Daniel Gupta",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.917,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 62,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 34,
+      "Hacking": 91,
+      "Containment_Logic": 63
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 64,
+      "extraversion": 11,
+      "agreeableness": 34,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

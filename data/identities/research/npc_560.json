@@ -1,0 +1,60 @@
+{
+  "id": "npc_560",
+  "bio": {
+    "full_name": "Donald Vasiliev",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "B-",
+    "genetic_stability": 0.952,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 51,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 48,
+      "Containment_Logic": 60,
+      "Firearms": 46
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 82,
+      "extraversion": 95,
+      "agreeableness": 91,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

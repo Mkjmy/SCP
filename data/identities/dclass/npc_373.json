@@ -1,0 +1,59 @@
+{
+  "id": "npc_373",
+  "bio": {
+    "full_name": "Olga Muller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.856,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 90,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 33,
+      "Engineering": 41,
+      "Stealth": 56
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 29,
+      "extraversion": 28,
+      "agreeableness": 86,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

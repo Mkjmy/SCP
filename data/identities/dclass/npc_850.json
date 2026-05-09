@@ -1,0 +1,59 @@
+{
+  "id": "npc_850",
+  "bio": {
+    "full_name": "Olga Gupta",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.998,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 90,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 40,
+      "Occult_Research": 81,
+      "Athletics": 79
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 24,
+      "extraversion": 67,
+      "agreeableness": 87,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

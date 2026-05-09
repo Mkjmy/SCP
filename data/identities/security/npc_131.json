@@ -1,0 +1,60 @@
+{
+  "id": "npc_131",
+  "bio": {
+    "full_name": "Michael Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 62,
+    "blood_type": "B+",
+    "genetic_stability": 0.872,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 75,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 12,
+      "Occult_Research": 26,
+      "Hacking": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 74,
+      "extraversion": 72,
+      "agreeableness": 28,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

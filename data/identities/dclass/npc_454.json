@@ -1,0 +1,60 @@
+{
+  "id": "npc_454",
+  "bio": {
+    "full_name": "Michael Bakker",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.885,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 101,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 37,
+      "Firearms": 47,
+      "Persuasion": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 25,
+      "extraversion": 81,
+      "agreeableness": 66,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

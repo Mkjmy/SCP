@@ -1,0 +1,60 @@
+{
+  "id": "npc_357",
+  "bio": {
+    "full_name": "Richard Bakker",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "A+",
+    "genetic_stability": 0.935,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 55,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 54,
+      "Occult_Research": 77,
+      "Athletics": 23
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 13,
+      "extraversion": 66,
+      "agreeableness": 81,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

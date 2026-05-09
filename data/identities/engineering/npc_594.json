@@ -1,0 +1,60 @@
+{
+  "id": "npc_594",
+  "bio": {
+    "full_name": "Christopher Sato",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 34,
+    "blood_type": "B+",
+    "genetic_stability": 0.871,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 54,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 10,
+      "Stealth": 56,
+      "Hacking": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 2,
+      "conscientiousness": 49,
+      "extraversion": 63,
+      "agreeableness": 8,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

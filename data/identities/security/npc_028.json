@@ -1,0 +1,60 @@
+{
+  "id": "npc_028",
+  "bio": {
+    "full_name": "Richard Kovacs",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.898,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 87,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 88,
+      "Persuasion": 95,
+      "Stealth": 83
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 74,
+      "extraversion": 6,
+      "agreeableness": 89,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

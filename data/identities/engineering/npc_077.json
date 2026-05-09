@@ -1,0 +1,60 @@
+{
+  "id": "npc_077",
+  "bio": {
+    "full_name": "Elena Williams",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 56,
+    "blood_type": "AB-",
+    "genetic_stability": 0.924,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 81,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 39,
+      "Stealth": 32,
+      "Athletics": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 48,
+      "extraversion": 57,
+      "agreeableness": 77,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

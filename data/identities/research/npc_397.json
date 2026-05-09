@@ -1,0 +1,60 @@
+{
+  "id": "npc_397",
+  "bio": {
+    "full_name": "Thomas Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "AB+",
+    "genetic_stability": 0.959,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 57,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 17,
+      "Medicine": 61,
+      "Engineering": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 99,
+      "extraversion": 94,
+      "agreeableness": 85,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

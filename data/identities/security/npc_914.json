@@ -1,0 +1,60 @@
+{
+  "id": "npc_914",
+  "bio": {
+    "full_name": "Charles Kovacs",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "A+",
+    "genetic_stability": 0.867,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 81,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 33,
+      "Containment_Logic": 91,
+      "Medicine": 78
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 15,
+      "extraversion": 98,
+      "agreeableness": 76,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

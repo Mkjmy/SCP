@@ -1,0 +1,60 @@
+{
+  "id": "npc_981",
+  "bio": {
+    "full_name": "William Kovacs",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.918,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 10,
+      "Occult_Research": 45,
+      "Perception": 29
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 65,
+      "extraversion": 8,
+      "agreeableness": 18,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

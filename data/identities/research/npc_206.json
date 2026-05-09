@@ -1,0 +1,60 @@
+{
+  "id": "npc_206",
+  "bio": {
+    "full_name": "James Garcia",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "O+",
+    "genetic_stability": 0.88,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 52,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 78,
+      "Athletics": 80,
+      "Containment_Logic": 63
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 13,
+      "extraversion": 87,
+      "agreeableness": 47,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

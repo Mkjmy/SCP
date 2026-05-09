@@ -1,0 +1,60 @@
+{
+  "id": "npc_872",
+  "bio": {
+    "full_name": "Richard Schmidt",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "A-",
+    "genetic_stability": 0.913,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 71,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 49,
+      "Containment_Logic": 24,
+      "Medicine": 24
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 5,
+      "extraversion": 89,
+      "agreeableness": 16,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

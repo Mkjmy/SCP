@@ -1,0 +1,60 @@
+{
+  "id": "npc_649",
+  "bio": {
+    "full_name": "Richard Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 63,
+    "blood_type": "AB-",
+    "genetic_stability": 0.892,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 68,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 48,
+      "Perception": 63,
+      "Medicine": 79
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 12,
+      "extraversion": 77,
+      "agreeableness": 3,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

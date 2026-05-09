@@ -1,0 +1,60 @@
+{
+  "id": "npc_550",
+  "bio": {
+    "full_name": "Charles O'Connor",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.903,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 75,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 85,
+      "Persuasion": 22,
+      "Engineering": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 34,
+      "extraversion": 80,
+      "agreeableness": 6,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

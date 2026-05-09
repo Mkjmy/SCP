@@ -1,0 +1,60 @@
+{
+  "id": "npc_945",
+  "bio": {
+    "full_name": "Kenji Wong",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "B+",
+    "genetic_stability": 0.968,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 109,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Occult_Research": 21,
+      "Containment_Logic": 58,
+      "Persuasion": 72
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 15,
+      "extraversion": 98,
+      "agreeableness": 45,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

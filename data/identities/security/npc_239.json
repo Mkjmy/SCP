@@ -1,0 +1,60 @@
+{
+  "id": "npc_239",
+  "bio": {
+    "full_name": "Arjun Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.934,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 102,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 11,
+      "Perception": 87,
+      "Containment_Logic": 16
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 116,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 84,
+      "extraversion": 12,
+      "agreeableness": 51,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

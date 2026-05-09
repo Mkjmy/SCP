@@ -1,0 +1,60 @@
+{
+  "id": "npc_632",
+  "bio": {
+    "full_name": "Fatima Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 51,
+    "blood_type": "O-",
+    "genetic_stability": 0.867,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 62,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 75,
+      "Occult_Research": 56,
+      "Engineering": 76
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 67,
+      "extraversion": 73,
+      "agreeableness": 80,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

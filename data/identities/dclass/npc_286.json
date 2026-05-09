@@ -1,0 +1,60 @@
+{
+  "id": "npc_286",
+  "bio": {
+    "full_name": "Sven Jones",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 21,
+    "blood_type": "A-",
+    "genetic_stability": 0.855,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 94,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 16,
+      "Athletics": 24,
+      "Occult_Research": 76
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 62,
+      "extraversion": 6,
+      "agreeableness": 71,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

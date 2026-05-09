@@ -1,0 +1,60 @@
+{
+  "id": "npc_427",
+  "bio": {
+    "full_name": "Olga Davis",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.973,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 60,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 72,
+      "Athletics": 54,
+      "Engineering": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 4,
+      "extraversion": 81,
+      "agreeableness": 63,
+      "neuroticism": 44
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

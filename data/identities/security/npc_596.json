@@ -1,0 +1,60 @@
+{
+  "id": "npc_596",
+  "bio": {
+    "full_name": "Donald Johnson",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "A+",
+    "genetic_stability": 0.857,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 79,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 60,
+      "Containment_Logic": 25,
+      "Persuasion": 11
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 26,
+      "extraversion": 71,
+      "agreeableness": 39,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

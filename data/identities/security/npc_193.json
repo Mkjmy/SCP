@@ -1,0 +1,60 @@
+{
+  "id": "npc_193",
+  "bio": {
+    "full_name": "Yuki Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.888,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 81,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 46,
+      "Perception": 51,
+      "Hacking": 23
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 9,
+      "extraversion": 37,
+      "agreeableness": 46,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_579",
+  "bio": {
+    "full_name": "John Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "A-",
+    "genetic_stability": 0.984,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 98,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 30,
+      "Containment_Logic": 92,
+      "Hacking": 66
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 77,
+      "extraversion": 96,
+      "agreeableness": 31,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

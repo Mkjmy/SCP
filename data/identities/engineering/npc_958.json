@@ -1,0 +1,60 @@
+{
+  "id": "npc_958",
+  "bio": {
+    "full_name": "Lars Davis",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.882,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 93,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 21,
+      "Stealth": 21,
+      "Persuasion": 55
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 96,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 35,
+      "extraversion": 2,
+      "agreeableness": 68,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

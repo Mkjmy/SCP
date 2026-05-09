@@ -1,0 +1,60 @@
+{
+  "id": "npc_196",
+  "bio": {
+    "full_name": "Joseph Kovacs",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "O-",
+    "genetic_stability": 0.963,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 60,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 17,
+      "Perception": 17,
+      "Occult_Research": 20
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 85,
+      "extraversion": 75,
+      "agreeableness": 40,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

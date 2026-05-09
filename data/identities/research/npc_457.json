@@ -1,0 +1,60 @@
+{
+  "id": "npc_457",
+  "bio": {
+    "full_name": "Anthony Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 54,
+    "blood_type": "AB-",
+    "genetic_stability": 0.999,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 101,
+    "build": "Average",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 29,
+      "Firearms": 25,
+      "Persuasion": 15
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 60,
+      "extraversion": 76,
+      "agreeableness": 59,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

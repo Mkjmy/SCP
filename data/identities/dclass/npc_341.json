@@ -1,0 +1,59 @@
+{
+  "id": "npc_341",
+  "bio": {
+    "full_name": "Daniel Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.953,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 51,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 87,
+      "Medicine": 75,
+      "Stealth": 95
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 54,
+      "extraversion": 44,
+      "agreeableness": 8,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

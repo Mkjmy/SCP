@@ -1,0 +1,59 @@
+{
+  "id": "npc_134",
+  "bio": {
+    "full_name": "Joseph Tanaka",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.881,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 54,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 90,
+      "Persuasion": 57,
+      "Containment_Logic": 51
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 56,
+      "extraversion": 41,
+      "agreeableness": 5,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent"
+  }
+}

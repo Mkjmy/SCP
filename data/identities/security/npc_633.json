@@ -1,0 +1,60 @@
+{
+  "id": "npc_633",
+  "bio": {
+    "full_name": "Steven Gupta",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.865,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 78,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 65,
+      "Athletics": 15,
+      "Occult_Research": 10
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 14,
+      "extraversion": 66,
+      "agreeableness": 8,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

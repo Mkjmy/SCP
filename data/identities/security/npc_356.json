@@ -1,0 +1,60 @@
+{
+  "id": "npc_356",
+  "bio": {
+    "full_name": "Joshua Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "B-",
+    "genetic_stability": 0.98,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 57,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 77,
+      "Containment_Logic": 56,
+      "Perception": 57
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 26,
+      "conscientiousness": 40,
+      "extraversion": 72,
+      "agreeableness": 49,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

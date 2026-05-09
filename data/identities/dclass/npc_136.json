@@ -1,0 +1,60 @@
+{
+  "id": "npc_136",
+  "bio": {
+    "full_name": "Christopher O'Connor",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.893,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 68,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 25,
+      "Hacking": 77,
+      "Perception": 85
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 0,
+      "extraversion": 65,
+      "agreeableness": 0,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

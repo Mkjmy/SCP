@@ -1,0 +1,60 @@
+{
+  "id": "npc_551",
+  "bio": {
+    "full_name": "Charles Wong",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "B+",
+    "genetic_stability": 0.951,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 61,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 14,
+      "Perception": 11,
+      "Firearms": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 43,
+      "extraversion": 64,
+      "agreeableness": 66,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

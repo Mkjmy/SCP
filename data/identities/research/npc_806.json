@@ -1,0 +1,60 @@
+{
+  "id": "npc_806",
+  "bio": {
+    "full_name": "Matthew Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "O-",
+    "genetic_stability": 0.962,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 59,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 53,
+      "Persuasion": 47,
+      "Engineering": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 30,
+      "extraversion": 9,
+      "agreeableness": 38,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

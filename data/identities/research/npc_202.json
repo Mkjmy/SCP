@@ -1,0 +1,60 @@
+{
+  "id": "npc_202",
+  "bio": {
+    "full_name": "Daniel Bakker",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 62,
+    "blood_type": "AB-",
+    "genetic_stability": 0.965,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 89,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 77,
+      "Persuasion": 57,
+      "Occult_Research": 62
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 61,
+      "extraversion": 14,
+      "agreeableness": 76,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

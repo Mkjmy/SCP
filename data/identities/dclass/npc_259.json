@@ -1,0 +1,59 @@
+{
+  "id": "npc_259",
+  "bio": {
+    "full_name": "Charles Garcia",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "O-",
+    "genetic_stability": 0.936,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 109,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 44,
+      "Firearms": 31,
+      "Perception": 69
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 99,
+      "extraversion": 9,
+      "agreeableness": 43,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

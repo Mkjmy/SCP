@@ -1,0 +1,60 @@
+{
+  "id": "npc_754",
+  "bio": {
+    "full_name": "Joshua Schmidt",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 41,
+    "blood_type": "O-",
+    "genetic_stability": 0.96,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 66,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 46,
+      "Perception": 43,
+      "Firearms": 64
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 110,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 87,
+      "extraversion": 21,
+      "agreeableness": 92,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_954",
+  "bio": {
+    "full_name": "Yuki O'Connor",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "A-",
+    "genetic_stability": 0.998,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 64,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 58,
+      "Hacking": 42,
+      "Firearms": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 61,
+      "extraversion": 46,
+      "agreeableness": 17,
+      "neuroticism": 12
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

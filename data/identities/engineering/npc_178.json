@@ -1,0 +1,60 @@
+{
+  "id": "npc_178",
+  "bio": {
+    "full_name": "Anthony Smith",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "AB+",
+    "genetic_stability": 0.855,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 81,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 76,
+      "Medicine": 48,
+      "Firearms": 50
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 47,
+      "extraversion": 24,
+      "agreeableness": 25,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

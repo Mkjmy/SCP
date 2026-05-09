@@ -1,0 +1,60 @@
+{
+  "id": "npc_787",
+  "bio": {
+    "full_name": "Lars Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "A-",
+    "genetic_stability": 0.851,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 93,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 57,
+      "Firearms": 67,
+      "Stealth": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 21,
+      "extraversion": 30,
+      "agreeableness": 33,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

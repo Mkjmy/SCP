@@ -1,0 +1,59 @@
+{
+  "id": "npc_832",
+  "bio": {
+    "full_name": "Michael Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "B+",
+    "genetic_stability": 0.956,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 53,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 45,
+      "Occult_Research": 55,
+      "Medicine": 89
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 163,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 58,
+      "extraversion": 86,
+      "agreeableness": 37,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

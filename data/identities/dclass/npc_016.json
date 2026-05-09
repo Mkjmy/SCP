@@ -1,0 +1,60 @@
+{
+  "id": "npc_016",
+  "bio": {
+    "full_name": "Joshua Tanaka",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.914,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 63,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 48,
+      "Engineering": 37,
+      "Persuasion": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 53,
+      "extraversion": 50,
+      "agreeableness": 92,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

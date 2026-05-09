@@ -1,0 +1,60 @@
+{
+  "id": "npc_294",
+  "bio": {
+    "full_name": "John Tanaka",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.873,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 155,
+    "weight_kg": 71,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 93,
+      "Perception": 86,
+      "Occult_Research": 10
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 66,
+      "extraversion": 56,
+      "agreeableness": 38,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

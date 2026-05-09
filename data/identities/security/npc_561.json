@@ -1,0 +1,60 @@
+{
+  "id": "npc_561",
+  "bio": {
+    "full_name": "Sven Muller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.93,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 71,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 59,
+      "Stealth": 78,
+      "Athletics": 77
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 152,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 0,
+      "extraversion": 51,
+      "agreeableness": 82,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

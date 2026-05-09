@@ -1,0 +1,60 @@
+{
+  "id": "npc_724",
+  "bio": {
+    "full_name": "Daniel O'Connor",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.916,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 59,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 64,
+      "Containment_Logic": 43,
+      "Athletics": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 80,
+      "extraversion": 40,
+      "agreeableness": 1,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

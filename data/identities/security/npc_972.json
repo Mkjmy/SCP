@@ -1,0 +1,60 @@
+{
+  "id": "npc_972",
+  "bio": {
+    "full_name": "Kenji Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.866,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 56,
+      "Firearms": 17,
+      "Hacking": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 46,
+      "conscientiousness": 67,
+      "extraversion": 81,
+      "agreeableness": 51,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

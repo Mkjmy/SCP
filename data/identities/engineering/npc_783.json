@@ -1,0 +1,60 @@
+{
+  "id": "npc_783",
+  "bio": {
+    "full_name": "Daniel Smith",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 65,
+    "blood_type": "AB-",
+    "genetic_stability": 0.918,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 100,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 56,
+      "Hacking": 26,
+      "Engineering": 48
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 6,
+      "extraversion": 44,
+      "agreeableness": 91,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

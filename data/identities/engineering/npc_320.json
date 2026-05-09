@@ -1,0 +1,60 @@
+{
+  "id": "npc_320",
+  "bio": {
+    "full_name": "Michael Gupta",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "O-",
+    "genetic_stability": 0.977,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 71,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 35,
+      "Containment_Logic": 23,
+      "Persuasion": 55
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 69,
+      "extraversion": 10,
+      "agreeableness": 83,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

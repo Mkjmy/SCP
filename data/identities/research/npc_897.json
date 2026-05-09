@@ -1,0 +1,59 @@
+{
+  "id": "npc_897",
+  "bio": {
+    "full_name": "Steven Vasiliev",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "O+",
+    "genetic_stability": 0.908,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 69,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 44,
+      "Athletics": 89,
+      "Occult_Research": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 6,
+      "extraversion": 100,
+      "agreeableness": 23,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

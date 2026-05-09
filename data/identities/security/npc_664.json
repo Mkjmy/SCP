@@ -1,0 +1,60 @@
+{
+  "id": "npc_664",
+  "bio": {
+    "full_name": "Richard Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "O-",
+    "genetic_stability": 0.942,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 51,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 90,
+      "Athletics": 14,
+      "Medicine": 37
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 55,
+      "extraversion": 10,
+      "agreeableness": 66,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

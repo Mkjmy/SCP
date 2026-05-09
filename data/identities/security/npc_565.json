@@ -1,0 +1,60 @@
+{
+  "id": "npc_565",
+  "bio": {
+    "full_name": "Fatima Davis",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "A+",
+    "genetic_stability": 0.922,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 65,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 58,
+      "Firearms": 76,
+      "Occult_Research": 24
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 86,
+      "extraversion": 67,
+      "agreeableness": 90,
+      "neuroticism": 43
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_437",
+  "bio": {
+    "full_name": "Sven Schmidt",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.9,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 57,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 53,
+      "Occult_Research": 93,
+      "Perception": 56
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 39,
+      "conscientiousness": 83,
+      "extraversion": 6,
+      "agreeableness": 89,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

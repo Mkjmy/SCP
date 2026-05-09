@@ -1,0 +1,60 @@
+{
+  "id": "npc_602",
+  "bio": {
+    "full_name": "Joseph Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "B-",
+    "genetic_stability": 0.944,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 72,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 35,
+      "Persuasion": 39,
+      "Containment_Logic": 70
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 24,
+      "extraversion": 98,
+      "agreeableness": 97,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

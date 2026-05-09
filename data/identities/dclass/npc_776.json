@@ -1,0 +1,60 @@
+{
+  "id": "npc_776",
+  "bio": {
+    "full_name": "Daniel Garcia",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.986,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 95,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 68,
+      "Stealth": 26,
+      "Engineering": 81
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 95,
+      "extraversion": 86,
+      "agreeableness": 62,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

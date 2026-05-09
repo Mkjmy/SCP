@@ -1,0 +1,59 @@
+{
+  "id": "npc_391",
+  "bio": {
+    "full_name": "Arjun Davis",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "B-",
+    "genetic_stability": 0.85,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 67,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 36,
+      "Persuasion": 12,
+      "Occult_Research": 40
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 67,
+      "extraversion": 82,
+      "agreeableness": 87,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_179",
+  "bio": {
+    "full_name": "Daniel Sato",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "B+",
+    "genetic_stability": 0.858,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 94,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 57,
+      "Persuasion": 11,
+      "Engineering": 95
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 6,
+      "extraversion": 20,
+      "agreeableness": 71,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

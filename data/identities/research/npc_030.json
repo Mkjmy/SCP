@@ -1,0 +1,60 @@
+{
+  "id": "npc_030",
+  "bio": {
+    "full_name": "Daniel Muller",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.969,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 109,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 31,
+      "Athletics": 23,
+      "Occult_Research": 10
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 69,
+      "extraversion": 31,
+      "agreeableness": 20,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

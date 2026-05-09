@@ -1,0 +1,60 @@
+{
+  "id": "npc_957",
+  "bio": {
+    "full_name": "Matthew Muller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "O-",
+    "genetic_stability": 0.875,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 81,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 94,
+      "Containment_Logic": 69,
+      "Athletics": 84
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 87,
+      "conscientiousness": 16,
+      "extraversion": 32,
+      "agreeableness": 89,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

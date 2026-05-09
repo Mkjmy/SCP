@@ -1,0 +1,60 @@
+{
+  "id": "npc_420",
+  "bio": {
+    "full_name": "Sven Wong",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.948,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 109,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 36,
+      "Occult_Research": 53,
+      "Athletics": 21
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 40,
+      "extraversion": 16,
+      "agreeableness": 97,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_749",
+  "bio": {
+    "full_name": "Donald Jones",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.978,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 77,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 37,
+      "Stealth": 20,
+      "Firearms": 33
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 65,
+      "extraversion": 80,
+      "agreeableness": 90,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

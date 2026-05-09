@@ -1,0 +1,60 @@
+{
+  "id": "npc_997",
+  "bio": {
+    "full_name": "William Jones",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "A+",
+    "genetic_stability": 0.996,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 71,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 39,
+      "Firearms": 57,
+      "Perception": 16
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 60,
+      "extraversion": 42,
+      "agreeableness": 12,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

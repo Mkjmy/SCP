@@ -1,0 +1,60 @@
+{
+  "id": "npc_565",
+  "bio": {
+    "full_name": "Richard Muller",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "A+",
+    "genetic_stability": 0.879,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 82,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 84,
+      "Persuasion": 49,
+      "Firearms": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 31,
+      "extraversion": 12,
+      "agreeableness": 40,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_474",
+  "bio": {
+    "full_name": "Thomas Garcia",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.957,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 51,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 14,
+      "Hacking": 32,
+      "Perception": 48
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 65,
+      "extraversion": 67,
+      "agreeableness": 87,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

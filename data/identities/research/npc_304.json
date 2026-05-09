@@ -1,0 +1,60 @@
+{
+  "id": "npc_304",
+  "bio": {
+    "full_name": "Fatima Dubois",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.892,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 91,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 48,
+      "Stealth": 18,
+      "Perception": 46
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 61,
+      "conscientiousness": 42,
+      "extraversion": 4,
+      "agreeableness": 92,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

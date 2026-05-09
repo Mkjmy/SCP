@@ -1,0 +1,59 @@
+{
+  "id": "npc_831",
+  "bio": {
+    "full_name": "Arjun Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "A-",
+    "genetic_stability": 0.951,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 107,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 45,
+      "Containment_Logic": 17,
+      "Medicine": 59
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 78,
+      "extraversion": 66,
+      "agreeableness": 9,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

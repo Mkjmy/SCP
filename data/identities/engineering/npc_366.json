@@ -1,0 +1,60 @@
+{
+  "id": "npc_366",
+  "bio": {
+    "full_name": "Maria Miller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "AB+",
+    "genetic_stability": 0.852,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 92,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 68,
+      "Engineering": 13,
+      "Stealth": 92
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 81,
+      "extraversion": 46,
+      "agreeableness": 91,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

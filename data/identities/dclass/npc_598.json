@@ -1,0 +1,60 @@
+{
+  "id": "npc_598",
+  "bio": {
+    "full_name": "Richard Kovacs",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "A-",
+    "genetic_stability": 0.903,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 53,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 38,
+      "Persuasion": 37,
+      "Athletics": 90
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 87,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 25,
+      "extraversion": 28,
+      "agreeableness": 87,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_797",
+  "bio": {
+    "full_name": "Joseph Brown",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 65,
+    "blood_type": "A-",
+    "genetic_stability": 0.856,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 60,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Engineering": 42,
+      "Perception": 56,
+      "Firearms": 29
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 58,
+      "conscientiousness": 5,
+      "extraversion": 34,
+      "agreeableness": 77,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

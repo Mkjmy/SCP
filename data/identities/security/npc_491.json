@@ -1,0 +1,60 @@
+{
+  "id": "npc_491",
+  "bio": {
+    "full_name": "Maria Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.991,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 91,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Firearms": 57,
+      "Athletics": 56,
+      "Engineering": 61
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 50,
+      "extraversion": 53,
+      "agreeableness": 43,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

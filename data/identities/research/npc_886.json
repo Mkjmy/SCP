@@ -1,0 +1,60 @@
+{
+  "id": "npc_886",
+  "bio": {
+    "full_name": "Chen Williams",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 65,
+    "blood_type": "AB-",
+    "genetic_stability": 0.982,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 83,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Perception": 60,
+      "Stealth": 46,
+      "Athletics": 43
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 65,
+      "extraversion": 52,
+      "agreeableness": 8,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

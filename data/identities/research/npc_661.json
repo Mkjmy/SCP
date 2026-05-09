@@ -1,0 +1,60 @@
+{
+  "id": "npc_661",
+  "bio": {
+    "full_name": "Yuki Ivanov",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 46,
+    "blood_type": "O+",
+    "genetic_stability": 0.934,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 93,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 22,
+      "Athletics": 75,
+      "Containment_Logic": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 0,
+      "extraversion": 54,
+      "agreeableness": 97,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

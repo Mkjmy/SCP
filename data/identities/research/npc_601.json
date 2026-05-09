@@ -1,0 +1,60 @@
+{
+  "id": "npc_601",
+  "bio": {
+    "full_name": "Daniel Muller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 50,
+    "blood_type": "A+",
+    "genetic_stability": 0.877,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 65,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 48,
+      "Engineering": 57,
+      "Stealth": 27
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 158,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 72,
+      "extraversion": 6,
+      "agreeableness": 88,
+      "neuroticism": 91
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

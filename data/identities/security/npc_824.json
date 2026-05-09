@@ -1,0 +1,60 @@
+{
+  "id": "npc_824",
+  "bio": {
+    "full_name": "John Miller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.965,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 103,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 85,
+      "Engineering": 89,
+      "Containment_Logic": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 3,
+      "extraversion": 37,
+      "agreeableness": 35,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

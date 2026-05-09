@@ -1,0 +1,60 @@
+{
+  "id": "npc_384",
+  "bio": {
+    "full_name": "Joseph Garcia",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "B-",
+    "genetic_stability": 0.948,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 109,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 26,
+      "Engineering": 32,
+      "Athletics": 20
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 62,
+      "extraversion": 86,
+      "agreeableness": 66,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

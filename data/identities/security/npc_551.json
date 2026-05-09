@@ -1,0 +1,60 @@
+{
+  "id": "npc_551",
+  "bio": {
+    "full_name": "Richard Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.883,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 107,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 24,
+      "Containment_Logic": 14,
+      "Firearms": 13
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 86,
+      "extraversion": 32,
+      "agreeableness": 72,
+      "neuroticism": 20
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

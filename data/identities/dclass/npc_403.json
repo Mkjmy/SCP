@@ -1,0 +1,60 @@
+{
+  "id": "npc_403",
+  "bio": {
+    "full_name": "Michael Johnson",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.884,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 68,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 59,
+      "Containment_Logic": 77,
+      "Athletics": 61
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 91,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 29,
+      "extraversion": 49,
+      "agreeableness": 3,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

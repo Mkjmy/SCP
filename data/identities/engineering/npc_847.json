@@ -1,0 +1,60 @@
+{
+  "id": "npc_847",
+  "bio": {
+    "full_name": "William Johnson",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "A-",
+    "genetic_stability": 0.91,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 78,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 85,
+      "Occult_Research": 80,
+      "Firearms": 70
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 98,
+      "extraversion": 91,
+      "agreeableness": 66,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

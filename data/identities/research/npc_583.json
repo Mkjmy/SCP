@@ -1,0 +1,60 @@
+{
+  "id": "npc_583",
+  "bio": {
+    "full_name": "Paul Wong",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.933,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 78,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 42,
+      "Occult_Research": 26,
+      "Perception": 67
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 61,
+      "extraversion": 40,
+      "agreeableness": 29,
+      "neuroticism": 84
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

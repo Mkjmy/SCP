@@ -1,0 +1,60 @@
+{
+  "id": "npc_522",
+  "bio": {
+    "full_name": "Lars Sato",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.929,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 96,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Athletics": 14,
+      "Stealth": 77,
+      "Engineering": 66
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 76,
+      "extraversion": 67,
+      "agreeableness": 52,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

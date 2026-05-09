@@ -1,0 +1,60 @@
+{
+  "id": "npc_599",
+  "bio": {
+    "full_name": "Mark Dubois",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.959,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 86,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 21,
+      "Medicine": 64,
+      "Athletics": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 73,
+      "extraversion": 88,
+      "agreeableness": 87,
+      "neuroticism": 81
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_282",
+  "bio": {
+    "full_name": "Paul Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 55,
+    "blood_type": "A-",
+    "genetic_stability": 0.884,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 74,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 70,
+      "Perception": 38,
+      "Firearms": 51
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 55,
+      "extraversion": 89,
+      "agreeableness": 51,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

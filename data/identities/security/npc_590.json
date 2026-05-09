@@ -1,0 +1,60 @@
+{
+  "id": "npc_590",
+  "bio": {
+    "full_name": "Elena Muller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.994,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 96,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 31,
+      "Hacking": 35,
+      "Stealth": 70
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 119,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 76,
+      "extraversion": 0,
+      "agreeableness": 81,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.8
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

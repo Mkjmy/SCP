@@ -1,0 +1,60 @@
+{
+  "id": "npc_876",
+  "bio": {
+    "full_name": "Sven Kovacs",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.865,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 57,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 18,
+      "Containment_Logic": 10,
+      "Perception": 46
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 26,
+      "extraversion": 67,
+      "agreeableness": 43,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

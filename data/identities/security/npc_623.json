@@ -1,0 +1,60 @@
+{
+  "id": "npc_623",
+  "bio": {
+    "full_name": "Olga Gupta",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.927,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 91,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 28,
+      "Containment_Logic": 75,
+      "Occult_Research": 80
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 43,
+      "extraversion": 26,
+      "agreeableness": 24,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_743",
+  "bio": {
+    "full_name": "John Tanaka",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.98,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 70,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 31,
+      "Athletics": 76,
+      "Engineering": 37
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 32,
+      "conscientiousness": 96,
+      "extraversion": 55,
+      "agreeableness": 90,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

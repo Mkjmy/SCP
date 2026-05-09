@@ -1,0 +1,60 @@
+{
+  "id": "npc_026",
+  "bio": {
+    "full_name": "Michael Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "B+",
+    "genetic_stability": 0.853,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 103,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 78,
+      "Perception": 38,
+      "Medicine": 39
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 44,
+      "extraversion": 96,
+      "agreeableness": 94,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

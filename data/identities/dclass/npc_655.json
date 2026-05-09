@@ -1,0 +1,59 @@
+{
+  "id": "npc_655",
+  "bio": {
+    "full_name": "Olga Bakker",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 21,
+    "blood_type": "B+",
+    "genetic_stability": 0.933,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 51,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 74,
+      "Athletics": 72,
+      "Engineering": 45
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 15,
+      "extraversion": 12,
+      "agreeableness": 37,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

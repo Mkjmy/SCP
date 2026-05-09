@@ -1,0 +1,60 @@
+{
+  "id": "npc_903",
+  "bio": {
+    "full_name": "Richard Dubois",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "B+",
+    "genetic_stability": 0.944,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 68,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 25,
+      "Occult_Research": 77,
+      "Persuasion": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 42,
+      "extraversion": 57,
+      "agreeableness": 7,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

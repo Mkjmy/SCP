@@ -1,0 +1,60 @@
+{
+  "id": "npc_845",
+  "bio": {
+    "full_name": "James Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "B-",
+    "genetic_stability": 0.905,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 79,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 43,
+      "Hacking": 49,
+      "Engineering": 51
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 38,
+      "conscientiousness": 42,
+      "extraversion": 17,
+      "agreeableness": 64,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

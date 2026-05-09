@@ -1,0 +1,60 @@
+{
+  "id": "npc_073",
+  "bio": {
+    "full_name": "Arjun Wong",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "AB+",
+    "genetic_stability": 0.965,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 100,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 25,
+      "Engineering": 20,
+      "Medicine": 29
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 99,
+      "extraversion": 12,
+      "agreeableness": 59,
+      "neuroticism": 35
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_436",
+  "bio": {
+    "full_name": "Christopher Gupta",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "A-",
+    "genetic_stability": 0.943,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 109,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 21,
+      "Perception": 93,
+      "Stealth": 74
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 4,
+      "extraversion": 52,
+      "agreeableness": 33,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_655",
+  "bio": {
+    "full_name": "Thomas Dubois",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 57,
+    "blood_type": "O+",
+    "genetic_stability": 0.898,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 62,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 78,
+      "Athletics": 16,
+      "Hacking": 60
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 28,
+      "conscientiousness": 55,
+      "extraversion": 69,
+      "agreeableness": 35,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

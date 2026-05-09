@@ -1,0 +1,60 @@
+{
+  "id": "npc_362",
+  "bio": {
+    "full_name": "William Schmidt",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 20,
+    "blood_type": "O-",
+    "genetic_stability": 0.949,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 84,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 56,
+      "Occult_Research": 25,
+      "Hacking": 14
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 80,
+    "personality_matrix": {
+      "openness": 21,
+      "conscientiousness": 88,
+      "extraversion": 7,
+      "agreeableness": 25,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

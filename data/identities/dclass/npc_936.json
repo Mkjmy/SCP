@@ -1,0 +1,59 @@
+{
+  "id": "npc_936",
+  "bio": {
+    "full_name": "Steven Smith",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.95,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 94,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 60,
+      "Persuasion": 18,
+      "Occult_Research": 67
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 48,
+      "extraversion": 100,
+      "agreeableness": 99,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

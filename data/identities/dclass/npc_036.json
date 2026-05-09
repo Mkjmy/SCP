@@ -1,0 +1,60 @@
+{
+  "id": "npc_036",
+  "bio": {
+    "full_name": "Maria Kovacs",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.917,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 77,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 20,
+      "Athletics": 30,
+      "Persuasion": 80
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 6,
+      "extraversion": 44,
+      "agreeableness": 36,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

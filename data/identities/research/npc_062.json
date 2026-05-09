@@ -1,0 +1,60 @@
+{
+  "id": "npc_062",
+  "bio": {
+    "full_name": "Joseph Vasiliev",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.946,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 86,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 51,
+      "Stealth": 13,
+      "Engineering": 41
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 86,
+      "conscientiousness": 22,
+      "extraversion": 33,
+      "agreeableness": 51,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

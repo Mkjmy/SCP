@@ -1,0 +1,60 @@
+{
+  "id": "npc_401",
+  "bio": {
+    "full_name": "Christopher Davis",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.885,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 70,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 83,
+      "Containment_Logic": 90,
+      "Persuasion": 94
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 77,
+      "conscientiousness": 34,
+      "extraversion": 17,
+      "agreeableness": 46,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

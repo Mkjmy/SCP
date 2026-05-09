@@ -1,0 +1,60 @@
+{
+  "id": "npc_510",
+  "bio": {
+    "full_name": "Anthony O'Connor",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.965,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 94,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 92,
+      "Hacking": 60,
+      "Engineering": 38
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 0,
+      "conscientiousness": 6,
+      "extraversion": 14,
+      "agreeableness": 92,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

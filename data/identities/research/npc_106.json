@@ -1,0 +1,60 @@
+{
+  "id": "npc_106",
+  "bio": {
+    "full_name": "William Smith",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "A+",
+    "genetic_stability": 0.926,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 110,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 13,
+      "Perception": 43,
+      "Occult_Research": 79
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 51,
+      "conscientiousness": 83,
+      "extraversion": 77,
+      "agreeableness": 99,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

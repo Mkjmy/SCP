@@ -1,0 +1,60 @@
+{
+  "id": "npc_728",
+  "bio": {
+    "full_name": "Christopher Dubois",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.952,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 85,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 38,
+      "Containment_Logic": 44,
+      "Athletics": 78
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 38,
+      "extraversion": 5,
+      "agreeableness": 19,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

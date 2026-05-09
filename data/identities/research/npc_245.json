@@ -1,0 +1,60 @@
+{
+  "id": "npc_245",
+  "bio": {
+    "full_name": "Paul Davis",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "A+",
+    "genetic_stability": 0.981,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 84,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 56,
+      "Containment_Logic": 39,
+      "Perception": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 44,
+      "extraversion": 13,
+      "agreeableness": 12,
+      "neuroticism": 16
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

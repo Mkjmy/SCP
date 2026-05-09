@@ -1,0 +1,60 @@
+{
+  "id": "npc_869",
+  "bio": {
+    "full_name": "Fatima Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "O+",
+    "genetic_stability": 0.976,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 84,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 74,
+      "Medicine": 52,
+      "Persuasion": 82
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 14,
+      "extraversion": 93,
+      "agreeableness": 54,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

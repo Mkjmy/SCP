@@ -1,0 +1,60 @@
+{
+  "id": "npc_439",
+  "bio": {
+    "full_name": "Daniel Gupta",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 50,
+    "blood_type": "A+",
+    "genetic_stability": 0.922,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 68,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 31,
+      "Stealth": 10,
+      "Medicine": 93
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 58,
+      "extraversion": 52,
+      "agreeableness": 28,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

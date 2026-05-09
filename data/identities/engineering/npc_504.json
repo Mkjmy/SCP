@@ -1,0 +1,60 @@
+{
+  "id": "npc_504",
+  "bio": {
+    "full_name": "Chen Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.901,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 58,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 61,
+      "Firearms": 77,
+      "Persuasion": 30
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 81,
+      "extraversion": 90,
+      "agreeableness": 83,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

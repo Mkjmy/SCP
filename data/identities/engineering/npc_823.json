@@ -1,0 +1,60 @@
+{
+  "id": "npc_823",
+  "bio": {
+    "full_name": "Fatima Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "O+",
+    "genetic_stability": 0.988,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 101,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 55,
+      "Perception": 72,
+      "Engineering": 20
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 5,
+      "extraversion": 32,
+      "agreeableness": 54,
+      "neuroticism": 96
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

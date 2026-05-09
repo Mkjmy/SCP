@@ -1,0 +1,60 @@
+{
+  "id": "npc_493",
+  "bio": {
+    "full_name": "Paul Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.871,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 58,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 42,
+      "Medicine": 37,
+      "Firearms": 14
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 42,
+      "conscientiousness": 64,
+      "extraversion": 48,
+      "agreeableness": 54,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

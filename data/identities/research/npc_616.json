@@ -1,0 +1,60 @@
+{
+  "id": "npc_616",
+  "bio": {
+    "full_name": "Michael Miller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.872,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 92,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 95,
+      "Firearms": 67,
+      "Containment_Logic": 79
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 30,
+      "extraversion": 25,
+      "agreeableness": 56,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

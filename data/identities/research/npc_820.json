@@ -1,0 +1,60 @@
+{
+  "id": "npc_820",
+  "bio": {
+    "full_name": "Charles Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.951,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 55,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 20,
+      "Persuasion": 77,
+      "Medicine": 76
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 91,
+      "extraversion": 72,
+      "agreeableness": 10,
+      "neuroticism": 40
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

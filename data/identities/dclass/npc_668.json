@@ -1,0 +1,60 @@
+{
+  "id": "npc_668",
+  "bio": {
+    "full_name": "Olga Sato",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.889,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 101,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 35,
+      "Perception": 63,
+      "Hacking": 24
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 9,
+      "extraversion": 7,
+      "agreeableness": 92,
+      "neuroticism": 83
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

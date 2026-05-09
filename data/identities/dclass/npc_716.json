@@ -1,0 +1,60 @@
+{
+  "id": "npc_716",
+  "bio": {
+    "full_name": "Steven Muller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "O+",
+    "genetic_stability": 0.913,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 89,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 68,
+      "Firearms": 50,
+      "Containment_Logic": 58
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 84,
+      "extraversion": 46,
+      "agreeableness": 78,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

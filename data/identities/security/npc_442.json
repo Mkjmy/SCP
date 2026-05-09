@@ -1,0 +1,60 @@
+{
+  "id": "npc_442",
+  "bio": {
+    "full_name": "Chen Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "O+",
+    "genetic_stability": 0.997,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 70,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 73,
+      "Medicine": 35,
+      "Persuasion": 25
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 69,
+      "extraversion": 90,
+      "agreeableness": 13,
+      "neuroticism": 8
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.49
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

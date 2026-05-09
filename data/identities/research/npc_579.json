@@ -1,0 +1,60 @@
+{
+  "id": "npc_579",
+  "bio": {
+    "full_name": "David Williams",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.989,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 106,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Containment_Logic": 42,
+      "Perception": 54,
+      "Firearms": 95
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 31,
+      "extraversion": 40,
+      "agreeableness": 52,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

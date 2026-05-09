@@ -1,0 +1,60 @@
+{
+  "id": "npc_030",
+  "bio": {
+    "full_name": "Andrew O'Connor",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 62,
+    "blood_type": "A+",
+    "genetic_stability": 0.934,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 110,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 20,
+      "Occult_Research": 63,
+      "Firearms": 33
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 141,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 35,
+      "extraversion": 57,
+      "agreeableness": 12,
+      "neuroticism": 6
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.88
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

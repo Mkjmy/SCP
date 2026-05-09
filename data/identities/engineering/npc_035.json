@@ -1,0 +1,60 @@
+{
+  "id": "npc_035",
+  "bio": {
+    "full_name": "William Gupta",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "AB+",
+    "genetic_stability": 0.917,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 61,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 89,
+      "Athletics": 48,
+      "Medicine": 44
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 65,
+      "extraversion": 94,
+      "agreeableness": 14,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

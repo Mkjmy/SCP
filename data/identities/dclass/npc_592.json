@@ -1,0 +1,60 @@
+{
+  "id": "npc_592",
+  "bio": {
+    "full_name": "John O'Connor",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.873,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 99,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 48,
+      "Perception": 47,
+      "Occult_Research": 45
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 39,
+      "extraversion": 5,
+      "agreeableness": 35,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

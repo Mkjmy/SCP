@@ -1,0 +1,60 @@
+{
+  "id": "npc_807",
+  "bio": {
+    "full_name": "Elena Gupta",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.962,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 64,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 82,
+      "Persuasion": 95,
+      "Athletics": 66
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 21,
+      "extraversion": 26,
+      "agreeableness": 37,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

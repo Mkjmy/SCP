@@ -1,0 +1,60 @@
+{
+  "id": "npc_842",
+  "bio": {
+    "full_name": "Daniel Johnson",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "O-",
+    "genetic_stability": 0.889,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 98,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 37,
+      "Containment_Logic": 14,
+      "Occult_Research": 31
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 89,
+      "extraversion": 34,
+      "agreeableness": 83,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.51
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

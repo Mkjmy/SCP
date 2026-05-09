@@ -1,0 +1,60 @@
+{
+  "id": "npc_843",
+  "bio": {
+    "full_name": "Joseph Tanaka",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.86,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 88,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 37,
+      "Medicine": 29,
+      "Hacking": 13
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 83,
+      "extraversion": 37,
+      "agreeableness": 49,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

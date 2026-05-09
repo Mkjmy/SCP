@@ -1,0 +1,60 @@
+{
+  "id": "npc_213",
+  "bio": {
+    "full_name": "Anthony Williams",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.872,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 85,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 55,
+      "Stealth": 48,
+      "Occult_Research": 38
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 82,
+    "personality_matrix": {
+      "openness": 1,
+      "conscientiousness": 23,
+      "extraversion": 20,
+      "agreeableness": 89,
+      "neuroticism": 21
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

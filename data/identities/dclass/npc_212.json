@@ -1,0 +1,60 @@
+{
+  "id": "npc_212",
+  "bio": {
+    "full_name": "Maria Dubois",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "O-",
+    "genetic_stability": 0.944,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 79,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 86,
+      "Persuasion": 86,
+      "Hacking": 67
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 93,
+      "extraversion": 57,
+      "agreeableness": 45,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

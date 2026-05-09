@@ -1,0 +1,59 @@
+{
+  "id": "npc_105",
+  "bio": {
+    "full_name": "Joshua Sato",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.913,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 50,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 71,
+      "Firearms": 92,
+      "Stealth": 35
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 66,
+      "extraversion": 19,
+      "agreeableness": 85,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

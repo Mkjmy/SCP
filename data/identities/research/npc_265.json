@@ -1,0 +1,60 @@
+{
+  "id": "npc_265",
+  "bio": {
+    "full_name": "Joshua Sato",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "B-",
+    "genetic_stability": 0.909,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 52,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 39,
+      "Firearms": 21,
+      "Persuasion": 45
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 18,
+      "extraversion": 39,
+      "agreeableness": 43,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

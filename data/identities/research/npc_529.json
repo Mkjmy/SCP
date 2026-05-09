@@ -1,0 +1,60 @@
+{
+  "id": "npc_529",
+  "bio": {
+    "full_name": "Fatima Tanaka",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 54,
+    "blood_type": "A-",
+    "genetic_stability": 0.985,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 86,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 84,
+      "Persuasion": 18,
+      "Firearms": 94
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 137,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 46,
+      "extraversion": 58,
+      "agreeableness": 73,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

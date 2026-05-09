@@ -1,0 +1,60 @@
+{
+  "id": "npc_674",
+  "bio": {
+    "full_name": "Matthew Gupta",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.929,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 71,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 34,
+      "Hacking": 26,
+      "Perception": 54
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 16,
+      "extraversion": 27,
+      "agreeableness": 37,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

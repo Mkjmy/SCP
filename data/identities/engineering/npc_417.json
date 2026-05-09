@@ -1,0 +1,59 @@
+{
+  "id": "npc_417",
+  "bio": {
+    "full_name": "Daniel Davis",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "A+",
+    "genetic_stability": 0.875,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 55,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Occult_Research": 35,
+      "Medicine": 28,
+      "Perception": 32
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 64,
+      "extraversion": 77,
+      "agreeableness": 4,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_307",
+  "bio": {
+    "full_name": "Elena Brown",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 0.89,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 98,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 17,
+      "Athletics": 67,
+      "Firearms": 75
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 24,
+      "extraversion": 44,
+      "agreeableness": 50,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

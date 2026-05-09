@@ -1,0 +1,60 @@
+{
+  "id": "npc_305",
+  "bio": {
+    "full_name": "Lars Jones",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 22,
+    "blood_type": "B+",
+    "genetic_stability": 0.942,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 78,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Engineering": 67,
+      "Hacking": 39,
+      "Occult_Research": 64
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 10,
+      "extraversion": 26,
+      "agreeableness": 48,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

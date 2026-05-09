@@ -1,0 +1,59 @@
+{
+  "id": "npc_267",
+  "bio": {
+    "full_name": "Chen Johnson",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "A+",
+    "genetic_stability": 0.889,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 75,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 48,
+      "Athletics": 93,
+      "Persuasion": 83
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 81,
+      "conscientiousness": 51,
+      "extraversion": 83,
+      "agreeableness": 77,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_806",
+  "bio": {
+    "full_name": "Richard Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.859,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 53,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 33,
+      "Occult_Research": 60,
+      "Stealth": 40
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 30,
+      "extraversion": 22,
+      "agreeableness": 53,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

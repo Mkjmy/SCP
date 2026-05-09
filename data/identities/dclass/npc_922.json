@@ -1,0 +1,60 @@
+{
+  "id": "npc_922",
+  "bio": {
+    "full_name": "Michael Sato",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "O+",
+    "genetic_stability": 0.933,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 109,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 61,
+      "Stealth": 14,
+      "Perception": 28
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 80,
+      "extraversion": 15,
+      "agreeableness": 2,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

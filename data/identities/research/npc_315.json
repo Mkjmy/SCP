@@ -1,0 +1,59 @@
+{
+  "id": "npc_315",
+  "bio": {
+    "full_name": "Arjun Garcia",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "O+",
+    "genetic_stability": 0.857,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 68,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 87,
+      "Perception": 53,
+      "Containment_Logic": 69
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 39,
+      "extraversion": 61,
+      "agreeableness": 19,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

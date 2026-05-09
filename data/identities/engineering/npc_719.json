@@ -1,0 +1,59 @@
+{
+  "id": "npc_719",
+  "bio": {
+    "full_name": "Thomas Miller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "A+",
+    "genetic_stability": 0.918,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 109,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 11,
+      "Stealth": 22,
+      "Firearms": 43
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 71,
+      "extraversion": 46,
+      "agreeableness": 54,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+  }
+}

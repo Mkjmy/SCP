@@ -1,0 +1,60 @@
+{
+  "id": "npc_432",
+  "bio": {
+    "full_name": "Chen Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.957,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 73,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 36,
+      "Medicine": 67,
+      "Athletics": 31
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 59,
+      "conscientiousness": 26,
+      "extraversion": 69,
+      "agreeableness": 47,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

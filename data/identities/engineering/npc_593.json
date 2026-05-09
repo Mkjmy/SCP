@@ -1,0 +1,60 @@
+{
+  "id": "npc_593",
+  "bio": {
+    "full_name": "Elena Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "B-",
+    "genetic_stability": 0.919,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 77,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 42,
+      "Occult_Research": 83,
+      "Firearms": 13
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 50,
+      "conscientiousness": 84,
+      "extraversion": 51,
+      "agreeableness": 46,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

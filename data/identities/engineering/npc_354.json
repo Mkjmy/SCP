@@ -1,0 +1,60 @@
+{
+  "id": "npc_354",
+  "bio": {
+    "full_name": "Arjun Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.857,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 87,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 79,
+      "Engineering": 14,
+      "Stealth": 43
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 111,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 58,
+      "extraversion": 66,
+      "agreeableness": 62,
+      "neuroticism": 51
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

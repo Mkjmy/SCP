@@ -1,0 +1,59 @@
+{
+  "id": "npc_175",
+  "bio": {
+    "full_name": "James Gupta",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "A-",
+    "genetic_stability": 0.906,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 97,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 90,
+      "Perception": 36,
+      "Occult_Research": 63
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 39,
+      "extraversion": 25,
+      "agreeableness": 60,
+      "neuroticism": 86
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

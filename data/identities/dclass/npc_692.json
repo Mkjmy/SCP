@@ -1,0 +1,59 @@
+{
+  "id": "npc_692",
+  "bio": {
+    "full_name": "Arjun Vasiliev",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "B-",
+    "genetic_stability": 0.955,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 89,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 16,
+      "Occult_Research": 91,
+      "Firearms": 69
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 78,
+      "conscientiousness": 77,
+      "extraversion": 81,
+      "agreeableness": 78,
+      "neuroticism": 52
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

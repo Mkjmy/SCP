@@ -1,0 +1,60 @@
+{
+  "id": "npc_935",
+  "bio": {
+    "full_name": "Matthew Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "O+",
+    "genetic_stability": 0.924,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 86,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 81,
+      "Firearms": 16,
+      "Hacking": 27
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 156,
+    "personality_matrix": {
+      "openness": 93,
+      "conscientiousness": 31,
+      "extraversion": 79,
+      "agreeableness": 17,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

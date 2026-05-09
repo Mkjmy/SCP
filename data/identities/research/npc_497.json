@@ -1,0 +1,60 @@
+{
+  "id": "npc_497",
+  "bio": {
+    "full_name": "David Johnson",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.995,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 66,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 71,
+      "Medicine": 80,
+      "Stealth": 80
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 13,
+      "conscientiousness": 55,
+      "extraversion": 75,
+      "agreeableness": 88,
+      "neuroticism": 28
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

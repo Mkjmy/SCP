@@ -1,0 +1,60 @@
+{
+  "id": "npc_775",
+  "bio": {
+    "full_name": "Sven Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "AB+",
+    "genetic_stability": 0.929,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 82,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 27,
+      "Containment_Logic": 40,
+      "Persuasion": 62
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 85,
+      "conscientiousness": 89,
+      "extraversion": 0,
+      "agreeableness": 14,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

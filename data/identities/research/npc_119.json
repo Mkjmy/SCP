@@ -1,0 +1,60 @@
+{
+  "id": "npc_119",
+  "bio": {
+    "full_name": "Chen Davis",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.916,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 74,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Silver, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 21,
+      "Hacking": 50,
+      "Perception": 36
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 127,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 6,
+      "extraversion": 8,
+      "agreeableness": 73,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

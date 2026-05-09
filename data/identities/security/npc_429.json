@@ -1,0 +1,60 @@
+{
+  "id": "npc_429",
+  "bio": {
+    "full_name": "Chen Ivanov",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "B-",
+    "genetic_stability": 0.98,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 170,
+    "weight_kg": 98,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 22,
+      "Persuasion": 18,
+      "Perception": 22
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 99,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 70,
+      "extraversion": 36,
+      "agreeableness": 29,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

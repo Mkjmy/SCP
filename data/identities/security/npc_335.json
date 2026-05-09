@@ -1,0 +1,60 @@
+{
+  "id": "npc_335",
+  "bio": {
+    "full_name": "Donald Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.968,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 192,
+    "weight_kg": 64,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 11,
+      "Occult_Research": 48,
+      "Engineering": 28
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 143,
+    "personality_matrix": {
+      "openness": 24,
+      "conscientiousness": 12,
+      "extraversion": 68,
+      "agreeableness": 64,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

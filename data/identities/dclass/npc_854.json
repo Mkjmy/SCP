@@ -1,0 +1,60 @@
+{
+  "id": "npc_854",
+  "bio": {
+    "full_name": "Michael Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.877,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 105,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 65,
+      "Persuasion": 47,
+      "Perception": 44
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 100,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 35,
+      "extraversion": 71,
+      "agreeableness": 78,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

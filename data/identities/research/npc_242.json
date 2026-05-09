@@ -1,0 +1,59 @@
+{
+  "id": "npc_242",
+  "bio": {
+    "full_name": "Paul Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.894,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 53,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 65,
+      "Stealth": 64,
+      "Medicine": 80
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 43,
+      "conscientiousness": 31,
+      "extraversion": 33,
+      "agreeableness": 84,
+      "neuroticism": 34
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

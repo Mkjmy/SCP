@@ -1,0 +1,60 @@
+{
+  "id": "npc_908",
+  "bio": {
+    "full_name": "Joseph Schmidt",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "B+",
+    "genetic_stability": 0.964,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 93,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 60,
+      "Persuasion": 20,
+      "Hacking": 46
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 125,
+    "personality_matrix": {
+      "openness": 57,
+      "conscientiousness": 36,
+      "extraversion": 76,
+      "agreeableness": 0,
+      "neuroticism": 98
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

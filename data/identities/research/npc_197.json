@@ -1,0 +1,59 @@
+{
+  "id": "npc_197",
+  "bio": {
+    "full_name": "David Smith",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "A-",
+    "genetic_stability": 0.86,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 104,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 84,
+      "Firearms": 53,
+      "Hacking": 91
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 126,
+    "personality_matrix": {
+      "openness": 11,
+      "conscientiousness": 29,
+      "extraversion": 64,
+      "agreeableness": 28,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

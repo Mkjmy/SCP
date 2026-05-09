@@ -1,0 +1,60 @@
+{
+  "id": "npc_395",
+  "bio": {
+    "full_name": "Charles Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "AB-",
+    "genetic_stability": 0.964,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 169,
+    "weight_kg": 58,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 78,
+      "Persuasion": 20,
+      "Occult_Research": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 45,
+      "extraversion": 34,
+      "agreeableness": 77,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

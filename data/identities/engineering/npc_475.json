@@ -1,0 +1,60 @@
+{
+  "id": "npc_475",
+  "bio": {
+    "full_name": "Christopher Schmidt",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.972,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 61,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 13,
+      "Perception": 53,
+      "Engineering": 69
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 90,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 14,
+      "extraversion": 41,
+      "agreeableness": 50,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

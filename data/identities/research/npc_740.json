@@ -1,0 +1,60 @@
+{
+  "id": "npc_740",
+  "bio": {
+    "full_name": "Richard Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "A+",
+    "genetic_stability": 0.97,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 80,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 21,
+      "Engineering": 26,
+      "Firearms": 45
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 4,
+      "extraversion": 3,
+      "agreeableness": 79,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

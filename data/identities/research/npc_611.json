@@ -1,0 +1,60 @@
+{
+  "id": "npc_611",
+  "bio": {
+    "full_name": "Christopher Jones",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 32,
+    "blood_type": "AB-",
+    "genetic_stability": 0.997,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 84,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 62,
+      "Engineering": 39,
+      "Stealth": 38
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 97,
+      "conscientiousness": 96,
+      "extraversion": 63,
+      "agreeableness": 12,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

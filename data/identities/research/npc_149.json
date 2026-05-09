@@ -1,0 +1,60 @@
+{
+  "id": "npc_149",
+  "bio": {
+    "full_name": "Anthony Gupta",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "B+",
+    "genetic_stability": 0.953,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 77,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 28,
+      "Persuasion": 34,
+      "Containment_Logic": 14
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 59,
+      "extraversion": 21,
+      "agreeableness": 64,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

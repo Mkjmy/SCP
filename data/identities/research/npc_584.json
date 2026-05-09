@@ -1,0 +1,59 @@
+{
+  "id": "npc_584",
+  "bio": {
+    "full_name": "Kenji Jones",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "B+",
+    "genetic_stability": 0.969,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 87,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 13,
+      "Stealth": 33,
+      "Firearms": 38
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 62,
+      "extraversion": 37,
+      "agreeableness": 80,
+      "neuroticism": 14
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

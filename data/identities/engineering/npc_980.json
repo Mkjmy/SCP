@@ -1,0 +1,60 @@
+{
+  "id": "npc_980",
+  "bio": {
+    "full_name": "Sven Dubois",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.926,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 71,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 66,
+      "Containment_Logic": 77,
+      "Perception": 70
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 93,
+      "extraversion": 87,
+      "agreeableness": 49,
+      "neuroticism": 62
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

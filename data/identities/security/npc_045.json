@@ -1,0 +1,59 @@
+{
+  "id": "npc_045",
+  "bio": {
+    "full_name": "Fatima Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.874,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 82,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 64,
+      "Perception": 93,
+      "Medicine": 86
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 33,
+      "extraversion": 51,
+      "agreeableness": 25,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

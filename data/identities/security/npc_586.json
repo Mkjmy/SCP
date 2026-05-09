@@ -1,0 +1,60 @@
+{
+  "id": "npc_586",
+  "bio": {
+    "full_name": "Richard Brown",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "AB-",
+    "genetic_stability": 0.981,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 82,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 92,
+      "Perception": 26,
+      "Persuasion": 52
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 10,
+      "conscientiousness": 61,
+      "extraversion": 54,
+      "agreeableness": 40,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

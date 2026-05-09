@@ -1,0 +1,60 @@
+{
+  "id": "npc_996",
+  "bio": {
+    "full_name": "Daniel Wong",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "A+",
+    "genetic_stability": 0.982,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 69,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 19,
+      "Stealth": 23,
+      "Persuasion": 78
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 34,
+      "conscientiousness": 19,
+      "extraversion": 69,
+      "agreeableness": 79,
+      "neuroticism": 78
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "npc_826",
+  "bio": {
+    "full_name": "Yuki Bakker",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "B+",
+    "genetic_stability": 0.855,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 70,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 46,
+      "Hacking": 68,
+      "Persuasion": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 66,
+      "extraversion": 39,
+      "agreeableness": 58,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.69
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

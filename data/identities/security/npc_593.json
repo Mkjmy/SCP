@@ -1,0 +1,60 @@
+{
+  "id": "npc_593",
+  "bio": {
+    "full_name": "Kenji Brown",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.942,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 86,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Stealth": 52,
+      "Persuasion": 24,
+      "Engineering": 46
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 9,
+      "conscientiousness": 52,
+      "extraversion": 68,
+      "agreeableness": 88,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.54
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

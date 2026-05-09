@@ -1,0 +1,60 @@
+{
+  "id": "npc_599",
+  "bio": {
+    "full_name": "James Smith",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 46,
+    "blood_type": "O+",
+    "genetic_stability": 0.98,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 91,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 10,
+      "Athletics": 60,
+      "Engineering": 63
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 96,
+      "extraversion": 26,
+      "agreeableness": 44,
+      "neuroticism": 60
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

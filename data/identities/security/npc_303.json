@@ -1,0 +1,60 @@
+{
+  "id": "npc_303",
+  "bio": {
+    "full_name": "Yuki Gupta",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "O-",
+    "genetic_stability": 0.956,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 87,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Containment_Logic": 51,
+      "Perception": 12,
+      "Persuasion": 79
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 74,
+      "extraversion": 34,
+      "agreeableness": 62,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

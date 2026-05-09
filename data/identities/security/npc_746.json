@@ -1,0 +1,60 @@
+{
+  "id": "npc_746",
+  "bio": {
+    "full_name": "Daniel Gupta",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "A-",
+    "genetic_stability": 0.992,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 97,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 53,
+      "Containment_Logic": 23,
+      "Firearms": 28
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 35,
+      "extraversion": 8,
+      "agreeableness": 96,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.4
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

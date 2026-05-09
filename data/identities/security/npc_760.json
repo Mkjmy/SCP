@@ -1,0 +1,60 @@
+{
+  "id": "npc_760",
+  "bio": {
+    "full_name": "Mark Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "B-",
+    "genetic_stability": 0.996,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 103,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 74,
+      "Containment_Logic": 87,
+      "Athletics": 95
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 12,
+      "extraversion": 2,
+      "agreeableness": 17,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

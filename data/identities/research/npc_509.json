@@ -1,0 +1,60 @@
+{
+  "id": "npc_509",
+  "bio": {
+    "full_name": "Charles Garcia",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.881,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 104,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 81,
+      "Firearms": 67,
+      "Stealth": 91
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 24,
+      "extraversion": 2,
+      "agreeableness": 61,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

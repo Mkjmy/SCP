@@ -1,0 +1,59 @@
+{
+  "id": "npc_648",
+  "bio": {
+    "full_name": "Thomas Muller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "A+",
+    "genetic_stability": 0.87,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 97,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 35,
+      "Persuasion": 29,
+      "Perception": 56
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 142,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 79,
+      "extraversion": 50,
+      "agreeableness": 17,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_130",
+  "bio": {
+    "full_name": "Kenji Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.965,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 83,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 94,
+      "Perception": 44,
+      "Persuasion": 27
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 11,
+      "extraversion": 66,
+      "agreeableness": 24,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

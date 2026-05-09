@@ -1,0 +1,59 @@
+{
+  "id": "npc_789",
+  "bio": {
+    "full_name": "Olga Miller",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.863,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 82,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 38,
+      "Perception": 32,
+      "Athletics": 75
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 74,
+      "extraversion": 28,
+      "agreeableness": 81,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

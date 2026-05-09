@@ -1,0 +1,60 @@
+{
+  "id": "npc_811",
+  "bio": {
+    "full_name": "Michael Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 1.0,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 61,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 13,
+      "Firearms": 76,
+      "Engineering": 41
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 120,
+    "personality_matrix": {
+      "openness": 96,
+      "conscientiousness": 73,
+      "extraversion": 99,
+      "agreeableness": 21,
+      "neuroticism": 89
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

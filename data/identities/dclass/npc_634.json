@@ -1,0 +1,60 @@
+{
+  "id": "npc_634",
+  "bio": {
+    "full_name": "Michael Williams",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.969,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 83,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Bald",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 82,
+      "Perception": 22,
+      "Athletics": 95
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 100,
+      "extraversion": 83,
+      "agreeableness": 53,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

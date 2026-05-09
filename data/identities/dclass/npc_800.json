@@ -1,0 +1,59 @@
+{
+  "id": "npc_800",
+  "bio": {
+    "full_name": "Yuki Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "AB-",
+    "genetic_stability": 0.938,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 103,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 23,
+      "Firearms": 38,
+      "Persuasion": 43
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 27,
+      "extraversion": 70,
+      "agreeableness": 6,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

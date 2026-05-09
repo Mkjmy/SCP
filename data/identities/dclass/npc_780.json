@@ -1,0 +1,60 @@
+{
+  "id": "npc_780",
+  "bio": {
+    "full_name": "Kenji Vasiliev",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.997,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 54,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 36,
+      "Occult_Research": 39,
+      "Containment_Logic": 21
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 33,
+      "extraversion": 81,
+      "agreeableness": 63,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.84
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_676",
+  "bio": {
+    "full_name": "Joseph Jones",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 56,
+    "blood_type": "O+",
+    "genetic_stability": 0.876,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 50,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 78,
+      "Containment_Logic": 80,
+      "Hacking": 17
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 39,
+      "extraversion": 29,
+      "agreeableness": 72,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

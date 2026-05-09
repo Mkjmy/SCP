@@ -1,0 +1,60 @@
+{
+  "id": "npc_742",
+  "bio": {
+    "full_name": "Arjun Kovacs",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "AB+",
+    "genetic_stability": 0.971,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 60,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 46,
+      "Perception": 44,
+      "Medicine": 68
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 43,
+      "extraversion": 81,
+      "agreeableness": 28,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

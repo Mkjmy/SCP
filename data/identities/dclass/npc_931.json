@@ -1,0 +1,59 @@
+{
+  "id": "npc_931",
+  "bio": {
+    "full_name": "Mark Smith",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.953,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 60,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 62,
+      "Perception": 70,
+      "Occult_Research": 35
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 78,
+      "extraversion": 74,
+      "agreeableness": 75,
+      "neuroticism": 17
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

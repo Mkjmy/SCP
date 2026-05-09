@@ -1,0 +1,60 @@
+{
+  "id": "npc_322",
+  "bio": {
+    "full_name": "Fatima Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 53,
+    "blood_type": "AB-",
+    "genetic_stability": 0.881,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 108,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 33,
+      "Containment_Logic": 52,
+      "Perception": 47
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 124,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 43,
+      "extraversion": 36,
+      "agreeableness": 80,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

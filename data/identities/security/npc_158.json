@@ -1,0 +1,60 @@
+{
+  "id": "npc_158",
+  "bio": {
+    "full_name": "Sven Garcia",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "AB-",
+    "genetic_stability": 0.88,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 168,
+    "weight_kg": 90,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 67,
+      "Engineering": 30,
+      "Athletics": 70
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 101,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 50,
+      "extraversion": 86,
+      "agreeableness": 97,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

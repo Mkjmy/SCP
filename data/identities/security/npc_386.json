@@ -1,0 +1,60 @@
+{
+  "id": "npc_386",
+  "bio": {
+    "full_name": "Steven Dubois",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.89,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 66,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 37,
+      "Hacking": 87,
+      "Perception": 37
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 60,
+      "extraversion": 32,
+      "agreeableness": 16,
+      "neuroticism": 53
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.75
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

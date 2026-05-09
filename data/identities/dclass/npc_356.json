@@ -1,0 +1,59 @@
+{
+  "id": "npc_356",
+  "bio": {
+    "full_name": "Elena Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.909,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 69,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 32,
+      "Perception": 80,
+      "Containment_Logic": 59
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 30,
+      "extraversion": 58,
+      "agreeableness": 2,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency"
+  }
+}

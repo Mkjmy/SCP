@@ -1,0 +1,60 @@
+{
+  "id": "npc_023",
+  "bio": {
+    "full_name": "Fatima O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "AB+",
+    "genetic_stability": 0.876,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 102,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Medicine": 13,
+      "Engineering": 34,
+      "Containment_Logic": 88
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 129,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 66,
+      "extraversion": 33,
+      "agreeableness": 45,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

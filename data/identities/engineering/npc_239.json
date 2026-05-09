@@ -1,0 +1,59 @@
+{
+  "id": "npc_239",
+  "bio": {
+    "full_name": "Maria Dubois",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "A-",
+    "genetic_stability": 0.944,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 75,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 50,
+      "Firearms": 38,
+      "Engineering": 53
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 134,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 89,
+      "extraversion": 22,
+      "agreeableness": 14,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

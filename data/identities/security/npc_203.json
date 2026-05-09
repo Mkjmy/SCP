@@ -1,0 +1,60 @@
+{
+  "id": "npc_203",
+  "bio": {
+    "full_name": "Christopher Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 38,
+    "blood_type": "A-",
+    "genetic_stability": 0.897,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 182,
+    "weight_kg": 86,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 52,
+      "Athletics": 87,
+      "Firearms": 71
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 37,
+      "extraversion": 92,
+      "agreeableness": 91,
+      "neuroticism": 27
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

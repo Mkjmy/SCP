@@ -1,0 +1,60 @@
+{
+  "id": "npc_697",
+  "bio": {
+    "full_name": "Matthew Ivanov",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.924,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 68,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "White, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 32,
+      "Occult_Research": 67,
+      "Stealth": 65
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 57,
+      "extraversion": 31,
+      "agreeableness": 70,
+      "neuroticism": 19
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

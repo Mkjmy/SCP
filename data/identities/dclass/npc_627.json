@@ -1,0 +1,60 @@
+{
+  "id": "npc_627",
+  "bio": {
+    "full_name": "Matthew Davis",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 20,
+    "blood_type": "AB+",
+    "genetic_stability": 0.952,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 72,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 76,
+      "Medicine": 52,
+      "Containment_Logic": 18
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 89,
+    "personality_matrix": {
+      "openness": 76,
+      "conscientiousness": 45,
+      "extraversion": 99,
+      "agreeableness": 1,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_943",
+  "bio": {
+    "full_name": "Richard Smith",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.913,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 74,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 75,
+      "Occult_Research": 72,
+      "Stealth": 32
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 34,
+      "extraversion": 26,
+      "agreeableness": 88,
+      "neuroticism": 56
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

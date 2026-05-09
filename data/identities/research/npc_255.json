@@ -1,0 +1,59 @@
+{
+  "id": "npc_255",
+  "bio": {
+    "full_name": "Chen O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.915,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 65,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Persuasion": 68,
+      "Engineering": 49,
+      "Medicine": 70
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 0,
+      "extraversion": 7,
+      "agreeableness": 79,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

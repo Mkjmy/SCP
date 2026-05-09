@@ -1,0 +1,60 @@
+{
+  "id": "npc_640",
+  "bio": {
+    "full_name": "Robert Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "B+",
+    "genetic_stability": 0.866,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 165,
+    "weight_kg": 53,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 21,
+      "Medicine": 51,
+      "Engineering": 33
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 95,
+    "personality_matrix": {
+      "openness": 94,
+      "conscientiousness": 69,
+      "extraversion": 17,
+      "agreeableness": 58,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.53
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

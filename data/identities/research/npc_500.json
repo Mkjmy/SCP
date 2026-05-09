@@ -1,0 +1,60 @@
+{
+  "id": "npc_500",
+  "bio": {
+    "full_name": "Arjun Williams",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 59,
+    "blood_type": "AB+",
+    "genetic_stability": 0.983,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 73,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 87,
+      "Perception": 21,
+      "Stealth": 77
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 48,
+      "extraversion": 46,
+      "agreeableness": 61,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_648",
+  "bio": {
+    "full_name": "Michael Kovacs",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "B+",
+    "genetic_stability": 0.931,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 85,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 93,
+      "Containment_Logic": 25,
+      "Occult_Research": 55
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 25,
+      "extraversion": 59,
+      "agreeableness": 49,
+      "neuroticism": 97
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

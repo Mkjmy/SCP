@@ -1,0 +1,60 @@
+{
+  "id": "npc_141",
+  "bio": {
+    "full_name": "Richard Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "O-",
+    "genetic_stability": 0.995,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 173,
+    "weight_kg": 76,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 20,
+      "Persuasion": 62,
+      "Firearms": 35
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 60,
+      "extraversion": 71,
+      "agreeableness": 11,
+      "neuroticism": 100
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

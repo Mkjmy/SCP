@@ -1,0 +1,59 @@
+{
+  "id": "npc_465",
+  "bio": {
+    "full_name": "Matthew Dubois",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.884,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 72,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 33,
+      "Firearms": 35,
+      "Stealth": 78
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 6,
+      "conscientiousness": 17,
+      "extraversion": 0,
+      "agreeableness": 25,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

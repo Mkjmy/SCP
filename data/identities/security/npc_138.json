@@ -1,0 +1,60 @@
+{
+  "id": "npc_138",
+  "bio": {
+    "full_name": "Yuki Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.989,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 95,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 14,
+      "Hacking": 32,
+      "Occult_Research": 33
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 60,
+      "conscientiousness": 26,
+      "extraversion": 14,
+      "agreeableness": 41,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

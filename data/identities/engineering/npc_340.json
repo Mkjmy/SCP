@@ -1,0 +1,60 @@
+{
+  "id": "npc_340",
+  "bio": {
+    "full_name": "Chen Vasiliev",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "B-",
+    "genetic_stability": 0.955,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 87,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Hacking": 31,
+      "Perception": 61,
+      "Occult_Research": 50
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 1,
+      "extraversion": 72,
+      "agreeableness": 48,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

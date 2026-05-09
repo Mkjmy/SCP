@@ -1,0 +1,60 @@
+{
+  "id": "npc_489",
+  "bio": {
+    "full_name": "William Muller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.91,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 71,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 91,
+      "Occult_Research": 78,
+      "Hacking": 41
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 35,
+      "extraversion": 64,
+      "agreeableness": 77,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.99
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

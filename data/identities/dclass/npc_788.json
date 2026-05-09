@@ -1,0 +1,60 @@
+{
+  "id": "npc_788",
+  "bio": {
+    "full_name": "John Brown",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.957,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 62,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 17,
+      "Stealth": 49,
+      "Perception": 91
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 87,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 74,
+      "extraversion": 9,
+      "agreeableness": 17,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_368",
+  "bio": {
+    "full_name": "Matthew Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 48,
+    "blood_type": "B+",
+    "genetic_stability": 0.944,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 82,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 41,
+      "Athletics": 81,
+      "Persuasion": 86
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 150,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 63,
+      "extraversion": 65,
+      "agreeableness": 49,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

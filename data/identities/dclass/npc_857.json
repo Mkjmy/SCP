@@ -1,0 +1,60 @@
+{
+  "id": "npc_857",
+  "bio": {
+    "full_name": "Arjun Davis",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "B+",
+    "genetic_stability": 0.967,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 181,
+    "weight_kg": 88,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 83,
+      "Persuasion": 28,
+      "Engineering": 40
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 82,
+      "extraversion": 33,
+      "agreeableness": 53,
+      "neuroticism": 30
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

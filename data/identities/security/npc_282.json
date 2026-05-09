@@ -1,0 +1,60 @@
+{
+  "id": "npc_282",
+  "bio": {
+    "full_name": "Yuki O'Connor",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.961,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 90,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 83,
+      "Persuasion": 56,
+      "Containment_Logic": 26
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 73,
+      "extraversion": 17,
+      "agreeableness": 62,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

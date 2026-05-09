@@ -1,0 +1,60 @@
+{
+  "id": "npc_151",
+  "bio": {
+    "full_name": "Joshua Gupta",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.92,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 84,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 43,
+      "Perception": 32,
+      "Persuasion": 87
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 92,
+      "conscientiousness": 86,
+      "extraversion": 36,
+      "agreeableness": 31,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

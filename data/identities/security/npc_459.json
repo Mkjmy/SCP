@@ -1,0 +1,60 @@
+{
+  "id": "npc_459",
+  "bio": {
+    "full_name": "Elena Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "B+",
+    "genetic_stability": 0.9,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 70,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Dyed green, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 94,
+      "Occult_Research": 53,
+      "Athletics": 89
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 117,
+    "personality_matrix": {
+      "openness": 80,
+      "conscientiousness": 87,
+      "extraversion": 10,
+      "agreeableness": 34,
+      "neuroticism": 2
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

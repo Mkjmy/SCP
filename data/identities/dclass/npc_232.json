@@ -1,0 +1,60 @@
+{
+  "id": "npc_232",
+  "bio": {
+    "full_name": "Robert Sato",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.906,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 59,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 86,
+      "Perception": 48,
+      "Medicine": 77
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 86,
+    "personality_matrix": {
+      "openness": 70,
+      "conscientiousness": 37,
+      "extraversion": 22,
+      "agreeableness": 80,
+      "neuroticism": 33
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

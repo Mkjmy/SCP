@@ -1,0 +1,60 @@
+{
+  "id": "npc_506",
+  "bio": {
+    "full_name": "Elena Davis",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.977,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 61,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Fade",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 21,
+      "Occult_Research": 80,
+      "Perception": 45
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 109,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 80,
+      "extraversion": 72,
+      "agreeableness": 98,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.91
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

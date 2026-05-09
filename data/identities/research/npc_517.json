@@ -1,0 +1,59 @@
+{
+  "id": "npc_517",
+  "bio": {
+    "full_name": "Richard Bakker",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "AB-",
+    "genetic_stability": 0.885,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 55,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 93,
+      "Medicine": 58,
+      "Stealth": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 165,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 33,
+      "extraversion": 69,
+      "agreeableness": 30,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.79
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

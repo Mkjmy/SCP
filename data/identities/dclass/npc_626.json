@@ -1,0 +1,59 @@
+{
+  "id": "npc_626",
+  "bio": {
+    "full_name": "Chen Wong",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.96,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 102,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 72,
+      "Hacking": 11,
+      "Firearms": 11
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 107,
+    "personality_matrix": {
+      "openness": 4,
+      "conscientiousness": 36,
+      "extraversion": 45,
+      "agreeableness": 79,
+      "neuroticism": 69
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.5
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_522",
+  "bio": {
+    "full_name": "Anthony Smith",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 52,
+    "blood_type": "O-",
+    "genetic_stability": 0.945,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 54,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Fade",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Perception": 32,
+      "Occult_Research": 76,
+      "Athletics": 58
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 75,
+      "conscientiousness": 73,
+      "extraversion": 97,
+      "agreeableness": 56,
+      "neuroticism": 87
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.85
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

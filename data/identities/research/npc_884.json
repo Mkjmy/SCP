@@ -1,0 +1,60 @@
+{
+  "id": "npc_884",
+  "bio": {
+    "full_name": "Joseph Sato",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "A-",
+    "genetic_stability": 0.88,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 94,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Red, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 31,
+      "Persuasion": 50,
+      "Containment_Logic": 69
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 75,
+      "extraversion": 27,
+      "agreeableness": 23,
+      "neuroticism": 59
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.87
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

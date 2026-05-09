@@ -1,0 +1,59 @@
+{
+  "id": "npc_603",
+  "bio": {
+    "full_name": "Sven Sato",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "O-",
+    "genetic_stability": 0.954,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 72,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 15,
+      "Stealth": 17,
+      "Athletics": 65
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 48,
+      "extraversion": 24,
+      "agreeableness": 97,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_033",
+  "bio": {
+    "full_name": "Lars Williams",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.903,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 85,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Containment_Logic": 32,
+      "Persuasion": 52,
+      "Athletics": 64
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 20,
+      "conscientiousness": 8,
+      "extraversion": 10,
+      "agreeableness": 3,
+      "neuroticism": 37
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

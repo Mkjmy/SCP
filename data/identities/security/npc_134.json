@@ -1,0 +1,60 @@
+{
+  "id": "npc_134",
+  "bio": {
+    "full_name": "Richard O'Connor",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.897,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 100,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 66,
+      "Athletics": 21,
+      "Stealth": 95
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 140,
+    "personality_matrix": {
+      "openness": 79,
+      "conscientiousness": 82,
+      "extraversion": 31,
+      "agreeableness": 29,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.64
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

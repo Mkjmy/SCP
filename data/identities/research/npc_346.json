@@ -1,0 +1,60 @@
+{
+  "id": "npc_346",
+  "bio": {
+    "full_name": "Steven Garcia",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 59,
+    "blood_type": "B+",
+    "genetic_stability": 0.891,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 183,
+    "weight_kg": 82,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 16,
+      "Engineering": 50,
+      "Athletics": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 89,
+      "conscientiousness": 33,
+      "extraversion": 41,
+      "agreeableness": 43,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.86
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

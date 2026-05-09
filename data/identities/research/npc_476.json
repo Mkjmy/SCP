@@ -1,0 +1,60 @@
+{
+  "id": "npc_476",
+  "bio": {
+    "full_name": "Anthony Smith",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "AB-",
+    "genetic_stability": 0.995,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 191,
+    "weight_kg": 102,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Pixie cut",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Persuasion": 53,
+      "Medicine": 79,
+      "Engineering": 40
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 153,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 37,
+      "extraversion": 96,
+      "agreeableness": 28,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

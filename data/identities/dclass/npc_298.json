@@ -1,0 +1,60 @@
+{
+  "id": "npc_298",
+  "bio": {
+    "full_name": "David Dubois",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.909,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 107,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 29,
+      "Athletics": 31,
+      "Engineering": 57
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 81,
+    "personality_matrix": {
+      "openness": 7,
+      "conscientiousness": 33,
+      "extraversion": 45,
+      "agreeableness": 8,
+      "neuroticism": 7
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

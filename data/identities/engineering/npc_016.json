@@ -1,0 +1,59 @@
+{
+  "id": "npc_016",
+  "bio": {
+    "full_name": "William Williams",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.911,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 172,
+    "weight_kg": 76,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Bald",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Firearms": 28,
+      "Medicine": 73,
+      "Athletics": 34
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 135,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 71,
+      "extraversion": 70,
+      "agreeableness": 30,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.59
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost"
+  }
+}

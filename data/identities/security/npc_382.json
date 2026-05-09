@@ -1,0 +1,60 @@
+{
+  "id": "npc_382",
+  "bio": {
+    "full_name": "Anthony Wong",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 62,
+    "blood_type": "B-",
+    "genetic_stability": 0.958,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 90,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 45,
+      "Hacking": 11,
+      "Medicine": 42
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 155,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 74,
+      "extraversion": 33,
+      "agreeableness": 76,
+      "neuroticism": 79
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.7
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

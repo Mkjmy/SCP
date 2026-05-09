@@ -1,0 +1,60 @@
+{
+  "id": "npc_700",
+  "bio": {
+    "full_name": "Matthew Ivanov",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "O+",
+    "genetic_stability": 0.987,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 89,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Perception": 36,
+      "Medicine": 25,
+      "Containment_Logic": 33
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 56,
+      "conscientiousness": 7,
+      "extraversion": 45,
+      "agreeableness": 58,
+      "neuroticism": 76
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

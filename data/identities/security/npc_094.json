@@ -1,0 +1,60 @@
+{
+  "id": "npc_094",
+  "bio": {
+    "full_name": "Donald Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.96,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 99,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 66,
+      "Persuasion": 69,
+      "Perception": 87
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 123,
+    "personality_matrix": {
+      "openness": 18,
+      "conscientiousness": 99,
+      "extraversion": 4,
+      "agreeableness": 77,
+      "neuroticism": 3
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.6
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

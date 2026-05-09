@@ -1,0 +1,60 @@
+{
+  "id": "npc_534",
+  "bio": {
+    "full_name": "Andrew Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 21,
+    "blood_type": "O+",
+    "genetic_stability": 0.856,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 66,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 51,
+      "Perception": 49,
+      "Containment_Logic": 15
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 88,
+      "conscientiousness": 6,
+      "extraversion": 52,
+      "agreeableness": 17,
+      "neuroticism": 61
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.9
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

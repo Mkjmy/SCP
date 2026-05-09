@@ -1,0 +1,60 @@
+{
+  "id": "npc_598",
+  "bio": {
+    "full_name": "James Dubois",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.926,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 69,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Messy",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 25,
+      "Occult_Research": 61,
+      "Athletics": 31
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 70,
+      "extraversion": 58,
+      "agreeableness": 56,
+      "neuroticism": 75
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

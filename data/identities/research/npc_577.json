@@ -1,0 +1,60 @@
+{
+  "id": "npc_577",
+  "bio": {
+    "full_name": "Charles O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "O+",
+    "genetic_stability": 0.995,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 88,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed green, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 44,
+      "Stealth": 68,
+      "Firearms": 41
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 139,
+    "personality_matrix": {
+      "openness": 55,
+      "conscientiousness": 54,
+      "extraversion": 1,
+      "agreeableness": 87,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

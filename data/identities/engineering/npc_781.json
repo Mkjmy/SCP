@@ -1,0 +1,60 @@
+{
+  "id": "npc_781",
+  "bio": {
+    "full_name": "William Garcia",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "A-",
+    "genetic_stability": 0.871,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 185,
+    "weight_kg": 74,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Brown, Fade",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 73,
+      "Containment_Logic": 79,
+      "Perception": 62
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 157,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 24,
+      "extraversion": 4,
+      "agreeableness": 48,
+      "neuroticism": 95
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.93
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

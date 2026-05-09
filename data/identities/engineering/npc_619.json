@@ -1,0 +1,60 @@
+{
+  "id": "npc_619",
+  "bio": {
+    "full_name": "Andrew Wong",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 51,
+    "blood_type": "A+",
+    "genetic_stability": 0.955,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 73,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 44,
+      "Firearms": 11,
+      "Hacking": 25
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 52,
+      "conscientiousness": 49,
+      "extraversion": 22,
+      "agreeableness": 37,
+      "neuroticism": 90
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_796",
+  "bio": {
+    "full_name": "Paul Ivanov",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.958,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 107,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Medicine": 12,
+      "Containment_Logic": 90,
+      "Athletics": 62
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 145,
+    "personality_matrix": {
+      "openness": 48,
+      "conscientiousness": 33,
+      "extraversion": 89,
+      "agreeableness": 84,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_122",
+  "bio": {
+    "full_name": "Steven Dubois",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.958,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 52,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Blonde, Ponytail",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Persuasion": 21,
+      "Hacking": 11,
+      "Perception": 70
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 28,
+      "extraversion": 45,
+      "agreeableness": 47,
+      "neuroticism": 39
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

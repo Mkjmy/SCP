@@ -1,0 +1,60 @@
+{
+  "id": "npc_546",
+  "bio": {
+    "full_name": "Joseph Brown",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.935,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 77,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Blonde, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 34,
+      "Athletics": 40,
+      "Medicine": 75
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 105,
+    "personality_matrix": {
+      "openness": 99,
+      "conscientiousness": 21,
+      "extraversion": 78,
+      "agreeableness": 5,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.71
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

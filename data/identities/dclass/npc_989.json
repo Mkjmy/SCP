@@ -1,0 +1,60 @@
+{
+  "id": "npc_989",
+  "bio": {
+    "full_name": "Matthew Kovacs",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "O+",
+    "genetic_stability": 0.958,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 166,
+    "weight_kg": 56,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 11,
+      "Containment_Logic": 81,
+      "Medicine": 80
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 92,
+    "personality_matrix": {
+      "openness": 29,
+      "conscientiousness": 31,
+      "extraversion": 77,
+      "agreeableness": 22,
+      "neuroticism": 99
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 0,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

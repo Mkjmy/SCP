@@ -1,0 +1,60 @@
+{
+  "id": "npc_381",
+  "bio": {
+    "full_name": "Fatima Tanaka",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.885,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 74,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 69,
+      "Hacking": 24,
+      "Stealth": 82
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 122,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 14,
+      "extraversion": 14,
+      "agreeableness": 41,
+      "neuroticism": 57
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.44
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

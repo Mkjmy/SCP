@@ -1,0 +1,60 @@
+{
+  "id": "npc_050",
+  "bio": {
+    "full_name": "Paul Sato",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.89,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 70,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 18,
+      "Stealth": 15,
+      "Firearms": 81
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 54,
+      "conscientiousness": 53,
+      "extraversion": 83,
+      "agreeableness": 78,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.55
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

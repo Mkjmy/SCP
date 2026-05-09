@@ -1,0 +1,60 @@
+{
+  "id": "npc_202",
+  "bio": {
+    "full_name": "Christopher Johnson",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.908,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 178,
+    "weight_kg": 61,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 12,
+      "Athletics": 66,
+      "Perception": 12
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 64,
+      "extraversion": 58,
+      "agreeableness": 37,
+      "neuroticism": 15
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

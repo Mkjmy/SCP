@@ -1,0 +1,60 @@
+{
+  "id": "npc_574",
+  "bio": {
+    "full_name": "Charles O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.94,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 58,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 70,
+      "Medicine": 60,
+      "Containment_Logic": 56
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 131,
+    "personality_matrix": {
+      "openness": 65,
+      "conscientiousness": 28,
+      "extraversion": 39,
+      "agreeableness": 89,
+      "neuroticism": 32
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.41
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

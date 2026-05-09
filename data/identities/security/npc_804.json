@@ -1,0 +1,60 @@
+{
+  "id": "npc_804",
+  "bio": {
+    "full_name": "Kenji Davis",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "A+",
+    "genetic_stability": 0.98,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 88,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Persuasion": 31,
+      "Hacking": 23,
+      "Containment_Logic": 74
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 19,
+      "conscientiousness": 62,
+      "extraversion": 61,
+      "agreeableness": 56,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.48
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

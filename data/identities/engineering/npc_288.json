@@ -1,0 +1,60 @@
+{
+  "id": "npc_288",
+  "bio": {
+    "full_name": "Paul Ivanov",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "B+",
+    "genetic_stability": 0.922,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 72,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 61,
+      "Medicine": 90,
+      "Persuasion": 91
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 41,
+      "conscientiousness": 96,
+      "extraversion": 86,
+      "agreeableness": 45,
+      "neuroticism": 63
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.76
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

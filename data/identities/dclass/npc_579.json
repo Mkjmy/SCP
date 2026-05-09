@@ -1,0 +1,59 @@
+{
+  "id": "npc_579",
+  "bio": {
+    "full_name": "Joshua Kovacs",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.95,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 158,
+    "weight_kg": 75,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 70,
+      "Athletics": 85,
+      "Hacking": 79
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 53,
+      "extraversion": 19,
+      "agreeableness": 82,
+      "neuroticism": 71
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.65
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_716",
+  "bio": {
+    "full_name": "Robert Brown",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.878,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 200,
+    "weight_kg": 81,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Janitor",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 47,
+      "Stealth": 90,
+      "Medicine": 26
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 138,
+    "personality_matrix": {
+      "openness": 45,
+      "conscientiousness": 70,
+      "extraversion": 24,
+      "agreeableness": 78,
+      "neuroticism": 23
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

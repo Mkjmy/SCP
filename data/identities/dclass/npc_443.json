@@ -1,0 +1,60 @@
+{
+  "id": "npc_443",
+  "bio": {
+    "full_name": "Joseph Brown",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "A-",
+    "genetic_stability": 0.879,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 105,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 36,
+      "Hacking": 60,
+      "Occult_Research": 24
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 50,
+      "extraversion": 89,
+      "agreeableness": 34,
+      "neuroticism": 72
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

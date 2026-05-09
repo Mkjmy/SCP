@@ -1,0 +1,59 @@
+{
+  "id": "npc_934",
+  "bio": {
+    "full_name": "Chen Sato",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "A+",
+    "genetic_stability": 0.962,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 90,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Hacking": 78,
+      "Containment_Logic": 11,
+      "Athletics": 60
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 118,
+    "personality_matrix": {
+      "openness": 17,
+      "conscientiousness": 72,
+      "extraversion": 84,
+      "agreeableness": 33,
+      "neuroticism": 92
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

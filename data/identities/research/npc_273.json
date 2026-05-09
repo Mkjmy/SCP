@@ -1,0 +1,60 @@
+{
+  "id": "npc_273",
+  "bio": {
+    "full_name": "Steven Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.896,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 97,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Fade",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 89,
+      "Containment_Logic": 39,
+      "Engineering": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 121,
+    "personality_matrix": {
+      "openness": 67,
+      "conscientiousness": 65,
+      "extraversion": 7,
+      "agreeableness": 85,
+      "neuroticism": 48
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.83
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

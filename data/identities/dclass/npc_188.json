@@ -1,0 +1,60 @@
+{
+  "id": "npc_188",
+  "bio": {
+    "full_name": "Maria Garcia",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "B-",
+    "genetic_stability": 0.924,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 156,
+    "weight_kg": 68,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 87,
+      "Firearms": 24,
+      "Perception": 54
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 73,
+      "conscientiousness": 18,
+      "extraversion": 67,
+      "agreeableness": 46,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

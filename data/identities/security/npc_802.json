@@ -1,0 +1,60 @@
+{
+  "id": "npc_802",
+  "bio": {
+    "full_name": "Kenji Muller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 64,
+    "blood_type": "AB-",
+    "genetic_stability": 0.865,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 184,
+    "weight_kg": 51,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 25,
+      "Firearms": 77,
+      "Containment_Logic": 28
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 130,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 90,
+      "extraversion": 40,
+      "agreeableness": 95,
+      "neuroticism": 93
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

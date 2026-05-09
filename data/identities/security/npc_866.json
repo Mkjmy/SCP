@@ -1,0 +1,60 @@
+{
+  "id": "npc_866",
+  "bio": {
+    "full_name": "Fatima Jones",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.931,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 160,
+    "weight_kg": 54,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 1,
+    "skills": {
+      "Perception": 86,
+      "Containment_Logic": 33,
+      "Engineering": 14
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 148,
+    "personality_matrix": {
+      "openness": 64,
+      "conscientiousness": 83,
+      "extraversion": 60,
+      "agreeableness": 44,
+      "neuroticism": 66
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

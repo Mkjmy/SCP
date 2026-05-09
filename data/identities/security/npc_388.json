@@ -1,0 +1,60 @@
+{
+  "id": "npc_388",
+  "bio": {
+    "full_name": "John Johnson",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 54,
+    "blood_type": "A-",
+    "genetic_stability": 0.851,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 167,
+    "weight_kg": 87,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Brown, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "ISD Agent",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 17,
+      "Engineering": 43,
+      "Perception": 21
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 115,
+    "personality_matrix": {
+      "openness": 14,
+      "conscientiousness": 71,
+      "extraversion": 66,
+      "agreeableness": 4,
+      "neuroticism": 46
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.63
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

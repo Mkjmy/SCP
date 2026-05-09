@@ -1,0 +1,59 @@
+{
+  "id": "npc_539",
+  "bio": {
+    "full_name": "Lars Brown",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "A-",
+    "genetic_stability": 0.852,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 100,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Medicine": 79,
+      "Engineering": 39,
+      "Hacking": 34
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 31,
+      "conscientiousness": 93,
+      "extraversion": 66,
+      "agreeableness": 41,
+      "neuroticism": 36
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.58
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+  }
+}

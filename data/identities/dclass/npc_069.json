@@ -1,0 +1,60 @@
+{
+  "id": "npc_069",
+  "bio": {
+    "full_name": "Mark Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.935,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 65,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 47,
+      "Firearms": 77,
+      "Occult_Research": 73
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 92,
+      "extraversion": 1,
+      "agreeableness": 37,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

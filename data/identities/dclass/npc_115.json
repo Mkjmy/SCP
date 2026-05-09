@@ -1,0 +1,60 @@
+{
+  "id": "npc_115",
+  "bio": {
+    "full_name": "John Dubois",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.976,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 109,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Taps fingers rhythmically"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 73,
+      "Containment_Logic": 58,
+      "Athletics": 83
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 3,
+      "conscientiousness": 75,
+      "extraversion": 73,
+      "agreeableness": 57,
+      "neuroticism": 26
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

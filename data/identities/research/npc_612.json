@@ -1,0 +1,60 @@
+{
+  "id": "npc_612",
+  "bio": {
+    "full_name": "Kenji Wong",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.908,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 84,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "White, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Athletics": 63,
+      "Persuasion": 61,
+      "Firearms": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 161,
+    "personality_matrix": {
+      "openness": 74,
+      "conscientiousness": 92,
+      "extraversion": 84,
+      "agreeableness": 22,
+      "neuroticism": 24
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

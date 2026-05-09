@@ -1,0 +1,59 @@
+{
+  "id": "npc_092",
+  "bio": {
+    "full_name": "Chen O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "O-",
+    "genetic_stability": 0.898,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 177,
+    "weight_kg": 79,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Black, Pixie cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 85,
+      "Engineering": 12,
+      "Persuasion": 52
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 149,
+    "personality_matrix": {
+      "openness": 71,
+      "conscientiousness": 60,
+      "extraversion": 19,
+      "agreeableness": 87,
+      "neuroticism": 18
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King"
+  }
+}

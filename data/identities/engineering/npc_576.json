@@ -1,0 +1,60 @@
+{
+  "id": "npc_576",
+  "bio": {
+    "full_name": "Anthony Sato",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "B-",
+    "genetic_stability": 0.943,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 193,
+    "weight_kg": 95,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Stealth": 11,
+      "Persuasion": 92,
+      "Athletics": 21
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 132,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 74,
+      "extraversion": 82,
+      "agreeableness": 61,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

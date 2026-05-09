@@ -1,0 +1,60 @@
+{
+  "id": "npc_019",
+  "bio": {
+    "full_name": "Daniel Gupta",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.905,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 53,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Stealth": 42,
+      "Perception": 20,
+      "Hacking": 48
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 68,
+      "conscientiousness": 92,
+      "extraversion": 92,
+      "agreeableness": 2,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.68
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

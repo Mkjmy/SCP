@@ -1,0 +1,59 @@
+{
+  "id": "npc_901",
+  "bio": {
+    "full_name": "Sven Jones",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "A-",
+    "genetic_stability": 0.933,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 94,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Grey, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 79,
+      "Perception": 52,
+      "Occult_Research": 47
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 88,
+    "personality_matrix": {
+      "openness": 69,
+      "conscientiousness": 76,
+      "extraversion": 59,
+      "agreeableness": 43,
+      "neuroticism": 47
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.66
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name"
+  }
+}

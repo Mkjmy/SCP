@@ -1,0 +1,60 @@
+{
+  "id": "npc_074",
+  "bio": {
+    "full_name": "Maria Ivanov",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.891,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 59,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Perception": 61,
+      "Persuasion": 10,
+      "Containment_Logic": 72
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 82,
+      "conscientiousness": 86,
+      "extraversion": 12,
+      "agreeableness": 66,
+      "neuroticism": 11
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

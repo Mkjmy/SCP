@@ -1,0 +1,59 @@
+{
+  "id": "npc_853",
+  "bio": {
+    "full_name": "Andrew Gupta",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 56,
+    "blood_type": "AB-",
+    "genetic_stability": 0.911,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 198,
+    "weight_kg": 99,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Stealth": 59,
+      "Perception": 51,
+      "Persuasion": 83
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 154,
+    "personality_matrix": {
+      "openness": 40,
+      "conscientiousness": 3,
+      "extraversion": 95,
+      "agreeableness": 78,
+      "neuroticism": 94
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 20000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object"
+  }
+}

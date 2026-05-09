@@ -1,0 +1,60 @@
+{
+  "id": "npc_697",
+  "bio": {
+    "full_name": "Elena Jones",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "A+",
+    "genetic_stability": 0.882,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 188,
+    "weight_kg": 70,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Black, Buzz cut",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Engineer",
+    "department": "Engineering",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 73,
+      "Firearms": 52,
+      "Hacking": 32
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 97,
+    "personality_matrix": {
+      "openness": 72,
+      "conscientiousness": 50,
+      "extraversion": 95,
+      "agreeableness": 40,
+      "neuroticism": 22
+    },
+    "phobias": [
+      "Automatonophobia (Fear of human-like figures)"
+    ],
+    "mental_stability": 0.96
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

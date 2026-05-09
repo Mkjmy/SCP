@@ -1,0 +1,60 @@
+{
+  "id": "npc_506",
+  "bio": {
+    "full_name": "Chen Bakker",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "AB+",
+    "genetic_stability": 0.851,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 95,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 69,
+      "Stealth": 32,
+      "Engineering": 19
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 85,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 27,
+      "extraversion": 82,
+      "agreeableness": 66,
+      "neuroticism": 38
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.72
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+  }
+}

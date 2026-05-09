@@ -1,0 +1,60 @@
+{
+  "id": "npc_224",
+  "bio": {
+    "full_name": "Lars Jones",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.911,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 195,
+    "weight_kg": 90,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 60,
+      "Persuasion": 53,
+      "Firearms": 48
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 84,
+    "personality_matrix": {
+      "openness": 66,
+      "conscientiousness": 57,
+      "extraversion": 42,
+      "agreeableness": 57,
+      "neuroticism": 45
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.57
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_277",
+  "bio": {
+    "full_name": "Joseph Johnson",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.974,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 64,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Hums classical music"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Occult_Research": 75,
+      "Medicine": 31,
+      "Engineering": 89
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 162,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 2,
+      "extraversion": 64,
+      "agreeableness": 45,
+      "neuroticism": 10
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.42
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

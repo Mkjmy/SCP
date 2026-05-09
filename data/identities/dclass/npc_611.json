@@ -1,0 +1,60 @@
+{
+  "id": "npc_611",
+  "bio": {
+    "full_name": "William Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 20,
+    "blood_type": "O-",
+    "genetic_stability": 0.969,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 187,
+    "weight_kg": 102,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Hacking": 74,
+      "Athletics": 24,
+      "Persuasion": 59
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 114,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 69,
+      "extraversion": 90,
+      "agreeableness": 88,
+      "neuroticism": 65
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.81
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "npc_704",
+  "bio": {
+    "full_name": "Steven Bakker",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "B-",
+    "genetic_stability": 0.979,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 174,
+    "weight_kg": 87,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Stealth": 18,
+      "Athletics": 52,
+      "Perception": 17
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 128,
+    "personality_matrix": {
+      "openness": 23,
+      "conscientiousness": 7,
+      "extraversion": 19,
+      "agreeableness": 98,
+      "neuroticism": 68
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.43
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}
