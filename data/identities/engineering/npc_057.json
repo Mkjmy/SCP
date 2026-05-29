@@ -1,23 +1,23 @@
 {
   "id": "npc_057",
   "bio": {
-    "full_name": "Daniel Jones",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 50,
-    "blood_type": "A-",
-    "genetic_stability": 0.928,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Andrew Sato",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.894,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 87,
-    "build": "Heavily Muscular",
+    "height_cm": 175,
+    "weight_kg": 110,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 17,
-      "Containment_Logic": 44,
-      "Occult_Research": 38
+      "Athletics": 28,
+      "Stealth": 33,
+      "Persuasion": 73
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 133,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 31,
-      "extraversion": 100,
-      "agreeableness": 4,
-      "neuroticism": 16
+      "openness": 9,
+      "conscientiousness": 52,
+      "extraversion": 35,
+      "agreeableness": 76,
+      "neuroticism": 42
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
+      "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

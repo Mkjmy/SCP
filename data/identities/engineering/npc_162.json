@@ -1,23 +1,23 @@
 {
   "id": "npc_162",
   "bio": {
-    "full_name": "Robert Muller",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 41,
+    "full_name": "Joseph O'Connor",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 23,
     "blood_type": "A-",
-    "genetic_stability": 0.904,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.92,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 87,
-    "build": "Frail",
+    "height_cm": 156,
+    "weight_kg": 60,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Grey",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 82,
-      "Containment_Logic": 41,
-      "Engineering": 38
+      "Occult_Research": 24,
+      "Engineering": 67,
+      "Athletics": 66
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 93,
-      "conscientiousness": 41,
-      "extraversion": 70,
-      "agreeableness": 86,
-      "neuroticism": 25
+      "openness": 51,
+      "conscientiousness": 10,
+      "extraversion": 91,
+      "agreeableness": 21,
+      "neuroticism": 99
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 20000,
-      "creditor": "Student Loans"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

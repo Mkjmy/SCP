@@ -1,23 +1,23 @@
 {
   "id": "npc_125",
   "bio": {
-    "full_name": "Chen Muller",
+    "full_name": "Fatima Muller",
     "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 30,
-    "blood_type": "A+",
-    "genetic_stability": 0.865,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Homosexual",
+    "age": 21,
+    "blood_type": "O+",
+    "genetic_stability": 0.908,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 86,
-    "build": "Stocky",
+    "height_cm": 157,
+    "weight_kg": 63,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 44,
-      "Hacking": 73,
-      "Stealth": 24
+      "Perception": 82,
+      "Persuasion": 12,
+      "Containment_Logic": 53
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
     "iq": 98,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 53,
-      "extraversion": 63,
-      "agreeableness": 29,
-      "neuroticism": 27
+      "openness": 22,
+      "conscientiousness": 78,
+      "extraversion": 68,
+      "agreeableness": 52,
+      "neuroticism": 8
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
       "amount": 0,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

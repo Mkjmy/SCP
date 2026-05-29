@@ -1,23 +1,23 @@
 {
   "id": "npc_115",
   "bio": {
-    "full_name": "Steven Brown",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 23,
+    "full_name": "Daniel Dubois",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 30,
     "blood_type": "A+",
-    "genetic_stability": 0.952,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.948,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 80,
-    "build": "Overweight",
+    "height_cm": 163,
+    "weight_kg": 56,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 76,
-      "Hacking": 27,
-      "Occult_Research": 91
+      "Athletics": 41,
+      "Persuasion": 40,
+      "Occult_Research": 31
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 87,
     "personality_matrix": {
-      "openness": 23,
+      "openness": 76,
       "conscientiousness": 93,
-      "extraversion": 89,
-      "agreeableness": 95,
-      "neuroticism": 37
+      "extraversion": 94,
+      "agreeableness": 96,
+      "neuroticism": 45
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

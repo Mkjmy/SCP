@@ -1,23 +1,23 @@
 {
   "id": "npc_023",
   "bio": {
-    "full_name": "Richard Williams",
-    "gender": "Female",
+    "full_name": "Joseph O'Connor",
+    "gender": "Non-binary",
     "orientation": "Bisexual",
-    "age": 60,
-    "blood_type": "AB+",
-    "genetic_stability": 0.968,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 52,
+    "blood_type": "O+",
+    "genetic_stability": 0.99,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 106,
-    "build": "Overweight",
+    "height_cm": 175,
+    "weight_kg": 93,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Hacking": 90,
-      "Athletics": 84,
-      "Engineering": 94
+      "Occult_Research": 95,
+      "Firearms": 28,
+      "Athletics": 93
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 36,
-      "extraversion": 35,
-      "agreeableness": 28,
-      "neuroticism": 33
+      "openness": 11,
+      "conscientiousness": 77,
+      "extraversion": 88,
+      "agreeableness": 47,
+      "neuroticism": 2
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

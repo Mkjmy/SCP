@@ -1,23 +1,23 @@
 {
   "id": "npc_111",
   "bio": {
-    "full_name": "Robert Jones",
-    "gender": "Non-binary",
+    "full_name": "William Williams",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 34,
+    "age": 57,
     "blood_type": "AB+",
-    "genetic_stability": 0.972,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.994,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 101,
-    "build": "Stocky",
+    "height_cm": 163,
+    "weight_kg": 59,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Manicured",
+      "hair": "Dyed green, Shoulder-length",
       "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 77,
-      "Medicine": 31,
-      "Persuasion": 61
+      "Firearms": 32,
+      "Engineering": 16,
+      "Persuasion": 66
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 12,
-      "extraversion": 68,
-      "agreeableness": 93,
-      "neuroticism": 14
+      "openness": 76,
+      "conscientiousness": 31,
+      "extraversion": 25,
+      "agreeableness": 94,
+      "neuroticism": 79
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

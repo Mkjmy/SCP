@@ -1,23 +1,23 @@
 {
   "id": "npc_202",
   "bio": {
-    "full_name": "Fatima Brown",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 25,
-    "blood_type": "AB-",
-    "genetic_stability": 0.864,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Christopher Wong",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.985,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 110,
-    "build": "Athletic",
+    "height_cm": 194,
+    "weight_kg": 72,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Emerald green",
+      "hair": "Red, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Hacking": 70,
-      "Persuasion": 81,
-      "Engineering": 78
+      "Occult_Research": 59,
+      "Persuasion": 18,
+      "Engineering": 27
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 95,
-      "extraversion": 51,
-      "agreeableness": 40,
-      "neuroticism": 81
+      "openness": 55,
+      "conscientiousness": 15,
+      "extraversion": 12,
+      "agreeableness": 37,
+      "neuroticism": 26
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

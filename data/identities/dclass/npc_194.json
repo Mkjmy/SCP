@@ -1,23 +1,23 @@
 {
   "id": "npc_194",
   "bio": {
-    "full_name": "Daniel Muller",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 30,
-    "blood_type": "B-",
-    "genetic_stability": 0.98,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Paul Davis",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.864,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 70,
-    "build": "Stocky",
+    "height_cm": 181,
+    "weight_kg": 109,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Black, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 63,
-      "Firearms": 79,
-      "Perception": 32
+      "Occult_Research": 24,
+      "Containment_Logic": 69,
+      "Athletics": 30
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 87,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 73,
-      "extraversion": 77,
-      "agreeableness": 83,
-      "neuroticism": 83
+      "openness": 55,
+      "conscientiousness": 3,
+      "extraversion": 35,
+      "agreeableness": 36,
+      "neuroticism": 47
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

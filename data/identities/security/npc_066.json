@@ -1,60 +1,60 @@
 {
   "id": "npc_066",
   "bio": {
-    "full_name": "Lars Wong",
-    "gender": "Male",
+    "full_name": "Daniel Sato",
+    "gender": "Non-binary",
     "orientation": "Bisexual",
-    "age": 28,
+    "age": 58,
     "blood_type": "B-",
-    "genetic_stability": 0.902,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.925,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 75,
-    "build": "Frail",
+    "height_cm": 195,
+    "weight_kg": 107,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Athletics": 29,
-      "Persuasion": 15,
-      "Engineering": 10
+      "Firearms": 37,
+      "Persuasion": 85,
+      "Hacking": 72
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 95,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 59,
-      "extraversion": 96,
-      "agreeableness": 72,
-      "neuroticism": 79
+      "openness": 35,
+      "conscientiousness": 33,
+      "extraversion": 19,
+      "agreeableness": 19,
+      "neuroticism": 36
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

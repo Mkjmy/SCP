@@ -1,23 +1,23 @@
 {
   "id": "npc_141",
   "bio": {
-    "full_name": "Paul Kovacs",
-    "gender": "Male",
+    "full_name": "John Garcia",
+    "gender": "Non-binary",
     "orientation": "Asexual",
-    "age": 25,
-    "blood_type": "A-",
-    "genetic_stability": 0.942,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 26,
+    "blood_type": "O-",
+    "genetic_stability": 0.969,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 74,
+    "height_cm": 182,
+    "weight_kg": 69,
     "build": "Average",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 63,
-      "Stealth": 58,
-      "Firearms": 16
+      "Engineering": 70,
+      "Occult_Research": 68,
+      "Persuasion": 49
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 40,
-      "extraversion": 71,
-      "agreeableness": 91,
-      "neuroticism": 87
+      "openness": 54,
+      "conscientiousness": 85,
+      "extraversion": 97,
+      "agreeableness": 80,
+      "neuroticism": 1
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

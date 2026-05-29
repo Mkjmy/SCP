@@ -1,23 +1,23 @@
 {
   "id": "npc_113",
   "bio": {
-    "full_name": "John Jones",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 32,
-    "blood_type": "A-",
-    "genetic_stability": 0.95,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Charles Johnson",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.954,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 87,
-    "build": "Athletic",
+    "height_cm": 189,
+    "weight_kg": 64,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 25,
-      "Engineering": 46,
-      "Athletics": 31
+      "Engineering": 83,
+      "Medicine": 10,
+      "Containment_Logic": 71
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 90,
-      "extraversion": 68,
-      "agreeableness": 75,
-      "neuroticism": 100
+      "openness": 30,
+      "conscientiousness": 60,
+      "extraversion": 29,
+      "agreeableness": 47,
+      "neuroticism": 53
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

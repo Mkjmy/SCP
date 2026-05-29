@@ -1,23 +1,23 @@
 {
   "id": "npc_039",
   "bio": {
-    "full_name": "Yuki Johnson",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 54,
-    "blood_type": "A+",
-    "genetic_stability": 0.886,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Kenji Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "B+",
+    "genetic_stability": 0.891,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 109,
-    "build": "Frail",
+    "height_cm": 168,
+    "weight_kg": 90,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Black, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 51,
-      "Persuasion": 35,
-      "Containment_Logic": 56
+      "Engineering": 91,
+      "Athletics": 44,
+      "Persuasion": 45
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 31,
-      "extraversion": 59,
-      "agreeableness": 80,
-      "neuroticism": 72
+      "openness": 7,
+      "conscientiousness": 21,
+      "extraversion": 35,
+      "agreeableness": 8,
+      "neuroticism": 27
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

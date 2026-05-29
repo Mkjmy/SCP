@@ -1,60 +1,60 @@
 {
   "id": "npc_193",
   "bio": {
-    "full_name": "Kenji Dubois",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 47,
-    "blood_type": "A-",
-    "genetic_stability": 0.897,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Donald Wong",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 34,
+    "blood_type": "A+",
+    "genetic_stability": 0.862,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 105,
+    "height_cm": 172,
+    "weight_kg": 65,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Hazel",
+      "hair": "Black, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 74,
-      "Firearms": 38,
-      "Occult_Research": 53
+      "Persuasion": 32,
+      "Engineering": 83,
+      "Hacking": 65
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 17,
-      "extraversion": 49,
-      "agreeableness": 25,
-      "neuroticism": 85
+      "openness": 33,
+      "conscientiousness": 73,
+      "extraversion": 30,
+      "agreeableness": 32,
+      "neuroticism": 42
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

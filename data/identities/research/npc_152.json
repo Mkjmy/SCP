@@ -1,23 +1,23 @@
 {
   "id": "npc_152",
   "bio": {
-    "full_name": "Joseph Bakker",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 28,
+    "full_name": "Charles Miller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 64,
     "blood_type": "AB+",
-    "genetic_stability": 0.885,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.854,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 95,
-    "build": "Overweight",
+    "height_cm": 188,
+    "weight_kg": 56,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Grey, Bald",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Hacking": 16,
-      "Stealth": 51,
-      "Medicine": 28
+      "Engineering": 84,
+      "Perception": 84,
+      "Stealth": 87
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 162,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 100,
-      "extraversion": 75,
-      "agreeableness": 2,
-      "neuroticism": 90
+      "openness": 39,
+      "conscientiousness": 82,
+      "extraversion": 65,
+      "agreeableness": 10,
+      "neuroticism": 53
     },
     "phobias": [
       "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

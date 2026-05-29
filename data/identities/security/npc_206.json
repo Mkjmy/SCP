@@ -1,60 +1,60 @@
 {
   "id": "npc_206",
   "bio": {
-    "full_name": "Andrew Wong",
+    "full_name": "Steven O'Connor",
     "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 45,
-    "blood_type": "A+",
-    "genetic_stability": 0.855,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.955,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 84,
-    "build": "Stocky",
+    "height_cm": 172,
+    "weight_kg": 108,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Black, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 22,
-      "Medicine": 59,
-      "Persuasion": 32
+      "Stealth": 73,
+      "Occult_Research": 73,
+      "Containment_Logic": 39
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 38,
-      "conscientiousness": 78,
-      "extraversion": 44,
-      "agreeableness": 19,
-      "neuroticism": 87
+      "openness": 39,
+      "conscientiousness": 54,
+      "extraversion": 32,
+      "agreeableness": 33,
+      "neuroticism": 92
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
+      "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

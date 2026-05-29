@@ -1,60 +1,60 @@
 {
   "id": "npc_037",
   "bio": {
-    "full_name": "Christopher Sato",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 56,
-    "blood_type": "B+",
-    "genetic_stability": 0.988,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Charles Brown",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "B-",
+    "genetic_stability": 0.852,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 76,
-    "build": "Stocky",
+    "height_cm": 173,
+    "weight_kg": 84,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Silver, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 78,
-      "Medicine": 89,
-      "Firearms": 59
+      "Hacking": 87,
+      "Engineering": 66,
+      "Athletics": 59
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 84,
-      "conscientiousness": 38,
-      "extraversion": 50,
-      "agreeableness": 95,
-      "neuroticism": 75
+      "openness": 19,
+      "conscientiousness": 63,
+      "extraversion": 20,
+      "agreeableness": 58,
+      "neuroticism": 65
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
     "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_026",
   "bio": {
-    "full_name": "Thomas Ivanov",
-    "gender": "Transgender",
+    "full_name": "Kenji O'Connor",
+    "gender": "Male",
     "orientation": "Pansexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.998,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.909,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 106,
-    "build": "Lithe",
+    "height_cm": 184,
+    "weight_kg": 55,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Red, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Athletics": 56,
-      "Occult_Research": 28,
-      "Stealth": 18
+      "Medicine": 58,
+      "Stealth": 72,
+      "Athletics": 32
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 74,
-      "extraversion": 61,
-      "agreeableness": 47,
-      "neuroticism": 92
+      "openness": 91,
+      "conscientiousness": 30,
+      "extraversion": 14,
+      "agreeableness": 22,
+      "neuroticism": 5
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Secretly worships the Scarlet King",

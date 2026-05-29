@@ -1,60 +1,60 @@
 {
   "id": "npc_145",
   "bio": {
-    "full_name": "Joseph Smith",
-    "gender": "Male",
+    "full_name": "Sven Brown",
+    "gender": "Transgender",
     "orientation": "Pansexual",
-    "age": 56,
-    "blood_type": "B+",
-    "genetic_stability": 0.912,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.903,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 95,
-    "build": "Overweight",
+    "height_cm": 167,
+    "weight_kg": 56,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 94,
-      "Engineering": 10,
-      "Occult_Research": 67
+      "Hacking": 29,
+      "Perception": 32,
+      "Persuasion": 85
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 70,
-      "extraversion": 50,
-      "agreeableness": 53,
-      "neuroticism": 15
+      "openness": 80,
+      "conscientiousness": 43,
+      "extraversion": 90,
+      "agreeableness": 25,
+      "neuroticism": 41
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

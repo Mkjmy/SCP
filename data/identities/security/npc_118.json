@@ -1,23 +1,23 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "Sven Gupta",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 48,
-    "blood_type": "B+",
-    "genetic_stability": 0.913,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Thomas Schmidt",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.961,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 84,
+    "height_cm": 200,
+    "weight_kg": 68,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 22,
-      "Persuasion": 71,
-      "Containment_Logic": 67
+      "Athletics": 45,
+      "Hacking": 19,
+      "Occult_Research": 15
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 95,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 99,
-      "conscientiousness": 31,
-      "extraversion": 74,
-      "agreeableness": 18,
-      "neuroticism": 57
+      "openness": 2,
+      "conscientiousness": 0,
+      "extraversion": 26,
+      "agreeableness": 26,
+      "neuroticism": 35
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

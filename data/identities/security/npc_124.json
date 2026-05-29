@@ -1,60 +1,60 @@
 {
   "id": "npc_124",
   "bio": {
-    "full_name": "Fatima Wong",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 60,
-    "blood_type": "B+",
-    "genetic_stability": 0.861,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Joseph Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.855,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 61,
-    "build": "Lithe",
+    "height_cm": 165,
+    "weight_kg": 82,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Stealth": 49,
-      "Persuasion": 40,
-      "Firearms": 86
+      "Perception": 11,
+      "Persuasion": 84,
+      "Athletics": 33
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 58,
-      "extraversion": 63,
-      "agreeableness": 79,
-      "neuroticism": 23
+      "openness": 49,
+      "conscientiousness": 40,
+      "extraversion": 15,
+      "agreeableness": 50,
+      "neuroticism": 45
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

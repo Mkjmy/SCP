@@ -1,60 +1,60 @@
 {
   "id": "npc_048",
   "bio": {
-    "full_name": "David Bakker",
+    "full_name": "Joshua Bakker",
     "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 58,
-    "blood_type": "O-",
-    "genetic_stability": 0.984,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "A-",
+    "genetic_stability": 0.992,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 60,
-    "build": "Stocky",
+    "height_cm": 182,
+    "weight_kg": 70,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Hazel",
+      "hair": "Red, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 13,
-      "Firearms": 68,
-      "Medicine": 85
+      "Engineering": 34,
+      "Containment_Logic": 53,
+      "Perception": 90
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 82,
-      "extraversion": 32,
-      "agreeableness": 95,
-      "neuroticism": 81
+      "openness": 18,
+      "conscientiousness": 85,
+      "extraversion": 2,
+      "agreeableness": 88,
+      "neuroticism": 13
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

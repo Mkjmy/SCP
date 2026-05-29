@@ -1,60 +1,60 @@
 {
   "id": "npc_010",
   "bio": {
-    "full_name": "Chen Davis",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 59,
-    "blood_type": "O-",
-    "genetic_stability": 0.879,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "James Muller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "AB+",
+    "genetic_stability": 0.979,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 108,
-    "build": "Stocky",
+    "height_cm": 162,
+    "weight_kg": 87,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 16,
-      "Engineering": 89,
-      "Persuasion": 38
+      "Athletics": 24,
+      "Hacking": 21,
+      "Containment_Logic": 44
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 117,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 84,
-      "conscientiousness": 64,
-      "extraversion": 29,
-      "agreeableness": 20,
-      "neuroticism": 58
+      "openness": 59,
+      "conscientiousness": 98,
+      "extraversion": 80,
+      "agreeableness": 91,
+      "neuroticism": 23
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

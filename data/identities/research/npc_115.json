@@ -1,23 +1,23 @@
 {
   "id": "npc_115",
   "bio": {
-    "full_name": "Richard Johnson",
-    "gender": "Male",
+    "full_name": "Michael Schmidt",
+    "gender": "Female",
     "orientation": "Homosexual",
-    "age": 48,
-    "blood_type": "AB+",
-    "genetic_stability": 0.967,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 34,
+    "blood_type": "O-",
+    "genetic_stability": 0.933,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 83,
-    "build": "Overweight",
+    "height_cm": 168,
+    "weight_kg": 64,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Icy blue",
+      "hair": "Black, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Hums classical music"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Firearms": 39,
-      "Stealth": 13,
-      "Occult_Research": 28
+      "Persuasion": 66,
+      "Athletics": 28,
+      "Hacking": 10
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 75,
-      "extraversion": 53,
-      "agreeableness": 34,
-      "neuroticism": 72
+      "openness": 92,
+      "conscientiousness": 9,
+      "extraversion": 75,
+      "agreeableness": 61,
+      "neuroticism": 25
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",

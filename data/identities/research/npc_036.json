@@ -1,23 +1,23 @@
 {
   "id": "npc_036",
   "bio": {
-    "full_name": "Matthew Miller",
+    "full_name": "Chen Davis",
     "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 29,
+    "orientation": "Asexual",
+    "age": 30,
     "blood_type": "AB+",
-    "genetic_stability": 0.853,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.965,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 95,
-    "build": "Average",
+    "height_cm": 173,
+    "weight_kg": 93,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Amber",
+      "hair": "White, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 71,
-      "Firearms": 35,
-      "Stealth": 73
+      "Athletics": 27,
+      "Engineering": 93,
+      "Hacking": 67
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 97,
-      "extraversion": 38,
-      "agreeableness": 66,
-      "neuroticism": 60
+      "openness": 28,
+      "conscientiousness": 75,
+      "extraversion": 16,
+      "agreeableness": 54,
+      "neuroticism": 43
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

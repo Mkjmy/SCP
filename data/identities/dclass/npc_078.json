@@ -1,23 +1,23 @@
 {
   "id": "npc_078",
   "bio": {
-    "full_name": "Mark Muller",
-    "gender": "Female",
-    "orientation": "Asexual",
+    "full_name": "Anthony Davis",
+    "gender": "Male",
+    "orientation": "Heterosexual",
     "age": 42,
-    "blood_type": "AB-",
-    "genetic_stability": 0.852,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "blood_type": "A+",
+    "genetic_stability": 0.908,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
     "height_cm": 160,
-    "weight_kg": 62,
-    "build": "Average",
+    "weight_kg": 76,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Wild and unkempt",
+      "hair": "Dyed green, Pompadour",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 51,
-      "Medicine": 80,
-      "Firearms": 80
+      "Firearms": 60,
+      "Perception": 85,
+      "Stealth": 30
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 68,
-      "extraversion": 27,
-      "agreeableness": 64,
-      "neuroticism": 80
+      "openness": 51,
+      "conscientiousness": 3,
+      "extraversion": 30,
+      "agreeableness": 36,
+      "neuroticism": 26
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
     "mental_stability": 0.58
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
+      "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

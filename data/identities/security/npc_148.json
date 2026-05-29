@@ -1,60 +1,60 @@
 {
   "id": "npc_148",
   "bio": {
-    "full_name": "Elena Davis",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 63,
-    "blood_type": "B-",
-    "genetic_stability": 0.985,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "William O'Connor",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.938,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 56,
-    "build": "Frail",
+    "height_cm": 159,
+    "weight_kg": 58,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
+      "hair": "Dyed blue, Shoulder-length",
       "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 26,
-      "Occult_Research": 19,
-      "Persuasion": 87
+      "Medicine": 40,
+      "Firearms": 62,
+      "Occult_Research": 44
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 153,
     "personality_matrix": {
       "openness": 55,
-      "conscientiousness": 38,
-      "extraversion": 39,
-      "agreeableness": 20,
-      "neuroticism": 24
+      "conscientiousness": 27,
+      "extraversion": 19,
+      "agreeableness": 83,
+      "neuroticism": 0
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_101",
   "bio": {
-    "full_name": "David Muller",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 28,
-    "blood_type": "B+",
-    "genetic_stability": 0.994,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Charles Wong",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.954,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 54,
-    "build": "Frail",
+    "height_cm": 183,
+    "weight_kg": 98,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
         "Nail biter"
       ]
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 18,
-      "Medicine": 41,
-      "Persuasion": 27
+      "Persuasion": 22,
+      "Medicine": 52,
+      "Firearms": 33
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 63,
-      "extraversion": 40,
-      "agreeableness": 94,
-      "neuroticism": 25
+      "openness": 89,
+      "conscientiousness": 34,
+      "extraversion": 78,
+      "agreeableness": 25,
+      "neuroticism": 31
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",

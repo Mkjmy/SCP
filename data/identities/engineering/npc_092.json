@@ -1,23 +1,23 @@
 {
   "id": "npc_092",
   "bio": {
-    "full_name": "James Williams",
+    "full_name": "Maria Bakker",
     "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 24,
+    "orientation": "Pansexual",
+    "age": 23,
     "blood_type": "B-",
-    "genetic_stability": 0.931,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.91,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 54,
-    "build": "Overweight",
+    "height_cm": 159,
+    "weight_kg": 71,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Amber",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 95,
-      "Athletics": 17,
-      "Stealth": 28
+      "Engineering": 10,
+      "Stealth": 30,
+      "Medicine": 68
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 26,
-      "extraversion": 0,
-      "agreeableness": 40,
-      "neuroticism": 79
+      "openness": 47,
+      "conscientiousness": 24,
+      "extraversion": 67,
+      "agreeableness": 6,
+      "neuroticism": 46
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_137",
   "bio": {
-    "full_name": "Maria Sato",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 33,
-    "blood_type": "A+",
-    "genetic_stability": 0.91,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Charles Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "B+",
+    "genetic_stability": 0.907,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
     "height_cm": 177,
-    "weight_kg": 86,
-    "build": "Athletic",
+    "weight_kg": 65,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Red, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Occult_Research": 84,
-      "Medicine": 20,
-      "Athletics": 90
+      "Hacking": 54,
+      "Perception": 68,
+      "Medicine": 80
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 100,
-      "extraversion": 8,
-      "agreeableness": 64,
-      "neuroticism": 24
+      "openness": 17,
+      "conscientiousness": 78,
+      "extraversion": 95,
+      "agreeableness": 72,
+      "neuroticism": 41
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

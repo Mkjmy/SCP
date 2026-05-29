@@ -1,23 +1,23 @@
 {
   "id": "npc_097",
   "bio": {
-    "full_name": "Christopher Miller",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 41,
-    "blood_type": "AB-",
-    "genetic_stability": 0.923,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Charles Dubois",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.866,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 57,
-    "build": "Stocky",
+    "height_cm": 196,
+    "weight_kg": 88,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 33,
-      "Medicine": 64,
-      "Perception": 38
+      "Medicine": 72,
+      "Occult_Research": 73,
+      "Containment_Logic": 58
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 82,
+    "iq": 81,
     "personality_matrix": {
-      "openness": 30,
-      "conscientiousness": 99,
-      "extraversion": 71,
-      "agreeableness": 34,
-      "neuroticism": 29
+      "openness": 27,
+      "conscientiousness": 2,
+      "extraversion": 96,
+      "agreeableness": 43,
+      "neuroticism": 88
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

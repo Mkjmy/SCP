@@ -1,60 +1,60 @@
 {
   "id": "npc_197",
   "bio": {
-    "full_name": "Arjun Garcia",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 62,
-    "blood_type": "A+",
-    "genetic_stability": 0.875,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Thomas Davis",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.85,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 66,
-    "build": "Frail",
+    "height_cm": 165,
+    "weight_kg": 99,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Occult_Research": 38,
-      "Engineering": 15,
-      "Perception": 19
+      "Hacking": 55,
+      "Firearms": 83,
+      "Engineering": 30
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 133,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 51,
-      "conscientiousness": 68,
-      "extraversion": 16,
-      "agreeableness": 85,
-      "neuroticism": 84
+      "openness": 49,
+      "conscientiousness": 80,
+      "extraversion": 38,
+      "agreeableness": 98,
+      "neuroticism": 73
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

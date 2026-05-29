@@ -1,23 +1,23 @@
 {
   "id": "npc_106",
   "bio": {
-    "full_name": "William Bakker",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 41,
-    "blood_type": "B-",
-    "genetic_stability": 0.867,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Steven Gupta",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 57,
+    "blood_type": "AB-",
+    "genetic_stability": 0.994,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 85,
-    "build": "Average",
+    "height_cm": 191,
+    "weight_kg": 56,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Emerald green",
+      "hair": "Black, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 94,
-      "Containment_Logic": 38,
-      "Hacking": 62
+      "Stealth": 74,
+      "Medicine": 38,
+      "Perception": 56
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 69,
-      "extraversion": 100,
+      "openness": 26,
+      "conscientiousness": 62,
+      "extraversion": 87,
       "agreeableness": 69,
-      "neuroticism": 62
+      "neuroticism": 48
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_184",
   "bio": {
-    "full_name": "Donald Sato",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 65,
-    "blood_type": "AB-",
-    "genetic_stability": 0.919,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Steven Davis",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "A-",
+    "genetic_stability": 0.872,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 108,
-    "build": "Lithe",
+    "height_cm": 188,
+    "weight_kg": 67,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Bald",
-      "eyes": "Deep brown",
+      "hair": "Red, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 49,
-      "Occult_Research": 47,
-      "Firearms": 37
+      "Medicine": 25,
+      "Occult_Research": 76,
+      "Hacking": 65
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 18,
-      "extraversion": 34,
-      "agreeableness": 69,
-      "neuroticism": 86
+      "openness": 16,
+      "conscientiousness": 71,
+      "extraversion": 85,
+      "agreeableness": 8,
+      "neuroticism": 57
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

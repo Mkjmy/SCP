@@ -1,60 +1,60 @@
 {
   "id": "npc_119",
   "bio": {
-    "full_name": "Yuki Johnson",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 51,
-    "blood_type": "O+",
-    "genetic_stability": 0.914,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Anthony Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.908,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 103,
-    "build": "Heavily Muscular",
+    "height_cm": 190,
+    "weight_kg": 65,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Red, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Engineering": 49,
-      "Persuasion": 79,
-      "Occult_Research": 75
+      "Perception": 52,
+      "Engineering": 95,
+      "Occult_Research": 24
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 25,
-      "extraversion": 0,
-      "agreeableness": 65,
-      "neuroticism": 88
+      "openness": 56,
+      "conscientiousness": 70,
+      "extraversion": 75,
+      "agreeableness": 9,
+      "neuroticism": 3
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

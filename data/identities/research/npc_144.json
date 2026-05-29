@@ -1,23 +1,23 @@
 {
   "id": "npc_144",
   "bio": {
-    "full_name": "Andrew Dubois",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 61,
+    "full_name": "James Tanaka",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 42,
     "blood_type": "B+",
-    "genetic_stability": 0.879,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.967,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 78,
-    "build": "Overweight",
+    "height_cm": 180,
+    "weight_kg": 93,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Occult_Research": 27,
-      "Engineering": 77,
-      "Persuasion": 52
+      "Stealth": 16,
+      "Perception": 25,
+      "Firearms": 77
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 0,
-      "conscientiousness": 69,
-      "extraversion": 12,
-      "agreeableness": 60,
-      "neuroticism": 86
+      "openness": 9,
+      "conscientiousness": 29,
+      "extraversion": 2,
+      "agreeableness": 86,
+      "neuroticism": 94
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

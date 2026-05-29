@@ -1,23 +1,23 @@
 {
   "id": "npc_139",
   "bio": {
-    "full_name": "Elena Smith",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 39,
+    "full_name": "Richard Jones",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 52,
     "blood_type": "O+",
-    "genetic_stability": 0.976,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.866,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 55,
-    "build": "Frail",
+    "height_cm": 171,
+    "weight_kg": 91,
+    "build": "Average",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Grey",
+      "hair": "Silver, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Medicine": 50,
-      "Stealth": 89,
-      "Occult_Research": 46
+      "Medicine": 34,
+      "Containment_Logic": 61,
+      "Firearms": 15
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 39,
-      "conscientiousness": 37,
-      "extraversion": 32,
-      "agreeableness": 72,
-      "neuroticism": 62
+      "openness": 22,
+      "conscientiousness": 85,
+      "extraversion": 34,
+      "agreeableness": 93,
+      "neuroticism": 80
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

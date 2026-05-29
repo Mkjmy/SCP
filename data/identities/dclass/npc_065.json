@@ -1,23 +1,23 @@
 {
   "id": "npc_065",
   "bio": {
-    "full_name": "William O'Connor",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 42,
-    "blood_type": "AB-",
-    "genetic_stability": 0.871,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Yuki Gupta",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "A+",
+    "genetic_stability": 0.98,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 61,
-    "build": "Frail",
+    "height_cm": 189,
+    "weight_kg": 77,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Sharp blue",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 81,
-      "Stealth": 29,
-      "Hacking": 26
+      "Athletics": 34,
+      "Stealth": 44,
+      "Occult_Research": 85
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 87,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 18,
-      "extraversion": 57,
-      "agreeableness": 32,
-      "neuroticism": 84
+      "openness": 93,
+      "conscientiousness": 34,
+      "extraversion": 10,
+      "agreeableness": 91,
+      "neuroticism": 96
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

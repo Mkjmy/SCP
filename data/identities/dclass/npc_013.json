@@ -1,23 +1,23 @@
 {
   "id": "npc_013",
   "bio": {
-    "full_name": "Maria Jones",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 42,
-    "blood_type": "O+",
-    "genetic_stability": 0.868,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Fatima Smith",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.952,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 97,
+    "height_cm": 175,
+    "weight_kg": 76,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 39,
-      "Containment_Logic": 81,
-      "Hacking": 95
+      "Hacking": 56,
+      "Containment_Logic": 55,
+      "Persuasion": 79
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 83,
+    "iq": 82,
     "personality_matrix": {
-      "openness": 58,
-      "conscientiousness": 25,
-      "extraversion": 71,
-      "agreeableness": 55,
-      "neuroticism": 98
+      "openness": 5,
+      "conscientiousness": 99,
+      "extraversion": 59,
+      "agreeableness": 88,
+      "neuroticism": 20
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

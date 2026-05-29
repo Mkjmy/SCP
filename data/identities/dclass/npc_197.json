@@ -1,23 +1,23 @@
 {
   "id": "npc_197",
   "bio": {
-    "full_name": "Fatima Gupta",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 36,
-    "blood_type": "B+",
-    "genetic_stability": 0.859,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Daniel Brown",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 21,
+    "blood_type": "A-",
+    "genetic_stability": 0.869,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 110,
+    "height_cm": 169,
+    "weight_kg": 72,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Amber",
+      "hair": "Grey, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 47,
-      "Medicine": 45,
-      "Stealth": 87
+      "Athletics": 51,
+      "Medicine": 27,
+      "Persuasion": 84
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 89,
-      "extraversion": 95,
-      "agreeableness": 6,
-      "neuroticism": 82
+      "openness": 3,
+      "conscientiousness": 18,
+      "extraversion": 22,
+      "agreeableness": 50,
+      "neuroticism": 17
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

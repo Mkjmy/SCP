@@ -1,23 +1,23 @@
 {
   "id": "npc_178",
   "bio": {
-    "full_name": "Andrew Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 45,
-    "blood_type": "AB-",
-    "genetic_stability": 0.951,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Lars Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 54,
+    "blood_type": "B+",
+    "genetic_stability": 0.948,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 92,
-    "build": "Lithe",
+    "height_cm": 178,
+    "weight_kg": 101,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Manicured",
-      "eyes": "Grey",
+      "hair": "White, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 26,
-      "Persuasion": 20,
-      "Occult_Research": 90
+      "Containment_Logic": 74,
+      "Hacking": 27,
+      "Engineering": 58
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 100,
-      "extraversion": 37,
-      "agreeableness": 57,
-      "neuroticism": 31
+      "openness": 97,
+      "conscientiousness": 97,
+      "extraversion": 57,
+      "agreeableness": 81,
+      "neuroticism": 29
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.58
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
+      "amount": 100000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

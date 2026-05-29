@@ -1,60 +1,60 @@
 {
   "id": "npc_109",
   "bio": {
-    "full_name": "James Smith",
-    "gender": "Female",
+    "full_name": "Andrew Wong",
+    "gender": "Non-binary",
     "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "AB+",
-    "genetic_stability": 0.967,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 39,
+    "blood_type": "A-",
+    "genetic_stability": 0.904,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 82,
-    "build": "Overweight",
+    "height_cm": 174,
+    "weight_kg": 106,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Bald",
-      "eyes": "Deep brown",
+      "hair": "Brown, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Hacking": 37,
-      "Athletics": 42,
-      "Stealth": 44
+      "Engineering": 76,
+      "Containment_Logic": 88,
+      "Occult_Research": 37
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 33,
-      "extraversion": 75,
-      "agreeableness": 59,
-      "neuroticism": 18
+      "openness": 5,
+      "conscientiousness": 68,
+      "extraversion": 0,
+      "agreeableness": 60,
+      "neuroticism": 37
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

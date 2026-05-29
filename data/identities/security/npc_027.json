@@ -1,23 +1,23 @@
 {
   "id": "npc_027",
   "bio": {
-    "full_name": "Matthew Vasiliev",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 61,
-    "blood_type": "O-",
-    "genetic_stability": 0.912,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Daniel Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.877,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 90,
-    "build": "Lithe",
+    "height_cm": 161,
+    "weight_kg": 60,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Dyed green, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Hacking": 14,
-      "Stealth": 48,
-      "Perception": 90
+      "Containment_Logic": 94,
+      "Medicine": 16,
+      "Occult_Research": 31
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 82,
-      "extraversion": 71,
-      "agreeableness": 43,
-      "neuroticism": 87
+      "openness": 27,
+      "conscientiousness": 1,
+      "extraversion": 81,
+      "agreeableness": 2,
+      "neuroticism": 14
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_065",
   "bio": {
-    "full_name": "Joseph Wong",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 30,
-    "blood_type": "AB-",
-    "genetic_stability": 0.948,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Daniel Bakker",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 53,
+    "blood_type": "A+",
+    "genetic_stability": 0.981,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 102,
-    "build": "Lithe",
+    "height_cm": 161,
+    "weight_kg": 92,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Red, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Hacking": 41,
-      "Stealth": 86,
-      "Persuasion": 89
+      "Containment_Logic": 24,
+      "Occult_Research": 76,
+      "Medicine": 31
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 23,
-      "extraversion": 50,
-      "agreeableness": 4,
-      "neuroticism": 39
+      "openness": 80,
+      "conscientiousness": 70,
+      "extraversion": 44,
+      "agreeableness": 1,
+      "neuroticism": 67
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

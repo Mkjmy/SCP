@@ -1,23 +1,23 @@
 {
   "id": "npc_084",
   "bio": {
-    "full_name": "Joshua Johnson",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 63,
-    "blood_type": "B-",
-    "genetic_stability": 0.999,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "John Jones",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.991,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 52,
-    "build": "Heavily Muscular",
+    "height_cm": 169,
+    "weight_kg": 60,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -27,25 +27,25 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Persuasion": 28,
-      "Perception": 80,
-      "Occult_Research": 30
+      "Firearms": 37,
+      "Athletics": 10,
+      "Persuasion": 84
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 39,
-      "extraversion": 81,
-      "agreeableness": 91,
-      "neuroticism": 88
+      "openness": 9,
+      "conscientiousness": 44,
+      "extraversion": 14,
+      "agreeableness": 100,
+      "neuroticism": 35
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
@@ -54,7 +54,7 @@
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

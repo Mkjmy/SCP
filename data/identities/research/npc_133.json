@@ -1,23 +1,23 @@
 {
   "id": "npc_133",
   "bio": {
-    "full_name": "Daniel Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 24,
-    "blood_type": "A+",
-    "genetic_stability": 0.924,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Arjun Schmidt",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "B+",
+    "genetic_stability": 0.86,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 63,
-    "build": "Average",
+    "height_cm": 170,
+    "weight_kg": 50,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
+      "hair": "Dyed blue, Ponytail",
       "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Engineering": 45,
-      "Medicine": 85,
-      "Perception": 13
+      "Persuasion": 68,
+      "Perception": 22,
+      "Medicine": 59
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 84,
-      "extraversion": 93,
-      "agreeableness": 92,
-      "neuroticism": 54
+      "openness": 9,
+      "conscientiousness": 77,
+      "extraversion": 84,
+      "agreeableness": 33,
+      "neuroticism": 52
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 5000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

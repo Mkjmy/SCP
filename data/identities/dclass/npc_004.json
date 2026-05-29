@@ -1,23 +1,23 @@
 {
   "id": "npc_004",
   "bio": {
-    "full_name": "Olga Williams",
-    "gender": "Transgender",
+    "full_name": "Charles Johnson",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 30,
-    "blood_type": "AB-",
-    "genetic_stability": 0.977,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 42,
+    "blood_type": "A-",
+    "genetic_stability": 0.913,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 51,
-    "build": "Athletic",
+    "height_cm": 183,
+    "weight_kg": 55,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 63,
-      "Medicine": 61,
-      "Containment_Logic": 29
+      "Engineering": 95,
+      "Stealth": 74,
+      "Hacking": 64
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 21,
-      "extraversion": 49,
-      "agreeableness": 70,
-      "neuroticism": 69
+      "openness": 79,
+      "conscientiousness": 55,
+      "extraversion": 13,
+      "agreeableness": 42,
+      "neuroticism": 87
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

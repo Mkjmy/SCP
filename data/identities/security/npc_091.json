@@ -1,60 +1,60 @@
 {
   "id": "npc_091",
   "bio": {
-    "full_name": "Elena Sato",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 47,
-    "blood_type": "O+",
-    "genetic_stability": 0.957,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "James Bakker",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "A-",
+    "genetic_stability": 0.938,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 106,
-    "build": "Athletic",
+    "height_cm": 199,
+    "weight_kg": 80,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Grey, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 84,
-      "Athletics": 11,
-      "Engineering": 27
+      "Perception": 35,
+      "Stealth": 51,
+      "Persuasion": 57
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 90,
-      "extraversion": 62,
-      "agreeableness": 38,
-      "neuroticism": 79
+      "openness": 1,
+      "conscientiousness": 64,
+      "extraversion": 63,
+      "agreeableness": 0,
+      "neuroticism": 26
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

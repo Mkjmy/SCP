@@ -1,60 +1,60 @@
 {
   "id": "npc_069",
   "bio": {
-    "full_name": "Olga Kovacs",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 33,
-    "blood_type": "O+",
-    "genetic_stability": 0.987,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Anthony Muller",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "AB+",
+    "genetic_stability": 0.877,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 100,
-    "build": "Athletic",
+    "height_cm": 158,
+    "weight_kg": 83,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Red, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 50,
-      "Engineering": 59,
-      "Perception": 61
+      "Firearms": 84,
+      "Containment_Logic": 65,
+      "Persuasion": 31
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 29,
-      "extraversion": 84,
-      "agreeableness": 91,
-      "neuroticism": 39
+      "openness": 34,
+      "conscientiousness": 0,
+      "extraversion": 62,
+      "agreeableness": 79,
+      "neuroticism": 49
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

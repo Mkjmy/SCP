@@ -1,23 +1,23 @@
 {
   "id": "npc_142",
   "bio": {
-    "full_name": "Joseph Williams",
-    "gender": "Male",
+    "full_name": "Andrew Dubois",
+    "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 44,
-    "blood_type": "B-",
-    "genetic_stability": 0.883,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.99,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 109,
-    "build": "Slender",
+    "height_cm": 180,
+    "weight_kg": 87,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 65,
-      "Occult_Research": 41,
-      "Athletics": 46
+      "Perception": 47,
+      "Containment_Logic": 35,
+      "Hacking": 52
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 8,
-      "extraversion": 67,
-      "agreeableness": 10,
-      "neuroticism": 56
+      "openness": 42,
+      "conscientiousness": 54,
+      "extraversion": 34,
+      "agreeableness": 40,
+      "neuroticism": 98
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

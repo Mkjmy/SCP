@@ -1,23 +1,23 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "Robert Dubois",
-    "gender": "Female",
+    "full_name": "Anthony O'Connor",
+    "gender": "Male",
     "orientation": "Bisexual",
-    "age": 55,
-    "blood_type": "A+",
-    "genetic_stability": 0.901,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 54,
+    "blood_type": "B+",
+    "genetic_stability": 0.932,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 91,
-    "build": "Frail",
+    "height_cm": 184,
+    "weight_kg": 96,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
+      "hair": "Black, Fade",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 92,
-      "Engineering": 73,
-      "Stealth": 81
+      "Occult_Research": 70,
+      "Perception": 78,
+      "Firearms": 67
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 87,
-      "extraversion": 1,
-      "agreeableness": 30,
-      "neuroticism": 31
+      "openness": 24,
+      "conscientiousness": 4,
+      "extraversion": 13,
+      "agreeableness": 31,
+      "neuroticism": 1
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

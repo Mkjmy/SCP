@@ -1,23 +1,23 @@
 {
   "id": "npc_202",
   "bio": {
-    "full_name": "Christopher Dubois",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 22,
-    "blood_type": "A-",
-    "genetic_stability": 0.947,
+    "full_name": "Robert Brown",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.887,
     "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 85,
-    "build": "Stocky",
+    "height_cm": 174,
+    "weight_kg": 72,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Black, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 82,
-      "Athletics": 95,
-      "Persuasion": 46
+      "Perception": 17,
+      "Persuasion": 75,
+      "Athletics": 19
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 46,
-      "extraversion": 1,
-      "agreeableness": 18,
-      "neuroticism": 67
+      "openness": 1,
+      "conscientiousness": 83,
+      "extraversion": 68,
+      "agreeableness": 22,
+      "neuroticism": 95
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

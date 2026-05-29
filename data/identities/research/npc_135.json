@@ -1,23 +1,23 @@
 {
   "id": "npc_135",
   "bio": {
-    "full_name": "Thomas Ivanov",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 55,
-    "blood_type": "O-",
-    "genetic_stability": 0.932,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Lars Kovacs",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.971,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 105,
-    "build": "Average",
+    "height_cm": 189,
+    "weight_kg": 59,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
-      "eyes": "Grey",
+      "hair": "Grey, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Perception": 42,
-      "Athletics": 14,
-      "Hacking": 88
+      "Engineering": 92,
+      "Medicine": 54,
+      "Firearms": 41
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 121,
     "personality_matrix": {
       "openness": 71,
-      "conscientiousness": 12,
-      "extraversion": 100,
-      "agreeableness": 65,
-      "neuroticism": 96
+      "conscientiousness": 22,
+      "extraversion": 75,
+      "agreeableness": 95,
+      "neuroticism": 32
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
       "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

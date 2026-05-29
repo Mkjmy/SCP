@@ -1,60 +1,60 @@
 {
   "id": "npc_112",
   "bio": {
-    "full_name": "Lars Gupta",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 46,
-    "blood_type": "B-",
-    "genetic_stability": 0.957,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Maria Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "AB-",
+    "genetic_stability": 0.988,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 84,
-    "build": "Overweight",
+    "height_cm": 164,
+    "weight_kg": 97,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 39,
-      "Occult_Research": 58,
-      "Firearms": 51
+      "Containment_Logic": 37,
+      "Persuasion": 90,
+      "Athletics": 28
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 99,
-      "conscientiousness": 65,
-      "extraversion": 15,
-      "agreeableness": 5,
-      "neuroticism": 58
+      "openness": 33,
+      "conscientiousness": 23,
+      "extraversion": 60,
+      "agreeableness": 53,
+      "neuroticism": 34
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

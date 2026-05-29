@@ -1,23 +1,23 @@
 {
   "id": "npc_022",
   "bio": {
-    "full_name": "David Tanaka",
+    "full_name": "John Jones",
     "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 31,
-    "blood_type": "O+",
-    "genetic_stability": 0.923,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.988,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 52,
-    "build": "Slender",
+    "height_cm": 193,
+    "weight_kg": 61,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Containment_Logic": 60,
-      "Athletics": 39,
-      "Perception": 72
+      "Stealth": 19,
+      "Occult_Research": 11,
+      "Containment_Logic": 52
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 65,
-      "conscientiousness": 74,
-      "extraversion": 17,
-      "agreeableness": 4,
-      "neuroticism": 50
+      "openness": 89,
+      "conscientiousness": 34,
+      "extraversion": 69,
+      "agreeableness": 81,
+      "neuroticism": 33
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_122",
   "bio": {
-    "full_name": "William Ivanov",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 25,
-    "blood_type": "O-",
-    "genetic_stability": 0.88,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Richard Jones",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "A-",
+    "genetic_stability": 0.957,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 52,
-    "build": "Heavily Muscular",
+    "height_cm": 177,
+    "weight_kg": 70,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 12,
-      "Perception": 13,
-      "Containment_Logic": 87
+      "Medicine": 34,
+      "Occult_Research": 75,
+      "Athletics": 94
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 165,
+    "iq": 162,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 30,
-      "extraversion": 9,
-      "agreeableness": 98,
-      "neuroticism": 91
+      "openness": 38,
+      "conscientiousness": 77,
+      "extraversion": 4,
+      "agreeableness": 45,
+      "neuroticism": 5
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

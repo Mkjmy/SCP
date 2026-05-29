@@ -1,60 +1,60 @@
 {
   "id": "npc_054",
   "bio": {
-    "full_name": "Christopher Miller",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 32,
-    "blood_type": "B+",
-    "genetic_stability": 0.921,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Kenji Sato",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.869,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 108,
-    "build": "Slender",
+    "height_cm": 175,
+    "weight_kg": 76,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Messy",
+      "hair": "Grey, Manicured",
       "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 61,
-      "Engineering": 45,
-      "Occult_Research": 44
+      "Containment_Logic": 23,
+      "Medicine": 66,
+      "Perception": 67
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 35,
-      "extraversion": 51,
-      "agreeableness": 38,
-      "neuroticism": 15
+      "openness": 8,
+      "conscientiousness": 41,
+      "extraversion": 22,
+      "agreeableness": 49,
+      "neuroticism": 26
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

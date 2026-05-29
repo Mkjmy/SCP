@@ -1,23 +1,23 @@
 {
   "id": "npc_117",
   "bio": {
-    "full_name": "Maria O'Connor",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 42,
-    "blood_type": "AB+",
-    "genetic_stability": 0.963,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Arjun Wong",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "O+",
+    "genetic_stability": 0.938,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 110,
-    "build": "Slender",
+    "height_cm": 161,
+    "weight_kg": 80,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 84,
-      "Medicine": 80,
-      "Engineering": 53
+      "Medicine": 22,
+      "Firearms": 85,
+      "Athletics": 58
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 84,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 65,
-      "extraversion": 79,
-      "agreeableness": 30,
-      "neuroticism": 5
+      "openness": 68,
+      "conscientiousness": 57,
+      "extraversion": 61,
+      "agreeableness": 14,
+      "neuroticism": 13
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

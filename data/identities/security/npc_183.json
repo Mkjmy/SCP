@@ -1,23 +1,23 @@
 {
   "id": "npc_183",
   "bio": {
-    "full_name": "Kenji Bakker",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 37,
-    "blood_type": "B-",
-    "genetic_stability": 0.901,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Arjun Garcia",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.968,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 59,
-    "build": "Heavily Muscular",
+    "height_cm": 191,
+    "weight_kg": 75,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Deep brown",
+      "hair": "Red, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Medicine": 87,
-      "Stealth": 29,
-      "Perception": 51
+      "Hacking": 38,
+      "Perception": 10,
+      "Containment_Logic": 53
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 43,
-      "conscientiousness": 19,
-      "extraversion": 28,
-      "agreeableness": 68,
-      "neuroticism": 69
+      "openness": 6,
+      "conscientiousness": 9,
+      "extraversion": 94,
+      "agreeableness": 51,
+      "neuroticism": 21
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
       "amount": 5000,
-      "creditor": "Local Mob"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_156",
   "bio": {
-    "full_name": "Donald Schmidt",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 34,
-    "blood_type": "A+",
-    "genetic_stability": 0.934,
+    "full_name": "Charles Brown",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "AB+",
+    "genetic_stability": 0.871,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 59,
-    "build": "Average",
+    "height_cm": 170,
+    "weight_kg": 100,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Firearms": 46,
-      "Containment_Logic": 77,
-      "Stealth": 66
+      "Persuasion": 25,
+      "Firearms": 38,
+      "Perception": 74
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 142,
     "personality_matrix": {
-      "openness": 83,
-      "conscientiousness": 67,
-      "extraversion": 84,
-      "agreeableness": 65,
-      "neuroticism": 0
+      "openness": 68,
+      "conscientiousness": 88,
+      "extraversion": 12,
+      "agreeableness": 54,
+      "neuroticism": 85
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_074",
   "bio": {
-    "full_name": "Lars O'Connor",
-    "gender": "Male",
+    "full_name": "Chen Brown",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 44,
-    "blood_type": "O-",
-    "genetic_stability": 0.947,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.982,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 86,
-    "build": "Average",
+    "height_cm": 166,
+    "weight_kg": 93,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Grey, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Occult_Research": 64,
-      "Perception": 71,
-      "Stealth": 17
+      "Stealth": 11,
+      "Perception": 70,
+      "Containment_Logic": 31
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 18,
-      "extraversion": 30,
-      "agreeableness": 66,
-      "neuroticism": 83
+      "openness": 75,
+      "conscientiousness": 59,
+      "extraversion": 73,
+      "agreeableness": 58,
+      "neuroticism": 97
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

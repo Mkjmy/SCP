@@ -1,23 +1,23 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "Chen Williams",
+    "full_name": "Paul Muller",
     "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 40,
-    "blood_type": "B+",
-    "genetic_stability": 0.913,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "B-",
+    "genetic_stability": 0.949,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 108,
-    "build": "Stocky",
+    "height_cm": 163,
+    "weight_kg": 89,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 18,
-      "Hacking": 16,
-      "Persuasion": 69
+      "Medicine": 19,
+      "Occult_Research": 25,
+      "Hacking": 88
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 15,
-      "extraversion": 81,
-      "agreeableness": 42,
-      "neuroticism": 78
+      "openness": 59,
+      "conscientiousness": 10,
+      "extraversion": 98,
+      "agreeableness": 19,
+      "neuroticism": 43
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

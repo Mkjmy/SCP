@@ -1,23 +1,23 @@
 {
   "id": "npc_146",
   "bio": {
-    "full_name": "Paul Miller",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 32,
+    "full_name": "Yuki Schmidt",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 36,
     "blood_type": "A+",
-    "genetic_stability": 0.97,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.896,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 57,
-    "build": "Stocky",
+    "height_cm": 200,
+    "weight_kg": 55,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Bald",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Medicine": 50,
-      "Stealth": 22,
-      "Occult_Research": 68
+      "Containment_Logic": 38,
+      "Hacking": 35,
+      "Stealth": 76
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 98,
-      "extraversion": 43,
-      "agreeableness": 39,
-      "neuroticism": 96
+      "openness": 49,
+      "conscientiousness": 12,
+      "extraversion": 51,
+      "agreeableness": 49,
+      "neuroticism": 68
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
       "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

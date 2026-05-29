@@ -1,23 +1,23 @@
 {
   "id": "npc_109",
   "bio": {
-    "full_name": "Joshua Gupta",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 31,
+    "full_name": "Donald Davis",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 25,
     "blood_type": "AB-",
-    "genetic_stability": 0.925,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.905,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 95,
-    "build": "Overweight",
+    "height_cm": 179,
+    "weight_kg": 75,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Silver, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 77,
-      "Athletics": 42,
-      "Stealth": 46
+      "Hacking": 87,
+      "Medicine": 46,
+      "Occult_Research": 52
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 19,
-      "extraversion": 80,
-      "agreeableness": 28,
-      "neuroticism": 85
+      "openness": 78,
+      "conscientiousness": 89,
+      "extraversion": 73,
+      "agreeableness": 14,
+      "neuroticism": 32
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

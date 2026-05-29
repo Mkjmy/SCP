@@ -1,23 +1,23 @@
 {
   "id": "npc_141",
   "bio": {
-    "full_name": "Steven O'Connor",
-    "gender": "Non-binary",
+    "full_name": "James Jones",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 29,
-    "blood_type": "B+",
-    "genetic_stability": 0.912,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 38,
+    "blood_type": "B-",
+    "genetic_stability": 0.904,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 102,
-    "build": "Overweight",
+    "height_cm": 169,
+    "weight_kg": 103,
+    "build": "Average",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 21,
-      "Medicine": 44,
-      "Perception": 13
+      "Stealth": 34,
+      "Containment_Logic": 57,
+      "Persuasion": 62
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 75,
-      "extraversion": 15,
-      "agreeableness": 15,
-      "neuroticism": 2
+      "openness": 12,
+      "conscientiousness": 90,
+      "extraversion": 33,
+      "agreeableness": 52,
+      "neuroticism": 63
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",

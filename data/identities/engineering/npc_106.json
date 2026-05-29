@@ -1,23 +1,23 @@
 {
   "id": "npc_106",
   "bio": {
-    "full_name": "James Davis",
-    "gender": "Male",
+    "full_name": "Richard Gupta",
+    "gender": "Female",
     "orientation": "Pansexual",
-    "age": 46,
-    "blood_type": "AB+",
-    "genetic_stability": 0.86,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.996,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 77,
-    "build": "Stocky",
+    "height_cm": 189,
+    "weight_kg": 82,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "White, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 76,
-      "Occult_Research": 63,
-      "Medicine": 89
+      "Stealth": 61,
+      "Medicine": 67,
+      "Occult_Research": 70
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 37,
-      "extraversion": 92,
-      "agreeableness": 47,
-      "neuroticism": 55
+      "openness": 47,
+      "conscientiousness": 31,
+      "extraversion": 49,
+      "agreeableness": 68,
+      "neuroticism": 20
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

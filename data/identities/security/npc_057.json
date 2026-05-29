@@ -1,23 +1,23 @@
 {
   "id": "npc_057",
   "bio": {
-    "full_name": "Thomas Williams",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 45,
-    "blood_type": "AB-",
-    "genetic_stability": 0.963,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Maria Jones",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 61,
+    "blood_type": "A-",
+    "genetic_stability": 0.92,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 77,
+    "height_cm": 164,
+    "weight_kg": 88,
     "build": "Frail",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Amber",
+      "hair": "Black, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 22,
-      "Containment_Logic": 42,
-      "Persuasion": 35
+      "Stealth": 23,
+      "Persuasion": 50,
+      "Athletics": 79
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 23,
-      "conscientiousness": 87,
-      "extraversion": 7,
-      "agreeableness": 40,
-      "neuroticism": 54
+      "openness": 41,
+      "conscientiousness": 45,
+      "extraversion": 24,
+      "agreeableness": 26,
+      "neuroticism": 79
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
+      "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

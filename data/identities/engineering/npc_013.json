@@ -1,60 +1,60 @@
 {
   "id": "npc_013",
   "bio": {
-    "full_name": "David Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 25,
-    "blood_type": "A+",
-    "genetic_stability": 0.998,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Olga Davis",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.878,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 107,
-    "build": "Overweight",
+    "height_cm": 197,
+    "weight_kg": 97,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 35,
-      "Occult_Research": 14,
-      "Firearms": 36
+      "Firearms": 91,
+      "Athletics": 83,
+      "Containment_Logic": 67
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 18,
-      "extraversion": 58,
-      "agreeableness": 86,
-      "neuroticism": 29
+      "openness": 30,
+      "conscientiousness": 31,
+      "extraversion": 87,
+      "agreeableness": 4,
+      "neuroticism": 70
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
+      "amount": 0,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

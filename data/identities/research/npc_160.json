@@ -1,23 +1,23 @@
 {
   "id": "npc_160",
   "bio": {
-    "full_name": "Donald O'Connor",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 45,
+    "full_name": "Fatima Miller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 24,
     "blood_type": "O+",
-    "genetic_stability": 0.971,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.899,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 101,
-    "build": "Heavily Muscular",
+    "height_cm": 180,
+    "weight_kg": 62,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Red, Shoulder-length",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 59,
-      "Stealth": 86,
-      "Occult_Research": 49
+      "Hacking": 52,
+      "Medicine": 23,
+      "Athletics": 49
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 39,
-      "conscientiousness": 76,
-      "extraversion": 64,
-      "agreeableness": 91,
-      "neuroticism": 95
+      "openness": 8,
+      "conscientiousness": 84,
+      "extraversion": 82,
+      "agreeableness": 48,
+      "neuroticism": 90
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

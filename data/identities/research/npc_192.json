@@ -1,23 +1,23 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "Robert Garcia",
+    "full_name": "James Sato",
     "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 53,
-    "blood_type": "O-",
-    "genetic_stability": 0.88,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 24,
+    "blood_type": "O+",
+    "genetic_stability": 0.998,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 63,
-    "build": "Stocky",
+    "height_cm": 169,
+    "weight_kg": 66,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Messy",
+      "hair": "Red, Buzz cut",
       "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Firearms": 38,
-      "Stealth": 51,
-      "Containment_Logic": 53
+      "Containment_Logic": 14,
+      "Stealth": 25,
+      "Hacking": 63
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 161,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 64,
-      "extraversion": 49,
-      "agreeableness": 82,
-      "neuroticism": 29
+      "openness": 53,
+      "conscientiousness": 41,
+      "extraversion": 52,
+      "agreeableness": 30,
+      "neuroticism": 17
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

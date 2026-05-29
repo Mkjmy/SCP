@@ -1,23 +1,23 @@
 {
   "id": "npc_014",
   "bio": {
-    "full_name": "James Sato",
-    "gender": "Agender",
+    "full_name": "Olga Johnson",
+    "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 28,
-    "blood_type": "B+",
-    "genetic_stability": 0.924,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.871,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 56,
-    "build": "Athletic",
+    "height_cm": 181,
+    "weight_kg": 94,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Red, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 22,
-      "Stealth": 94,
-      "Occult_Research": 64
+      "Firearms": 90,
+      "Stealth": 28,
+      "Engineering": 75
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 54,
-      "extraversion": 72,
-      "agreeableness": 74,
-      "neuroticism": 2
+      "openness": 89,
+      "conscientiousness": 33,
+      "extraversion": 74,
+      "agreeableness": 87,
+      "neuroticism": 35
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

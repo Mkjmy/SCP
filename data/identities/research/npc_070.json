@@ -1,23 +1,23 @@
 {
   "id": "npc_070",
   "bio": {
-    "full_name": "James Davis",
+    "full_name": "Christopher Bakker",
     "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 35,
-    "blood_type": "A+",
-    "genetic_stability": 0.884,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "B-",
+    "genetic_stability": 0.932,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
     "height_cm": 188,
-    "weight_kg": 109,
-    "build": "Stocky",
+    "weight_kg": 72,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Engineering": 25,
-      "Stealth": 65,
-      "Persuasion": 47
+      "Medicine": 16,
+      "Persuasion": 53,
+      "Engineering": 70
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 84,
-      "extraversion": 12,
-      "agreeableness": 35,
-      "neuroticism": 32
+      "openness": 38,
+      "conscientiousness": 27,
+      "extraversion": 40,
+      "agreeableness": 57,
+      "neuroticism": 93
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

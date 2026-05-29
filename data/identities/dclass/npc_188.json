@@ -1,23 +1,23 @@
 {
   "id": "npc_188",
   "bio": {
-    "full_name": "Richard Bakker",
+    "full_name": "Yuki Smith",
     "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 27,
-    "blood_type": "AB+",
-    "genetic_stability": 0.904,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.935,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 69,
+    "height_cm": 198,
+    "weight_kg": 68,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "White, Fade",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 81,
-      "Engineering": 38,
-      "Athletics": 31
+      "Hacking": 82,
+      "Containment_Logic": 69,
+      "Occult_Research": 78
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 8,
-      "extraversion": 67,
-      "agreeableness": 1,
-      "neuroticism": 52
+      "openness": 24,
+      "conscientiousness": 99,
+      "extraversion": 38,
+      "agreeableness": 89,
+      "neuroticism": 77
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

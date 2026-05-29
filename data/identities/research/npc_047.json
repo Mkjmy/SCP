@@ -1,23 +1,23 @@
 {
   "id": "npc_047",
   "bio": {
-    "full_name": "Charles Bakker",
+    "full_name": "Donald Smith",
     "gender": "Female",
     "orientation": "Bisexual",
-    "age": 52,
-    "blood_type": "O+",
-    "genetic_stability": 0.933,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 40,
+    "blood_type": "AB-",
+    "genetic_stability": 0.902,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 71,
-    "build": "Overweight",
+    "height_cm": 200,
+    "weight_kg": 75,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Silver, Bald",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Medicine": 51,
-      "Athletics": 72,
-      "Perception": 26
+      "Containment_Logic": 37,
+      "Firearms": 66,
+      "Stealth": 87
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 152,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 55,
-      "extraversion": 29,
-      "agreeableness": 37,
-      "neuroticism": 44
+      "openness": 53,
+      "conscientiousness": 5,
+      "extraversion": 34,
+      "agreeableness": 41,
+      "neuroticism": 71
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,57 +1,57 @@
 {
   "id": "npc_157",
   "bio": {
-    "full_name": "Sven Williams",
+    "full_name": "Michael Jones",
     "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 65,
-    "blood_type": "O-",
-    "genetic_stability": 0.894,
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "O+",
+    "genetic_stability": 0.862,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 57,
+    "height_cm": 200,
+    "weight_kg": 90,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 65,
-      "Containment_Logic": 21,
-      "Medicine": 92
+      "Stealth": 19,
+      "Firearms": 32,
+      "Occult_Research": 77
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 66,
-      "extraversion": 44,
-      "agreeableness": 2,
-      "neuroticism": 2
+      "openness": 44,
+      "conscientiousness": 70,
+      "extraversion": 26,
+      "agreeableness": 53,
+      "neuroticism": 10
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",

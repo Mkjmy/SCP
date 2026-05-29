@@ -1,21 +1,21 @@
 {
   "id": "npc_205",
   "bio": {
-    "full_name": "Andrew Muller",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 53,
-    "blood_type": "A+",
-    "genetic_stability": 0.924,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Donald Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.864,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 73,
-    "build": "Heavily Muscular",
+    "height_cm": 188,
+    "weight_kg": 106,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Perception": 15,
-      "Medicine": 43,
-      "Engineering": 26
+      "Athletics": 55,
+      "Containment_Logic": 41,
+      "Engineering": 35
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 42,
-      "conscientiousness": 43,
-      "extraversion": 41,
-      "agreeableness": 15,
-      "neuroticism": 52
+      "openness": 75,
+      "conscientiousness": 70,
+      "extraversion": 19,
+      "agreeableness": 20,
+      "neuroticism": 71
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

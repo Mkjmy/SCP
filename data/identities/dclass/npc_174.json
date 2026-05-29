@@ -1,23 +1,23 @@
 {
   "id": "npc_174",
   "bio": {
-    "full_name": "Paul Johnson",
+    "full_name": "Chen O'Connor",
     "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 43,
-    "blood_type": "AB-",
-    "genetic_stability": 0.88,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "O+",
+    "genetic_stability": 0.96,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 100,
-    "build": "Stocky",
+    "height_cm": 159,
+    "weight_kg": 65,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "White, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 25,
-      "Firearms": 43,
-      "Occult_Research": 79
+      "Hacking": 44,
+      "Containment_Logic": 66,
+      "Persuasion": 40
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 21,
-      "extraversion": 14,
-      "agreeableness": 48,
-      "neuroticism": 21
+      "openness": 13,
+      "conscientiousness": 64,
+      "extraversion": 47,
+      "agreeableness": 47,
+      "neuroticism": 27
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

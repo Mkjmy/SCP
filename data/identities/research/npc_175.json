@@ -1,23 +1,23 @@
 {
   "id": "npc_175",
   "bio": {
-    "full_name": "Michael Kovacs",
+    "full_name": "Donald Vasiliev",
     "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 59,
-    "blood_type": "B-",
-    "genetic_stability": 0.993,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.961,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 94,
-    "build": "Frail",
+    "height_cm": 192,
+    "weight_kg": 81,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Occult_Research": 16,
-      "Persuasion": 80,
-      "Hacking": 31
+      "Perception": 62,
+      "Hacking": 60,
+      "Persuasion": 61
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 161,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 66,
-      "extraversion": 11,
-      "agreeableness": 6,
-      "neuroticism": 99
+      "openness": 26,
+      "conscientiousness": 74,
+      "extraversion": 29,
+      "agreeableness": 83,
+      "neuroticism": 36
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

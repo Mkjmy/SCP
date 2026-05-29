@@ -1,23 +1,23 @@
 {
   "id": "npc_063",
   "bio": {
-    "full_name": "Paul Miller",
-    "gender": "Non-binary",
+    "full_name": "William Schmidt",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 56,
-    "blood_type": "B-",
-    "genetic_stability": 0.855,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 44,
+    "blood_type": "A+",
+    "genetic_stability": 0.917,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 108,
-    "build": "Lithe",
+    "height_cm": 176,
+    "weight_kg": 100,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Persuasion": 35,
-      "Perception": 24,
-      "Engineering": 67
+      "Occult_Research": 20,
+      "Firearms": 90,
+      "Athletics": 20
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 163,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 27,
-      "conscientiousness": 77,
-      "extraversion": 8,
-      "agreeableness": 88,
-      "neuroticism": 82
+      "openness": 35,
+      "conscientiousness": 68,
+      "extraversion": 36,
+      "agreeableness": 18,
+      "neuroticism": 9
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

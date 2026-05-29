@@ -1,60 +1,60 @@
 {
   "id": "npc_145",
   "bio": {
-    "full_name": "Olga Williams",
+    "full_name": "Arjun Miller",
     "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 49,
-    "blood_type": "B-",
-    "genetic_stability": 0.853,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Bisexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.884,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 91,
-    "build": "Overweight",
+    "height_cm": 168,
+    "weight_kg": 58,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Medicine": 11,
-      "Perception": 93,
-      "Stealth": 50
+      "Athletics": 95,
+      "Occult_Research": 52,
+      "Containment_Logic": 62
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 37,
-      "extraversion": 62,
-      "agreeableness": 43,
-      "neuroticism": 52
+      "openness": 46,
+      "conscientiousness": 97,
+      "extraversion": 58,
+      "agreeableness": 29,
+      "neuroticism": 55
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

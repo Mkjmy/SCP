@@ -1,60 +1,60 @@
 {
   "id": "npc_115",
   "bio": {
-    "full_name": "Robert Smith",
+    "full_name": "Steven Wong",
     "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 51,
-    "blood_type": "B+",
-    "genetic_stability": 0.93,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "O-",
+    "genetic_stability": 0.857,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 98,
-    "build": "Heavily Muscular",
+    "height_cm": 189,
+    "weight_kg": 88,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Medicine": 29,
-      "Perception": 51,
-      "Hacking": 30
+      "Athletics": 44,
+      "Containment_Logic": 92,
+      "Engineering": 32
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 123,
     "personality_matrix": {
-      "openness": 73,
-      "conscientiousness": 86,
-      "extraversion": 73,
-      "agreeableness": 62,
-      "neuroticism": 61
+      "openness": 17,
+      "conscientiousness": 96,
+      "extraversion": 52,
+      "agreeableness": 29,
+      "neuroticism": 49
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
+      "amount": 20000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

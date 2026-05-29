@@ -1,23 +1,23 @@
 {
   "id": "npc_062",
   "bio": {
-    "full_name": "Lars Vasiliev",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 51,
+    "full_name": "Christopher Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 48,
     "blood_type": "AB-",
-    "genetic_stability": 0.94,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.909,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 96,
-    "build": "Lithe",
+    "height_cm": 182,
+    "weight_kg": 85,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Messy",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 58,
-      "Occult_Research": 42,
-      "Stealth": 28
+      "Firearms": 18,
+      "Medicine": 36,
+      "Stealth": 88
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 17,
-      "extraversion": 43,
-      "agreeableness": 49,
-      "neuroticism": 31
+      "openness": 97,
+      "conscientiousness": 73,
+      "extraversion": 9,
+      "agreeableness": 36,
+      "neuroticism": 87
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",

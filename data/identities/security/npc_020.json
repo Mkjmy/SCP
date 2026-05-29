@@ -1,60 +1,60 @@
 {
   "id": "npc_020",
   "bio": {
-    "full_name": "Christopher O'Connor",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 42,
+    "full_name": "Anthony Muller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 48,
     "blood_type": "A+",
-    "genetic_stability": 0.907,
+    "genetic_stability": 0.865,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 64,
-    "build": "Slender",
+    "height_cm": 156,
+    "weight_kg": 104,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Perception": 69,
-      "Stealth": 49,
-      "Containment_Logic": 25
+      "Containment_Logic": 67,
+      "Stealth": 30,
+      "Firearms": 71
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 81,
-      "conscientiousness": 59,
-      "extraversion": 97,
-      "agreeableness": 33,
-      "neuroticism": 56
+      "openness": 78,
+      "conscientiousness": 100,
+      "extraversion": 20,
+      "agreeableness": 12,
+      "neuroticism": 0
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_103",
   "bio": {
-    "full_name": "Thomas Johnson",
-    "gender": "Male",
+    "full_name": "John Sato",
+    "gender": "Non-binary",
     "orientation": "Bisexual",
-    "age": 27,
-    "blood_type": "B-",
-    "genetic_stability": 0.934,
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.871,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
     "height_cm": 176,
-    "weight_kg": 83,
-    "build": "Average",
+    "weight_kg": 75,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Deep brown",
+      "hair": "Brown, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 63,
-      "Athletics": 93,
-      "Engineering": 77
+      "Hacking": 37,
+      "Medicine": 69,
+      "Athletics": 64
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 32,
-      "conscientiousness": 83,
-      "extraversion": 36,
-      "agreeableness": 92,
-      "neuroticism": 1
+      "openness": 26,
+      "conscientiousness": 44,
+      "extraversion": 4,
+      "agreeableness": 51,
+      "neuroticism": 68
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

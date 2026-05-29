@@ -1,23 +1,23 @@
 {
   "id": "npc_037",
   "bio": {
-    "full_name": "Matthew Davis",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 35,
-    "blood_type": "O-",
-    "genetic_stability": 0.986,
+    "full_name": "Mark Sato",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "B-",
+    "genetic_stability": 0.875,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 68,
+    "height_cm": 165,
+    "weight_kg": 97,
     "build": "Average",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Engineering": 91,
-      "Hacking": 65,
-      "Occult_Research": 19
+      "Persuasion": 86,
+      "Athletics": 90,
+      "Medicine": 44
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 89,
-      "extraversion": 77,
-      "agreeableness": 70,
-      "neuroticism": 67
+      "openness": 76,
+      "conscientiousness": 51,
+      "extraversion": 2,
+      "agreeableness": 65,
+      "neuroticism": 94
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
       "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

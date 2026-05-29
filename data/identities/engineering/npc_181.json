@@ -1,23 +1,23 @@
 {
   "id": "npc_181",
   "bio": {
-    "full_name": "James Gupta",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 48,
-    "blood_type": "A+",
-    "genetic_stability": 0.954,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "David Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "AB+",
+    "genetic_stability": 0.924,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 85,
+    "height_cm": 168,
+    "weight_kg": 56,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Emerald green",
+      "hair": "Brown, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 40,
-      "Athletics": 11,
-      "Occult_Research": 15
+      "Containment_Logic": 92,
+      "Firearms": 70,
+      "Perception": 42
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 5,
-      "extraversion": 64,
-      "agreeableness": 52,
-      "neuroticism": 76
+      "openness": 77,
+      "conscientiousness": 6,
+      "extraversion": 21,
+      "agreeableness": 55,
+      "neuroticism": 53
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

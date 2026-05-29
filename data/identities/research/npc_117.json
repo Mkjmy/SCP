@@ -1,23 +1,23 @@
 {
   "id": "npc_117",
   "bio": {
-    "full_name": "Michael Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 22,
+    "full_name": "Kenji Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 46,
     "blood_type": "B+",
-    "genetic_stability": 0.937,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.992,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 85,
-    "build": "Frail",
+    "height_cm": 170,
+    "weight_kg": 81,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Buzz cut",
+      "hair": "Dyed green, Ponytail",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 32,
-      "Hacking": 23,
-      "Containment_Logic": 62
+      "Firearms": 44,
+      "Persuasion": 23,
+      "Athletics": 31
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 13,
-      "extraversion": 77,
-      "agreeableness": 83,
-      "neuroticism": 97
+      "openness": 75,
+      "conscientiousness": 63,
+      "extraversion": 37,
+      "agreeableness": 23,
+      "neuroticism": 6
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.4
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

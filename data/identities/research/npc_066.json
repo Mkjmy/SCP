@@ -1,23 +1,23 @@
 {
   "id": "npc_066",
   "bio": {
-    "full_name": "Yuki Tanaka",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 46,
-    "blood_type": "B-",
-    "genetic_stability": 0.855,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Joshua Schmidt",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 55,
+    "blood_type": "AB+",
+    "genetic_stability": 0.856,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 80,
-    "build": "Overweight",
+    "height_cm": 181,
+    "weight_kg": 110,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Grey",
+      "hair": "White, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Perception": 38,
-      "Containment_Logic": 13,
-      "Stealth": 27
+      "Medicine": 63,
+      "Occult_Research": 79,
+      "Athletics": 37
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 9,
-      "extraversion": 98,
-      "agreeableness": 56,
-      "neuroticism": 9
+      "openness": 42,
+      "conscientiousness": 1,
+      "extraversion": 75,
+      "agreeableness": 48,
+      "neuroticism": 81
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

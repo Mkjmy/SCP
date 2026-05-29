@@ -1,23 +1,23 @@
 {
   "id": "npc_094",
   "bio": {
-    "full_name": "Maria Garcia",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 38,
-    "blood_type": "O-",
-    "genetic_stability": 0.927,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Chen Kovacs",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.949,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 78,
-    "build": "Heavily Muscular",
+    "height_cm": 167,
+    "weight_kg": 61,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Grey",
+      "hair": "Black, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 86,
-      "Hacking": 77,
-      "Persuasion": 55
+      "Persuasion": 95,
+      "Occult_Research": 41,
+      "Engineering": 56
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 1,
-      "extraversion": 40,
-      "agreeableness": 30,
-      "neuroticism": 1
+      "openness": 36,
+      "conscientiousness": 88,
+      "extraversion": 2,
+      "agreeableness": 35,
+      "neuroticism": 39
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

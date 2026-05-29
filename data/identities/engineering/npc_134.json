@@ -1,60 +1,60 @@
 {
   "id": "npc_134",
   "bio": {
-    "full_name": "Robert Dubois",
-    "gender": "Non-binary",
+    "full_name": "David Tanaka",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 33,
-    "blood_type": "O-",
-    "genetic_stability": 0.882,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.893,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 57,
-    "build": "Slender",
+    "height_cm": 190,
+    "weight_kg": 54,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Fade",
+      "hair": "Black, Bald",
       "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 44,
-      "Firearms": 63,
-      "Stealth": 53
+      "Persuasion": 53,
+      "Athletics": 35,
+      "Engineering": 13
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 92,
-      "extraversion": 37,
-      "agreeableness": 98,
-      "neuroticism": 63
+      "openness": 42,
+      "conscientiousness": 83,
+      "extraversion": 77,
+      "agreeableness": 38,
+      "neuroticism": 92
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

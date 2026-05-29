@@ -1,60 +1,60 @@
 {
   "id": "npc_178",
   "bio": {
-    "full_name": "Richard Gupta",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "AB-",
-    "genetic_stability": 0.946,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "John Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 62,
+    "blood_type": "B+",
+    "genetic_stability": 0.956,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 80,
-    "build": "Stocky",
+    "height_cm": 163,
+    "weight_kg": 78,
+    "build": "Average",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Grey",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 31,
-      "Perception": 87,
-      "Hacking": 63
+      "Persuasion": 49,
+      "Containment_Logic": 73,
+      "Stealth": 86
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 72,
-      "extraversion": 29,
-      "agreeableness": 94,
-      "neuroticism": 100
+      "openness": 28,
+      "conscientiousness": 1,
+      "extraversion": 56,
+      "agreeableness": 31,
+      "neuroticism": 64
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

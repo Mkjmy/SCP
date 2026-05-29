@@ -1,60 +1,60 @@
 {
   "id": "npc_027",
   "bio": {
-    "full_name": "William Williams",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 39,
-    "blood_type": "A+",
-    "genetic_stability": 0.926,
+    "full_name": "Maria Dubois",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.936,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 80,
-    "build": "Frail",
+    "height_cm": 161,
+    "weight_kg": 58,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 66,
-      "Perception": 15,
-      "Engineering": 12
+      "Engineering": 77,
+      "Hacking": 75,
+      "Persuasion": 75
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 97,
-      "extraversion": 83,
-      "agreeableness": 64,
-      "neuroticism": 23
+      "openness": 13,
+      "conscientiousness": 36,
+      "extraversion": 7,
+      "agreeableness": 36,
+      "neuroticism": 92
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

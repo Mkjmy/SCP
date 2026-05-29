@@ -1,23 +1,23 @@
 {
   "id": "npc_181",
   "bio": {
-    "full_name": "Robert Smith",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 43,
-    "blood_type": "AB-",
-    "genetic_stability": 0.98,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Matthew Tanaka",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "AB+",
+    "genetic_stability": 0.933,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 58,
+    "height_cm": 182,
+    "weight_kg": 76,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Hazel",
+      "hair": "Silver, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 71,
-      "Engineering": 19,
-      "Firearms": 24
+      "Medicine": 54,
+      "Hacking": 41,
+      "Perception": 19
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 86,
-      "conscientiousness": 91,
-      "extraversion": 33,
-      "agreeableness": 56,
-      "neuroticism": 48
+      "openness": 89,
+      "conscientiousness": 22,
+      "extraversion": 71,
+      "agreeableness": 85,
+      "neuroticism": 100
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

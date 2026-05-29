@@ -1,23 +1,23 @@
 {
   "id": "npc_160",
   "bio": {
-    "full_name": "Daniel Garcia",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 41,
-    "blood_type": "A-",
-    "genetic_stability": 0.909,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Paul Sato",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 43,
+    "blood_type": "O+",
+    "genetic_stability": 0.896,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 100,
-    "build": "Overweight",
+    "height_cm": 158,
+    "weight_kg": 80,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Black, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 41,
-      "Stealth": 63,
-      "Persuasion": 49
+      "Athletics": 40,
+      "Engineering": 89,
+      "Persuasion": 12
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 36,
-      "extraversion": 42,
-      "agreeableness": 22,
-      "neuroticism": 100
+      "openness": 30,
+      "conscientiousness": 25,
+      "extraversion": 31,
+      "agreeableness": 100,
+      "neuroticism": 84
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

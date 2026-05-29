@@ -1,21 +1,21 @@
 {
   "id": "npc_156",
   "bio": {
-    "full_name": "William Tanaka",
+    "full_name": "Thomas Brown",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 28,
-    "blood_type": "A+",
-    "genetic_stability": 0.857,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.988,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 52,
-    "build": "Stocky",
+    "height_cm": 175,
+    "weight_kg": 66,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Bald",
-      "eyes": "Icy blue",
+      "hair": "Black, Messy",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Talks to self in whispers"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Firearms": 41,
-      "Occult_Research": 14,
-      "Stealth": 70
+      "Engineering": 19,
+      "Athletics": 83,
+      "Persuasion": 80
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 133,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 7,
-      "extraversion": 91,
-      "agreeableness": 9,
-      "neuroticism": 66
+      "openness": 44,
+      "conscientiousness": 55,
+      "extraversion": 62,
+      "agreeableness": 60,
+      "neuroticism": 9
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
+      "amount": 0,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

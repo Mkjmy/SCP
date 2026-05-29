@@ -1,57 +1,57 @@
 {
   "id": "npc_130",
   "bio": {
-    "full_name": "David Muller",
-    "gender": "Female",
+    "full_name": "Steven Bakker",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 60,
-    "blood_type": "A+",
-    "genetic_stability": 0.915,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 41,
+    "blood_type": "O-",
+    "genetic_stability": 0.99,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 192,
+    "height_cm": 159,
     "weight_kg": 75,
-    "build": "Lithe",
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Icy blue",
+      "hair": "White, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 70,
-      "Stealth": 45,
-      "Persuasion": 65
+      "Containment_Logic": 75,
+      "Engineering": 68,
+      "Firearms": 42
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 117,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 53,
-      "extraversion": 86,
-      "agreeableness": 48,
-      "neuroticism": 20
+      "openness": 98,
+      "conscientiousness": 81,
+      "extraversion": 12,
+      "agreeableness": 59,
+      "neuroticism": 47
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Obsessed with reaching Site-01",

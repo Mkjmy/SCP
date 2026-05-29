@@ -1,60 +1,60 @@
 {
   "id": "npc_155",
   "bio": {
-    "full_name": "Olga Smith",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 49,
-    "blood_type": "O-",
-    "genetic_stability": 0.924,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Donald Johnson",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.95,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 103,
-    "build": "Stocky",
+    "height_cm": 165,
+    "weight_kg": 51,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Red, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Persuasion": 64,
-      "Hacking": 16,
-      "Stealth": 11
+      "Firearms": 41,
+      "Containment_Logic": 54,
+      "Occult_Research": 17
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 97,
-      "extraversion": 25,
-      "agreeableness": 13,
-      "neuroticism": 30
+      "openness": 62,
+      "conscientiousness": 78,
+      "extraversion": 53,
+      "agreeableness": 12,
+      "neuroticism": 48
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_132",
   "bio": {
-    "full_name": "Fatima Tanaka",
-    "gender": "Non-binary",
+    "full_name": "Matthew Tanaka",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 31,
-    "blood_type": "O-",
-    "genetic_stability": 0.935,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 46,
+    "blood_type": "AB+",
+    "genetic_stability": 0.966,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 73,
-    "build": "Frail",
+    "height_cm": 170,
+    "weight_kg": 97,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Pompadour",
+      "hair": "Brown, Wild and unkempt",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 26,
-      "Hacking": 38,
-      "Stealth": 59
+      "Occult_Research": 21,
+      "Firearms": 21,
+      "Hacking": 45
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 30,
-      "extraversion": 10,
-      "agreeableness": 90,
-      "neuroticism": 57
+      "openness": 30,
+      "conscientiousness": 99,
+      "extraversion": 6,
+      "agreeableness": 32,
+      "neuroticism": 98
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
+      "amount": 100000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_199",
   "bio": {
-    "full_name": "Andrew Ivanov",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 36,
-    "blood_type": "O-",
-    "genetic_stability": 0.944,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Matthew O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "A+",
+    "genetic_stability": 0.896,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 59,
-    "build": "Athletic",
+    "height_cm": 196,
+    "weight_kg": 92,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Deep brown",
       "notable_marks": [
         "Check their watch every 30 seconds"
       ]
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Medicine": 52,
-      "Persuasion": 86,
-      "Perception": 49
+      "Athletics": 76,
+      "Engineering": 23,
+      "Containment_Logic": 68
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 73,
-      "extraversion": 82,
-      "agreeableness": 86,
-      "neuroticism": 59
+      "openness": 74,
+      "conscientiousness": 5,
+      "extraversion": 3,
+      "agreeableness": 40,
+      "neuroticism": 18
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

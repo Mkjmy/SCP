@@ -28,8 +28,8 @@ def find_matching_templates(templates, required_exits, forbidden_exits):
     """Finds templates that match the required exit configuration."""
     matching = []
     for t in templates:
-        # Avoid using suites in random generation
-        if "suite" in t.get("tags", []):
+        # Avoid using special rooms in random generation
+        if "suite" in t.get("tags", []) or "start" in t.get("tags", []):
             continue
             
         # A room can't be a dead end if it's not tagged as one
@@ -133,7 +133,13 @@ def generate_map(templates, num_rooms=50, scp_defs_file="data/scp_definitions.js
 
     # Start room (Cell) at Depth 0
     start_template = next((t for t in templates if "start" in t.get("tags", [])), templates[0])
-    grid[(0, 0, 0)] = copy.deepcopy(start_template)
+    start_room = copy.deepcopy(start_template)
+    
+    # Apply Sector Theme to Start Room
+    sector_name, sector_theme = get_sector_info(0)
+    start_room["name"] = f"[{sector_name.split(' (')[0]}] {start_room['name']}"
+    start_room["description"] = f"{start_room['description']} {sector_theme}"
+    grid[(0, 0, 0)] = start_room
     
     frontier = []
     # Initial exits lead to Sector A
@@ -183,8 +189,9 @@ def generate_map(templates, num_rooms=50, scp_defs_file="data/scp_definitions.js
             
         chosen_template = copy.deepcopy(random.choice(possible_templates))
         
-        # Apply Sector Theme to description
-        chosen_template["description"] = f"[{sector_name}] {chosen_template['description']} {sector_theme}"
+        # Apply Sector Theme to name and description
+        chosen_template["name"] = f"[{sector_name.split(' (')[0]}] {chosen_template['name']}"
+        chosen_template["description"] = f"{chosen_template['description']} {sector_theme}"
         grid[(x, y, z)] = chosen_template
         
         # Add frontiers

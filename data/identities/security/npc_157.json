@@ -1,21 +1,21 @@
 {
   "id": "npc_157",
   "bio": {
-    "full_name": "Arjun Bakker",
+    "full_name": "Chen Miller",
     "gender": "Male",
-    "orientation": "Asexual",
-    "age": 22,
-    "blood_type": "AB-",
-    "genetic_stability": 0.927,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.893,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 99,
-    "build": "Slender",
+    "height_cm": 185,
+    "weight_kg": 104,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Deep brown",
+      "hair": "White, Messy",
+      "eyes": "Amber",
       "notable_marks": [
         "Check their watch every 30 seconds"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Engineering": 64,
-      "Firearms": 24,
-      "Containment_Logic": 31
+      "Containment_Logic": 94,
+      "Perception": 60,
+      "Medicine": 54
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 37,
-      "extraversion": 24,
-      "agreeableness": 70,
-      "neuroticism": 13
+      "openness": 92,
+      "conscientiousness": 45,
+      "extraversion": 21,
+      "agreeableness": 65,
+      "neuroticism": 48
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_067",
   "bio": {
-    "full_name": "Sven Wong",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "O+",
-    "genetic_stability": 0.909,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Robert Smith",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "O-",
+    "genetic_stability": 0.976,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 83,
+    "height_cm": 190,
+    "weight_kg": 55,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
+      "hair": "Red, Pompadour",
       "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 66,
-      "Stealth": 44,
-      "Medicine": 55
+      "Perception": 33,
+      "Firearms": 24,
+      "Containment_Logic": 94
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 68,
-      "extraversion": 25,
-      "agreeableness": 99,
-      "neuroticism": 47
+      "openness": 55,
+      "conscientiousness": 87,
+      "extraversion": 23,
+      "agreeableness": 55,
+      "neuroticism": 54
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

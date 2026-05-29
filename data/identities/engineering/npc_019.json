@@ -1,60 +1,60 @@
 {
   "id": "npc_019",
   "bio": {
-    "full_name": "Elena Ivanov",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 61,
-    "blood_type": "A+",
-    "genetic_stability": 0.897,
+    "full_name": "Fatima Davis",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "AB-",
+    "genetic_stability": 0.954,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 92,
-    "build": "Stocky",
+    "height_cm": 179,
+    "weight_kg": 93,
+    "build": "Frail",
     "physical_features": {
       "hair": "Dyed blue, Manicured",
-      "eyes": "Emerald green",
+      "eyes": "Grey",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 35,
-      "Athletics": 79,
-      "Persuasion": 37
+      "Persuasion": 49,
+      "Occult_Research": 61,
+      "Medicine": 84
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 68,
-      "extraversion": 68,
-      "agreeableness": 4,
-      "neuroticism": 14
+      "openness": 27,
+      "conscientiousness": 36,
+      "extraversion": 18,
+      "agreeableness": 85,
+      "neuroticism": 76
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 1.0
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_042",
   "bio": {
-    "full_name": "Charles Brown",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
+    "full_name": "Yuki Schmidt",
+    "gender": "Female",
+    "orientation": "Bisexual",
     "age": 23,
-    "blood_type": "AB+",
-    "genetic_stability": 0.865,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "blood_type": "B-",
+    "genetic_stability": 0.979,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 58,
-    "build": "Lithe",
+    "height_cm": 200,
+    "weight_kg": 54,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Deep brown",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 48,
-      "Perception": 13,
-      "Engineering": 83
+      "Occult_Research": 76,
+      "Medicine": 51,
+      "Containment_Logic": 39
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 28,
-      "extraversion": 30,
-      "agreeableness": 97,
-      "neuroticism": 3
+      "openness": 74,
+      "conscientiousness": 47,
+      "extraversion": 64,
+      "agreeableness": 28,
+      "neuroticism": 83
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_181",
   "bio": {
-    "full_name": "Andrew Gupta",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 50,
-    "blood_type": "AB+",
-    "genetic_stability": 0.931,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Lars Wong",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 57,
+    "blood_type": "O+",
+    "genetic_stability": 0.958,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 108,
-    "build": "Athletic",
+    "height_cm": 165,
+    "weight_kg": 67,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Athletics": 26,
-      "Occult_Research": 17,
-      "Persuasion": 29
+      "Athletics": 52,
+      "Perception": 37,
+      "Stealth": 39
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 118,
     "personality_matrix": {
-      "openness": 42,
-      "conscientiousness": 67,
-      "extraversion": 5,
-      "agreeableness": 25,
-      "neuroticism": 56
+      "openness": 82,
+      "conscientiousness": 86,
+      "extraversion": 57,
+      "agreeableness": 45,
+      "neuroticism": 22
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
       "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

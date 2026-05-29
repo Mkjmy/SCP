@@ -1,23 +1,23 @@
 {
   "id": "npc_201",
   "bio": {
-    "full_name": "Sven Bakker",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 32,
-    "blood_type": "B+",
-    "genetic_stability": 0.953,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Richard O'Connor",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 46,
+    "blood_type": "AB+",
+    "genetic_stability": 0.942,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 67,
-    "build": "Lithe",
+    "height_cm": 161,
+    "weight_kg": 96,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 77,
-      "Perception": 73,
-      "Persuasion": 16
+      "Engineering": 52,
+      "Containment_Logic": 53,
+      "Athletics": 94
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 94,
-      "extraversion": 34,
-      "agreeableness": 75,
-      "neuroticism": 57
+      "openness": 25,
+      "conscientiousness": 96,
+      "extraversion": 26,
+      "agreeableness": 53,
+      "neuroticism": 3
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_180",
   "bio": {
-    "full_name": "Joshua Brown",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 46,
-    "blood_type": "B+",
-    "genetic_stability": 0.99,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "David Sato",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "O-",
+    "genetic_stability": 0.988,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 66,
-    "build": "Slender",
+    "height_cm": 178,
+    "weight_kg": 86,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Persuasion": 24,
-      "Hacking": 34,
-      "Containment_Logic": 52
+      "Stealth": 80,
+      "Occult_Research": 17,
+      "Engineering": 53
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 81,
-      "extraversion": 97,
-      "agreeableness": 14,
-      "neuroticism": 23
+      "openness": 58,
+      "conscientiousness": 69,
+      "extraversion": 44,
+      "agreeableness": 55,
+      "neuroticism": 91
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

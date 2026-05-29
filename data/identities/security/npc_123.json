@@ -1,23 +1,23 @@
 {
   "id": "npc_123",
   "bio": {
-    "full_name": "Kenji Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "AB-",
-    "genetic_stability": 0.968,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "John Sato",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "B+",
+    "genetic_stability": 0.915,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 94,
-    "build": "Lithe",
+    "height_cm": 171,
+    "weight_kg": 80,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Containment_Logic": 50,
-      "Stealth": 60,
-      "Perception": 92
+      "Firearms": 48,
+      "Containment_Logic": 38,
+      "Athletics": 33
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 33,
-      "extraversion": 23,
-      "agreeableness": 98,
-      "neuroticism": 1
+      "openness": 92,
+      "conscientiousness": 42,
+      "extraversion": 31,
+      "agreeableness": 58,
+      "neuroticism": 28
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

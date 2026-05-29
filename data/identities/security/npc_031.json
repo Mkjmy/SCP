@@ -1,23 +1,23 @@
 {
   "id": "npc_031",
   "bio": {
-    "full_name": "Yuki Ivanov",
+    "full_name": "Andrew Gupta",
     "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 47,
-    "blood_type": "A-",
-    "genetic_stability": 0.874,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "O+",
+    "genetic_stability": 0.902,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 84,
-    "build": "Slender",
+    "height_cm": 200,
+    "weight_kg": 74,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
+      "hair": "Brown, Buzz cut",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Perception": 39,
-      "Medicine": 17,
-      "Hacking": 72
+      "Containment_Logic": 74,
+      "Occult_Research": 27,
+      "Persuasion": 29
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 118,
     "personality_matrix": {
-      "openness": 36,
-      "conscientiousness": 58,
-      "extraversion": 2,
-      "agreeableness": 16,
-      "neuroticism": 81
+      "openness": 11,
+      "conscientiousness": 67,
+      "extraversion": 52,
+      "agreeableness": 55,
+      "neuroticism": 64
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

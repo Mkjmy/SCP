@@ -1,23 +1,23 @@
 {
   "id": "npc_046",
   "bio": {
-    "full_name": "Fatima Williams",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 25,
-    "blood_type": "AB+",
-    "genetic_stability": 0.953,
+    "full_name": "Michael O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.85,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 81,
-    "build": "Slender",
+    "height_cm": 180,
+    "weight_kg": 73,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 19,
-      "Perception": 41,
-      "Medicine": 40
+      "Medicine": 81,
+      "Perception": 57,
+      "Stealth": 11
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 163,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 11,
-      "extraversion": 30,
-      "agreeableness": 13,
-      "neuroticism": 87
+      "openness": 65,
+      "conscientiousness": 96,
+      "extraversion": 62,
+      "agreeableness": 56,
+      "neuroticism": 93
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

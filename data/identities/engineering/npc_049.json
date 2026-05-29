@@ -1,23 +1,23 @@
 {
   "id": "npc_049",
   "bio": {
-    "full_name": "William Sato",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 55,
-    "blood_type": "A-",
-    "genetic_stability": 0.877,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Steven Garcia",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.866,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 74,
-    "build": "Frail",
+    "height_cm": 191,
+    "weight_kg": 55,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Emerald green",
+      "hair": "Black, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 77,
-      "Hacking": 45,
-      "Perception": 69
+      "Hacking": 24,
+      "Athletics": 80,
+      "Perception": 30
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 66,
-      "extraversion": 8,
-      "agreeableness": 33,
-      "neuroticism": 54
+      "openness": 10,
+      "conscientiousness": 37,
+      "extraversion": 33,
+      "agreeableness": 31,
+      "neuroticism": 39
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

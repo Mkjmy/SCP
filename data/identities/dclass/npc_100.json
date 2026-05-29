@@ -1,23 +1,23 @@
 {
   "id": "npc_100",
   "bio": {
-    "full_name": "Steven Williams",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 42,
-    "blood_type": "A+",
-    "genetic_stability": 0.935,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Elena O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "O+",
+    "genetic_stability": 0.884,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 59,
-    "build": "Stocky",
+    "height_cm": 164,
+    "weight_kg": 96,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 11,
-      "Athletics": 18,
-      "Containment_Logic": 12
+      "Persuasion": 56,
+      "Containment_Logic": 95,
+      "Perception": 25
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 85,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 18,
-      "extraversion": 77,
-      "agreeableness": 97,
-      "neuroticism": 81
+      "openness": 90,
+      "conscientiousness": 30,
+      "extraversion": 32,
+      "agreeableness": 79,
+      "neuroticism": 76
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

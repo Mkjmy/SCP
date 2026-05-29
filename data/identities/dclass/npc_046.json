@@ -1,23 +1,23 @@
 {
   "id": "npc_046",
   "bio": {
-    "full_name": "Daniel Smith",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 33,
-    "blood_type": "AB+",
-    "genetic_stability": 0.896,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Joshua Davis",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "O+",
+    "genetic_stability": 0.994,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 67,
-    "build": "Overweight",
+    "height_cm": 191,
+    "weight_kg": 76,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Icy blue",
+      "hair": "Grey, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 69,
-      "Containment_Logic": 13,
-      "Engineering": 36
+      "Engineering": 18,
+      "Containment_Logic": 23,
+      "Athletics": 25
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 87,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 87,
-      "extraversion": 55,
-      "agreeableness": 92,
-      "neuroticism": 24
+      "openness": 31,
+      "conscientiousness": 82,
+      "extraversion": 35,
+      "agreeableness": 40,
+      "neuroticism": 89
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

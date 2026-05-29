@@ -1,23 +1,23 @@
 {
   "id": "npc_076",
   "bio": {
-    "full_name": "Thomas Johnson",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 30,
-    "blood_type": "AB+",
-    "genetic_stability": 0.851,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Steven Williams",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.912,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 104,
-    "build": "Heavily Muscular",
+    "height_cm": 163,
+    "weight_kg": 100,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 66,
-      "Perception": 88,
-      "Firearms": 38
+      "Engineering": 46,
+      "Perception": 48,
+      "Firearms": 72
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 19,
-      "extraversion": 66,
-      "agreeableness": 27,
-      "neuroticism": 55
+      "openness": 32,
+      "conscientiousness": 85,
+      "extraversion": 27,
+      "agreeableness": 29,
+      "neuroticism": 36
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

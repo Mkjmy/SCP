@@ -1,23 +1,23 @@
 {
   "id": "npc_167",
   "bio": {
-    "full_name": "William Smith",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 65,
-    "blood_type": "A+",
-    "genetic_stability": 0.893,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Michael Johnson",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "AB+",
+    "genetic_stability": 0.99,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 77,
-    "build": "Lithe",
+    "height_cm": 181,
+    "weight_kg": 70,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 40,
-      "Occult_Research": 81,
-      "Hacking": 94
+      "Occult_Research": 19,
+      "Stealth": 18,
+      "Firearms": 20
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 95,
-      "extraversion": 39,
-      "agreeableness": 88,
-      "neuroticism": 42
+      "openness": 99,
+      "conscientiousness": 34,
+      "extraversion": 53,
+      "agreeableness": 46,
+      "neuroticism": 19
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

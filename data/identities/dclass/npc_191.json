@@ -1,23 +1,23 @@
 {
   "id": "npc_191",
   "bio": {
-    "full_name": "Mark Jones",
-    "gender": "Female",
-    "orientation": "Heterosexual",
+    "full_name": "Elena Johnson",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
     "age": 24,
-    "blood_type": "B-",
-    "genetic_stability": 0.874,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "blood_type": "O-",
+    "genetic_stability": 0.995,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 97,
-    "build": "Average",
+    "height_cm": 185,
+    "weight_kg": 106,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
+      "hair": "White, Messy",
       "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 15,
-      "Athletics": 12,
-      "Perception": 46
+      "Engineering": 95,
+      "Occult_Research": 67,
+      "Stealth": 59
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
     "iq": 92,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 22,
-      "extraversion": 54,
-      "agreeableness": 0,
-      "neuroticism": 16
+      "openness": 2,
+      "conscientiousness": 46,
+      "extraversion": 75,
+      "agreeableness": 31,
+      "neuroticism": 32
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

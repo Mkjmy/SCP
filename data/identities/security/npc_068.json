@@ -1,21 +1,21 @@
 {
   "id": "npc_068",
   "bio": {
-    "full_name": "Chen Dubois",
+    "full_name": "Robert O'Connor",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 34,
-    "blood_type": "AB-",
-    "genetic_stability": 0.937,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.878,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 101,
-    "build": "Stocky",
+    "height_cm": 183,
+    "weight_kg": 85,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Bald",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Check their watch every 30 seconds"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 78,
-      "Engineering": 12,
-      "Occult_Research": 10
+      "Hacking": 28,
+      "Occult_Research": 23,
+      "Firearms": 68
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 43,
-      "conscientiousness": 16,
-      "extraversion": 53,
-      "agreeableness": 89,
-      "neuroticism": 50
+      "openness": 50,
+      "conscientiousness": 89,
+      "extraversion": 74,
+      "agreeableness": 37,
+      "neuroticism": 1
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

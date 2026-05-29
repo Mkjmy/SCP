@@ -1,23 +1,23 @@
 {
   "id": "npc_009",
   "bio": {
-    "full_name": "Sven Ivanov",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 43,
-    "blood_type": "A-",
-    "genetic_stability": 0.962,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Arjun Vasiliev",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.918,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 85,
-    "build": "Athletic",
+    "height_cm": 156,
+    "weight_kg": 53,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Brown, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 18,
-      "Engineering": 78,
-      "Stealth": 46
+      "Firearms": 27,
+      "Hacking": 53,
+      "Engineering": 61
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 83,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 86,
-      "extraversion": 100,
-      "agreeableness": 95,
-      "neuroticism": 97
+      "openness": 23,
+      "conscientiousness": 97,
+      "extraversion": 94,
+      "agreeableness": 91,
+      "neuroticism": 44
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

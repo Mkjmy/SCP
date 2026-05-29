@@ -1,23 +1,23 @@
 {
   "id": "npc_011",
   "bio": {
-    "full_name": "James Gupta",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 48,
-    "blood_type": "AB-",
-    "genetic_stability": 0.923,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Kenji Williams",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 65,
+    "blood_type": "B+",
+    "genetic_stability": 0.93,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 64,
-    "build": "Overweight",
+    "height_cm": 170,
+    "weight_kg": 77,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 78,
-      "Stealth": 75,
-      "Engineering": 59
+      "Persuasion": 43,
+      "Medicine": 91,
+      "Athletics": 57
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 69,
-      "extraversion": 7,
-      "agreeableness": 25,
-      "neuroticism": 8
+      "openness": 8,
+      "conscientiousness": 4,
+      "extraversion": 92,
+      "agreeableness": 42,
+      "neuroticism": 47
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
     "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
       "amount": 20000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

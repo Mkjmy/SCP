@@ -1,23 +1,23 @@
 {
   "id": "npc_009",
   "bio": {
-    "full_name": "Yuki Smith",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 28,
-    "blood_type": "B+",
-    "genetic_stability": 0.985,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Olga Vasiliev",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "AB-",
+    "genetic_stability": 0.927,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 74,
+    "height_cm": 175,
+    "weight_kg": 70,
     "build": "Average",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Perception": 78,
-      "Medicine": 54,
-      "Firearms": 71
+      "Athletics": 61,
+      "Engineering": 57,
+      "Containment_Logic": 82
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 24,
-      "extraversion": 28,
-      "agreeableness": 72,
-      "neuroticism": 34
+      "openness": 6,
+      "conscientiousness": 62,
+      "extraversion": 20,
+      "agreeableness": 39,
+      "neuroticism": 83
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

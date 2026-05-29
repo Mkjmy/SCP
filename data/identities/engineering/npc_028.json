@@ -1,60 +1,60 @@
 {
   "id": "npc_028",
   "bio": {
-    "full_name": "Olga Sato",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 49,
-    "blood_type": "O-",
-    "genetic_stability": 1.0,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Chen Ivanov",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.903,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 91,
-    "build": "Slender",
+    "height_cm": 172,
+    "weight_kg": 99,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Brown, Manicured",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 15,
-      "Athletics": 95,
-      "Perception": 52
+      "Athletics": 42,
+      "Containment_Logic": 33,
+      "Hacking": 62
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 56,
-      "conscientiousness": 88,
-      "extraversion": 81,
-      "agreeableness": 88,
-      "neuroticism": 97
+      "openness": 11,
+      "conscientiousness": 100,
+      "extraversion": 78,
+      "agreeableness": 10,
+      "neuroticism": 73
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.4
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

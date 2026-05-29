@@ -1,60 +1,60 @@
 {
   "id": "npc_184",
   "bio": {
-    "full_name": "William Wong",
-    "gender": "Agender",
+    "full_name": "Olga Smith",
+    "gender": "Male",
     "orientation": "Bisexual",
-    "age": 41,
-    "blood_type": "A-",
-    "genetic_stability": 0.908,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 59,
+    "blood_type": "B-",
+    "genetic_stability": 0.925,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 101,
-    "build": "Stocky",
+    "height_cm": 177,
+    "weight_kg": 59,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Medicine": 32,
-      "Firearms": 95,
-      "Hacking": 16
+      "Perception": 94,
+      "Persuasion": 18,
+      "Athletics": 68
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 91,
-      "extraversion": 90,
-      "agreeableness": 51,
-      "neuroticism": 22
+      "openness": 52,
+      "conscientiousness": 31,
+      "extraversion": 62,
+      "agreeableness": 40,
+      "neuroticism": 54
     },
     "phobias": [
       "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
       "amount": 100000,
-      "creditor": "Student Loans"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

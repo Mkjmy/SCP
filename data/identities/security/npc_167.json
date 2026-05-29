@@ -1,60 +1,60 @@
 {
   "id": "npc_167",
   "bio": {
-    "full_name": "Joseph Bakker",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 54,
-    "blood_type": "O+",
-    "genetic_stability": 0.948,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "James Smith",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 26,
+    "blood_type": "B-",
+    "genetic_stability": 0.886,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 100,
-    "build": "Slender",
+    "height_cm": 163,
+    "weight_kg": 80,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Occult_Research": 43,
-      "Athletics": 41,
-      "Hacking": 42
+      "Containment_Logic": 15,
+      "Medicine": 80,
+      "Engineering": 90
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 41,
-      "extraversion": 68,
-      "agreeableness": 31,
-      "neuroticism": 43
+      "openness": 79,
+      "conscientiousness": 100,
+      "extraversion": 10,
+      "agreeableness": 71,
+      "neuroticism": 31
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

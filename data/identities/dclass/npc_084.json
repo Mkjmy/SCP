@@ -1,23 +1,23 @@
 {
   "id": "npc_084",
   "bio": {
-    "full_name": "Joseph Muller",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 30,
-    "blood_type": "AB-",
-    "genetic_stability": 0.907,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Olga Johnson",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 20,
+    "blood_type": "O+",
+    "genetic_stability": 0.93,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 62,
-    "build": "Stocky",
+    "height_cm": 168,
+    "weight_kg": 54,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Hazel",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 81,
-      "Persuasion": 55,
-      "Athletics": 60
+      "Firearms": 39,
+      "Stealth": 47,
+      "Containment_Logic": 85
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 57,
-      "extraversion": 65,
-      "agreeableness": 39,
-      "neuroticism": 29
+      "openness": 4,
+      "conscientiousness": 71,
+      "extraversion": 60,
+      "agreeableness": 81,
+      "neuroticism": 0
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

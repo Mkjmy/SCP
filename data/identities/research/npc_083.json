@@ -1,23 +1,23 @@
 {
   "id": "npc_083",
   "bio": {
-    "full_name": "Charles Miller",
-    "gender": "Agender",
+    "full_name": "Arjun Vasiliev",
+    "gender": "Male",
     "orientation": "Asexual",
-    "age": 40,
-    "blood_type": "AB+",
-    "genetic_stability": 0.899,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.852,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 110,
-    "build": "Average",
+    "height_cm": 198,
+    "weight_kg": 74,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 87,
-      "Stealth": 19,
-      "Firearms": 44
+      "Firearms": 44,
+      "Medicine": 61,
+      "Occult_Research": 11
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 24,
-      "extraversion": 18,
-      "agreeableness": 12,
-      "neuroticism": 8
+      "openness": 46,
+      "conscientiousness": 63,
+      "extraversion": 88,
+      "agreeableness": 8,
+      "neuroticism": 97
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "Student Loans"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

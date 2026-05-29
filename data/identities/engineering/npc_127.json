@@ -1,23 +1,23 @@
 {
   "id": "npc_127",
   "bio": {
-    "full_name": "Chen Miller",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 65,
-    "blood_type": "AB-",
-    "genetic_stability": 0.877,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Chen Wong",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 1.0,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 81,
-    "build": "Stocky",
+    "height_cm": 184,
+    "weight_kg": 60,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Emerald green",
+      "hair": "Black, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 43,
-      "Hacking": 24,
-      "Persuasion": 21
+      "Containment_Logic": 54,
+      "Medicine": 21,
+      "Persuasion": 29
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 9,
-      "extraversion": 25,
-      "agreeableness": 62,
-      "neuroticism": 11
+      "openness": 42,
+      "conscientiousness": 7,
+      "extraversion": 21,
+      "agreeableness": 83,
+      "neuroticism": 7
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

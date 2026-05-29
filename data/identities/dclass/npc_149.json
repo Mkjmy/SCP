@@ -1,23 +1,23 @@
 {
   "id": "npc_149",
   "bio": {
-    "full_name": "Lars Tanaka",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 43,
-    "blood_type": "B+",
-    "genetic_stability": 0.907,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Thomas Schmidt",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 20,
+    "blood_type": "A+",
+    "genetic_stability": 0.855,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 50,
-    "build": "Slender",
+    "height_cm": 174,
+    "weight_kg": 104,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Blonde, Messy",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 87,
-      "Stealth": 16,
-      "Firearms": 61
+      "Athletics": 52,
+      "Occult_Research": 19,
+      "Persuasion": 13
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 50,
-      "extraversion": 40,
-      "agreeableness": 99,
-      "neuroticism": 17
+      "openness": 23,
+      "conscientiousness": 59,
+      "extraversion": 45,
+      "agreeableness": 59,
+      "neuroticism": 38
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

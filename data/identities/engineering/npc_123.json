@@ -1,23 +1,23 @@
 {
   "id": "npc_123",
   "bio": {
-    "full_name": "Donald Schmidt",
-    "gender": "Transgender",
+    "full_name": "Charles Gupta",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 57,
-    "blood_type": "A-",
-    "genetic_stability": 0.901,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 62,
+    "blood_type": "A+",
+    "genetic_stability": 0.956,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 108,
-    "build": "Frail",
+    "height_cm": 189,
+    "weight_kg": 105,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 20,
-      "Persuasion": 52,
-      "Engineering": 76
+      "Medicine": 66,
+      "Perception": 35,
+      "Athletics": 48
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 34,
-      "extraversion": 21,
-      "agreeableness": 42,
-      "neuroticism": 26
+      "openness": 89,
+      "conscientiousness": 31,
+      "extraversion": 70,
+      "agreeableness": 32,
+      "neuroticism": 78
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

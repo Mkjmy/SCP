@@ -1,23 +1,23 @@
 {
   "id": "npc_024",
   "bio": {
-    "full_name": "Matthew Wong",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 41,
-    "blood_type": "O-",
-    "genetic_stability": 0.879,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Yuki Smith",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 50,
+    "blood_type": "O+",
+    "genetic_stability": 0.975,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 51,
-    "build": "Slender",
+    "height_cm": 186,
+    "weight_kg": 85,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Emerald green",
+      "hair": "Black, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 61,
-      "Containment_Logic": 16,
-      "Occult_Research": 68
+      "Firearms": 68,
+      "Engineering": 10,
+      "Containment_Logic": 54
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
     "iq": 93,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 12,
-      "extraversion": 80,
-      "agreeableness": 7,
-      "neuroticism": 97
+      "openness": 43,
+      "conscientiousness": 92,
+      "extraversion": 42,
+      "agreeableness": 36,
+      "neuroticism": 23
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

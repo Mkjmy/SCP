@@ -1,23 +1,23 @@
 {
   "id": "npc_083",
   "bio": {
-    "full_name": "Sven O'Connor",
-    "gender": "Male",
+    "full_name": "Daniel Smith",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 46,
-    "blood_type": "A-",
-    "genetic_stability": 0.963,
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.948,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 75,
-    "build": "Frail",
+    "height_cm": 175,
+    "weight_kg": 76,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Messy",
+      "hair": "Silver, Pompadour",
       "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 44,
-      "Stealth": 36,
-      "Containment_Logic": 10
+      "Containment_Logic": 91,
+      "Stealth": 67,
+      "Hacking": 51
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 26,
-      "extraversion": 54,
-      "agreeableness": 22,
-      "neuroticism": 10
+      "openness": 43,
+      "conscientiousness": 12,
+      "extraversion": 84,
+      "agreeableness": 18,
+      "neuroticism": 26
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

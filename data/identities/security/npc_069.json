@@ -1,60 +1,60 @@
 {
   "id": "npc_069",
   "bio": {
-    "full_name": "James Wong",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 61,
-    "blood_type": "O-",
-    "genetic_stability": 0.904,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Olga Schmidt",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.866,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 51,
-    "build": "Overweight",
+    "height_cm": 185,
+    "weight_kg": 84,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Amber",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 19,
-      "Athletics": 16,
-      "Occult_Research": 64
+      "Stealth": 83,
+      "Persuasion": 80,
+      "Occult_Research": 88
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 33,
-      "extraversion": 85,
-      "agreeableness": 21,
-      "neuroticism": 81
+      "openness": 90,
+      "conscientiousness": 18,
+      "extraversion": 42,
+      "agreeableness": 81,
+      "neuroticism": 70
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_034",
   "bio": {
-    "full_name": "William Smith",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 51,
-    "blood_type": "A+",
-    "genetic_stability": 0.927,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Andrew Kovacs",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.946,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 64,
-    "build": "Stocky",
+    "height_cm": 175,
+    "weight_kg": 93,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Emerald green",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 30,
-      "Containment_Logic": 72,
-      "Persuasion": 75
+      "Athletics": 67,
+      "Stealth": 94,
+      "Containment_Logic": 59
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 57,
-      "extraversion": 37,
-      "agreeableness": 96,
-      "neuroticism": 30
+      "openness": 74,
+      "conscientiousness": 60,
+      "extraversion": 76,
+      "agreeableness": 15,
+      "neuroticism": 85
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_043",
   "bio": {
-    "full_name": "Daniel Wong",
-    "gender": "Male",
+    "full_name": "Donald Davis",
+    "gender": "Female",
     "orientation": "Bisexual",
-    "age": 41,
-    "blood_type": "O+",
-    "genetic_stability": 0.978,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.975,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 50,
-    "build": "Slender",
+    "height_cm": 189,
+    "weight_kg": 75,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Engineering": 62,
-      "Firearms": 42,
-      "Medicine": 15
+      "Hacking": 27,
+      "Medicine": 80,
+      "Athletics": 50
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 165,
+    "iq": 164,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 78,
-      "extraversion": 30,
-      "agreeableness": 50,
-      "neuroticism": 50
+      "openness": 37,
+      "conscientiousness": 32,
+      "extraversion": 91,
+      "agreeableness": 68,
+      "neuroticism": 80
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

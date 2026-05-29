@@ -1,23 +1,23 @@
 {
   "id": "npc_140",
   "bio": {
-    "full_name": "Thomas Brown",
+    "full_name": "Christopher Ivanov",
     "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 61,
-    "blood_type": "A+",
-    "genetic_stability": 0.918,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.936,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 93,
-    "build": "Overweight",
+    "height_cm": 190,
+    "weight_kg": 90,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 13,
-      "Containment_Logic": 29,
-      "Perception": 34
+      "Medicine": 13,
+      "Engineering": 19,
+      "Persuasion": 81
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 17,
-      "conscientiousness": 14,
-      "extraversion": 64,
-      "agreeableness": 83,
-      "neuroticism": 58
+      "openness": 14,
+      "conscientiousness": 100,
+      "extraversion": 54,
+      "agreeableness": 56,
+      "neuroticism": 77
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_028",
   "bio": {
-    "full_name": "Paul Schmidt",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "A+",
-    "genetic_stability": 0.856,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Anthony Davis",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "B+",
+    "genetic_stability": 0.964,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 71,
-    "build": "Stocky",
+    "height_cm": 163,
+    "weight_kg": 58,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 90,
-      "Engineering": 33,
-      "Containment_Logic": 10
+      "Perception": 16,
+      "Persuasion": 72,
+      "Firearms": 53
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 95,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 73,
-      "extraversion": 98,
+      "openness": 76,
+      "conscientiousness": 6,
+      "extraversion": 88,
       "agreeableness": 97,
-      "neuroticism": 81
+      "neuroticism": 45
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

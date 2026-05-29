@@ -1,23 +1,23 @@
 {
   "id": "npc_074",
   "bio": {
-    "full_name": "Maria Wong",
+    "full_name": "Christopher Wong",
     "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 23,
-    "blood_type": "O-",
-    "genetic_stability": 0.881,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 48,
+    "blood_type": "B-",
+    "genetic_stability": 0.986,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 56,
-    "build": "Heavily Muscular",
+    "height_cm": 191,
+    "weight_kg": 70,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Pixie cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 78,
-      "Athletics": 88,
-      "Perception": 57
+      "Persuasion": 25,
+      "Stealth": 66,
+      "Firearms": 54
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 72,
-      "extraversion": 82,
-      "agreeableness": 5,
-      "neuroticism": 60
+      "openness": 40,
+      "conscientiousness": 59,
+      "extraversion": 55,
+      "agreeableness": 44,
+      "neuroticism": 88
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

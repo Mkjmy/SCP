@@ -1,23 +1,23 @@
 {
   "id": "npc_056",
   "bio": {
-    "full_name": "Olga Gupta",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 20,
-    "blood_type": "B-",
-    "genetic_stability": 0.924,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Maria O'Connor",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "O+",
+    "genetic_stability": 0.915,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 90,
-    "build": "Heavily Muscular",
+    "height_cm": 163,
+    "weight_kg": 95,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Icy blue",
+      "hair": "White, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 77,
-      "Persuasion": 21,
-      "Containment_Logic": 75
+      "Persuasion": 51,
+      "Hacking": 88,
+      "Containment_Logic": 21
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 3,
-      "extraversion": 16,
-      "agreeableness": 91,
-      "neuroticism": 39
+      "openness": 7,
+      "conscientiousness": 12,
+      "extraversion": 40,
+      "agreeableness": 35,
+      "neuroticism": 43
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

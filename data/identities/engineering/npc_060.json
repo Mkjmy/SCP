@@ -1,23 +1,23 @@
 {
   "id": "npc_060",
   "bio": {
-    "full_name": "Donald Jones",
-    "gender": "Non-binary",
+    "full_name": "Yuki Vasiliev",
+    "gender": "Female",
     "orientation": "Bisexual",
-    "age": 52,
+    "age": 43,
     "blood_type": "AB+",
-    "genetic_stability": 0.934,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.975,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 74,
-    "build": "Stocky",
+    "height_cm": 173,
+    "weight_kg": 66,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Black, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 92,
-      "Containment_Logic": 51,
-      "Stealth": 50
+      "Engineering": 58,
+      "Persuasion": 12,
+      "Occult_Research": 32
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 41,
-      "extraversion": 79,
-      "agreeableness": 42,
-      "neuroticism": 95
+      "openness": 48,
+      "conscientiousness": 17,
+      "extraversion": 75,
+      "agreeableness": 95,
+      "neuroticism": 69
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
       "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

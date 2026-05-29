@@ -1,60 +1,60 @@
 {
   "id": "npc_106",
   "bio": {
-    "full_name": "Fatima Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 61,
-    "blood_type": "B+",
-    "genetic_stability": 0.909,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Joseph Miller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "A+",
+    "genetic_stability": 0.863,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 107,
-    "build": "Lithe",
+    "height_cm": 176,
+    "weight_kg": 79,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Messy",
-      "eyes": "Icy blue",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Firearms": 50,
-      "Containment_Logic": 55,
-      "Medicine": 29
+      "Perception": 58,
+      "Stealth": 57,
+      "Medicine": 88
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 119,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 89,
-      "extraversion": 29,
-      "agreeableness": 71,
-      "neuroticism": 58
+      "openness": 86,
+      "conscientiousness": 0,
+      "extraversion": 99,
+      "agreeableness": 79,
+      "neuroticism": 42
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
     "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

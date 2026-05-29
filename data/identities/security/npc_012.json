@@ -1,23 +1,23 @@
 {
   "id": "npc_012",
   "bio": {
-    "full_name": "Daniel O'Connor",
+    "full_name": "Lars Vasiliev",
     "gender": "Male",
-    "orientation": "Bisexual",
+    "orientation": "Heterosexual",
     "age": 37,
     "blood_type": "A+",
-    "genetic_stability": 0.986,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.867,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 65,
-    "build": "Stocky",
+    "height_cm": 186,
+    "weight_kg": 106,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Perception": 37,
-      "Containment_Logic": 89,
-      "Persuasion": 93
+      "Stealth": 38,
+      "Persuasion": 73,
+      "Hacking": 74
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 123,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 22,
-      "extraversion": 10,
-      "agreeableness": 37,
-      "neuroticism": 74
+      "openness": 87,
+      "conscientiousness": 92,
+      "extraversion": 89,
+      "agreeableness": 21,
+      "neuroticism": 58
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
       "amount": 100000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

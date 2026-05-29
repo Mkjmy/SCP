@@ -1,23 +1,23 @@
 {
   "id": "npc_119",
   "bio": {
-    "full_name": "Mark Dubois",
+    "full_name": "David Gupta",
     "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 47,
-    "blood_type": "A+",
-    "genetic_stability": 0.855,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Pansexual",
+    "age": 63,
+    "blood_type": "O-",
+    "genetic_stability": 0.972,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 68,
-    "build": "Stocky",
+    "height_cm": 169,
+    "weight_kg": 52,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "Grey, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Engineering": 10,
-      "Persuasion": 89,
-      "Occult_Research": 18
+      "Engineering": 95,
+      "Firearms": 72,
+      "Medicine": 35
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 88,
-      "extraversion": 18,
-      "agreeableness": 91,
-      "neuroticism": 57
+      "openness": 93,
+      "conscientiousness": 49,
+      "extraversion": 96,
+      "agreeableness": 6,
+      "neuroticism": 67
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

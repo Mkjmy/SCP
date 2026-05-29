@@ -1,21 +1,21 @@
 {
   "id": "npc_104",
   "bio": {
-    "full_name": "Robert Bakker",
-    "gender": "Female",
+    "full_name": "David Wong",
+    "gender": "Agender",
     "orientation": "Homosexual",
-    "age": 31,
-    "blood_type": "A-",
-    "genetic_stability": 0.851,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.89,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 54,
+    "height_cm": 189,
+    "weight_kg": 65,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Emerald green",
+      "hair": "Silver, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 29,
-      "Containment_Logic": 91,
-      "Medicine": 17
+      "Firearms": 92,
+      "Hacking": 84,
+      "Perception": 64
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 59,
-      "extraversion": 67,
-      "agreeableness": 28,
-      "neuroticism": 39
+      "openness": 100,
+      "conscientiousness": 23,
+      "extraversion": 25,
+      "agreeableness": 72,
+      "neuroticism": 76
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

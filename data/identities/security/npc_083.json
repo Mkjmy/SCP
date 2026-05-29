@@ -1,60 +1,60 @@
 {
   "id": "npc_083",
   "bio": {
-    "full_name": "Elena Vasiliev",
+    "full_name": "Anthony O'Connor",
     "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 24,
-    "blood_type": "A+",
-    "genetic_stability": 0.948,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.996,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 87,
-    "build": "Overweight",
+    "height_cm": 175,
+    "weight_kg": 70,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Deep brown",
+      "hair": "White, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Engineering": 67,
-      "Hacking": 26,
-      "Containment_Logic": 59
+      "Stealth": 15,
+      "Perception": 12,
+      "Athletics": 60
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 8,
-      "extraversion": 28,
-      "agreeableness": 32,
-      "neuroticism": 65
+      "openness": 40,
+      "conscientiousness": 68,
+      "extraversion": 3,
+      "agreeableness": 48,
+      "neuroticism": 66
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

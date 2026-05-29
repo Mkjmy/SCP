@@ -1,23 +1,23 @@
 {
   "id": "npc_023",
   "bio": {
-    "full_name": "Mark Sato",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "A+",
-    "genetic_stability": 0.951,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Joshua Sato",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "A-",
+    "genetic_stability": 0.94,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 84,
-    "build": "Athletic",
+    "height_cm": 178,
+    "weight_kg": 103,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Athletics": 63,
-      "Persuasion": 93,
-      "Engineering": 83
+      "Athletics": 45,
+      "Containment_Logic": 20,
+      "Firearms": 51
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 76,
-      "extraversion": 83,
-      "agreeableness": 52,
-      "neuroticism": 65
+      "openness": 26,
+      "conscientiousness": 23,
+      "extraversion": 51,
+      "agreeableness": 13,
+      "neuroticism": 6
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

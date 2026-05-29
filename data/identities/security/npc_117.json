@@ -1,20 +1,20 @@
 {
   "id": "npc_117",
   "bio": {
-    "full_name": "Charles Wong",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 47,
+    "full_name": "Sven O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 50,
     "blood_type": "A-",
-    "genetic_stability": 0.885,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.924,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 101,
-    "build": "Average",
+    "height_cm": 196,
+    "weight_kg": 88,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
+      "hair": "Black, Pompadour",
       "eyes": "Deep brown",
       "notable_marks": [
         "Twirls a pen between fingers"
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Hacking": 42,
-      "Persuasion": 72,
-      "Firearms": 50
+      "Stealth": 77,
+      "Firearms": 13,
+      "Hacking": 29
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 84,
-      "conscientiousness": 47,
-      "extraversion": 77,
-      "agreeableness": 43,
-      "neuroticism": 74
+      "openness": 27,
+      "conscientiousness": 88,
+      "extraversion": 28,
+      "agreeableness": 4,
+      "neuroticism": 40
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

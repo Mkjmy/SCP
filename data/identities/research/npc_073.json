@@ -1,23 +1,23 @@
 {
   "id": "npc_073",
   "bio": {
-    "full_name": "James O'Connor",
-    "gender": "Transgender",
+    "full_name": "Steven Johnson",
+    "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 25,
-    "blood_type": "O-",
-    "genetic_stability": 0.886,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 45,
+    "blood_type": "O+",
+    "genetic_stability": 0.987,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 110,
-    "build": "Slender",
+    "height_cm": 187,
+    "weight_kg": 69,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
+      "hair": "Dyed green, Messy",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Hums classical music"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Perception": 41,
-      "Medicine": 18,
-      "Containment_Logic": 32
+      "Persuasion": 72,
+      "Medicine": 76,
+      "Engineering": 60
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 58,
-      "conscientiousness": 4,
-      "extraversion": 44,
-      "agreeableness": 27,
-      "neuroticism": 95
+      "openness": 42,
+      "conscientiousness": 25,
+      "extraversion": 30,
+      "agreeableness": 46,
+      "neuroticism": 89
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

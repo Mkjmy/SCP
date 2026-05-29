@@ -2,22 +2,22 @@
   "id": "npc_071",
   "bio": {
     "full_name": "Michael Davis",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 54,
-    "blood_type": "AB+",
-    "genetic_stability": 0.947,
-    "origin": "Former investigative journalist who dug too deep"
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 64,
+    "blood_type": "B-",
+    "genetic_stability": 0.907,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 75,
-    "build": "Stocky",
+    "height_cm": 169,
+    "weight_kg": 71,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Firearms": 31,
-      "Athletics": 14,
-      "Medicine": 54
+      "Stealth": 42,
+      "Containment_Logic": 56,
+      "Medicine": 14
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 149,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 37,
-      "extraversion": 54,
-      "agreeableness": 56,
-      "neuroticism": 55
+      "openness": 11,
+      "conscientiousness": 95,
+      "extraversion": 15,
+      "agreeableness": 37,
+      "neuroticism": 65
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

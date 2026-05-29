@@ -1,60 +1,60 @@
 {
   "id": "npc_111",
   "bio": {
-    "full_name": "Anthony Kovacs",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 60,
-    "blood_type": "AB-",
-    "genetic_stability": 0.968,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Maria Dubois",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "A+",
+    "genetic_stability": 0.967,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 74,
-    "build": "Overweight",
+    "height_cm": 157,
+    "weight_kg": 62,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
-      "eyes": "Hazel",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 75,
-      "Occult_Research": 22,
-      "Persuasion": 10
+      "Hacking": 63,
+      "Containment_Logic": 46,
+      "Athletics": 12
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 95,
-      "conscientiousness": 5,
-      "extraversion": 85,
-      "agreeableness": 48,
-      "neuroticism": 97
+      "openness": 66,
+      "conscientiousness": 20,
+      "extraversion": 3,
+      "agreeableness": 14,
+      "neuroticism": 68
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
       "amount": 1000,
-      "creditor": "Local Mob"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

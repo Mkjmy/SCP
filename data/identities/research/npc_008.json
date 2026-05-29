@@ -1,23 +1,23 @@
 {
   "id": "npc_008",
   "bio": {
-    "full_name": "Steven Gupta",
+    "full_name": "Thomas Gupta",
     "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 44,
-    "blood_type": "A+",
-    "genetic_stability": 0.963,
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.918,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 67,
-    "build": "Stocky",
+    "height_cm": 181,
+    "weight_kg": 55,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Bald",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 35,
-      "Medicine": 94,
-      "Hacking": 46
+      "Containment_Logic": 65,
+      "Firearms": 63,
+      "Perception": 20
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 30,
-      "conscientiousness": 89,
-      "extraversion": 28,
-      "agreeableness": 43,
-      "neuroticism": 45
+      "openness": 70,
+      "conscientiousness": 41,
+      "extraversion": 39,
+      "agreeableness": 78,
+      "neuroticism": 37
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
       "amount": 0,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_037",
   "bio": {
-    "full_name": "Mark Sato",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 62,
-    "blood_type": "AB+",
-    "genetic_stability": 0.862,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Kenji Ivanov",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "B+",
+    "genetic_stability": 0.977,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 55,
-    "build": "Frail",
+    "height_cm": 173,
+    "weight_kg": 75,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Grey, Buzz cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Perception": 10,
-      "Occult_Research": 54,
-      "Medicine": 29
+      "Stealth": 65,
+      "Athletics": 49,
+      "Engineering": 59
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 37,
-      "extraversion": 69,
-      "agreeableness": 36,
-      "neuroticism": 77
+      "openness": 5,
+      "conscientiousness": 89,
+      "extraversion": 70,
+      "agreeableness": 38,
+      "neuroticism": 35
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

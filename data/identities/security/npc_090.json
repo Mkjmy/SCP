@@ -1,60 +1,60 @@
 {
   "id": "npc_090",
   "bio": {
-    "full_name": "Mark Garcia",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 22,
-    "blood_type": "A-",
-    "genetic_stability": 0.979,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Chen Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "AB-",
+    "genetic_stability": 0.861,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 60,
-    "build": "Overweight",
+    "height_cm": 164,
+    "weight_kg": 86,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Sharp blue",
+      "hair": "White, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Medicine": 79,
-      "Stealth": 54,
-      "Containment_Logic": 33
+      "Medicine": 66,
+      "Containment_Logic": 51,
+      "Hacking": 48
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 22,
-      "extraversion": 32,
-      "agreeableness": 80,
+      "openness": 34,
+      "conscientiousness": 100,
+      "extraversion": 98,
+      "agreeableness": 14,
       "neuroticism": 17
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

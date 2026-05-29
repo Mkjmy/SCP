@@ -1,23 +1,23 @@
 {
   "id": "npc_102",
   "bio": {
-    "full_name": "John Muller",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 51,
-    "blood_type": "AB+",
-    "genetic_stability": 0.896,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Sven Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "B-",
+    "genetic_stability": 0.991,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 71,
-    "build": "Stocky",
+    "height_cm": 197,
+    "weight_kg": 104,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 16,
-      "Hacking": 76,
-      "Athletics": 49
+      "Firearms": 43,
+      "Occult_Research": 66,
+      "Persuasion": 38
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 123,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 42,
-      "extraversion": 73,
-      "agreeableness": 16,
-      "neuroticism": 97
+      "openness": 31,
+      "conscientiousness": 56,
+      "extraversion": 39,
+      "agreeableness": 45,
+      "neuroticism": 54
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_154",
   "bio": {
-    "full_name": "Charles Dubois",
-    "gender": "Female",
+    "full_name": "David Schmidt",
+    "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 27,
-    "blood_type": "A-",
-    "genetic_stability": 0.951,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 59,
+    "blood_type": "B+",
+    "genetic_stability": 0.929,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 109,
-    "build": "Heavily Muscular",
+    "height_cm": 184,
+    "weight_kg": 71,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Emerald green",
+      "hair": "Red, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 33,
-      "Containment_Logic": 55,
-      "Perception": 65
+      "Medicine": 50,
+      "Perception": 94,
+      "Athletics": 16
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 91,
-      "extraversion": 7,
-      "agreeableness": 62,
-      "neuroticism": 11
+      "openness": 35,
+      "conscientiousness": 4,
+      "extraversion": 47,
+      "agreeableness": 75,
+      "neuroticism": 87
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

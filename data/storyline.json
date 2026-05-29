@@ -6,8 +6,9 @@
       {
         "id": "guards_arrival_warning",
         "trigger_turn": 2,
-        "type": "MESSAGE",
-        "message": "The silence of the corridor is broken by the faint, rhythmic hiss of hydraulic boots. A calm, synthesized voice echoes through the dormitory speakers: 'Inmate D-902, please prepare for scheduled biometric verification.'"
+        "actions": [
+          { "type": "MESSAGE", "text": "The silence of the corridor is broken by the faint, rhythmic hiss of hydraulic boots. A calm, synthesized voice echoes through the dormitory speakers: 'Inmate D-902, please prepare for scheduled biometric verification.'" }
+        ]
       },
       {
         "id": "the_arrest",
@@ -18,12 +19,14 @@
             "role": "Guard",
             "name": "Lead Security Enforcer",
             "dept": "Security",
+            "clearance": 3,
             "task": { "type": "ESCORT", "target": "player", "dest_tag": "chamber" }
           },
           {
             "role": "Guard",
             "name": "Rear Security Enforcer",
             "dept": "Security",
+            "clearance": 3,
             "task": { "type": "ESCORT", "target": "player", "dest_tag": "chamber" }
           }
         ],
@@ -32,20 +35,52 @@
           {
             "id": "comply",
             "text": "Stand up and follow the enforcers into the corridor.",
-            "effect": { "morale": 5, "task": "BEING_ESCORTED" },
+            "effect": { "morale": 5 },
             "log": "D-902 complied. Proceeding to Testing Sector 4 under guard escort."
           },
           {
             "id": "resist",
             "text": "Refuse to move, eyeing the gaps in their white armor.",
-            "effect": { "morale": -10, "health": -10, "task": "FORCED_SUBMISSION" },
+            "effect": { "morale": -10, "health": -10 },
             "log": "D-902 resisted. Compliance enforced via non-lethal shock baton. Subject is being dragged to Sector 4."
+          }
+        ]
+      },
+      {
+        "id": "escort_transit_1",
+        "trigger_turn": 4,
+        "actions": [
+          { "type": "MESSAGE", "text": "You are marched through a series of blindingly white corridors. The Lead Enforcer's footsteps echo with metallic precision. You pass several staff members who avert their eyes as you walk by." }
+        ]
+      },
+      {
+        "id": "escort_transit_2",
+        "trigger_turn": 5,
+        "actions": [
+          { "type": "MESSAGE", "text": "The air grows colder as you descend a high-speed elevator. The sign on the wall now reads: SECTOR B - LIGHT CONTAINMENT. The hum of specialized equipment becomes a constant, low-frequency vibration in your teeth." }
+        ]
+      },
+      {
+        "id": "arrival_at_sector_4",
+        "trigger_turn": 6,
+        "type": "CHOICE",
+        "actions": [
+          { "type": "MOVE", "target": "player", "dest_tag": "chamber" },
+          { "type": "MESSAGE", "text": "The enforcers stop before a massive, reinforced alloy door. A holographic display pulses: 'CONTAINMENT UNIT 173 - AUTHORIZED ACCESS ONLY'. The Lead Enforcer swipes a Level 4 card. The door hisses open, revealing a stark, brightly lit chamber." }
+        ],
+        "message": "You are pushed inside. The door slams shut behind you, cutting off the guards. You are now inside the containment unit. A voice crackles over the intercom: 'D-902, please approach the center of the chamber and maintain eye contact with the subject.'",
+        "options": [
+          {
+            "id": "approach_center",
+            "text": "Comply and step toward the center of the room.",
+            "effect": { "sanity": -10, "morale": -5 },
+            "log": "D-902 entered the containment chamber and approached the subject as instructed."
           },
           {
-            "id": "question",
-            "text": "Ask what kind of 'testing' is scheduled today.",
-            "effect": { "sanity": -5, "knowledge": "sector_4_rumors" },
-            "log": "D-902 questioned the procedure. Request ignored; subject moved to corridor for Sector 4 transport."
+            "id": "stay_at_door",
+            "text": "Stay pressed against the door, refusing to move further.",
+            "effect": { "sanity": -5, "morale": 5 },
+            "log": "D-902 showed significant fear, refusing to approach the subject."
           }
         ]
       }
@@ -58,14 +93,17 @@
       {
         "id": "power_failure_warning",
         "trigger_turn": 10,
-        "type": "MESSAGE",
-        "message": "The overhead lights flicker violently. The hum of the facility's power core pitch-shifts into a low, ominous groan. 'Main power failing... backup generators... [REDACTED]'."
+        "actions": [
+          { "type": "MESSAGE", "text": "The overhead lights flicker violently. The hum of the facility's power core pitch-shifts into a low, ominous groan. 'Main power failing... backup generators... [REDACTED]'." }
+        ]
       },
       {
         "id": "full_breach",
         "trigger_turn": 12,
-        "type": "UPDATE_CODE",
-        "code": "RED"
+        "actions": [
+          { "type": "UPDATE_CODE", "code": "RED" },
+          { "type": "PLAYER_STAT", "stat": "sanity", "value": -10 }
+        ]
       },
       {
         "id": "breach_encounter",
@@ -76,6 +114,10 @@
           {
             "id": "run_darkness",
             "text": "Bolt into the darkness of a side hallway.",
+            "actions": [
+              { "type": "MOVE", "target": "player", "dest_tag": "hallway" },
+              { "type": "MESSAGE", "text": "You vanished into the shadows before the guards could react." }
+            ],
             "effect": { "morale": 10, "sanity": -10 },
             "log": "D-902 escaped into the maintenance shafts during the initial blackout."
           },
@@ -84,76 +126,6 @@
             "text": "Lunge for a panicked guard's sidearm.",
             "effect": { "morale": -5, "health": -20 },
             "log": "D-902 attempted to disarm security. A struggle ensued."
-          },
-          {
-            "id": "stay_put",
-            "text": "Stay close to the guards and wait for orders.",
-            "effect": { "morale": -10, "sanity": -20 },
-            "log": "D-902 remained stationary, showing absolute submission to authority."
-          }
-        ]
-      }
-    ]
-  },
-  "the_infiltrator": {
-    "name": "Chapter 3: The Infiltrator's Path",
-    "description": "A hidden voice in the dark. Allegiances are tested.",
-    "events": [
-      {
-        "id": "radio_static",
-        "trigger_turn": 20,
-        "type": "MESSAGE",
-        "message": "A discarded guard radio on the floor crackles to life. '...902... do you copy? This is Delta-4. We are opening the maintenance doors in your sector. Move now if you want to live.'"
-      },
-      {
-        "id": "insurgency_contact",
-        "trigger_turn": 22,
-        "type": "CHOICE",
-        "message": "You find a dead-drop in a locker. A burner phone and a Level 3 Keycard. A text message appears: 'The Foundation treats you like cattle. We offer a way out. Deliver SCP-035 to the surface, and you are a free man. Do we have a deal?'",
-        "options": [
-          {
-            "id": "accept_deal",
-            "text": "Accept the phone and the mission.",
-            "effect": { "loyalty": "TRAITOR", "inventory": "Level 3 Keycard", "morale": 20 },
-            "log": "D-902 has defected. Recruitment by Chaos Insurgency successful."
-          },
-          {
-            "id": "ignore_deal",
-            "text": "Destroy the phone. I won't be a pawn for anyone.",
-            "effect": { "sanity": 10, "morale": -10 },
-            "log": "D-902 rejected the Insurgency's offer, choosing a path of isolated survival."
-          }
-        ]
-      }
-    ]
-  },
-  "echoes_of_void": {
-    "name": "Chapter 4: Echoes of the Void",
-    "description": "Direct contact with high-hazard anomalies.",
-    "events": [
-      {
-        "id": "scp173_sighting",
-        "trigger_turn": 30,
-        "type": "CHOICE",
-        "message": "The red lights flicker out completely. In the total silence, you hear a sound like grinding stone. You turn your flashlight toward the corner. SCP-173 is there. It hasn't moved yet. You need to blink.",
-        "options": [
-          {
-            "id": "stare_down",
-            "text": "Keep your eyes wide open, ignoring the burning sting.",
-            "effect": { "stamina": -40, "sanity": -15 },
-            "log": "D-902 engaged in a desperate stare-down with SCP-173. Physical exhaustion imminent."
-          },
-          {
-            "id": "backup_slowly",
-            "text": "Back away while maintaining eye contact, reaching for the door handle.",
-            "effect": { "dexterity": 5, "sanity": -10 },
-            "log": "D-902 attempted a controlled retreat from SCP-173."
-          },
-          {
-            "id": "blink_and_run",
-            "text": "Blink and bolt for the opposite exit.",
-            "effect": { "health": -30, "injury": "neck:fractured", "morale": -20 },
-            "log": "D-902 blinked. SCP-173 moved with lethal speed, nearly snapping their neck."
           }
         ]
       }

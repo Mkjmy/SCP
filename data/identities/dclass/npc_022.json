@@ -1,23 +1,23 @@
 {
   "id": "npc_022",
   "bio": {
-    "full_name": "Chen Dubois",
+    "full_name": "Richard Vasiliev",
     "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 32,
-    "blood_type": "AB+",
-    "genetic_stability": 0.953,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.912,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 85,
-    "build": "Stocky",
+    "height_cm": 185,
+    "weight_kg": 106,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 26,
-      "Persuasion": 32,
-      "Occult_Research": 72
+      "Firearms": 24,
+      "Stealth": 27,
+      "Hacking": 50
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 36,
-      "extraversion": 41,
-      "agreeableness": 36,
-      "neuroticism": 12
+      "openness": 99,
+      "conscientiousness": 100,
+      "extraversion": 40,
+      "agreeableness": 19,
+      "neuroticism": 79
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",

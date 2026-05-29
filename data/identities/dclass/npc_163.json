@@ -1,23 +1,23 @@
 {
   "id": "npc_163",
   "bio": {
-    "full_name": "Lars Bakker",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 24,
-    "blood_type": "AB+",
-    "genetic_stability": 0.965,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Olga Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.959,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 56,
-    "build": "Stocky",
+    "height_cm": 176,
+    "weight_kg": 90,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Black, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 56,
-      "Athletics": 74,
-      "Firearms": 85
+      "Occult_Research": 54,
+      "Stealth": 42,
+      "Hacking": 51
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 70,
-      "extraversion": 66,
-      "agreeableness": 71,
-      "neuroticism": 7
+      "openness": 45,
+      "conscientiousness": 24,
+      "extraversion": 53,
+      "agreeableness": 76,
+      "neuroticism": 82
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

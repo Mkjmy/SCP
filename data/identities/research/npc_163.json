@@ -1,21 +1,21 @@
 {
   "id": "npc_163",
   "bio": {
-    "full_name": "Christopher Bakker",
-    "gender": "Agender",
+    "full_name": "Olga Ivanov",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 65,
-    "blood_type": "B+",
-    "genetic_stability": 0.895,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 44,
+    "blood_type": "A-",
+    "genetic_stability": 0.883,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 101,
-    "build": "Frail",
+    "height_cm": 174,
+    "weight_kg": 83,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Silver, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 21,
-      "Engineering": 53,
-      "Medicine": 18
+      "Firearms": 85,
+      "Containment_Logic": 45,
+      "Medicine": 12
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 91,
-      "extraversion": 64,
-      "agreeableness": 16,
-      "neuroticism": 75
+      "openness": 53,
+      "conscientiousness": 88,
+      "extraversion": 1,
+      "agreeableness": 63,
+      "neuroticism": 42
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

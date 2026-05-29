@@ -1,23 +1,23 @@
 {
   "id": "npc_168",
   "bio": {
-    "full_name": "Fatima Bakker",
-    "gender": "Transgender",
+    "full_name": "William Sato",
+    "gender": "Female",
     "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "AB+",
-    "genetic_stability": 0.964,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 29,
+    "blood_type": "O-",
+    "genetic_stability": 0.993,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 65,
-    "build": "Athletic",
+    "height_cm": 184,
+    "weight_kg": 93,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Grey, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 48,
-      "Athletics": 58,
-      "Perception": 29
+      "Persuasion": 77,
+      "Engineering": 83,
+      "Athletics": 10
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 21,
-      "extraversion": 72,
-      "agreeableness": 88,
-      "neuroticism": 85
+      "openness": 79,
+      "conscientiousness": 92,
+      "extraversion": 81,
+      "agreeableness": 49,
+      "neuroticism": 9
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

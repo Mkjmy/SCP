@@ -1,23 +1,23 @@
 {
   "id": "npc_207",
   "bio": {
-    "full_name": "Yuki Johnson",
+    "full_name": "Arjun Kovacs",
     "gender": "Male",
     "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "AB-",
-    "genetic_stability": 0.95,
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.924,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 58,
-    "build": "Slender",
+    "height_cm": 194,
+    "weight_kg": 59,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Pompadour",
-      "eyes": "Amber",
+      "hair": "Red, Ponytail",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Occult_Research": 63,
-      "Hacking": 46,
-      "Perception": 94
+      "Persuasion": 72,
+      "Occult_Research": 36,
+      "Athletics": 40
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 165,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 90,
-      "extraversion": 58,
-      "agreeableness": 48,
-      "neuroticism": 93
+      "openness": 44,
+      "conscientiousness": 16,
+      "extraversion": 92,
+      "agreeableness": 96,
+      "neuroticism": 69
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

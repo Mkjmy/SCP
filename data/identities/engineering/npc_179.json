@@ -1,60 +1,60 @@
 {
   "id": "npc_179",
   "bio": {
-    "full_name": "Anthony Garcia",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 40,
-    "blood_type": "AB+",
-    "genetic_stability": 0.962,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Thomas Davis",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 50,
+    "blood_type": "O+",
+    "genetic_stability": 0.982,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 60,
+    "height_cm": 194,
+    "weight_kg": 78,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 23,
-      "Medicine": 73,
-      "Containment_Logic": 26
+      "Engineering": 77,
+      "Firearms": 81,
+      "Hacking": 48
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 6,
-      "extraversion": 87,
-      "agreeableness": 60,
-      "neuroticism": 22
+      "openness": 42,
+      "conscientiousness": 19,
+      "extraversion": 33,
+      "agreeableness": 78,
+      "neuroticism": 96
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

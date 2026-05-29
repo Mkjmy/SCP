@@ -1,21 +1,21 @@
 {
   "id": "npc_036",
   "bio": {
-    "full_name": "Robert Davis",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 34,
-    "blood_type": "O-",
-    "genetic_stability": 0.995,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Elena Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.878,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 81,
+    "height_cm": 181,
+    "weight_kg": 57,
     "build": "Average",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,28 +27,28 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 41,
-      "Stealth": 19,
-      "Persuasion": 20
+      "Stealth": 57,
+      "Engineering": 32,
+      "Hacking": 41
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 32,
-      "conscientiousness": 80,
-      "extraversion": 74,
-      "agreeableness": 60,
-      "neuroticism": 20
+      "openness": 67,
+      "conscientiousness": 57,
+      "extraversion": 28,
+      "agreeableness": 37,
+      "neuroticism": 73
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
       "amount": 0,
       "creditor": "Student Loans"

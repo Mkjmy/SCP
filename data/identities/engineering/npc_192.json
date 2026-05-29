@@ -1,20 +1,20 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "Sven Muller",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 53,
-    "blood_type": "AB+",
-    "genetic_stability": 0.855,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Richard Schmidt",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "B-",
+    "genetic_stability": 0.947,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 97,
-    "build": "Stocky",
+    "height_cm": 171,
+    "weight_kg": 91,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
+      "hair": "Dyed green, Wild and unkempt",
       "eyes": "Amber",
       "notable_marks": [
         "Hums classical music"
@@ -22,39 +22,39 @@
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 41,
-      "Containment_Logic": 51,
-      "Medicine": 13
+      "Medicine": 57,
+      "Stealth": 56,
+      "Athletics": 15
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 54,
-      "extraversion": 53,
-      "agreeableness": 23,
-      "neuroticism": 3
+      "openness": 95,
+      "conscientiousness": 73,
+      "extraversion": 34,
+      "agreeableness": 57,
+      "neuroticism": 60
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

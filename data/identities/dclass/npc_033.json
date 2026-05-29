@@ -1,23 +1,23 @@
 {
   "id": "npc_033",
   "bio": {
-    "full_name": "Olga Wong",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 41,
-    "blood_type": "O+",
-    "genetic_stability": 0.893,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Richard Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.854,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 78,
-    "build": "Slender",
+    "height_cm": 157,
+    "weight_kg": 96,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 82,
-      "Hacking": 77,
-      "Athletics": 26
+      "Firearms": 86,
+      "Persuasion": 19,
+      "Engineering": 47
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
     "iq": 89,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 86,
-      "extraversion": 26,
-      "agreeableness": 59,
-      "neuroticism": 43
+      "openness": 13,
+      "conscientiousness": 47,
+      "extraversion": 55,
+      "agreeableness": 22,
+      "neuroticism": 4
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

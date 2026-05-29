@@ -1,60 +1,60 @@
 {
   "id": "npc_049",
   "bio": {
-    "full_name": "Elena Wong",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 49,
-    "blood_type": "B-",
-    "genetic_stability": 0.974,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Joshua Wong",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "B+",
+    "genetic_stability": 0.936,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 104,
-    "build": "Frail",
+    "height_cm": 169,
+    "weight_kg": 97,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Perception": 29,
-      "Persuasion": 56,
-      "Athletics": 58
+      "Hacking": 58,
+      "Engineering": 90,
+      "Stealth": 73
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 52,
-      "extraversion": 20,
-      "agreeableness": 84,
-      "neuroticism": 33
+      "openness": 14,
+      "conscientiousness": 91,
+      "extraversion": 33,
+      "agreeableness": 21,
+      "neuroticism": 1
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 20000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

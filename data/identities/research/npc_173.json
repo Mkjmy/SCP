@@ -1,23 +1,23 @@
 {
   "id": "npc_173",
   "bio": {
-    "full_name": "Maria Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "O+",
-    "genetic_stability": 0.895,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Joshua Smith",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.937,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 58,
-    "build": "Frail",
+    "height_cm": 166,
+    "weight_kg": 76,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Emerald green",
+      "hair": "Black, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Firearms": 41,
-      "Perception": 12,
-      "Stealth": 67
+      "Athletics": 90,
+      "Medicine": 93,
+      "Perception": 14
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 47,
-      "extraversion": 40,
-      "agreeableness": 32,
-      "neuroticism": 60
+      "openness": 49,
+      "conscientiousness": 55,
+      "extraversion": 88,
+      "agreeableness": 58,
+      "neuroticism": 17
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

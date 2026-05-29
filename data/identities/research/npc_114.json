@@ -1,23 +1,23 @@
 {
   "id": "npc_114",
   "bio": {
-    "full_name": "Lars O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 52,
-    "blood_type": "B+",
-    "genetic_stability": 0.904,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Joseph Miller",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "B-",
+    "genetic_stability": 0.916,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 110,
-    "build": "Slender",
+    "height_cm": 184,
+    "weight_kg": 103,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Pompadour",
+      "hair": "Red, Bald",
       "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Stealth": 24,
-      "Athletics": 46,
-      "Perception": 95
+      "Persuasion": 16,
+      "Firearms": 48,
+      "Containment_Logic": 41
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 163,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 44,
-      "extraversion": 13,
-      "agreeableness": 43,
-      "neuroticism": 86
+      "openness": 78,
+      "conscientiousness": 83,
+      "extraversion": 59,
+      "agreeableness": 25,
+      "neuroticism": 31
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Trying to clear their family name",

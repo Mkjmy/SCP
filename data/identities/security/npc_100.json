@@ -1,60 +1,60 @@
 {
   "id": "npc_100",
   "bio": {
-    "full_name": "Christopher Miller",
-    "gender": "Non-binary",
+    "full_name": "John Vasiliev",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 30,
-    "blood_type": "A+",
-    "genetic_stability": 0.936,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.93,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 63,
-    "build": "Average",
+    "height_cm": 197,
+    "weight_kg": 83,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Hazel",
+      "hair": "Silver, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 43,
-      "Engineering": 56,
-      "Firearms": 11
+      "Engineering": 85,
+      "Persuasion": 59,
+      "Containment_Logic": 20
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 3,
-      "extraversion": 10,
-      "agreeableness": 47,
-      "neuroticism": 94
+      "openness": 6,
+      "conscientiousness": 21,
+      "extraversion": 19,
+      "agreeableness": 69,
+      "neuroticism": 1
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

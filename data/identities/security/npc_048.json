@@ -1,60 +1,60 @@
 {
   "id": "npc_048",
   "bio": {
-    "full_name": "Richard Jones",
-    "gender": "Female",
-    "orientation": "Heterosexual",
+    "full_name": "Joseph Vasiliev",
+    "gender": "Male",
+    "orientation": "Homosexual",
     "age": 26,
-    "blood_type": "AB+",
-    "genetic_stability": 0.93,
-    "origin": "Former university professor specialized in anomalous biology"
+    "blood_type": "A-",
+    "genetic_stability": 0.874,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 157,
+    "height_cm": 194,
     "weight_kg": 66,
-    "build": "Athletic",
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Deep brown",
+      "hair": "Silver, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Medicine": 79,
-      "Athletics": 75,
-      "Containment_Logic": 26
+      "Athletics": 54,
+      "Occult_Research": 54,
+      "Perception": 23
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 118,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 33,
-      "extraversion": 44,
-      "agreeableness": 60,
-      "neuroticism": 36
+      "openness": 78,
+      "conscientiousness": 42,
+      "extraversion": 54,
+      "agreeableness": 98,
+      "neuroticism": 54
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

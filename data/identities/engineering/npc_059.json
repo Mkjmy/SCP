@@ -1,21 +1,21 @@
 {
   "id": "npc_059",
   "bio": {
-    "full_name": "David Schmidt",
-    "gender": "Agender",
+    "full_name": "Lars Williams",
+    "gender": "Female",
     "orientation": "Pansexual",
-    "age": 49,
+    "age": 29,
     "blood_type": "B+",
-    "genetic_stability": 0.887,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.974,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 54,
+    "height_cm": 186,
+    "weight_kg": 57,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
         "Nail biter"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 17,
-      "Perception": 90,
-      "Athletics": 14
+      "Medicine": 73,
+      "Firearms": 73,
+      "Containment_Logic": 75
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 30,
-      "extraversion": 7,
-      "agreeableness": 71,
-      "neuroticism": 73
+      "openness": 81,
+      "conscientiousness": 77,
+      "extraversion": 51,
+      "agreeableness": 67,
+      "neuroticism": 40
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

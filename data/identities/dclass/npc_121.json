@@ -1,23 +1,23 @@
 {
   "id": "npc_121",
   "bio": {
-    "full_name": "Joseph Vasiliev",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 34,
+    "full_name": "Lars Brown",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 43,
     "blood_type": "O+",
-    "genetic_stability": 0.939,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.891,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 83,
+    "height_cm": 168,
+    "weight_kg": 91,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 37,
-      "Persuasion": 58,
-      "Medicine": 65
+      "Medicine": 59,
+      "Engineering": 63,
+      "Perception": 74
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 84,
-      "extraversion": 49,
-      "agreeableness": 2,
-      "neuroticism": 15
+      "openness": 52,
+      "conscientiousness": 9,
+      "extraversion": 29,
+      "agreeableness": 89,
+      "neuroticism": 41
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

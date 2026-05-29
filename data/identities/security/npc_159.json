@@ -1,60 +1,60 @@
 {
   "id": "npc_159",
   "bio": {
-    "full_name": "Sven Vasiliev",
+    "full_name": "Paul Johnson",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 50,
-    "blood_type": "A+",
-    "genetic_stability": 0.86,
+    "orientation": "Bisexual",
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.966,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 93,
-    "build": "Average",
+    "height_cm": 175,
+    "weight_kg": 107,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Messy",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Occult_Research": 64,
-      "Containment_Logic": 64,
-      "Engineering": 43
+      "Occult_Research": 41,
+      "Athletics": 39,
+      "Engineering": 12
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 54,
-      "conscientiousness": 51,
-      "extraversion": 51,
-      "agreeableness": 46,
-      "neuroticism": 67
+      "openness": 94,
+      "conscientiousness": 100,
+      "extraversion": 2,
+      "agreeableness": 89,
+      "neuroticism": 99
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

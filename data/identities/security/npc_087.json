@@ -1,60 +1,60 @@
 {
   "id": "npc_087",
   "bio": {
-    "full_name": "James Davis",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 63,
-    "blood_type": "AB+",
-    "genetic_stability": 0.937,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Andrew Smith",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.898,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 68,
-    "build": "Slender",
+    "height_cm": 157,
+    "weight_kg": 106,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 89,
-      "Containment_Logic": 91,
-      "Hacking": 56
+      "Hacking": 45,
+      "Medicine": 26,
+      "Persuasion": 18
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 17,
-      "extraversion": 77,
-      "agreeableness": 0,
-      "neuroticism": 51
+      "openness": 22,
+      "conscientiousness": 32,
+      "extraversion": 87,
+      "agreeableness": 59,
+      "neuroticism": 14
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_165",
   "bio": {
-    "full_name": "Kenji Muller",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 25,
-    "blood_type": "O-",
-    "genetic_stability": 0.904,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Kenji Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 54,
+    "blood_type": "B+",
+    "genetic_stability": 0.896,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 51,
-    "build": "Heavily Muscular",
+    "height_cm": 190,
+    "weight_kg": 89,
+    "build": "Average",
     "physical_features": {
-      "hair": "Red, Pompadour",
-      "eyes": "Amber",
+      "hair": "Grey, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 33,
-      "Medicine": 70,
-      "Containment_Logic": 20
+      "Engineering": 55,
+      "Persuasion": 95,
+      "Hacking": 73
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 58,
-      "conscientiousness": 15,
-      "extraversion": 17,
-      "agreeableness": 1,
-      "neuroticism": 25
+      "openness": 34,
+      "conscientiousness": 51,
+      "extraversion": 96,
+      "agreeableness": 33,
+      "neuroticism": 89
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
+      "amount": 5000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

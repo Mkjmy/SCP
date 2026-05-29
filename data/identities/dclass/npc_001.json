@@ -1,23 +1,23 @@
 {
   "id": "npc_001",
   "bio": {
-    "full_name": "Olga Johnson",
+    "full_name": "Sven Muller",
     "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 32,
-    "blood_type": "A-",
-    "genetic_stability": 0.878,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.969,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 197,
+    "height_cm": 155,
     "weight_kg": 56,
-    "build": "Heavily Muscular",
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Silver, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 63,
-      "Medicine": 95,
-      "Occult_Research": 31
+      "Stealth": 59,
+      "Engineering": 76,
+      "Persuasion": 35
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 83,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 90,
-      "extraversion": 12,
-      "agreeableness": 26,
-      "neuroticism": 99
+      "openness": 4,
+      "conscientiousness": 36,
+      "extraversion": 47,
+      "agreeableness": 12,
+      "neuroticism": 56
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

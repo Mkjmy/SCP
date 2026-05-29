@@ -1,23 +1,23 @@
 {
   "id": "npc_203",
   "bio": {
-    "full_name": "David Ivanov",
+    "full_name": "Olga Williams",
     "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 38,
-    "blood_type": "B+",
-    "genetic_stability": 0.954,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.908,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 74,
-    "build": "Heavily Muscular",
+    "height_cm": 188,
+    "weight_kg": 68,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Emerald green",
+      "hair": "Brown, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 72,
-      "Containment_Logic": 52,
-      "Engineering": 85
+      "Firearms": 43,
+      "Hacking": 50,
+      "Medicine": 43
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 26,
-      "conscientiousness": 68,
-      "extraversion": 4,
-      "agreeableness": 76,
-      "neuroticism": 4
+      "openness": 54,
+      "conscientiousness": 76,
+      "extraversion": 28,
+      "agreeableness": 6,
+      "neuroticism": 69
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

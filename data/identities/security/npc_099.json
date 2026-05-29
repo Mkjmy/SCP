@@ -1,23 +1,23 @@
 {
   "id": "npc_099",
   "bio": {
-    "full_name": "Robert Schmidt",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 61,
-    "blood_type": "O-",
-    "genetic_stability": 0.946,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Joshua Vasiliev",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "AB+",
+    "genetic_stability": 0.969,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 82,
-    "build": "Heavily Muscular",
+    "height_cm": 168,
+    "weight_kg": 72,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Grey",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Medicine": 44,
-      "Engineering": 39,
-      "Athletics": 81
+      "Medicine": 33,
+      "Firearms": 42,
+      "Athletics": 91
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 152,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 13,
-      "extraversion": 12,
-      "agreeableness": 94,
-      "neuroticism": 71
+      "openness": 38,
+      "conscientiousness": 23,
+      "extraversion": 82,
+      "agreeableness": 27,
+      "neuroticism": 74
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

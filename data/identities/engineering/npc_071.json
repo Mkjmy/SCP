@@ -1,60 +1,60 @@
 {
   "id": "npc_071",
   "bio": {
-    "full_name": "James Muller",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 59,
-    "blood_type": "O+",
-    "genetic_stability": 0.977,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Mark Johnson",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "A-",
+    "genetic_stability": 0.882,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 96,
-    "build": "Overweight",
+    "height_cm": 191,
+    "weight_kg": 72,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Grey, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 24,
-      "Engineering": 16,
-      "Hacking": 76
+      "Occult_Research": 77,
+      "Persuasion": 89,
+      "Perception": 56
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
     "iq": 125,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 92,
-      "extraversion": 41,
-      "agreeableness": 94,
-      "neuroticism": 2
+      "openness": 68,
+      "conscientiousness": 13,
+      "extraversion": 66,
+      "agreeableness": 68,
+      "neuroticism": 50
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
+      "amount": 1000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_077",
   "bio": {
-    "full_name": "Michael Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 55,
-    "blood_type": "B+",
-    "genetic_stability": 0.968,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "James Brown",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.992,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 73,
-    "build": "Lithe",
+    "height_cm": 176,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Grey",
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 70,
-      "Persuasion": 54,
-      "Stealth": 86
+      "Perception": 56,
+      "Occult_Research": 79,
+      "Medicine": 25
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 58,
-      "conscientiousness": 23,
-      "extraversion": 92,
-      "agreeableness": 60,
-      "neuroticism": 71
+      "openness": 64,
+      "conscientiousness": 59,
+      "extraversion": 54,
+      "agreeableness": 87,
+      "neuroticism": 79
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
-      "creditor": "Local Mob"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

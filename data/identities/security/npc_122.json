@@ -1,23 +1,23 @@
 {
   "id": "npc_122",
   "bio": {
-    "full_name": "Elena Jones",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 26,
-    "blood_type": "A+",
-    "genetic_stability": 0.911,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Joshua Gupta",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 59,
+    "blood_type": "B+",
+    "genetic_stability": 0.862,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 54,
-    "build": "Athletic",
+    "height_cm": 187,
+    "weight_kg": 53,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Manicured",
-      "eyes": "Grey",
+      "hair": "Black, Buzz cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Perception": 60,
-      "Engineering": 78,
-      "Hacking": 90
+      "Occult_Research": 45,
+      "Persuasion": 83,
+      "Hacking": 80
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 28,
-      "extraversion": 46,
-      "agreeableness": 27,
-      "neuroticism": 40
+      "openness": 71,
+      "conscientiousness": 58,
+      "extraversion": 55,
+      "agreeableness": 53,
+      "neuroticism": 79
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Trying to clear their family name",

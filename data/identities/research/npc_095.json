@@ -1,23 +1,23 @@
 {
   "id": "npc_095",
   "bio": {
-    "full_name": "Thomas Davis",
+    "full_name": "Sven Wong",
     "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "B-",
-    "genetic_stability": 0.925,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Homosexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.89,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 87,
-    "build": "Heavily Muscular",
+    "height_cm": 171,
+    "weight_kg": 60,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Fade",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Firearms": 93,
-      "Medicine": 45,
-      "Engineering": 63
+      "Persuasion": 27,
+      "Hacking": 12,
+      "Perception": 48
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 62,
-      "conscientiousness": 54,
-      "extraversion": 20,
-      "agreeableness": 85,
-      "neuroticism": 29
+      "openness": 88,
+      "conscientiousness": 20,
+      "extraversion": 60,
+      "agreeableness": 57,
+      "neuroticism": 6
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

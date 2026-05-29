@@ -1,23 +1,23 @@
 {
   "id": "npc_013",
   "bio": {
-    "full_name": "Chen Jones",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 60,
-    "blood_type": "B+",
-    "genetic_stability": 0.983,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Mark Kovacs",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.869,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 92,
-    "build": "Overweight",
+    "height_cm": 186,
+    "weight_kg": 110,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Sharp blue",
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 88,
-      "Athletics": 60,
-      "Occult_Research": 47
+      "Hacking": 56,
+      "Stealth": 28,
+      "Persuasion": 51
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 71,
-      "extraversion": 41,
-      "agreeableness": 54,
-      "neuroticism": 0
+      "openness": 25,
+      "conscientiousness": 68,
+      "extraversion": 96,
+      "agreeableness": 86,
+      "neuroticism": 95
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

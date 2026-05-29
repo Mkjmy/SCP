@@ -1,23 +1,23 @@
 {
   "id": "npc_114",
   "bio": {
-    "full_name": "Donald Johnson",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 43,
-    "blood_type": "AB+",
-    "genetic_stability": 0.977,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Steven Bakker",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "O-",
+    "genetic_stability": 0.858,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 70,
-    "build": "Stocky",
+    "height_cm": 176,
+    "weight_kg": 93,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Brown, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 45,
-      "Persuasion": 67,
-      "Containment_Logic": 30
+      "Firearms": 49,
+      "Persuasion": 50,
+      "Hacking": 23
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 47,
-      "extraversion": 76,
-      "agreeableness": 82,
-      "neuroticism": 59
+      "openness": 85,
+      "conscientiousness": 75,
+      "extraversion": 5,
+      "agreeableness": 43,
+      "neuroticism": 20
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

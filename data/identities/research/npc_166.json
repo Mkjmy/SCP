@@ -1,23 +1,23 @@
 {
   "id": "npc_166",
   "bio": {
-    "full_name": "Donald Sato",
+    "full_name": "Mark Ivanov",
     "gender": "Transgender",
     "orientation": "Heterosexual",
-    "age": 58,
-    "blood_type": "AB+",
-    "genetic_stability": 0.971,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 65,
+    "blood_type": "AB-",
+    "genetic_stability": 0.941,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 72,
+    "height_cm": 162,
+    "weight_kg": 81,
     "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Perception": 72,
-      "Persuasion": 50,
-      "Hacking": 50
+      "Medicine": 90,
+      "Engineering": 89,
+      "Occult_Research": 31
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 92,
-      "extraversion": 39,
-      "agreeableness": 66,
-      "neuroticism": 95
+      "openness": 93,
+      "conscientiousness": 1,
+      "extraversion": 87,
+      "agreeableness": 87,
+      "neuroticism": 70
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Secretly worships the Scarlet King",

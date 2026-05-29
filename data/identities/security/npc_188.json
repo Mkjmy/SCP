@@ -1,23 +1,23 @@
 {
   "id": "npc_188",
   "bio": {
-    "full_name": "Joshua Miller",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 37,
-    "blood_type": "O-",
-    "genetic_stability": 0.865,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Lars Smith",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "B+",
+    "genetic_stability": 0.991,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 82,
+    "height_cm": 186,
+    "weight_kg": 95,
     "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Engineering": 95,
-      "Athletics": 49,
-      "Hacking": 20
+      "Hacking": 26,
+      "Occult_Research": 26,
+      "Stealth": 31
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 54,
-      "extraversion": 79,
-      "agreeableness": 49,
-      "neuroticism": 36
+      "openness": 3,
+      "conscientiousness": 39,
+      "extraversion": 36,
+      "agreeableness": 47,
+      "neuroticism": 65
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
       "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

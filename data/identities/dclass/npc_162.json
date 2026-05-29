@@ -1,23 +1,23 @@
 {
   "id": "npc_162",
   "bio": {
-    "full_name": "Kenji O'Connor",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.913,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Andrew Jones",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "A+",
+    "genetic_stability": 0.936,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 95,
-    "build": "Average",
+    "height_cm": 155,
+    "weight_kg": 88,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Grey",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 19,
-      "Containment_Logic": 58,
+      "Perception": 76,
+      "Stealth": 87,
       "Athletics": 81
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 26,
-      "conscientiousness": 90,
-      "extraversion": 10,
-      "agreeableness": 87,
-      "neuroticism": 1
+      "openness": 41,
+      "conscientiousness": 3,
+      "extraversion": 92,
+      "agreeableness": 76,
+      "neuroticism": 21
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

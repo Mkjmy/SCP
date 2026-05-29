@@ -1,23 +1,23 @@
 {
   "id": "npc_158",
   "bio": {
-    "full_name": "Thomas Kovacs",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 26,
-    "blood_type": "AB+",
-    "genetic_stability": 0.895,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Richard Garcia",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "O-",
+    "genetic_stability": 0.989,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 108,
-    "build": "Athletic",
+    "height_cm": 169,
+    "weight_kg": 71,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Athletics": 24,
-      "Hacking": 89,
-      "Medicine": 68
+      "Hacking": 58,
+      "Occult_Research": 11,
+      "Perception": 67
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
     "iq": 163,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 43,
-      "extraversion": 2,
-      "agreeableness": 48,
-      "neuroticism": 61
+      "openness": 98,
+      "conscientiousness": 46,
+      "extraversion": 58,
+      "agreeableness": 9,
+      "neuroticism": 4
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

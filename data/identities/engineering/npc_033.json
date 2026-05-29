@@ -1,60 +1,60 @@
 {
   "id": "npc_033",
   "bio": {
-    "full_name": "Chen Muller",
+    "full_name": "Matthew Schmidt",
     "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 60,
-    "blood_type": "A+",
-    "genetic_stability": 0.921,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.959,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 77,
-    "build": "Stocky",
+    "height_cm": 194,
+    "weight_kg": 101,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Amber",
+      "hair": "White, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 68,
-      "Hacking": 64,
-      "Perception": 48
+      "Hacking": 95,
+      "Engineering": 82,
+      "Medicine": 31
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 118,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 82,
-      "extraversion": 91,
-      "agreeableness": 91,
-      "neuroticism": 6
+      "openness": 20,
+      "conscientiousness": 23,
+      "extraversion": 0,
+      "agreeableness": 48,
+      "neuroticism": 89
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
       "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

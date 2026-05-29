@@ -1,23 +1,23 @@
 {
   "id": "npc_034",
   "bio": {
-    "full_name": "John Jones",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 58,
-    "blood_type": "O-",
-    "genetic_stability": 0.944,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Chen Williams",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "B+",
+    "genetic_stability": 0.873,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 57,
-    "build": "Slender",
+    "height_cm": 169,
+    "weight_kg": 62,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Amber",
+      "hair": "Red, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Containment_Logic": 22,
-      "Athletics": 35,
-      "Perception": 20
+      "Perception": 31,
+      "Hacking": 52,
+      "Persuasion": 75
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 90,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 72,
-      "extraversion": 99,
+      "openness": 33,
+      "conscientiousness": 19,
+      "extraversion": 37,
       "agreeableness": 14,
-      "neuroticism": 27
+      "neuroticism": 63
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

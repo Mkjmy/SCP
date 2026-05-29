@@ -1,23 +1,23 @@
 {
   "id": "npc_040",
   "bio": {
-    "full_name": "Maria Tanaka",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 39,
+    "full_name": "Charles Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 32,
     "blood_type": "AB-",
-    "genetic_stability": 0.914,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.902,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 57,
-    "build": "Average",
+    "height_cm": 172,
+    "weight_kg": 67,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 19,
-      "Engineering": 65,
-      "Stealth": 14
+      "Engineering": 38,
+      "Stealth": 36,
+      "Firearms": 85
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 91,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 86,
-      "conscientiousness": 71,
-      "extraversion": 18,
-      "agreeableness": 36,
-      "neuroticism": 29
+      "openness": 7,
+      "conscientiousness": 41,
+      "extraversion": 85,
+      "agreeableness": 86,
+      "neuroticism": 25
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

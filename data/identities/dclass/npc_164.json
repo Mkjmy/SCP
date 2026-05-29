@@ -1,23 +1,23 @@
 {
   "id": "npc_164",
   "bio": {
-    "full_name": "Paul Bakker",
-    "gender": "Female",
+    "full_name": "Mark Jones",
+    "gender": "Agender",
     "orientation": "Bisexual",
-    "age": 30,
-    "blood_type": "O+",
-    "genetic_stability": 0.925,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 34,
+    "blood_type": "B-",
+    "genetic_stability": 0.968,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 77,
-    "build": "Stocky",
+    "height_cm": 181,
+    "weight_kg": 65,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Wild and unkempt",
-      "eyes": "Grey",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 46,
-      "Athletics": 34,
-      "Hacking": 85
+      "Occult_Research": 64,
+      "Hacking": 24,
+      "Persuasion": 89
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 36,
-      "conscientiousness": 49,
-      "extraversion": 54,
-      "agreeableness": 76,
-      "neuroticism": 67
+      "openness": 40,
+      "conscientiousness": 51,
+      "extraversion": 93,
+      "agreeableness": 7,
+      "neuroticism": 33
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

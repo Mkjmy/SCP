@@ -1,60 +1,60 @@
 {
   "id": "npc_139",
   "bio": {
-    "full_name": "Paul Johnson",
+    "full_name": "Paul Sato",
     "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 26,
-    "blood_type": "O-",
-    "genetic_stability": 0.974,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Heterosexual",
+    "age": 52,
+    "blood_type": "O+",
+    "genetic_stability": 0.928,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 60,
+    "height_cm": 172,
+    "weight_kg": 52,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 61,
-      "Persuasion": 59,
-      "Engineering": 32
+      "Engineering": 57,
+      "Containment_Logic": 35,
+      "Perception": 87
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 59,
-      "conscientiousness": 10,
-      "extraversion": 62,
-      "agreeableness": 13,
-      "neuroticism": 18
+      "openness": 88,
+      "conscientiousness": 26,
+      "extraversion": 36,
+      "agreeableness": 31,
+      "neuroticism": 41
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

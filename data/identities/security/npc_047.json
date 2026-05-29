@@ -1,60 +1,60 @@
 {
   "id": "npc_047",
   "bio": {
-    "full_name": "Paul Vasiliev",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 60,
-    "blood_type": "O+",
-    "genetic_stability": 0.898,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "John Garcia",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.934,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 102,
-    "build": "Overweight",
+    "height_cm": 187,
+    "weight_kg": 81,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
+      "hair": "Silver, Pixie cut",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Hacking": 83,
-      "Stealth": 41,
-      "Medicine": 46
+      "Stealth": 71,
+      "Firearms": 59,
+      "Medicine": 68
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 119,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 86,
-      "extraversion": 94,
-      "agreeableness": 5,
-      "neuroticism": 75
+      "openness": 82,
+      "conscientiousness": 55,
+      "extraversion": 3,
+      "agreeableness": 83,
+      "neuroticism": 20
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

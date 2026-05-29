@@ -1,23 +1,23 @@
 {
   "id": "npc_108",
   "bio": {
-    "full_name": "David Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 32,
-    "blood_type": "AB-",
-    "genetic_stability": 0.976,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Thomas Smith",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.904,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 93,
-    "build": "Athletic",
+    "height_cm": 163,
+    "weight_kg": 87,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Hacking": 29,
-      "Perception": 36,
-      "Engineering": 34
+      "Perception": 57,
+      "Containment_Logic": 44,
+      "Persuasion": 33
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 64,
-      "extraversion": 6,
-      "agreeableness": 47,
-      "neuroticism": 31
+      "openness": 70,
+      "conscientiousness": 67,
+      "extraversion": 62,
+      "agreeableness": 48,
+      "neuroticism": 4
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 1000,
-      "creditor": "Local Mob"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",

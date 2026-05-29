@@ -1,23 +1,23 @@
 {
   "id": "npc_098",
   "bio": {
-    "full_name": "Richard Smith",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 25,
-    "blood_type": "B+",
-    "genetic_stability": 0.96,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Joshua Sato",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.948,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 57,
-    "build": "Lithe",
+    "height_cm": 173,
+    "weight_kg": 71,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Blonde, Bald",
-      "eyes": "Emerald green",
+      "hair": "Blonde, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 21,
-      "Athletics": 67,
-      "Firearms": 71
+      "Persuasion": 20,
+      "Perception": 49,
+      "Hacking": 19
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 83,
     "personality_matrix": {
-      "openness": 59,
-      "conscientiousness": 26,
-      "extraversion": 24,
-      "agreeableness": 64,
-      "neuroticism": 49
+      "openness": 36,
+      "conscientiousness": 27,
+      "extraversion": 94,
+      "agreeableness": 71,
+      "neuroticism": 63
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "None"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_171",
   "bio": {
-    "full_name": "Joseph Schmidt",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 43,
-    "blood_type": "A-",
-    "genetic_stability": 0.889,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Matthew Williams",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.915,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 50,
-    "build": "Heavily Muscular",
+    "height_cm": 166,
+    "weight_kg": 60,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 72,
-      "Perception": 75,
-      "Medicine": 57
+      "Stealth": 48,
+      "Engineering": 43,
+      "Containment_Logic": 67
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 87,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 84,
-      "extraversion": 52,
-      "agreeableness": 82,
-      "neuroticism": 30
+      "openness": 70,
+      "conscientiousness": 38,
+      "extraversion": 91,
+      "agreeableness": 58,
+      "neuroticism": 46
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
+      "amount": 100000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

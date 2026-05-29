@@ -1,23 +1,23 @@
 {
   "id": "npc_096",
   "bio": {
-    "full_name": "Fatima Gupta",
-    "gender": "Agender",
+    "full_name": "Charles Tanaka",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 20,
-    "blood_type": "B+",
-    "genetic_stability": 0.89,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 43,
+    "blood_type": "O+",
+    "genetic_stability": 0.973,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 110,
+    "height_cm": 187,
+    "weight_kg": 73,
     "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
-      "eyes": "Amber",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 47,
-      "Containment_Logic": 84,
-      "Persuasion": 57
+      "Engineering": 34,
+      "Persuasion": 58,
+      "Medicine": 84
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 17,
-      "conscientiousness": 40,
-      "extraversion": 59,
-      "agreeableness": 9,
-      "neuroticism": 60
+      "openness": 20,
+      "conscientiousness": 28,
+      "extraversion": 18,
+      "agreeableness": 74,
+      "neuroticism": 66
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 1.0
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
+      "amount": 100000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

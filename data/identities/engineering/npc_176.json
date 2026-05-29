@@ -1,56 +1,56 @@
 {
   "id": "npc_176",
   "bio": {
-    "full_name": "David Tanaka",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 37,
-    "blood_type": "O-",
-    "genetic_stability": 0.927,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Maria Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 60,
+    "blood_type": "B-",
+    "genetic_stability": 0.994,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 89,
-    "build": "Athletic",
+    "height_cm": 179,
+    "weight_kg": 102,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 48,
-      "Medicine": 42,
-      "Stealth": 87
+      "Hacking": 21,
+      "Athletics": 41,
+      "Occult_Research": 56
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 21,
-      "extraversion": 4,
-      "agreeableness": 27,
-      "neuroticism": 23
+      "openness": 30,
+      "conscientiousness": 41,
+      "extraversion": 26,
+      "agreeableness": 41,
+      "neuroticism": 38
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 1.0
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",

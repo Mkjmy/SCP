@@ -1,23 +1,23 @@
 {
   "id": "npc_017",
   "bio": {
-    "full_name": "Charles Wong",
+    "full_name": "Charles Jones",
     "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 53,
-    "blood_type": "O+",
-    "genetic_stability": 0.876,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Heterosexual",
+    "age": 52,
+    "blood_type": "B-",
+    "genetic_stability": 0.87,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 53,
-    "build": "Stocky",
+    "height_cm": 181,
+    "weight_kg": 77,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Medicine": 37,
-      "Stealth": 73,
-      "Hacking": 27
+      "Occult_Research": 34,
+      "Hacking": 41,
+      "Medicine": 83
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 101,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 44,
-      "extraversion": 46,
-      "agreeableness": 54,
-      "neuroticism": 2
+      "openness": 65,
+      "conscientiousness": 71,
+      "extraversion": 24,
+      "agreeableness": 38,
+      "neuroticism": 90
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
-      "creditor": "Local Mob"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

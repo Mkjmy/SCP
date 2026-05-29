@@ -1,23 +1,23 @@
 {
   "id": "npc_051",
   "bio": {
-    "full_name": "John O'Connor",
-    "gender": "Male",
+    "full_name": "Arjun Jones",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 34,
-    "blood_type": "B+",
-    "genetic_stability": 0.916,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 40,
+    "blood_type": "O-",
+    "genetic_stability": 0.922,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 173,
+    "height_cm": 197,
     "weight_kg": 108,
     "build": "Average",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Amber",
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 90,
-      "Perception": 73,
-      "Containment_Logic": 11
+      "Athletics": 74,
+      "Hacking": 39,
+      "Persuasion": 66
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 62,
-      "conscientiousness": 97,
-      "extraversion": 7,
-      "agreeableness": 23,
-      "neuroticism": 5
+      "openness": 47,
+      "conscientiousness": 56,
+      "extraversion": 12,
+      "agreeableness": 11,
+      "neuroticism": 81
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

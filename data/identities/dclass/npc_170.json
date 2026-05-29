@@ -1,23 +1,23 @@
 {
   "id": "npc_170",
   "bio": {
-    "full_name": "Steven Davis",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 45,
-    "blood_type": "A-",
-    "genetic_stability": 0.976,
+    "full_name": "Anthony Miller",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.915,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 77,
-    "build": "Heavily Muscular",
+    "height_cm": 199,
+    "weight_kg": 67,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Bald",
-      "eyes": "Deep brown",
+      "hair": "White, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 81,
-      "Persuasion": 95,
-      "Perception": 68
+      "Firearms": 33,
+      "Containment_Logic": 92,
+      "Athletics": 95
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 86,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 82,
-      "extraversion": 23,
-      "agreeableness": 2,
-      "neuroticism": 43
+      "openness": 92,
+      "conscientiousness": 56,
+      "extraversion": 3,
+      "agreeableness": 46,
+      "neuroticism": 93
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

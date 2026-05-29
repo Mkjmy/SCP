@@ -1,60 +1,60 @@
 {
   "id": "npc_096",
   "bio": {
-    "full_name": "Daniel Muller",
+    "full_name": "Arjun Kovacs",
     "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 22,
-    "blood_type": "O-",
-    "genetic_stability": 0.98,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "A+",
+    "genetic_stability": 0.889,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 102,
-    "build": "Heavily Muscular",
+    "height_cm": 169,
+    "weight_kg": 60,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Fade",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Engineering": 70,
-      "Athletics": 92,
-      "Containment_Logic": 77
+      "Engineering": 37,
+      "Stealth": 76,
+      "Medicine": 72
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 86,
-      "conscientiousness": 48,
-      "extraversion": 64,
-      "agreeableness": 31,
-      "neuroticism": 92
+      "openness": 95,
+      "conscientiousness": 85,
+      "extraversion": 96,
+      "agreeableness": 0,
+      "neuroticism": 55
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

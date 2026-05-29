@@ -1,23 +1,23 @@
 {
   "id": "npc_184",
   "bio": {
-    "full_name": "Fatima Smith",
-    "gender": "Transgender",
+    "full_name": "Richard Davis",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 31,
-    "blood_type": "B-",
-    "genetic_stability": 0.971,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 55,
+    "blood_type": "A+",
+    "genetic_stability": 0.959,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 52,
-    "build": "Slender",
+    "height_cm": 166,
+    "weight_kg": 68,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Amber",
+      "hair": "Black, Fade",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 91,
-      "Persuasion": 12,
-      "Engineering": 67
+      "Perception": 29,
+      "Engineering": 66,
+      "Persuasion": 45
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 56,
-      "conscientiousness": 7,
-      "extraversion": 15,
+      "openness": 28,
+      "conscientiousness": 50,
+      "extraversion": 63,
       "agreeableness": 7,
-      "neuroticism": 2
+      "neuroticism": 62
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
       "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_139",
   "bio": {
-    "full_name": "Olga Ivanov",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 40,
-    "blood_type": "AB-",
-    "genetic_stability": 0.936,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Thomas Johnson",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "O-",
+    "genetic_stability": 0.91,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 101,
-    "build": "Heavily Muscular",
+    "height_cm": 186,
+    "weight_kg": 53,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 66,
-      "Occult_Research": 75,
-      "Persuasion": 41
+      "Firearms": 31,
+      "Perception": 76,
+      "Persuasion": 76
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 84,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 24,
-      "extraversion": 49,
-      "agreeableness": 30,
-      "neuroticism": 3
+      "openness": 33,
+      "conscientiousness": 26,
+      "extraversion": 77,
+      "agreeableness": 13,
+      "neuroticism": 41
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

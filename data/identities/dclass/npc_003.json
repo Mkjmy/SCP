@@ -1,23 +1,23 @@
 {
   "id": "npc_003",
   "bio": {
-    "full_name": "Mark Ivanov",
-    "gender": "Female",
+    "full_name": "Paul Muller",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 44,
-    "blood_type": "B-",
-    "genetic_stability": 0.952,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 41,
+    "blood_type": "B+",
+    "genetic_stability": 0.878,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 59,
-    "build": "Athletic",
+    "height_cm": 182,
+    "weight_kg": 106,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Black, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 27,
-      "Engineering": 49,
-      "Medicine": 82
+      "Firearms": 21,
+      "Containment_Logic": 58,
+      "Stealth": 39
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 56,
-      "extraversion": 50,
-      "agreeableness": 76,
-      "neuroticism": 98
+      "openness": 12,
+      "conscientiousness": 81,
+      "extraversion": 12,
+      "agreeableness": 86,
+      "neuroticism": 3
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Undercover ISD agent",

@@ -1,23 +1,23 @@
 {
   "id": "npc_049",
   "bio": {
-    "full_name": "Kenji Jones",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 35,
-    "blood_type": "O+",
-    "genetic_stability": 0.916,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Anthony Brown",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.902,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 108,
-    "build": "Stocky",
+    "height_cm": 180,
+    "weight_kg": 87,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Red, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 13,
-      "Engineering": 73,
-      "Persuasion": 18
+      "Persuasion": 40,
+      "Containment_Logic": 18,
+      "Hacking": 67
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 88,
     "personality_matrix": {
-      "openness": 0,
-      "conscientiousness": 40,
-      "extraversion": 20,
-      "agreeableness": 22,
-      "neuroticism": 85
+      "openness": 49,
+      "conscientiousness": 85,
+      "extraversion": 15,
+      "agreeableness": 25,
+      "neuroticism": 50
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

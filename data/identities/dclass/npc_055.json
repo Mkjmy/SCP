@@ -1,23 +1,23 @@
 {
   "id": "npc_055",
   "bio": {
-    "full_name": "Elena Ivanov",
+    "full_name": "Yuki Vasiliev",
     "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 29,
-    "blood_type": "O-",
-    "genetic_stability": 0.853,
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.957,
     "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 100,
-    "build": "Lithe",
+    "height_cm": 171,
+    "weight_kg": 78,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Silver, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 40,
-      "Engineering": 83,
-      "Persuasion": 93
+      "Perception": 61,
+      "Medicine": 57,
+      "Stealth": 54
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 87,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 62,
-      "extraversion": 1,
-      "agreeableness": 67,
-      "neuroticism": 25
+      "openness": 12,
+      "conscientiousness": 15,
+      "extraversion": 99,
+      "agreeableness": 92,
+      "neuroticism": 77
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

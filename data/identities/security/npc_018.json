@@ -1,60 +1,60 @@
 {
   "id": "npc_018",
   "bio": {
-    "full_name": "Chen Vasiliev",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 40,
-    "blood_type": "B+",
-    "genetic_stability": 0.961,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Fatima Miller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 46,
+    "blood_type": "A+",
+    "genetic_stability": 0.935,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 50,
-    "build": "Slender",
+    "height_cm": 175,
+    "weight_kg": 92,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Hazel",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Firearms": 33,
-      "Persuasion": 10,
-      "Occult_Research": 76
+      "Persuasion": 32,
+      "Stealth": 95,
+      "Containment_Logic": 24
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 83,
-      "conscientiousness": 77,
-      "extraversion": 0,
-      "agreeableness": 63,
-      "neuroticism": 87
+      "openness": 74,
+      "conscientiousness": 85,
+      "extraversion": 51,
+      "agreeableness": 29,
+      "neuroticism": 14
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_030",
   "bio": {
-    "full_name": "Michael Sato",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 40,
-    "blood_type": "B+",
-    "genetic_stability": 0.864,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Robert Muller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "AB+",
+    "genetic_stability": 0.998,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 59,
-    "build": "Stocky",
+    "height_cm": 199,
+    "weight_kg": 96,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Amber",
+      "hair": "Silver, Messy",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Perception": 31,
-      "Medicine": 34,
-      "Firearms": 49
+      "Perception": 45,
+      "Occult_Research": 13,
+      "Persuasion": 35
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 94,
-      "extraversion": 24,
-      "agreeableness": 68,
-      "neuroticism": 72
+      "openness": 36,
+      "conscientiousness": 77,
+      "extraversion": 72,
+      "agreeableness": 54,
+      "neuroticism": 56
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

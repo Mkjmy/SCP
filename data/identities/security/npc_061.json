@@ -1,60 +1,60 @@
 {
   "id": "npc_061",
   "bio": {
-    "full_name": "James Brown",
+    "full_name": "Donald Davis",
     "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 46,
+    "orientation": "Heterosexual",
+    "age": 31,
     "blood_type": "A+",
-    "genetic_stability": 0.965,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.903,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 73,
-    "build": "Overweight",
+    "height_cm": 177,
+    "weight_kg": 59,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Icy blue",
+      "hair": "Brown, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Perception": 90,
-      "Persuasion": 46,
-      "Medicine": 81
+      "Stealth": 20,
+      "Occult_Research": 81,
+      "Firearms": 42
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 91,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 86,
-      "extraversion": 18,
-      "agreeableness": 38,
-      "neuroticism": 90
+      "openness": 23,
+      "conscientiousness": 16,
+      "extraversion": 78,
+      "agreeableness": 90,
+      "neuroticism": 10
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

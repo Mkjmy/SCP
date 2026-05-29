@@ -1,23 +1,23 @@
 {
   "id": "npc_144",
   "bio": {
-    "full_name": "Elena Tanaka",
-    "gender": "Non-binary",
+    "full_name": "Sven Kovacs",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 24,
-    "blood_type": "AB-",
-    "genetic_stability": 0.942,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 35,
+    "blood_type": "O+",
+    "genetic_stability": 0.949,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 77,
-    "build": "Stocky",
+    "height_cm": 189,
+    "weight_kg": 74,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 62,
-      "Firearms": 79,
-      "Persuasion": 22
+      "Hacking": 91,
+      "Athletics": 81,
+      "Containment_Logic": 45
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 88,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 52,
-      "extraversion": 49,
-      "agreeableness": 15,
-      "neuroticism": 27
+      "openness": 71,
+      "conscientiousness": 17,
+      "extraversion": 60,
+      "agreeableness": 16,
+      "neuroticism": 61
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

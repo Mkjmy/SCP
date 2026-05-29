@@ -1,60 +1,60 @@
 {
   "id": "npc_141",
   "bio": {
-    "full_name": "Chen Tanaka",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 45,
-    "blood_type": "O-",
-    "genetic_stability": 0.962,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Sven Kovacs",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.995,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 97,
-    "build": "Average",
+    "height_cm": 189,
+    "weight_kg": 98,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Messy",
+      "hair": "Dyed blue, Messy",
       "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 20,
-      "Engineering": 73,
-      "Stealth": 27
+      "Containment_Logic": 66,
+      "Athletics": 33,
+      "Firearms": 24
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 65,
-      "extraversion": 41,
-      "agreeableness": 97,
-      "neuroticism": 64
+      "openness": 72,
+      "conscientiousness": 1,
+      "extraversion": 34,
+      "agreeableness": 2,
+      "neuroticism": 66
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

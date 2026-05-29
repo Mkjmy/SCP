@@ -1,57 +1,57 @@
 {
   "id": "npc_067",
   "bio": {
-    "full_name": "Christopher Brown",
-    "gender": "Female",
+    "full_name": "Donald Davis",
+    "gender": "Agender",
     "orientation": "Asexual",
-    "age": 48,
-    "blood_type": "AB+",
-    "genetic_stability": 0.983,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.96,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 57,
-    "build": "Overweight",
+    "height_cm": 156,
+    "weight_kg": 104,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Amber",
+      "hair": "Brown, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 39,
-      "Stealth": 84,
-      "Athletics": 87
+      "Occult_Research": 84,
+      "Engineering": 82,
+      "Containment_Logic": 29
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 117,
     "personality_matrix": {
       "openness": 100,
-      "conscientiousness": 21,
-      "extraversion": 55,
-      "agreeableness": 17,
-      "neuroticism": 88
+      "conscientiousness": 50,
+      "extraversion": 67,
+      "agreeableness": 23,
+      "neuroticism": 12
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Undercover ISD agent",

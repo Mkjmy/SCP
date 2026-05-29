@@ -1,23 +1,23 @@
 {
   "id": "npc_032",
   "bio": {
-    "full_name": "Andrew Smith",
-    "gender": "Transgender",
+    "full_name": "Sven Davis",
+    "gender": "Non-binary",
     "orientation": "Asexual",
-    "age": 38,
+    "age": 28,
     "blood_type": "O+",
-    "genetic_stability": 0.999,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.89,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 76,
-    "build": "Stocky",
+    "height_cm": 188,
+    "weight_kg": 69,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Red, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 79,
-      "Perception": 52,
-      "Occult_Research": 32
+      "Perception": 51,
+      "Containment_Logic": 51,
+      "Hacking": 44
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 72,
-      "extraversion": 44,
-      "agreeableness": 46,
-      "neuroticism": 44
+      "openness": 61,
+      "conscientiousness": 28,
+      "extraversion": 20,
+      "agreeableness": 57,
+      "neuroticism": 100
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

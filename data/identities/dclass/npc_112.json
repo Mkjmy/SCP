@@ -1,23 +1,23 @@
 {
   "id": "npc_112",
   "bio": {
-    "full_name": "Elena Williams",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 20,
+    "full_name": "Andrew Wong",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 45,
     "blood_type": "A+",
-    "genetic_stability": 0.985,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.87,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 96,
-    "build": "Stocky",
+    "height_cm": 165,
+    "weight_kg": 73,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Grey, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 57,
-      "Stealth": 91,
-      "Persuasion": 26
+      "Stealth": 67,
+      "Medicine": 62,
+      "Containment_Logic": 88
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 65,
-      "extraversion": 76,
-      "agreeableness": 13,
-      "neuroticism": 47
+      "openness": 26,
+      "conscientiousness": 57,
+      "extraversion": 91,
+      "agreeableness": 12,
+      "neuroticism": 92
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

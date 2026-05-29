@@ -1,23 +1,23 @@
 {
   "id": "npc_154",
   "bio": {
-    "full_name": "Mark Bakker",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 29,
-    "blood_type": "A-",
-    "genetic_stability": 0.9,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "James Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "O+",
+    "genetic_stability": 0.941,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 98,
-    "build": "Average",
+    "height_cm": 195,
+    "weight_kg": 85,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 34,
-      "Firearms": 12,
-      "Engineering": 56
+      "Perception": 30,
+      "Occult_Research": 82,
+      "Persuasion": 70
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 11,
-      "extraversion": 98,
-      "agreeableness": 37,
-      "neuroticism": 84
+      "openness": 36,
+      "conscientiousness": 36,
+      "extraversion": 49,
+      "agreeableness": 23,
+      "neuroticism": 96
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

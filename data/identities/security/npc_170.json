@@ -1,23 +1,23 @@
 {
   "id": "npc_170",
   "bio": {
-    "full_name": "Matthew O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 65,
-    "blood_type": "O+",
-    "genetic_stability": 0.978,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "David Tanaka",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.932,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 107,
-    "build": "Average",
+    "height_cm": 185,
+    "weight_kg": 53,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Firearms": 88,
-      "Engineering": 51,
-      "Occult_Research": 18
+      "Athletics": 11,
+      "Engineering": 46,
+      "Containment_Logic": 73
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 85,
-      "extraversion": 21,
-      "agreeableness": 95,
-      "neuroticism": 41
+      "openness": 99,
+      "conscientiousness": 6,
+      "extraversion": 83,
+      "agreeableness": 61,
+      "neuroticism": 98
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

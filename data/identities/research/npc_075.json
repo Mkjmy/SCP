@@ -1,21 +1,21 @@
 {
   "id": "npc_075",
   "bio": {
-    "full_name": "Sven Miller",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 49,
-    "blood_type": "B-",
-    "genetic_stability": 0.87,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Christopher Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "AB+",
+    "genetic_stability": 0.883,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 87,
-    "build": "Heavily Muscular",
+    "height_cm": 190,
+    "weight_kg": 58,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
         "Smokes heavily"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 31,
-      "Occult_Research": 67,
-      "Stealth": 80
+      "Occult_Research": 93,
+      "Medicine": 80,
+      "Stealth": 64
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 29,
-      "extraversion": 79,
-      "agreeableness": 83,
-      "neuroticism": 27
+      "openness": 19,
+      "conscientiousness": 58,
+      "extraversion": 80,
+      "agreeableness": 81,
+      "neuroticism": 26
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

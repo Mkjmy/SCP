@@ -1,21 +1,21 @@
 {
   "id": "npc_152",
   "bio": {
-    "full_name": "Matthew Wong",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 40,
-    "blood_type": "B-",
-    "genetic_stability": 0.982,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Andrew Dubois",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.959,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 52,
-    "build": "Overweight",
+    "height_cm": 157,
+    "weight_kg": 93,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
-      "eyes": "Amber",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 86,
-      "Hacking": 52,
-      "Athletics": 27
+      "Perception": 47,
+      "Engineering": 56,
+      "Firearms": 86
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 75,
-      "extraversion": 63,
-      "agreeableness": 14,
-      "neuroticism": 73
+      "openness": 90,
+      "conscientiousness": 81,
+      "extraversion": 19,
+      "agreeableness": 42,
+      "neuroticism": 77
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

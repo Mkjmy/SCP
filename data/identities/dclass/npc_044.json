@@ -1,23 +1,23 @@
 {
   "id": "npc_044",
   "bio": {
-    "full_name": "John Miller",
+    "full_name": "Christopher Kovacs",
     "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 21,
+    "orientation": "Bisexual",
+    "age": 27,
     "blood_type": "B+",
-    "genetic_stability": 0.889,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.86,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 87,
-    "build": "Athletic",
+    "height_cm": 165,
+    "weight_kg": 106,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
+      "hair": "White, Shoulder-length",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 46,
-      "Medicine": 18,
-      "Perception": 29
+      "Containment_Logic": 49,
+      "Occult_Research": 11,
+      "Firearms": 43
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 9,
-      "extraversion": 40,
-      "agreeableness": 4,
-      "neuroticism": 75
+      "openness": 30,
+      "conscientiousness": 65,
+      "extraversion": 96,
+      "agreeableness": 22,
+      "neuroticism": 39
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
       "amount": 100000,
-      "creditor": "Local Mob"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

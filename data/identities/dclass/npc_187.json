@@ -1,23 +1,23 @@
 {
   "id": "npc_187",
   "bio": {
-    "full_name": "William Dubois",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 44,
-    "blood_type": "B-",
+    "full_name": "Andrew O'Connor",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 25,
+    "blood_type": "O-",
     "genetic_stability": 0.915,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 101,
-    "build": "Athletic",
+    "height_cm": 190,
+    "weight_kg": 74,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 66,
-      "Hacking": 60,
-      "Firearms": 48
+      "Containment_Logic": 72,
+      "Occult_Research": 92,
+      "Persuasion": 91
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 115,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 51,
-      "extraversion": 83,
-      "agreeableness": 13,
-      "neuroticism": 93
+      "openness": 12,
+      "conscientiousness": 90,
+      "extraversion": 89,
+      "agreeableness": 14,
+      "neuroticism": 23
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

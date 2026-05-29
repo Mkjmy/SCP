@@ -1,23 +1,23 @@
 {
   "id": "npc_107",
   "bio": {
-    "full_name": "Richard Muller",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 34,
-    "blood_type": "A-",
-    "genetic_stability": 0.906,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Michael O'Connor",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "AB+",
+    "genetic_stability": 0.974,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 64,
-    "build": "Average",
+    "height_cm": 173,
+    "weight_kg": 53,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Silver, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 91,
-      "Medicine": 18,
-      "Firearms": 10
+      "Occult_Research": 64,
+      "Persuasion": 70,
+      "Containment_Logic": 21
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 84,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 49,
-      "extraversion": 97,
-      "agreeableness": 9,
-      "neuroticism": 73
+      "openness": 87,
+      "conscientiousness": 81,
+      "extraversion": 34,
+      "agreeableness": 13,
+      "neuroticism": 64
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
     "family": "Married, no children",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

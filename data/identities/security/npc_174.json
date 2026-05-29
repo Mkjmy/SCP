@@ -1,20 +1,20 @@
 {
   "id": "npc_174",
   "bio": {
-    "full_name": "Arjun O'Connor",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 51,
-    "blood_type": "AB-",
-    "genetic_stability": 0.921,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "William Tanaka",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "B-",
+    "genetic_stability": 0.893,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 93,
-    "build": "Average",
+    "height_cm": 166,
+    "weight_kg": 109,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Bald",
+      "hair": "Black, Bald",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Smokes heavily"
@@ -22,39 +22,39 @@
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 45,
-      "Athletics": 52,
-      "Firearms": 80
+      "Stealth": 91,
+      "Athletics": 95,
+      "Hacking": 91
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 91,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 38,
-      "extraversion": 36,
-      "agreeableness": 19,
-      "neuroticism": 86
+      "openness": 85,
+      "conscientiousness": 18,
+      "extraversion": 49,
+      "agreeableness": 83,
+      "neuroticism": 81
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_affiliation": "None"
   }
 }

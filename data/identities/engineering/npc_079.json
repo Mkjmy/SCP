@@ -1,60 +1,60 @@
 {
   "id": "npc_079",
   "bio": {
-    "full_name": "Paul Johnson",
-    "gender": "Non-binary",
+    "full_name": "William Muller",
+    "gender": "Transgender",
     "orientation": "Heterosexual",
-    "age": 45,
-    "blood_type": "AB+",
-    "genetic_stability": 0.982,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.953,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 73,
-    "build": "Lithe",
+    "height_cm": 180,
+    "weight_kg": 97,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 19,
-      "Persuasion": 45,
-      "Hacking": 58
+      "Containment_Logic": 91,
+      "Firearms": 63,
+      "Medicine": 89
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 79,
-      "extraversion": 42,
-      "agreeableness": 31,
-      "neuroticism": 81
+      "openness": 95,
+      "conscientiousness": 11,
+      "extraversion": 79,
+      "agreeableness": 78,
+      "neuroticism": 34
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

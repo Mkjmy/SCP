@@ -1,23 +1,23 @@
 {
   "id": "npc_161",
   "bio": {
-    "full_name": "Andrew Johnson",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 34,
-    "blood_type": "AB+",
-    "genetic_stability": 0.868,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "John Miller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.966,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 79,
-    "build": "Athletic",
+    "height_cm": 160,
+    "weight_kg": 55,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "White, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Containment_Logic": 55,
-      "Medicine": 55,
-      "Stealth": 55
+      "Athletics": 31,
+      "Occult_Research": 87,
+      "Persuasion": 75
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 5,
-      "extraversion": 87,
-      "agreeableness": 55,
-      "neuroticism": 81
+      "openness": 12,
+      "conscientiousness": 69,
+      "extraversion": 47,
+      "agreeableness": 100,
+      "neuroticism": 76
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

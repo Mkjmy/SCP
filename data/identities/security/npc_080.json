@@ -1,60 +1,60 @@
 {
   "id": "npc_080",
   "bio": {
-    "full_name": "Christopher Tanaka",
-    "gender": "Agender",
+    "full_name": "Kenji Kovacs",
+    "gender": "Non-binary",
     "orientation": "Heterosexual",
-    "age": 62,
-    "blood_type": "B+",
-    "genetic_stability": 0.953,
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.975,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 61,
-    "build": "Average",
+    "height_cm": 186,
+    "weight_kg": 58,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Bald",
+      "hair": "Grey, Bald",
       "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Athletics": 78,
-      "Perception": 45,
-      "Persuasion": 70
+      "Medicine": 34,
+      "Occult_Research": 39,
+      "Firearms": 45
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 36,
-      "conscientiousness": 91,
-      "extraversion": 74,
-      "agreeableness": 61,
-      "neuroticism": 31
+      "openness": 49,
+      "conscientiousness": 65,
+      "extraversion": 68,
+      "agreeableness": 51,
+      "neuroticism": 83
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

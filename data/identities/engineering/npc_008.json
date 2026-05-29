@@ -1,23 +1,23 @@
 {
   "id": "npc_008",
   "bio": {
-    "full_name": "Joseph Bakker",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 59,
-    "blood_type": "O-",
-    "genetic_stability": 0.934,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Maria Garcia",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 58,
+    "blood_type": "A-",
+    "genetic_stability": 0.89,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 78,
-    "build": "Heavily Muscular",
+    "height_cm": 195,
+    "weight_kg": 72,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Amber",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 29,
-      "Hacking": 61,
-      "Occult_Research": 30
+      "Firearms": 58,
+      "Hacking": 91,
+      "Stealth": 95
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 89,
-      "extraversion": 40,
-      "agreeableness": 35,
-      "neuroticism": 35
+      "openness": 99,
+      "conscientiousness": 32,
+      "extraversion": 51,
+      "agreeableness": 19,
+      "neuroticism": 82
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.4
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
       "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Trying to clear their family name",

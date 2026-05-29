@@ -1,57 +1,57 @@
 {
   "id": "npc_163",
   "bio": {
-    "full_name": "Robert Jones",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 40,
-    "blood_type": "O+",
-    "genetic_stability": 0.973,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Olga Smith",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.936,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 58,
-    "build": "Average",
+    "height_cm": 171,
+    "weight_kg": 88,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "White, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 15,
-      "Athletics": 34,
-      "Persuasion": 17
+      "Containment_Logic": 35,
+      "Stealth": 92,
+      "Perception": 59
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 97,
-      "extraversion": 69,
-      "agreeableness": 14,
-      "neuroticism": 47
+      "openness": 30,
+      "conscientiousness": 91,
+      "extraversion": 95,
+      "agreeableness": 95,
+      "neuroticism": 45
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Spying for the Chaos Insurgency",

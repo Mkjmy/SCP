@@ -1,23 +1,23 @@
 {
   "id": "npc_121",
   "bio": {
-    "full_name": "James Miller",
+    "full_name": "Lars Johnson",
     "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 48,
-    "blood_type": "O-",
-    "genetic_stability": 0.988,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.897,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 56,
-    "build": "Average",
+    "height_cm": 167,
+    "weight_kg": 73,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Medicine": 94,
-      "Athletics": 84,
-      "Persuasion": 82
+      "Occult_Research": 58,
+      "Athletics": 94,
+      "Firearms": 22
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 93,
-      "extraversion": 40,
-      "agreeableness": 75,
-      "neuroticism": 24
+      "openness": 93,
+      "conscientiousness": 29,
+      "extraversion": 30,
+      "agreeableness": 64,
+      "neuroticism": 97
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

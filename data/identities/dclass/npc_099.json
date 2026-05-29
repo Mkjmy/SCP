@@ -1,23 +1,23 @@
 {
   "id": "npc_099",
   "bio": {
-    "full_name": "Matthew Garcia",
-    "gender": "Male",
+    "full_name": "David Ivanov",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 35,
-    "blood_type": "A-",
-    "genetic_stability": 0.864,
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.862,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 58,
-    "build": "Lithe",
+    "height_cm": 184,
+    "weight_kg": 81,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Messy",
+      "hair": "Dyed blue, Ponytail",
       "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 57,
-      "Perception": 50,
-      "Athletics": 88
+      "Hacking": 94,
+      "Athletics": 49,
+      "Occult_Research": 55
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 6,
-      "extraversion": 43,
-      "agreeableness": 0,
-      "neuroticism": 45
+      "openness": 55,
+      "conscientiousness": 64,
+      "extraversion": 0,
+      "agreeableness": 28,
+      "neuroticism": 70
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

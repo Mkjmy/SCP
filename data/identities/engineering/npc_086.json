@@ -1,23 +1,23 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Andrew Williams",
-    "gender": "Male",
+    "full_name": "Yuki Brown",
+    "gender": "Female",
     "orientation": "Pansexual",
-    "age": 59,
-    "blood_type": "B-",
-    "genetic_stability": 0.909,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.953,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 67,
-    "build": "Heavily Muscular",
+    "height_cm": 197,
+    "weight_kg": 71,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
+      "hair": "Silver, Pixie cut",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 72,
-      "Containment_Logic": 77,
-      "Occult_Research": 77
+      "Persuasion": 57,
+      "Perception": 43,
+      "Firearms": 36
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 22,
-      "extraversion": 62,
-      "agreeableness": 0,
-      "neuroticism": 4
+      "openness": 40,
+      "conscientiousness": 32,
+      "extraversion": 96,
+      "agreeableness": 18,
+      "neuroticism": 76
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

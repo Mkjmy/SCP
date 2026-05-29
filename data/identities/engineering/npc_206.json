@@ -1,23 +1,23 @@
 {
   "id": "npc_206",
   "bio": {
-    "full_name": "Arjun Gupta",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 53,
-    "blood_type": "A-",
-    "genetic_stability": 0.961,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Fatima Garcia",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "AB-",
+    "genetic_stability": 0.855,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 77,
+    "height_cm": 170,
+    "weight_kg": 59,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Red, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 94,
-      "Stealth": 78,
-      "Containment_Logic": 27
+      "Occult_Research": 47,
+      "Containment_Logic": 45,
+      "Engineering": 69
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 54,
-      "extraversion": 42,
-      "agreeableness": 19,
-      "neuroticism": 3
+      "openness": 74,
+      "conscientiousness": 64,
+      "extraversion": 13,
+      "agreeableness": 10,
+      "neuroticism": 52
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_177",
   "bio": {
-    "full_name": "Chen Miller",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 63,
-    "blood_type": "A+",
-    "genetic_stability": 0.929,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Chen Williams",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.968,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 50,
-    "build": "Overweight",
+    "height_cm": 155,
+    "weight_kg": 75,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Hazel",
+      "hair": "Grey, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
         "Talks to self in whispers"
       ]
@@ -25,33 +25,33 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 18,
-      "Athletics": 45,
-      "Hacking": 24
+      "Persuasion": 84,
+      "Engineering": 33,
+      "Hacking": 42
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 56,
-      "conscientiousness": 68,
-      "extraversion": 84,
-      "agreeableness": 64,
-      "neuroticism": 47
+      "openness": 62,
+      "conscientiousness": 24,
+      "extraversion": 66,
+      "agreeableness": 58,
+      "neuroticism": 100
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking promotion at any cost",

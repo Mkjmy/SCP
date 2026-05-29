@@ -1,23 +1,23 @@
 {
   "id": "npc_195",
   "bio": {
-    "full_name": "Sven Johnson",
-    "gender": "Non-binary",
+    "full_name": "Anthony Sato",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "B-",
-    "genetic_stability": 0.882,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 53,
+    "blood_type": "B+",
+    "genetic_stability": 0.984,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 55,
-    "build": "Slender",
+    "height_cm": 170,
+    "weight_kg": 68,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 22,
-      "Medicine": 19,
-      "Stealth": 44
+      "Hacking": 17,
+      "Firearms": 29,
+      "Medicine": 16
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 82,
-      "extraversion": 36,
-      "agreeableness": 29,
-      "neuroticism": 59
+      "openness": 15,
+      "conscientiousness": 32,
+      "extraversion": 86,
+      "agreeableness": 83,
+      "neuroticism": 87
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
     "family": "Married, no children",
     "debts": {
       "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_040",
   "bio": {
-    "full_name": "Kenji Vasiliev",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 32,
-    "blood_type": "O+",
-    "genetic_stability": 0.863,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Thomas Muller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 46,
+    "blood_type": "O-",
+    "genetic_stability": 0.927,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 100,
+    "height_cm": 155,
+    "weight_kg": 103,
     "build": "Slender",
     "physical_features": {
-      "hair": "Red, Pixie cut",
+      "hair": "Blonde, Manicured",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Perception": 81,
-      "Engineering": 75,
-      "Firearms": 36
+      "Containment_Logic": 66,
+      "Engineering": 90,
+      "Persuasion": 46
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 54,
-      "conscientiousness": 69,
-      "extraversion": 47,
-      "agreeableness": 56,
-      "neuroticism": 58
+      "openness": 12,
+      "conscientiousness": 59,
+      "extraversion": 62,
+      "agreeableness": 15,
+      "neuroticism": 37
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

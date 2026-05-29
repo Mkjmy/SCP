@@ -1,23 +1,23 @@
 {
   "id": "npc_019",
   "bio": {
-    "full_name": "Joshua Davis",
+    "full_name": "James Williams",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 25,
-    "blood_type": "A+",
-    "genetic_stability": 0.931,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.958,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 55,
-    "build": "Average",
+    "height_cm": 176,
+    "weight_kg": 109,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Amber",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 27,
-      "Perception": 83,
-      "Occult_Research": 93
+      "Medicine": 46,
+      "Engineering": 23,
+      "Hacking": 81
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 41,
-      "conscientiousness": 14,
-      "extraversion": 85,
-      "agreeableness": 75,
-      "neuroticism": 47
+      "openness": 91,
+      "conscientiousness": 71,
+      "extraversion": 96,
+      "agreeableness": 41,
+      "neuroticism": 8
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

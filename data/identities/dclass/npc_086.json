@@ -1,23 +1,23 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Andrew Jones",
-    "gender": "Female",
+    "full_name": "Daniel Bakker",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 43,
-    "blood_type": "O-",
-    "genetic_stability": 0.965,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 39,
+    "blood_type": "A+",
+    "genetic_stability": 0.928,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 73,
-    "build": "Overweight",
+    "height_cm": 162,
+    "weight_kg": 58,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Bald",
-      "eyes": "Grey",
+      "hair": "Grey, Messy",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 15,
-      "Persuasion": 36,
-      "Occult_Research": 90
+      "Medicine": 36,
+      "Occult_Research": 16,
+      "Athletics": 33
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 88,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 18,
-      "extraversion": 44,
+      "openness": 41,
+      "conscientiousness": 95,
+      "extraversion": 11,
       "agreeableness": 32,
-      "neuroticism": 78
+      "neuroticism": 70
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

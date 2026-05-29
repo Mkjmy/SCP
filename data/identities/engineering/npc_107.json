@@ -1,23 +1,23 @@
 {
   "id": "npc_107",
   "bio": {
-    "full_name": "Yuki Davis",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 60,
-    "blood_type": "B+",
-    "genetic_stability": 0.931,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Richard Wong",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.856,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 77,
-    "build": "Slender",
+    "height_cm": 158,
+    "weight_kg": 85,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Icy blue",
+      "hair": "Black, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 42,
-      "Persuasion": 32,
-      "Firearms": 61
+      "Stealth": 88,
+      "Persuasion": 51,
+      "Occult_Research": 34
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 46,
-      "extraversion": 23,
-      "agreeableness": 82,
-      "neuroticism": 71
+      "openness": 79,
+      "conscientiousness": 32,
+      "extraversion": 11,
+      "agreeableness": 13,
+      "neuroticism": 16
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

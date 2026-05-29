@@ -1,23 +1,23 @@
 {
   "id": "npc_113",
   "bio": {
-    "full_name": "Richard Muller",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 60,
-    "blood_type": "O+",
-    "genetic_stability": 0.936,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Michael Sato",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 63,
+    "blood_type": "O-",
+    "genetic_stability": 0.948,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 110,
-    "build": "Overweight",
+    "height_cm": 193,
+    "weight_kg": 50,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 55,
-      "Persuasion": 12,
-      "Occult_Research": 62
+      "Firearms": 24,
+      "Engineering": 81,
+      "Athletics": 23
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 24,
-      "extraversion": 68,
-      "agreeableness": 96,
-      "neuroticism": 100
+      "openness": 24,
+      "conscientiousness": 29,
+      "extraversion": 0,
+      "agreeableness": 86,
+      "neuroticism": 40
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "None"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

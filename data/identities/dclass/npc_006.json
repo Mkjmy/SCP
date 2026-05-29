@@ -1,23 +1,23 @@
 {
   "id": "npc_006",
   "bio": {
-    "full_name": "Richard Gupta",
-    "gender": "Female",
-    "orientation": "Pansexual",
+    "full_name": "Lars Muller",
+    "gender": "Transgender",
+    "orientation": "Asexual",
     "age": 45,
-    "blood_type": "AB+",
-    "genetic_stability": 0.958,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "blood_type": "B-",
+    "genetic_stability": 0.873,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 85,
-    "build": "Average",
+    "height_cm": 169,
+    "weight_kg": 86,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 27,
-      "Medicine": 44,
-      "Firearms": 94
+      "Engineering": 26,
+      "Stealth": 14,
+      "Hacking": 35
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 98,
-      "extraversion": 61,
-      "agreeableness": 40,
-      "neuroticism": 71
+      "openness": 42,
+      "conscientiousness": 85,
+      "extraversion": 10,
+      "agreeableness": 15,
+      "neuroticism": 33
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

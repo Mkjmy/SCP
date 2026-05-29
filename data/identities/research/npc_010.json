@@ -1,23 +1,23 @@
 {
   "id": "npc_010",
   "bio": {
-    "full_name": "Kenji Wong",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 28,
-    "blood_type": "B-",
-    "genetic_stability": 0.928,
+    "full_name": "Arjun Brown",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 61,
+    "blood_type": "A-",
+    "genetic_stability": 0.985,
     "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 102,
+    "height_cm": 181,
+    "weight_kg": 66,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "White, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Athletics": 33,
-      "Medicine": 42,
-      "Containment_Logic": 76
+      "Firearms": 83,
+      "Containment_Logic": 44,
+      "Stealth": 60
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 143,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 83,
-      "extraversion": 7,
-      "agreeableness": 73,
-      "neuroticism": 28
+      "openness": 93,
+      "conscientiousness": 74,
+      "extraversion": 94,
+      "agreeableness": 91,
+      "neuroticism": 84
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

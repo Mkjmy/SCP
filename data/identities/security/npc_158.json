@@ -1,60 +1,60 @@
 {
   "id": "npc_158",
   "bio": {
-    "full_name": "Chen Johnson",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 58,
-    "blood_type": "B+",
-    "genetic_stability": 0.935,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Matthew Brown",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.971,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 60,
-    "build": "Heavily Muscular",
+    "height_cm": 176,
+    "weight_kg": 105,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Persuasion": 81,
-      "Containment_Logic": 85,
-      "Hacking": 66
+      "Medicine": 12,
+      "Engineering": 36,
+      "Persuasion": 81
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 31,
-      "conscientiousness": 97,
-      "extraversion": 16,
-      "agreeableness": 14,
-      "neuroticism": 95
+      "openness": 85,
+      "conscientiousness": 44,
+      "extraversion": 20,
+      "agreeableness": 57,
+      "neuroticism": 18
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

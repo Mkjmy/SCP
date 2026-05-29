@@ -1,21 +1,21 @@
 {
   "id": "npc_108",
   "bio": {
-    "full_name": "Matthew Jones",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 26,
-    "blood_type": "B-",
-    "genetic_stability": 0.975,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Michael Bakker",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.97,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 63,
-    "build": "Stocky",
+    "height_cm": 170,
+    "weight_kg": 69,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Buzz cut",
-      "eyes": "Grey",
+      "hair": "White, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Containment_Logic": 14,
-      "Medicine": 77,
-      "Perception": 81
+      "Stealth": 65,
+      "Persuasion": 15,
+      "Firearms": 95
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 26,
-      "conscientiousness": 46,
-      "extraversion": 37,
-      "agreeableness": 90,
-      "neuroticism": 73
+      "openness": 28,
+      "conscientiousness": 71,
+      "extraversion": 65,
+      "agreeableness": 71,
+      "neuroticism": 36
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

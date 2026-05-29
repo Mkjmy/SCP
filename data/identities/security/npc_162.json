@@ -1,60 +1,60 @@
 {
   "id": "npc_162",
   "bio": {
-    "full_name": "James O'Connor",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 33,
-    "blood_type": "O+",
-    "genetic_stability": 0.946,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Sven Garcia",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 0.901,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
     "height_cm": 157,
-    "weight_kg": 80,
-    "build": "Lithe",
+    "weight_kg": 108,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Red, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Medicine": 78,
-      "Engineering": 31,
-      "Hacking": 20
+      "Medicine": 11,
+      "Persuasion": 60,
+      "Perception": 61
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 9,
-      "extraversion": 96,
-      "agreeableness": 50,
-      "neuroticism": 64
+      "openness": 6,
+      "conscientiousness": 50,
+      "extraversion": 53,
+      "agreeableness": 25,
+      "neuroticism": 56
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

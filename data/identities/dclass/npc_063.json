@@ -1,23 +1,23 @@
 {
   "id": "npc_063",
   "bio": {
-    "full_name": "Kenji Brown",
+    "full_name": "Joshua Johnson",
     "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 41,
+    "orientation": "Homosexual",
+    "age": 34,
     "blood_type": "B-",
-    "genetic_stability": 0.921,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.895,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 70,
+    "height_cm": 190,
+    "weight_kg": 78,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 71,
-      "Engineering": 79,
-      "Hacking": 85
+      "Athletics": 47,
+      "Firearms": 44,
+      "Perception": 86
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 86,
     "personality_matrix": {
-      "openness": 81,
-      "conscientiousness": 50,
-      "extraversion": 41,
-      "agreeableness": 54,
-      "neuroticism": 89
+      "openness": 50,
+      "conscientiousness": 40,
+      "extraversion": 99,
+      "agreeableness": 23,
+      "neuroticism": 55
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_053",
   "bio": {
-    "full_name": "John Johnson",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 22,
+    "full_name": "Elena Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 55,
     "blood_type": "AB+",
-    "genetic_stability": 0.955,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.937,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 98,
-    "build": "Frail",
+    "height_cm": 192,
+    "weight_kg": 55,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Black, Buzz cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 25,
-      "Stealth": 10,
-      "Hacking": 56
+      "Hacking": 84,
+      "Engineering": 68,
+      "Athletics": 46
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 92,
-      "extraversion": 35,
-      "agreeableness": 57,
-      "neuroticism": 78
+      "openness": 31,
+      "conscientiousness": 49,
+      "extraversion": 58,
+      "agreeableness": 19,
+      "neuroticism": 20
     },
     "phobias": [
       "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
+      "amount": 100000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

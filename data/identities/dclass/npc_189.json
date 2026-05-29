@@ -1,23 +1,23 @@
 {
   "id": "npc_189",
   "bio": {
-    "full_name": "Olga Gupta",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 30,
-    "blood_type": "B-",
-    "genetic_stability": 0.997,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Joshua Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 38,
+    "blood_type": "A-",
+    "genetic_stability": 0.897,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 78,
-    "build": "Lithe",
+    "height_cm": 185,
+    "weight_kg": 77,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Icy blue",
+      "hair": "Black, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 86,
-      "Firearms": 92,
-      "Athletics": 18
+      "Hacking": 79,
+      "Engineering": 59,
+      "Medicine": 19
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 87,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 9,
-      "extraversion": 53,
-      "agreeableness": 50,
+      "openness": 82,
+      "conscientiousness": 59,
+      "extraversion": 33,
+      "agreeableness": 74,
       "neuroticism": 75
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

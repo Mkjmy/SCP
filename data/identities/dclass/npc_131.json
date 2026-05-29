@@ -1,23 +1,23 @@
 {
   "id": "npc_131",
   "bio": {
-    "full_name": "Richard O'Connor",
+    "full_name": "Yuki Brown",
     "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 20,
+    "orientation": "Asexual",
+    "age": 35,
     "blood_type": "A+",
-    "genetic_stability": 0.865,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.887,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 102,
+    "height_cm": 199,
+    "weight_kg": 56,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Manicured",
+      "hair": "Black, Buzz cut",
       "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 36,
-      "Occult_Research": 19,
-      "Firearms": 79
+      "Athletics": 73,
+      "Firearms": 17,
+      "Hacking": 47
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 32,
-      "conscientiousness": 35,
-      "extraversion": 13,
-      "agreeableness": 4,
-      "neuroticism": 53
+      "openness": 39,
+      "conscientiousness": 56,
+      "extraversion": 43,
+      "agreeableness": 34,
+      "neuroticism": 11
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 0,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_203",
   "bio": {
-    "full_name": "Richard Wong",
+    "full_name": "Mark Dubois",
     "gender": "Agender",
     "orientation": "Asexual",
-    "age": 38,
-    "blood_type": "AB+",
-    "genetic_stability": 0.978,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 33,
+    "blood_type": "AB-",
+    "genetic_stability": 0.979,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 90,
-    "build": "Overweight",
+    "height_cm": 187,
+    "weight_kg": 97,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,32 +25,32 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Athletics": 89,
-      "Perception": 11,
-      "Hacking": 23
+      "Occult_Research": 76,
+      "Medicine": 56,
+      "Firearms": 37
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 23,
-      "extraversion": 71,
-      "agreeableness": 34,
-      "neuroticism": 73
+      "openness": 68,
+      "conscientiousness": 26,
+      "extraversion": 93,
+      "agreeableness": 62,
+      "neuroticism": 23
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",

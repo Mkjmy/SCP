@@ -1,60 +1,60 @@
 {
   "id": "npc_082",
   "bio": {
-    "full_name": "Fatima Davis",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 60,
-    "blood_type": "B+",
-    "genetic_stability": 0.996,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Lars Gupta",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.879,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 67,
-    "build": "Overweight",
+    "height_cm": 163,
+    "weight_kg": 90,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Medicine": 92,
-      "Occult_Research": 70,
-      "Stealth": 88
+      "Stealth": 68,
+      "Occult_Research": 61,
+      "Persuasion": 68
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 75,
-      "extraversion": 94,
-      "agreeableness": 63,
-      "neuroticism": 10
+      "openness": 51,
+      "conscientiousness": 22,
+      "extraversion": 62,
+      "agreeableness": 59,
+      "neuroticism": 74
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 1.0
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

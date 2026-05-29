@@ -1,60 +1,60 @@
 {
   "id": "npc_129",
   "bio": {
-    "full_name": "Andrew Ivanov",
-    "gender": "Transgender",
+    "full_name": "James Garcia",
+    "gender": "Agender",
     "orientation": "Asexual",
-    "age": 61,
-    "blood_type": "O+",
-    "genetic_stability": 0.926,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 56,
+    "blood_type": "AB+",
+    "genetic_stability": 0.971,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 97,
-    "build": "Frail",
+    "height_cm": 198,
+    "weight_kg": 93,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 73,
-      "Persuasion": 36,
-      "Firearms": 15
+      "Athletics": 89,
+      "Occult_Research": 87,
+      "Containment_Logic": 70
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 43,
-      "conscientiousness": 54,
-      "extraversion": 2,
-      "agreeableness": 45,
-      "neuroticism": 89
+      "openness": 5,
+      "conscientiousness": 5,
+      "extraversion": 37,
+      "agreeableness": 94,
+      "neuroticism": 76
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

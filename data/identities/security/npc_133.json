@@ -1,60 +1,60 @@
 {
   "id": "npc_133",
   "bio": {
-    "full_name": "Thomas Jones",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 50,
-    "blood_type": "B+",
-    "genetic_stability": 0.92,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "John Jones",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.933,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 108,
-    "build": "Frail",
+    "height_cm": 175,
+    "weight_kg": 72,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Grey, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 43,
-      "Medicine": 20,
-      "Occult_Research": 36
+      "Persuasion": 56,
+      "Engineering": 17,
+      "Hacking": 47
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 36,
-      "conscientiousness": 30,
-      "extraversion": 45,
-      "agreeableness": 74,
-      "neuroticism": 45
+      "openness": 14,
+      "conscientiousness": 42,
+      "extraversion": 73,
+      "agreeableness": 56,
+      "neuroticism": 41
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
       "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

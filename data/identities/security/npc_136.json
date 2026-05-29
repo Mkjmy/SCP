@@ -1,60 +1,60 @@
 {
   "id": "npc_136",
   "bio": {
-    "full_name": "Charles Bakker",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 59,
-    "blood_type": "B+",
-    "genetic_stability": 0.858,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Steven Jones",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "B-",
+    "genetic_stability": 0.875,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 89,
-    "build": "Stocky",
+    "height_cm": 175,
+    "weight_kg": 88,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Grey",
+      "hair": "Grey, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Stealth": 18,
-      "Medicine": 76,
-      "Firearms": 78
+      "Stealth": 50,
+      "Perception": 81,
+      "Occult_Research": 82
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
     "iq": 139,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 9,
-      "extraversion": 46,
-      "agreeableness": 38,
-      "neuroticism": 46
+      "openness": 49,
+      "conscientiousness": 87,
+      "extraversion": 68,
+      "agreeableness": 54,
+      "neuroticism": 72
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

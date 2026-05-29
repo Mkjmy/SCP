@@ -1,21 +1,21 @@
 {
   "id": "npc_015",
   "bio": {
-    "full_name": "Anthony Smith",
+    "full_name": "Paul Garcia",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 44,
-    "blood_type": "O+",
-    "genetic_stability": 0.885,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Bisexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.955,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 104,
+    "height_cm": 185,
+    "weight_kg": 74,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Amber",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 63,
-      "Perception": 95,
-      "Engineering": 27
+      "Stealth": 85,
+      "Persuasion": 30,
+      "Engineering": 40
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 67,
-      "extraversion": 46,
-      "agreeableness": 34,
-      "neuroticism": 94
+      "openness": 58,
+      "conscientiousness": 40,
+      "extraversion": 33,
+      "agreeableness": 17,
+      "neuroticism": 54
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

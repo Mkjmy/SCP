@@ -1,23 +1,23 @@
 {
   "id": "npc_116",
   "bio": {
-    "full_name": "Daniel Johnson",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 38,
-    "blood_type": "A+",
-    "genetic_stability": 0.897,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "William Wong",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "B-",
+    "genetic_stability": 0.962,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 52,
-    "build": "Lithe",
+    "height_cm": 200,
+    "weight_kg": 97,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 94,
-      "Perception": 31,
-      "Occult_Research": 25
+      "Persuasion": 63,
+      "Engineering": 51,
+      "Firearms": 62
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 86,
-      "conscientiousness": 93,
-      "extraversion": 84,
-      "agreeableness": 52,
-      "neuroticism": 10
+      "openness": 58,
+      "conscientiousness": 82,
+      "extraversion": 73,
+      "agreeableness": 10,
+      "neuroticism": 59
     },
     "phobias": [
       "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

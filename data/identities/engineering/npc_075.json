@@ -1,60 +1,60 @@
 {
   "id": "npc_075",
   "bio": {
-    "full_name": "Olga Brown",
+    "full_name": "Donald Dubois",
     "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 62,
-    "blood_type": "B+",
-    "genetic_stability": 0.876,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Pansexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.972,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 50,
+    "height_cm": 167,
+    "weight_kg": 71,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 75,
-      "Stealth": 18,
-      "Hacking": 73
+      "Persuasion": 59,
+      "Engineering": 48,
+      "Perception": 58
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 49,
-      "extraversion": 84,
-      "agreeableness": 83,
-      "neuroticism": 16
+      "openness": 21,
+      "conscientiousness": 30,
+      "extraversion": 100,
+      "agreeableness": 19,
+      "neuroticism": 99
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

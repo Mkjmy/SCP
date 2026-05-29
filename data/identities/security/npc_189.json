@@ -1,60 +1,60 @@
 {
   "id": "npc_189",
   "bio": {
-    "full_name": "Olga Jones",
+    "full_name": "Steven Miller",
     "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 64,
-    "blood_type": "O-",
-    "genetic_stability": 0.979,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Pansexual",
+    "age": 47,
+    "blood_type": "AB+",
+    "genetic_stability": 0.9,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 94,
+    "height_cm": 166,
+    "weight_kg": 53,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
+      "hair": "White, Fade",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 72,
-      "Hacking": 73,
-      "Athletics": 94
+      "Engineering": 92,
+      "Stealth": 69,
+      "Containment_Logic": 50
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 44,
-      "conscientiousness": 94,
-      "extraversion": 76,
-      "agreeableness": 10,
-      "neuroticism": 50
+      "openness": 27,
+      "conscientiousness": 78,
+      "extraversion": 44,
+      "agreeableness": 27,
+      "neuroticism": 38
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

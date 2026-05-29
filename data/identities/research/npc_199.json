@@ -1,23 +1,23 @@
 {
   "id": "npc_199",
   "bio": {
-    "full_name": "Joseph Tanaka",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 24,
+    "full_name": "Kenji Wong",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 59,
     "blood_type": "A+",
-    "genetic_stability": 0.862,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.979,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 95,
-    "build": "Slender",
+    "height_cm": 157,
+    "weight_kg": 87,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 22,
-      "Firearms": 45,
-      "Hacking": 89
+      "Hacking": 82,
+      "Stealth": 69,
+      "Occult_Research": 43
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 18,
-      "extraversion": 69,
-      "agreeableness": 41,
-      "neuroticism": 53
+      "openness": 34,
+      "conscientiousness": 38,
+      "extraversion": 66,
+      "agreeableness": 34,
+      "neuroticism": 37
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

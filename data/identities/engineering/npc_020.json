@@ -1,56 +1,56 @@
 {
   "id": "npc_020",
   "bio": {
-    "full_name": "James Gupta",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 24,
-    "blood_type": "AB-",
-    "genetic_stability": 0.856,
+    "full_name": "Olga Jones",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.867,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 99,
-    "build": "Athletic",
+    "height_cm": 174,
+    "weight_kg": 105,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Pixie cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 29,
-      "Stealth": 43,
-      "Medicine": 22
+      "Persuasion": 19,
+      "Engineering": 51,
+      "Medicine": 47
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 31,
-      "conscientiousness": 81,
-      "extraversion": 46,
-      "agreeableness": 88,
-      "neuroticism": 83
+      "openness": 94,
+      "conscientiousness": 97,
+      "extraversion": 66,
+      "agreeableness": 51,
+      "neuroticism": 42
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",

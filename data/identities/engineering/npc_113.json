@@ -1,23 +1,23 @@
 {
   "id": "npc_113",
   "bio": {
-    "full_name": "Matthew Muller",
+    "full_name": "Arjun Ivanov",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 52,
-    "blood_type": "B-",
-    "genetic_stability": 0.96,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Bisexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.985,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 91,
-    "build": "Frail",
+    "height_cm": 193,
+    "weight_kg": 56,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 56,
-      "Athletics": 22,
-      "Firearms": 74
+      "Perception": 22,
+      "Stealth": 35,
+      "Engineering": 19
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 17,
-      "conscientiousness": 95,
-      "extraversion": 24,
-      "agreeableness": 93,
-      "neuroticism": 92
+      "openness": 38,
+      "conscientiousness": 98,
+      "extraversion": 77,
+      "agreeableness": 46,
+      "neuroticism": 37
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

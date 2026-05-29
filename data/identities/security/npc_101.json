@@ -1,21 +1,21 @@
 {
   "id": "npc_101",
   "bio": {
-    "full_name": "Charles Dubois",
-    "gender": "Transgender",
+    "full_name": "Christopher Smith",
+    "gender": "Female",
     "orientation": "Bisexual",
-    "age": 57,
-    "blood_type": "O-",
-    "genetic_stability": 0.858,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 51,
+    "blood_type": "A-",
+    "genetic_stability": 0.966,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 105,
-    "build": "Lithe",
+    "height_cm": 180,
+    "weight_kg": 97,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Nail biter"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Occult_Research": 22,
-      "Firearms": 84,
-      "Hacking": 41
+      "Hacking": 14,
+      "Stealth": 54,
+      "Athletics": 65
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 54,
-      "extraversion": 72,
-      "agreeableness": 50,
-      "neuroticism": 82
+      "openness": 22,
+      "conscientiousness": 11,
+      "extraversion": 13,
+      "agreeableness": 31,
+      "neuroticism": 74
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
       "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

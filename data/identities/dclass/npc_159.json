@@ -1,23 +1,23 @@
 {
   "id": "npc_159",
   "bio": {
-    "full_name": "Arjun Gupta",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 20,
-    "blood_type": "B+",
-    "genetic_stability": 0.958,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Matthew Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "AB+",
+    "genetic_stability": 0.927,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 78,
-    "build": "Frail",
+    "height_cm": 168,
+    "weight_kg": 76,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Manicured",
+      "hair": "Red, Pixie cut",
       "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 95,
-      "Firearms": 39,
-      "Hacking": 37
+      "Stealth": 59,
+      "Athletics": 49,
+      "Engineering": 28
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 48,
-      "extraversion": 82,
-      "agreeableness": 11,
-      "neuroticism": 99
+      "openness": 31,
+      "conscientiousness": 87,
+      "extraversion": 16,
+      "agreeableness": 56,
+      "neuroticism": 30
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

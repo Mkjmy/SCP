@@ -1,23 +1,23 @@
 {
   "id": "npc_170",
   "bio": {
-    "full_name": "Matthew Johnson",
-    "gender": "Male",
+    "full_name": "Thomas Ivanov",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 32,
+    "age": 48,
     "blood_type": "B+",
-    "genetic_stability": 0.939,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.874,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 96,
+    "height_cm": 161,
+    "weight_kg": 107,
     "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Grey, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -25,32 +25,32 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 19,
-      "Persuasion": 32,
-      "Stealth": 37
+      "Athletics": 62,
+      "Perception": 48,
+      "Containment_Logic": 35
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 7,
-      "extraversion": 46,
-      "agreeableness": 42,
-      "neuroticism": 78
+      "openness": 34,
+      "conscientiousness": 3,
+      "extraversion": 18,
+      "agreeableness": 46,
+      "neuroticism": 58
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",

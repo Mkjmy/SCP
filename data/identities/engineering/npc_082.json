@@ -1,23 +1,23 @@
 {
   "id": "npc_082",
   "bio": {
-    "full_name": "Sven Bakker",
+    "full_name": "Arjun Tanaka",
     "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 45,
-    "blood_type": "A+",
-    "genetic_stability": 0.96,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.881,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 98,
+    "height_cm": 163,
+    "weight_kg": 83,
     "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Bald",
-      "eyes": "Icy blue",
+      "hair": "Grey, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 11,
-      "Containment_Logic": 18,
-      "Perception": 48
+      "Engineering": 33,
+      "Persuasion": 19,
+      "Occult_Research": 64
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 45,
-      "extraversion": 77,
-      "agreeableness": 51,
-      "neuroticism": 28
+      "openness": 4,
+      "conscientiousness": 85,
+      "extraversion": 26,
+      "agreeableness": 26,
+      "neuroticism": 53
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",

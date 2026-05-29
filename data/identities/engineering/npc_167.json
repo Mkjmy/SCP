@@ -1,23 +1,23 @@
 {
   "id": "npc_167",
   "bio": {
-    "full_name": "Robert Kovacs",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 39,
+    "full_name": "Joseph Jones",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 28,
     "blood_type": "A-",
-    "genetic_stability": 0.861,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.998,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 57,
-    "build": "Stocky",
+    "height_cm": 199,
+    "weight_kg": 106,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Amber",
+      "hair": "Blonde, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 78,
-      "Engineering": 26,
-      "Perception": 39
+      "Firearms": 76,
+      "Engineering": 81,
+      "Athletics": 52
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 32,
-      "extraversion": 80,
-      "agreeableness": 77,
-      "neuroticism": 89
+      "openness": 84,
+      "conscientiousness": 77,
+      "extraversion": 39,
+      "agreeableness": 60,
+      "neuroticism": 32
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
       "amount": 20000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

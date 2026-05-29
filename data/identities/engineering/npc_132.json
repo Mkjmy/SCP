@@ -1,23 +1,23 @@
 {
   "id": "npc_132",
   "bio": {
-    "full_name": "Steven Garcia",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 43,
-    "blood_type": "A+",
-    "genetic_stability": 0.881,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Lars Muller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "B+",
+    "genetic_stability": 0.989,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 93,
-    "build": "Average",
+    "height_cm": 197,
+    "weight_kg": 62,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 63,
-      "Engineering": 47,
-      "Stealth": 45
+      "Engineering": 49,
+      "Perception": 54,
+      "Persuasion": 44
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 62,
-      "conscientiousness": 39,
-      "extraversion": 89,
-      "agreeableness": 66,
-      "neuroticism": 53
+      "openness": 10,
+      "conscientiousness": 32,
+      "extraversion": 55,
+      "agreeableness": 69,
+      "neuroticism": 44
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
       "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

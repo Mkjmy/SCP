@@ -1,23 +1,23 @@
 {
   "id": "npc_028",
   "bio": {
-    "full_name": "William Ivanov",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 44,
-    "blood_type": "AB-",
-    "genetic_stability": 0.867,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Andrew Johnson",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.923,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 98,
-    "build": "Stocky",
+    "height_cm": 175,
+    "weight_kg": 58,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 11,
-      "Persuasion": 52,
-      "Medicine": 95
+      "Containment_Logic": 82,
+      "Firearms": 26,
+      "Hacking": 71
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 83,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 96,
-      "extraversion": 18,
-      "agreeableness": 50,
-      "neuroticism": 54
+      "openness": 73,
+      "conscientiousness": 9,
+      "extraversion": 7,
+      "agreeableness": 69,
+      "neuroticism": 10
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

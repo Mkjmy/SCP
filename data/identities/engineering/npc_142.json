@@ -1,60 +1,60 @@
 {
   "id": "npc_142",
   "bio": {
-    "full_name": "Maria Gupta",
-    "gender": "Non-binary",
+    "full_name": "Christopher Jones",
+    "gender": "Agender",
     "orientation": "Homosexual",
-    "age": 43,
+    "age": 30,
     "blood_type": "A+",
-    "genetic_stability": 0.958,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.895,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 70,
-    "build": "Stocky",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Pompadour",
-      "eyes": "Grey",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 42,
-      "Hacking": 40,
-      "Persuasion": 68
+      "Engineering": 57,
+      "Medicine": 13,
+      "Occult_Research": 52
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 79,
-      "extraversion": 9,
-      "agreeableness": 68,
-      "neuroticism": 37
+      "openness": 39,
+      "conscientiousness": 57,
+      "extraversion": 6,
+      "agreeableness": 15,
+      "neuroticism": 98
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

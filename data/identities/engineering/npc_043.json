@@ -1,23 +1,23 @@
 {
   "id": "npc_043",
   "bio": {
-    "full_name": "Donald Wong",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 60,
-    "blood_type": "B+",
-    "genetic_stability": 0.876,
+    "full_name": "Robert O'Connor",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 30,
+    "blood_type": "O-",
+    "genetic_stability": 0.957,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 103,
-    "build": "Stocky",
+    "height_cm": 200,
+    "weight_kg": 97,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 64,
-      "Occult_Research": 31,
-      "Persuasion": 27
+      "Stealth": 14,
+      "Firearms": 46,
+      "Containment_Logic": 73
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 98,
     "personality_matrix": {
       "openness": 49,
-      "conscientiousness": 92,
-      "extraversion": 24,
-      "agreeableness": 68,
-      "neuroticism": 40
+      "conscientiousness": 51,
+      "extraversion": 30,
+      "agreeableness": 38,
+      "neuroticism": 24
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

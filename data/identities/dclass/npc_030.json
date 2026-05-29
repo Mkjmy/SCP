@@ -1,23 +1,23 @@
 {
   "id": "npc_030",
   "bio": {
-    "full_name": "Yuki Williams",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "A+",
-    "genetic_stability": 0.949,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "David O'Connor",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.922,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 109,
-    "build": "Slender",
+    "height_cm": 192,
+    "weight_kg": 56,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 57,
-      "Occult_Research": 73,
-      "Engineering": 67
+      "Athletics": 85,
+      "Engineering": 80,
+      "Occult_Research": 67
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 77,
-      "extraversion": 5,
-      "agreeableness": 78,
-      "neuroticism": 66
+      "openness": 51,
+      "conscientiousness": 61,
+      "extraversion": 68,
+      "agreeableness": 20,
+      "neuroticism": 98
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

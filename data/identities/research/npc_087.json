@@ -1,21 +1,21 @@
 {
   "id": "npc_087",
   "bio": {
-    "full_name": "Fatima Williams",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 34,
-    "blood_type": "AB+",
-    "genetic_stability": 0.856,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Arjun Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.906,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 50,
-    "build": "Athletic",
+    "height_cm": 159,
+    "weight_kg": 107,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Brown, Bald",
+      "eyes": "Deep brown",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 70,
-      "Athletics": 52,
-      "Containment_Logic": 21
+      "Athletics": 72,
+      "Perception": 81,
+      "Persuasion": 71
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 71,
-      "extraversion": 4,
-      "agreeableness": 98,
-      "neuroticism": 81
+      "openness": 89,
+      "conscientiousness": 64,
+      "extraversion": 92,
+      "agreeableness": 85,
+      "neuroticism": 24
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

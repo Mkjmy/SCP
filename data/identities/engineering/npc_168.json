@@ -1,23 +1,23 @@
 {
   "id": "npc_168",
   "bio": {
-    "full_name": "Chen Vasiliev",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 39,
-    "blood_type": "A-",
-    "genetic_stability": 0.891,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Joseph O'Connor",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "O-",
+    "genetic_stability": 0.948,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 62,
-    "build": "Heavily Muscular",
+    "height_cm": 177,
+    "weight_kg": 84,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 70,
-      "Medicine": 64,
-      "Hacking": 63
+      "Athletics": 14,
+      "Persuasion": 16,
+      "Occult_Research": 31
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 52,
-      "extraversion": 4,
+      "openness": 21,
+      "conscientiousness": 92,
+      "extraversion": 83,
       "agreeableness": 66,
-      "neuroticism": 71
+      "neuroticism": 38
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

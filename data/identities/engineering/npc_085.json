@@ -1,23 +1,23 @@
 {
   "id": "npc_085",
   "bio": {
-    "full_name": "Michael Muller",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 37,
-    "blood_type": "O-",
-    "genetic_stability": 0.961,
+    "full_name": "Paul Bakker",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.864,
     "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 103,
+    "height_cm": 199,
+    "weight_kg": 52,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Icy blue",
+      "hair": "Silver, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 70,
-      "Persuasion": 36,
-      "Engineering": 15
+      "Stealth": 39,
+      "Hacking": 90,
+      "Engineering": 45
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 85,
-      "extraversion": 70,
-      "agreeableness": 43,
-      "neuroticism": 59
+      "openness": 67,
+      "conscientiousness": 57,
+      "extraversion": 82,
+      "agreeableness": 66,
+      "neuroticism": 17
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

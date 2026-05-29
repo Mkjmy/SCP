@@ -17,10 +17,10 @@ class StoryManager:
         with open(self.storyline_file, 'r') as f:
             return json.load(f)
 
-    def check_events(self, current_turn, player, npc_manager, scp_manager):
-        """Checks if any events should trigger this turn."""
+    def check_events(self, current_turn, player, npc_manager, scp_manager, game_map):
+        """Checks if any events should trigger this turn and returns all resulting actions."""
         self.turn_counter = current_turn
-        triggered_data = {"messages": [], "event": None}
+        triggered_data = {"messages": [], "event": None, "api_actions": []}
         
         for chapter_id, chapter_data in self.data.items():
             for event in chapter_data.get("events", []):
@@ -28,28 +28,67 @@ class StoryManager:
                 if event_id in self.completed_events:
                     continue
                 
+                # Check turn trigger
                 if current_turn == event.get("trigger_turn"):
-                    # Handle state changes immediately
+                    # Process generic actions list (The Story API)
+                    actions = event.get("actions", [])
+                    for action in actions:
+                        res = self.execute_api_action(action, player, npc_manager, scp_manager, game_map)
+                        if res: triggered_data["messages"].append(res)
+                        triggered_data["api_actions"].append(action)
+
+                    # Handle Legacy Types for backward compatibility
                     if event.get("type") == "UPDATE_CODE":
                         self.facility_code = event.get("code", "GREEN")
                         triggered_data["messages"].append(f"--- SYSTEM NOTIFICATION: SECURITY LEVEL {self.facility_code} ---")
-                        self.completed_events.add(event_id)
-                        continue
-
-                    # Check for NPCs to spawn
+                    
                     if "spawns" in event:
                         triggered_data["spawns"] = event["spawns"]
 
-                    # If it's a CHOICE, we return the whole event to main_loop for processing
+                    # If it's a CHOICE, we return the whole event to main_loop
                     if event.get("type") == "CHOICE":
                         triggered_data["event"] = event
+                        # Choice events don't mark as complete until choice is made
                         return triggered_data 
                     
-                    res = self.execute_event(event, player, npc_manager, scp_manager)
-                    if res: triggered_data["messages"].append(res)
                     self.completed_events.add(event_id)
         
         return triggered_data
+
+    def execute_api_action(self, action, player, npc_manager, scp_manager, game_map):
+        """Executes a single API command from JSON."""
+        atype = action.get("type")
+        
+        if atype == "MESSAGE":
+            return action.get("text")
+            
+        elif atype == "UPDATE_CODE":
+            self.facility_code = action.get("code", "GREEN")
+            return f"--- SECURITY ADVISORY: Site-wide status updated to {self.facility_code} ---"
+            
+        elif atype == "PLAYER_STAT":
+            stat = action.get("stat")
+            val = action.get("value", 0)
+            if stat == "health": player.health += val
+            elif stat == "morale": player.change_morale(val)
+            elif stat == "sanity": player.change_sanity(val)
+            elif stat == "clearance": player.clearance_level = val
+            
+        elif atype == "ITEM":
+            cmd = action.get("cmd", "GIVE")
+            item = action.get("item")
+            if cmd == "GIVE" and item not in player.inventory:
+                player.inventory.append(item)
+                return f"[DATABASE UPDATE: Item '{item}' registered to Inmate {player.name}]"
+                
+        elif atype == "MOVE":
+            target = action.get("target", "player")
+            dest_tag = action.get("dest_tag")
+            if target == "player" and dest_tag:
+                dests = [rid for rid, rd in game_map.items() if dest_tag in rd.get("tags", [])]
+                if dests: player.location = random.choice(dests)
+
+        return None
 
     def execute_choice(self, event, choice_id, player, npc_manager):
         """Executes the results of a player choosing an option in an event."""

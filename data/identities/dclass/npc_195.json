@@ -1,23 +1,23 @@
 {
   "id": "npc_195",
   "bio": {
-    "full_name": "William Dubois",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 32,
-    "blood_type": "O+",
-    "genetic_stability": 0.888,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Daniel Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.943,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 95,
-    "build": "Average",
+    "height_cm": 155,
+    "weight_kg": 54,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "White, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 14,
-      "Perception": 41,
-      "Athletics": 13
+      "Athletics": 25,
+      "Hacking": 57,
+      "Perception": 65
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 12,
+      "openness": 7,
+      "conscientiousness": 71,
       "extraversion": 83,
-      "agreeableness": 64,
-      "neuroticism": 83
+      "agreeableness": 45,
+      "neuroticism": 54
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.58
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

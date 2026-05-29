@@ -1,23 +1,23 @@
 {
   "id": "npc_197",
   "bio": {
-    "full_name": "Thomas Miller",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 45,
-    "blood_type": "A-",
-    "genetic_stability": 0.958,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Paul Vasiliev",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 53,
+    "blood_type": "O-",
+    "genetic_stability": 0.857,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 52,
+    "height_cm": 192,
+    "weight_kg": 108,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Grey",
+      "hair": "Dyed green, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Hacking": 24,
-      "Perception": 33,
-      "Engineering": 24
+      "Stealth": 24,
+      "Engineering": 58,
+      "Persuasion": 33
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 56,
-      "extraversion": 12,
-      "agreeableness": 6,
-      "neuroticism": 83
+      "openness": 81,
+      "conscientiousness": 63,
+      "extraversion": 85,
+      "agreeableness": 36,
+      "neuroticism": 48
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 20000,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

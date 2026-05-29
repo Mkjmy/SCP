@@ -1,23 +1,23 @@
 {
   "id": "npc_042",
   "bio": {
-    "full_name": "Anthony Schmidt",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 34,
-    "blood_type": "O-",
-    "genetic_stability": 0.969,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Donald Williams",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "O+",
+    "genetic_stability": 0.943,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 71,
-    "build": "Frail",
+    "height_cm": 158,
+    "weight_kg": 103,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Messy",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 26,
-      "Athletics": 46,
-      "Hacking": 12
+      "Persuasion": 77,
+      "Occult_Research": 27,
+      "Perception": 14
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 117,
+    "iq": 115,
     "personality_matrix": {
-      "openness": 83,
-      "conscientiousness": 85,
-      "extraversion": 71,
-      "agreeableness": 95,
-      "neuroticism": 88
+      "openness": 18,
+      "conscientiousness": 80,
+      "extraversion": 3,
+      "agreeableness": 84,
+      "neuroticism": 44
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Orphaned",
     "debts": {
       "amount": 1000,
-      "creditor": "Local Mob"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Spying for the Chaos Insurgency",

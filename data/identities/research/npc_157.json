@@ -1,23 +1,23 @@
 {
   "id": "npc_157",
   "bio": {
-    "full_name": "Robert Sato",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 63,
-    "blood_type": "B-",
-    "genetic_stability": 0.919,
+    "full_name": "Lars Garcia",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "O-",
+    "genetic_stability": 0.86,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 60,
+    "height_cm": 194,
+    "weight_kg": 72,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Grey, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Hacking": 36,
-      "Firearms": 13,
-      "Engineering": 19
+      "Persuasion": 11,
+      "Perception": 86,
+      "Engineering": 32
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 80,
-      "extraversion": 70,
-      "agreeableness": 61,
-      "neuroticism": 41
+      "openness": 7,
+      "conscientiousness": 60,
+      "extraversion": 5,
+      "agreeableness": 38,
+      "neuroticism": 29
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

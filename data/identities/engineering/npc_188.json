@@ -1,23 +1,23 @@
 {
   "id": "npc_188",
   "bio": {
-    "full_name": "Anthony Bakker",
+    "full_name": "Christopher Smith",
     "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 37,
-    "blood_type": "AB-",
-    "genetic_stability": 0.954,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Homosexual",
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.908,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 96,
-    "build": "Athletic",
+    "height_cm": 194,
+    "weight_kg": 62,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 32,
-      "Athletics": 51,
-      "Persuasion": 93
+      "Occult_Research": 81,
+      "Hacking": 27,
+      "Perception": 88
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 30,
-      "extraversion": 65,
-      "agreeableness": 31,
-      "neuroticism": 9
+      "openness": 49,
+      "conscientiousness": 14,
+      "extraversion": 69,
+      "agreeableness": 72,
+      "neuroticism": 6
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

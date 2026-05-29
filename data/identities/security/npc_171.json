@@ -1,23 +1,23 @@
 {
   "id": "npc_171",
   "bio": {
-    "full_name": "Steven Sato",
+    "full_name": "Daniel O'Connor",
     "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 30,
-    "blood_type": "O-",
-    "genetic_stability": 0.895,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Asexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.866,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 91,
-    "build": "Lithe",
+    "height_cm": 190,
+    "weight_kg": 64,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Amber",
+      "hair": "White, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Engineering": 56,
-      "Hacking": 41,
-      "Occult_Research": 24
+      "Containment_Logic": 68,
+      "Engineering": 35,
+      "Athletics": 76
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 22,
-      "extraversion": 13,
-      "agreeableness": 18,
-      "neuroticism": 1
+      "openness": 16,
+      "conscientiousness": 13,
+      "extraversion": 24,
+      "agreeableness": 91,
+      "neuroticism": 70
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

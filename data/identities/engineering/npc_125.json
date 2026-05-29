@@ -1,60 +1,60 @@
 {
   "id": "npc_125",
   "bio": {
-    "full_name": "Arjun Wong",
+    "full_name": "Olga Davis",
     "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 42,
-    "blood_type": "O+",
-    "genetic_stability": 0.95,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.926,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 67,
+    "height_cm": 190,
+    "weight_kg": 58,
     "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Hazel",
+      "hair": "White, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
         "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 44,
-      "Stealth": 68,
-      "Engineering": 40
+      "Containment_Logic": 37,
+      "Hacking": 51,
+      "Persuasion": 84
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 32,
-      "extraversion": 87,
-      "agreeableness": 56,
-      "neuroticism": 51
+      "openness": 63,
+      "conscientiousness": 67,
+      "extraversion": 39,
+      "agreeableness": 63,
+      "neuroticism": 35
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
+      "amount": 0,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_130",
   "bio": {
-    "full_name": "Matthew Kovacs",
+    "full_name": "Steven Miller",
     "gender": "Female",
     "orientation": "Bisexual",
-    "age": 35,
+    "age": 34,
     "blood_type": "A+",
-    "genetic_stability": 0.994,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.969,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 110,
-    "build": "Average",
+    "height_cm": 197,
+    "weight_kg": 98,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Manicured",
-      "eyes": "Hazel",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 92,
-      "Athletics": 81,
-      "Occult_Research": 23
+      "Perception": 18,
+      "Medicine": 49,
+      "Occult_Research": 42
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 37,
-      "extraversion": 6,
-      "agreeableness": 67,
-      "neuroticism": 81
+      "openness": 70,
+      "conscientiousness": 42,
+      "extraversion": 5,
+      "agreeableness": 16,
+      "neuroticism": 0
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

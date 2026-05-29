@@ -1,23 +1,23 @@
 {
   "id": "npc_021",
   "bio": {
-    "full_name": "Kenji Muller",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 28,
-    "blood_type": "A+",
-    "genetic_stability": 0.976,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Fatima Johnson",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.86,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 157,
+    "height_cm": 188,
     "weight_kg": 93,
-    "build": "Heavily Muscular",
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Brown, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 79,
-      "Engineering": 44,
-      "Stealth": 28
+      "Containment_Logic": 36,
+      "Medicine": 83,
+      "Occult_Research": 29
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 0,
-      "conscientiousness": 89,
-      "extraversion": 87,
-      "agreeableness": 3,
-      "neuroticism": 96
+      "openness": 71,
+      "conscientiousness": 87,
+      "extraversion": 92,
+      "agreeableness": 51,
+      "neuroticism": 56
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

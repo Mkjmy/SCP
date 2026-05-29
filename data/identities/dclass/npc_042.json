@@ -1,23 +1,23 @@
 {
   "id": "npc_042",
   "bio": {
-    "full_name": "Charles Williams",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "A+",
-    "genetic_stability": 0.896,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Joseph Wong",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.886,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 59,
-    "build": "Athletic",
+    "height_cm": 191,
+    "weight_kg": 86,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Amber",
+      "hair": "Silver, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 23,
-      "Medicine": 14,
-      "Occult_Research": 49
+      "Firearms": 28,
+      "Perception": 44,
+      "Persuasion": 18
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 83,
+    "iq": 90,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 55,
-      "extraversion": 78,
-      "agreeableness": 91,
-      "neuroticism": 99
+      "openness": 50,
+      "conscientiousness": 66,
+      "extraversion": 69,
+      "agreeableness": 44,
+      "neuroticism": 35
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

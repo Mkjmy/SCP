@@ -1,60 +1,60 @@
 {
   "id": "npc_014",
   "bio": {
-    "full_name": "Joshua Gupta",
+    "full_name": "John Ivanov",
     "gender": "Agender",
     "orientation": "Asexual",
-    "age": 25,
-    "blood_type": "O+",
-    "genetic_stability": 0.862,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 41,
+    "blood_type": "AB-",
+    "genetic_stability": 0.909,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 62,
-    "build": "Heavily Muscular",
+    "height_cm": 156,
+    "weight_kg": 106,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Black, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Medicine": 55,
-      "Firearms": 70,
-      "Perception": 66
+      "Firearms": 43,
+      "Persuasion": 86,
+      "Containment_Logic": 72
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 0,
-      "extraversion": 52,
-      "agreeableness": 91,
-      "neuroticism": 76
+      "openness": 0,
+      "conscientiousness": 73,
+      "extraversion": 79,
+      "agreeableness": 51,
+      "neuroticism": 74
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

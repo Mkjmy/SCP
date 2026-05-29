@@ -1,60 +1,60 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Elena Bakker",
-    "gender": "Female",
+    "full_name": "Andrew Dubois",
+    "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 30,
+    "age": 26,
     "blood_type": "AB+",
-    "genetic_stability": 0.954,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.885,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 64,
-    "build": "Stocky",
+    "height_cm": 183,
+    "weight_kg": 80,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Pompadour",
+      "hair": "Black, Pixie cut",
       "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Perception": 95,
-      "Firearms": 89,
-      "Athletics": 76
+      "Firearms": 51,
+      "Athletics": 10,
+      "Perception": 85
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 31,
-      "extraversion": 7,
-      "agreeableness": 33,
-      "neuroticism": 55
+      "openness": 12,
+      "conscientiousness": 4,
+      "extraversion": 51,
+      "agreeableness": 59,
+      "neuroticism": 79
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

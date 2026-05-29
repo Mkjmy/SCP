@@ -1,23 +1,23 @@
 {
   "id": "npc_190",
   "bio": {
-    "full_name": "Sven Brown",
-    "gender": "Transgender",
+    "full_name": "Kenji Kovacs",
+    "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 24,
+    "age": 41,
     "blood_type": "O-",
-    "genetic_stability": 0.998,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.972,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 51,
-    "build": "Athletic",
+    "height_cm": 161,
+    "weight_kg": 69,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 40,
-      "Athletics": 24,
-      "Medicine": 66
+      "Stealth": 95,
+      "Engineering": 71,
+      "Athletics": 81
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 39,
-      "conscientiousness": 42,
-      "extraversion": 94,
-      "agreeableness": 59,
-      "neuroticism": 83
+      "openness": 15,
+      "conscientiousness": 63,
+      "extraversion": 77,
+      "agreeableness": 22,
+      "neuroticism": 4
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

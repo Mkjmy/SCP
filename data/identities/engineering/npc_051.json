@@ -1,60 +1,60 @@
 {
   "id": "npc_051",
   "bio": {
-    "full_name": "Sven Williams",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 51,
-    "blood_type": "A+",
-    "genetic_stability": 0.935,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Steven Johnson",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.928,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 91,
+    "height_cm": 159,
+    "weight_kg": 53,
     "build": "Average",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Red, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 11,
-      "Perception": 62,
-      "Engineering": 52
+      "Athletics": 37,
+      "Containment_Logic": 23,
+      "Firearms": 47
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 21,
-      "extraversion": 18,
-      "agreeableness": 11,
-      "neuroticism": 28
+      "openness": 52,
+      "conscientiousness": 82,
+      "extraversion": 58,
+      "agreeableness": 52,
+      "neuroticism": 75
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

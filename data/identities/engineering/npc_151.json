@@ -1,23 +1,23 @@
 {
   "id": "npc_151",
   "bio": {
-    "full_name": "Steven Schmidt",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 41,
-    "blood_type": "AB+",
-    "genetic_stability": 0.851,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Maria Tanaka",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 46,
+    "blood_type": "AB-",
+    "genetic_stability": 0.852,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 67,
-    "build": "Lithe",
+    "height_cm": 157,
+    "weight_kg": 100,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Sharp blue",
+      "hair": "White, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 19,
-      "Persuasion": 27,
-      "Hacking": 54
+      "Firearms": 45,
+      "Medicine": 57,
+      "Hacking": 39
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 80,
-      "extraversion": 91,
-      "agreeableness": 87,
-      "neuroticism": 90
+      "openness": 27,
+      "conscientiousness": 19,
+      "extraversion": 84,
+      "agreeableness": 48,
+      "neuroticism": 19
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

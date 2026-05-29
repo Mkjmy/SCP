@@ -1,0 +1,60 @@
+{
+  "id": "npc_079",
+  "bio": {
+    "full_name": "John Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.943,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 88,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Red, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 21,
+      "Medicine": 29,
+      "Stealth": 59
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 63,
+      "conscientiousness": 42,
+      "extraversion": 24,
+      "agreeableness": 5,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.52
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

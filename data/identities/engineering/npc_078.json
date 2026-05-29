@@ -1,23 +1,23 @@
 {
   "id": "npc_078",
   "bio": {
-    "full_name": "Joseph Dubois",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 64,
-    "blood_type": "A+",
-    "genetic_stability": 0.875,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Christopher Jones",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.892,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 50,
-    "build": "Athletic",
+    "height_cm": 156,
+    "weight_kg": 106,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 79,
-      "Persuasion": 37,
-      "Occult_Research": 34
+      "Firearms": 17,
+      "Athletics": 61,
+      "Perception": 62
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 117,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 64,
-      "extraversion": 80,
-      "agreeableness": 93,
-      "neuroticism": 54
+      "openness": 52,
+      "conscientiousness": 82,
+      "extraversion": 10,
+      "agreeableness": 76,
+      "neuroticism": 52
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 0,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

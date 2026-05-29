@@ -1,60 +1,60 @@
 {
   "id": "npc_161",
   "bio": {
-    "full_name": "Donald Sato",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 35,
+    "full_name": "David Kovacs",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 60,
     "blood_type": "A+",
-    "genetic_stability": 0.85,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.963,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 88,
-    "build": "Stocky",
+    "height_cm": 182,
+    "weight_kg": 82,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 38,
-      "Perception": 78,
-      "Stealth": 74
+      "Containment_Logic": 31,
+      "Engineering": 22,
+      "Stealth": 14
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 99,
-      "conscientiousness": 88,
-      "extraversion": 93,
-      "agreeableness": 44,
-      "neuroticism": 100
+      "openness": 12,
+      "conscientiousness": 91,
+      "extraversion": 37,
+      "agreeableness": 24,
+      "neuroticism": 35
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

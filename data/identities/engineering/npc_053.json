@@ -1,23 +1,23 @@
 {
   "id": "npc_053",
   "bio": {
-    "full_name": "Chen Wong",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 26,
-    "blood_type": "B-",
-    "genetic_stability": 0.997,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Chen Gupta",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.924,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 93,
-    "build": "Slender",
+    "height_cm": 164,
+    "weight_kg": 68,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Amber",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 11,
-      "Containment_Logic": 60,
-      "Stealth": 82
+      "Medicine": 48,
+      "Firearms": 60,
+      "Stealth": 32
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 12,
-      "extraversion": 1,
-      "agreeableness": 81,
-      "neuroticism": 80
+      "openness": 67,
+      "conscientiousness": 96,
+      "extraversion": 90,
+      "agreeableness": 70,
+      "neuroticism": 11
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

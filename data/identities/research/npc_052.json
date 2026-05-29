@@ -1,23 +1,23 @@
 {
   "id": "npc_052",
   "bio": {
-    "full_name": "Michael Dubois",
-    "gender": "Agender",
+    "full_name": "Anthony Muller",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 59,
-    "blood_type": "A+",
-    "genetic_stability": 0.984,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 52,
+    "blood_type": "O+",
+    "genetic_stability": 0.992,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 97,
-    "build": "Athletic",
+    "height_cm": 182,
+    "weight_kg": 65,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Firearms": 93,
-      "Containment_Logic": 41,
-      "Persuasion": 31
+      "Containment_Logic": 86,
+      "Persuasion": 90,
+      "Athletics": 42
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 6,
-      "extraversion": 88,
-      "agreeableness": 64,
-      "neuroticism": 56
+      "openness": 85,
+      "conscientiousness": 58,
+      "extraversion": 18,
+      "agreeableness": 49,
+      "neuroticism": 54
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

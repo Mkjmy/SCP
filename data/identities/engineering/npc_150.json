@@ -1,23 +1,23 @@
 {
   "id": "npc_150",
   "bio": {
-    "full_name": "Richard Schmidt",
+    "full_name": "Arjun Vasiliev",
     "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 64,
-    "blood_type": "A+",
-    "genetic_stability": 0.977,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 28,
+    "blood_type": "A-",
+    "genetic_stability": 0.933,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 90,
-    "build": "Slender",
+    "height_cm": 191,
+    "weight_kg": 82,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Hazel",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 17,
-      "Stealth": 95,
-      "Hacking": 92
+      "Medicine": 20,
+      "Occult_Research": 94,
+      "Hacking": 64
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 37,
-      "extraversion": 14,
-      "agreeableness": 89,
-      "neuroticism": 39
+      "openness": 5,
+      "conscientiousness": 23,
+      "extraversion": 25,
+      "agreeableness": 15,
+      "neuroticism": 82
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

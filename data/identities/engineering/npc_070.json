@@ -1,60 +1,60 @@
 {
   "id": "npc_070",
   "bio": {
-    "full_name": "Daniel Davis",
+    "full_name": "Robert Garcia",
     "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 39,
-    "blood_type": "A+",
-    "genetic_stability": 0.992,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.927,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 78,
+    "height_cm": 194,
+    "weight_kg": 54,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Amber",
+      "hair": "Black, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 95,
-      "Firearms": 41,
-      "Occult_Research": 56
+      "Firearms": 25,
+      "Containment_Logic": 28,
+      "Stealth": 25
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 9,
-      "extraversion": 56,
-      "agreeableness": 42,
-      "neuroticism": 64
+      "openness": 60,
+      "conscientiousness": 66,
+      "extraversion": 62,
+      "agreeableness": 17,
+      "neuroticism": 82
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

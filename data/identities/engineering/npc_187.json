@@ -1,60 +1,60 @@
 {
   "id": "npc_187",
   "bio": {
-    "full_name": "Joshua Dubois",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 27,
-    "blood_type": "A-",
-    "genetic_stability": 0.913,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Lars Tanaka",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.994,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 73,
+    "height_cm": 196,
+    "weight_kg": 69,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Wild and unkempt",
+      "hair": "Brown, Pixie cut",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 16,
-      "Hacking": 47,
-      "Firearms": 75
+      "Stealth": 56,
+      "Hacking": 25,
+      "Containment_Logic": 81
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 99,
-      "extraversion": 82,
-      "agreeableness": 8,
-      "neuroticism": 36
+      "openness": 24,
+      "conscientiousness": 15,
+      "extraversion": 71,
+      "agreeableness": 68,
+      "neuroticism": 7
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

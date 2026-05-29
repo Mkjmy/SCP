@@ -1,23 +1,23 @@
 {
   "id": "npc_136",
   "bio": {
-    "full_name": "Paul Kovacs",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "O+",
-    "genetic_stability": 0.853,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "David O'Connor",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 65,
+    "blood_type": "AB+",
+    "genetic_stability": 0.894,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 104,
-    "build": "Average",
+    "height_cm": 183,
+    "weight_kg": 78,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Hazel",
+      "hair": "Grey, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 22,
-      "Medicine": 43,
-      "Persuasion": 12
+      "Medicine": 28,
+      "Firearms": 33,
+      "Occult_Research": 66
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 83,
-      "conscientiousness": 47,
-      "extraversion": 81,
-      "agreeableness": 92,
-      "neuroticism": 89
+      "openness": 55,
+      "conscientiousness": 45,
+      "extraversion": 72,
+      "agreeableness": 76,
+      "neuroticism": 20
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

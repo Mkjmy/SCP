@@ -1,23 +1,23 @@
 {
   "id": "npc_035",
   "bio": {
-    "full_name": "Maria Gupta",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 48,
-    "blood_type": "A+",
-    "genetic_stability": 0.977,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Paul Kovacs",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 22,
+    "blood_type": "AB+",
+    "genetic_stability": 0.907,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 86,
+    "height_cm": 160,
+    "weight_kg": 58,
     "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Hazel",
+      "hair": "Dyed green, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Medicine": 19,
-      "Perception": 62,
-      "Athletics": 20
+      "Perception": 93,
+      "Medicine": 70,
+      "Containment_Logic": 95
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 161,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 88,
-      "extraversion": 99,
-      "agreeableness": 18,
-      "neuroticism": 71
+      "openness": 53,
+      "conscientiousness": 48,
+      "extraversion": 10,
+      "agreeableness": 45,
+      "neuroticism": 53
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

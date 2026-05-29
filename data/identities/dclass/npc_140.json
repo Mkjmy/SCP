@@ -1,23 +1,23 @@
 {
   "id": "npc_140",
   "bio": {
-    "full_name": "Richard Johnson",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 35,
-    "blood_type": "AB+",
-    "genetic_stability": 0.979,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Fatima Johnson",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.988,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 76,
-    "build": "Overweight",
+    "height_cm": 191,
+    "weight_kg": 79,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
-      "eyes": "Hazel",
+      "hair": "Black, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 30,
-      "Athletics": 18,
-      "Firearms": 52
+      "Engineering": 23,
+      "Medicine": 27,
+      "Occult_Research": 81
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 56,
-      "extraversion": 11,
-      "agreeableness": 50,
-      "neuroticism": 88
+      "openness": 87,
+      "conscientiousness": 6,
+      "extraversion": 8,
+      "agreeableness": 66,
+      "neuroticism": 99
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Obsessed with reaching Site-01",

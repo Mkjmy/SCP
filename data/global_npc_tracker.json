@@ -1,1037 +1,1037 @@
 {
   "npc_001": {
-    "name": "James Garcia",
+    "name": "Michael Miller",
     "role": "D-class",
     "room": "room_0_0_0"
   },
   "npc_002": {
-    "name": "John Tanaka",
+    "name": "James Tanaka",
     "role": "D-class",
     "room": "room_0_0_0"
   },
   "npc_003": {
-    "name": "Olga Ivanov",
+    "name": "David Williams",
     "role": "D-class",
     "room": "room_0_0_0"
   },
   "npc_004": {
-    "name": "Robert Brown",
+    "name": "Richard Jones",
     "role": "D-class",
     "room": "room_0_0_0"
   },
   "npc_005": {
-    "name": "Maria Williams",
+    "name": "Olga Tanaka",
     "role": "D-class",
     "room": "room_0_0_0"
   },
   "npc_006": {
-    "name": "William Smith",
+    "name": "Kenji Ivanov",
     "role": "D-class",
     "room": "room_0_0_0"
   },
   "npc_007": {
-    "name": "Robert Smith",
+    "name": "James Tanaka",
     "role": "D-class",
     "room": "room_0_0_0"
   },
   "npc_008": {
-    "name": "Maria Garcia",
-    "role": "Janitor",
-    "room": "room_2_0_1"
+    "name": "Dr. Miller",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_009": {
-    "name": "Olga Johnson",
+    "name": "James Ivanov",
     "role": "Isd agent",
-    "room": "room_4_-1_1"
+    "room": "room_-1_1_0"
   },
   "npc_010": {
-    "name": "William Smith",
-    "role": "Isd agent",
-    "room": "room_2_-2_0"
+    "name": "Michael Johnson",
+    "role": "D-class",
+    "room": "room_-1_1_0"
   },
   "npc_011": {
-    "name": "Robert Johnson",
-    "role": "Janitor",
-    "room": "room_2_-4_1"
+    "name": "Olga Miller",
+    "role": "Guard",
+    "room": "room_-1_1_0"
   },
   "npc_012": {
-    "name": "John Johnson",
-    "role": "Janitor",
+    "name": "William Miller",
+    "role": "Guard",
     "room": "room_0_1_0"
   },
   "npc_013": {
-    "name": "Dr. Garcia",
-    "role": "Scientist",
-    "room": "room_2_-3_2"
+    "name": "Robert Johnson",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
   },
   "npc_014": {
-    "name": "William Brown",
-    "role": "D-class",
-    "room": "room_2_-3_1"
+    "name": "Dr. Johnson",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_015": {
-    "name": "Robert Smith",
-    "role": "D-class",
-    "room": "room_1_-1_1"
+    "name": "William Garcia",
+    "role": "Guard",
+    "room": "room_-1_1_0"
   },
   "npc_016": {
-    "name": "Richard Johnson",
-    "role": "Engineer",
-    "room": "room_3_0_1"
+    "name": "John Davis",
+    "role": "Guard",
+    "room": "room_-1_1_0"
   },
   "npc_017": {
-    "name": "Robert Tanaka",
-    "role": "Guard",
-    "room": "room_3_0_0"
+    "name": "Dr. Smith",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_018": {
-    "name": "James Davis",
-    "role": "Engineer",
-    "room": "room_0_-3_1"
+    "name": "Dr. Williams",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_019": {
-    "name": "Michael Williams",
-    "role": "D-class",
-    "room": "room_0_-8_2"
+    "name": "Robert Brown",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
   },
   "npc_020": {
-    "name": "John Davis",
-    "role": "D-class",
-    "room": "room_2_2_0"
+    "name": "William Brown",
+    "role": "Guard",
+    "room": "room_-1_1_0"
   },
   "npc_021": {
-    "name": "Richard Smith",
-    "role": "Isd agent",
-    "room": "room_3_0_0"
+    "name": "Robert Brown",
+    "role": "D-class",
+    "room": "room_-1_1_0"
   },
   "npc_022": {
-    "name": "James Ivanov",
-    "role": "Janitor",
-    "room": "room_0_3_0"
+    "name": "Dr. Williams",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_023": {
-    "name": "William Miller",
-    "role": "Engineer",
-    "room": "room_0_4_0"
+    "name": "William Brown",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
   },
   "npc_024": {
-    "name": "James Tanaka",
-    "role": "D-class",
-    "room": "room_0_-5_1"
+    "name": "John Davis",
+    "role": "Engineer",
+    "room": "room_0_1_0"
   },
   "npc_025": {
-    "name": "Olga Johnson",
-    "role": "Janitor",
-    "room": "room_0_-4_1"
+    "name": "Maria Smith",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
   },
   "npc_026": {
-    "name": "James Tanaka",
-    "role": "Engineer",
-    "room": "room_0_-5_1"
+    "name": "David Davis",
+    "role": "D-class",
+    "room": "room_0_1_0"
   },
   "npc_027": {
-    "name": "Kenji Tanaka",
-    "role": "Guard",
-    "room": "room_3_-1_1"
+    "name": "John Jones",
+    "role": "D-class",
+    "room": "room_-1_1_0"
   },
   "npc_028": {
-    "name": "Maria Brown",
-    "role": "Guard",
-    "room": "room_3_0_0"
+    "name": "Kenji Jones",
+    "role": "Engineer",
+    "room": "room_0_1_0"
   },
   "npc_029": {
-    "name": "Richard Ivanov",
+    "name": "Michael Davis",
     "role": "D-class",
-    "room": "room_0_-3_1"
+    "room": "room_0_1_0"
   },
   "npc_030": {
-    "name": "Robert Ivanov",
-    "role": "Engineer",
+    "name": "John Garcia",
+    "role": "Guard",
     "room": "room_-1_1_0"
   },
   "npc_031": {
-    "name": "Robert Brown",
-    "role": "Engineer",
-    "room": "room_2_0_0"
+    "name": "Robert Williams",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
   },
   "npc_032": {
-    "name": "David Smith",
-    "role": "Engineer",
-    "room": "room_2_0_1"
+    "name": "John Smith",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
   },
   "npc_033": {
-    "name": "Richard Brown",
-    "role": "Janitor",
-    "room": "room_2_-2_1"
-  },
-  "npc_034": {
-    "name": "Maria Brown",
-    "role": "Guard",
-    "room": "room_3_-1_1"
-  },
-  "npc_035": {
-    "name": "Michael Davis",
-    "role": "Isd agent",
-    "room": "room_0_2_0"
-  },
-  "npc_036": {
-    "name": "Dr. Jones",
-    "role": "Scientist",
-    "room": "room_1_-5_2"
-  },
-  "npc_037": {
-    "name": "Kenji Williams",
-    "role": "Janitor",
-    "room": "room_0_-3_1"
-  },
-  "npc_038": {
-    "name": "William Davis",
-    "role": "D-class",
-    "room": "room_1_-4_1"
-  },
-  "npc_039": {
-    "name": "David Johnson",
-    "role": "Isd agent",
-    "room": "room_4_-1_1"
-  },
-  "npc_040": {
-    "name": "Robert Tanaka",
-    "role": "Isd agent",
-    "room": "room_3_-1_1"
-  },
-  "npc_041": {
-    "name": "Maria Williams",
-    "role": "Engineer",
-    "room": "room_1_3_0"
-  },
-  "npc_042": {
-    "name": "Dr. Williams",
-    "role": "Scientist",
-    "room": "room_1_-5_2"
-  },
-  "npc_043": {
-    "name": "Dr. Davis",
-    "role": "Scientist",
-    "room": "room_2_-3_2"
-  },
-  "npc_044": {
-    "name": "Olga Jones",
-    "role": "Engineer",
-    "room": "room_1_1_2"
-  },
-  "npc_045": {
-    "name": "Dr. Brown",
-    "role": "Scientist",
-    "room": "room_0_4_0"
-  },
-  "npc_046": {
-    "name": "Richard Tanaka",
-    "role": "D-class",
-    "room": "room_1_-6_3"
-  },
-  "npc_047": {
-    "name": "John Smith",
-    "role": "Guard",
-    "room": "room_0_-3_1"
-  },
-  "npc_048": {
     "name": "Robert Garcia",
     "role": "Isd agent",
-    "room": "room_4_-1_1"
+    "room": "room_0_1_0"
   },
-  "npc_049": {
-    "name": "William Brown",
+  "npc_034": {
+    "name": "Kenji Brown",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_035": {
+    "name": "Kenji Davis",
     "role": "Engineer",
-    "room": "room_2_2_0"
+    "room": "room_0_1_0"
   },
-  "npc_050": {
+  "npc_036": {
+    "name": "Olga Johnson",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_037": {
     "name": "Dr. Williams",
     "role": "Scientist",
-    "room": "room_2_0_1"
+    "room": "room_-1_1_0"
   },
-  "npc_051": {
-    "name": "James Davis",
-    "role": "Isd agent",
-    "room": "room_2_2_0"
+  "npc_038": {
+    "name": "Michael Ivanov",
+    "role": "Guard",
+    "room": "room_-1_1_0"
   },
-  "npc_052": {
-    "name": "Olga Ivanov",
-    "role": "Engineer",
-    "room": "room_1_1_2"
-  },
-  "npc_053": {
-    "name": "David Ivanov",
-    "role": "Janitor",
-    "room": "room_0_-4_2"
-  },
-  "npc_054": {
-    "name": "Kenji Tanaka",
-    "role": "Janitor",
-    "room": "room_2_-1_1"
-  },
-  "npc_055": {
-    "name": "William Brown",
-    "role": "Engineer",
-    "room": "room_2_-1_0"
-  },
-  "npc_056": {
-    "name": "John Smith",
-    "role": "Janitor",
-    "room": "room_-1_-5_2"
-  },
-  "npc_057": {
-    "name": "Dr. Ivanov",
+  "npc_039": {
+    "name": "Dr. Johnson",
     "role": "Scientist",
-    "room": "room_0_-2_1"
+    "room": "room_-1_1_0"
   },
-  "npc_058": {
-    "name": "William Davis",
-    "role": "D-class",
-    "room": "room_2_-1_1"
-  },
-  "npc_059": {
-    "name": "James Miller",
-    "role": "Isd agent",
-    "room": "room_2_2_0"
-  },
-  "npc_060": {
-    "name": "Maria Williams",
-    "role": "D-class",
-    "room": "room_2_-2_0"
-  },
-  "npc_061": {
-    "name": "Kenji Miller",
-    "role": "Engineer",
-    "room": "room_2_3_0"
-  },
-  "npc_062": {
-    "name": "James Davis",
-    "role": "Guard",
-    "room": "room_0_2_0"
-  },
-  "npc_063": {
-    "name": "John Smith",
-    "role": "D-class",
-    "room": "room_3_1_0"
-  },
-  "npc_064": {
-    "name": "Dr. Garcia",
-    "role": "Scientist",
-    "room": "room_0_1_2"
-  },
-  "npc_065": {
-    "name": "Kenji Miller",
-    "role": "Guard",
-    "room": "room_0_-3_1"
-  },
-  "npc_066": {
-    "name": "David Williams",
-    "role": "Guard",
-    "room": "room_3_0_0"
-  },
-  "npc_067": {
-    "name": "Robert Ivanov",
+  "npc_040": {
+    "name": "Michael Jones",
     "role": "D-class",
     "room": "room_-1_1_0"
   },
-  "npc_068": {
-    "name": "Richard Brown",
-    "role": "Guard",
-    "room": "room_3_0_0"
-  },
-  "npc_069": {
-    "name": "John Miller",
-    "role": "Guard",
-    "room": "room_4_-1_1"
-  },
-  "npc_070": {
-    "name": "Olga Williams",
-    "role": "D-class",
-    "room": "room_0_1_2"
-  },
-  "npc_071": {
-    "name": "Olga Jones",
-    "role": "Guard",
-    "room": "room_0_2_0"
-  },
-  "npc_072": {
-    "name": "Michael Johnson",
-    "role": "Janitor",
-    "room": "room_0_-3_1"
-  },
-  "npc_073": {
-    "name": "Maria Jones",
-    "role": "Janitor",
-    "room": "room_0_-2_1"
-  },
-  "npc_074": {
-    "name": "Olga Tanaka",
-    "role": "Guard",
-    "room": "room_3_-1_1"
-  },
-  "npc_075": {
-    "name": "David Brown",
-    "role": "Guard",
-    "room": "room_4_-1_1"
-  },
-  "npc_076": {
-    "name": "Maria Tanaka",
-    "role": "Janitor",
-    "room": "room_1_2_0"
-  },
-  "npc_077": {
-    "name": "Michael Davis",
-    "role": "Janitor",
-    "room": "room_0_-4_2"
-  },
-  "npc_078": {
-    "name": "David Brown",
-    "role": "Janitor",
-    "room": "room_0_4_0"
-  },
-  "npc_079": {
-    "name": "Michael Jones",
+  "npc_041": {
+    "name": "William Ivanov",
     "role": "Isd agent",
-    "room": "room_3_-1_1"
+    "room": "room_-1_1_0"
   },
-  "npc_080": {
-    "name": "Dr. Garcia",
-    "role": "Scientist",
-    "room": "room_2_1_2"
-  },
-  "npc_081": {
-    "name": "Robert Williams",
-    "role": "Isd agent",
-    "room": "room_2_-1_0"
-  },
-  "npc_082": {
-    "name": "Dr. Davis",
-    "role": "Scientist",
-    "room": "room_2_-3_2"
-  },
-  "npc_083": {
-    "name": "Dr. Williams",
-    "role": "Scientist",
-    "room": "room_-1_-5_2"
-  },
-  "npc_084": {
-    "name": "James Jones",
+  "npc_042": {
+    "name": "Maria Smith",
     "role": "Engineer",
-    "room": "room_0_-4_2"
+    "room": "room_0_1_0"
   },
-  "npc_085": {
-    "name": "Richard Ivanov",
-    "role": "Guard",
-    "room": "room_3_-1_1"
-  },
-  "npc_086": {
-    "name": "William Johnson",
-    "role": "Isd agent",
-    "room": "room_4_-1_1"
-  },
-  "npc_087": {
-    "name": "Maria Johnson",
-    "role": "D-class",
-    "room": "room_1_-5_2"
-  },
-  "npc_088": {
-    "name": "Dr. Williams",
+  "npc_043": {
+    "name": "Dr. Jones",
     "role": "Scientist",
-    "room": "room_0_-2_1"
+    "room": "room_-1_1_0"
   },
-  "npc_089": {
-    "name": "William Garcia",
-    "role": "Isd agent",
-    "room": "room_4_-1_1"
+  "npc_044": {
+    "name": "Michael Tanaka",
+    "role": "D-class",
+    "room": "room_-1_1_0"
   },
-  "npc_090": {
-    "name": "Olga Smith",
-    "role": "Isd agent",
-    "room": "room_2_-1_0"
+  "npc_045": {
+    "name": "Richard Jones",
+    "role": "Engineer",
+    "room": "room_0_1_0"
   },
-  "npc_091": {
+  "npc_046": {
+    "name": "William Jones",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_047": {
+    "name": "James Ivanov",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_048": {
+    "name": "Robert Ivanov",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
+  },
+  "npc_049": {
+    "name": "Richard Williams",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_050": {
+    "name": "Olga Garcia",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_051": {
+    "name": "Dr. Tanaka",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_052": {
+    "name": "Robert Tanaka",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
+  },
+  "npc_053": {
+    "name": "James Johnson",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_054": {
     "name": "Dr. Brown",
     "role": "Scientist",
-    "room": "room_2_3_0"
+    "room": "room_-1_1_0"
+  },
+  "npc_055": {
+    "name": "James Miller",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_056": {
+    "name": "Dr. Williams",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_057": {
+    "name": "Robert Miller",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_058": {
+    "name": "James Brown",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_059": {
+    "name": "David Johnson",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_060": {
+    "name": "Michael Davis",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
+  },
+  "npc_061": {
+    "name": "Kenji Williams",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_062": {
+    "name": "Richard Smith",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_063": {
+    "name": "John Tanaka",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_064": {
+    "name": "Maria Garcia",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_065": {
+    "name": "Richard Garcia",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_066": {
+    "name": "David Tanaka",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_067": {
+    "name": "Maria Miller",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_068": {
+    "name": "Richard Ivanov",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
+  },
+  "npc_069": {
+    "name": "Robert Garcia",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_070": {
+    "name": "Michael Brown",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_071": {
+    "name": "Maria Smith",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_072": {
+    "name": "John Williams",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_073": {
+    "name": "John Brown",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_074": {
+    "name": "Michael Miller",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_075": {
+    "name": "Maria Davis",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_076": {
+    "name": "Dr. Brown",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_077": {
+    "name": "Robert Johnson",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_078": {
+    "name": "Robert Johnson",
+    "role": "D-class",
+    "room": "room_-1_1_0"
+  },
+  "npc_079": {
+    "name": "Robert Williams",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_080": {
+    "name": "Dr. Smith",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_081": {
+    "name": "Olga Jones",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_082": {
+    "name": "William Jones",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_083": {
+    "name": "Olga Garcia",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_084": {
+    "name": "Olga Tanaka",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_085": {
+    "name": "Robert Miller",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_086": {
+    "name": "Robert Smith",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_087": {
+    "name": "William Brown",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_088": {
+    "name": "David Smith",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_089": {
+    "name": "Maria Garcia",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
+  },
+  "npc_090": {
+    "name": "Kenji Smith",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_091": {
+    "name": "Richard Williams",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
   },
   "npc_092": {
-    "name": "David Johnson",
+    "name": "David Tanaka",
     "role": "Engineer",
-    "room": "room_2_0_1"
+    "room": "room_-1_1_0"
   },
   "npc_093": {
-    "name": "John Ivanov",
+    "name": "Olga Garcia",
     "role": "Isd agent",
-    "room": "room_0_-3_1"
+    "room": "room_0_1_0"
   },
   "npc_094": {
-    "name": "Olga Miller",
-    "role": "Engineer",
-    "room": "room_2_-4_2"
+    "name": "Robert Ivanov",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
   },
   "npc_095": {
-    "name": "James Jones",
-    "role": "Engineer",
-    "room": "room_1_-2_1"
+    "name": "Dr. Johnson",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_096": {
-    "name": "James Garcia",
-    "role": "Isd agent",
-    "room": "room_4_-1_1"
+    "name": "James Tanaka",
+    "role": "Guard",
+    "room": "room_-1_1_0"
   },
   "npc_097": {
-    "name": "Michael Ivanov",
-    "role": "Engineer",
-    "room": "room_0_-5_2"
+    "name": "John Davis",
+    "role": "D-class",
+    "room": "room_-1_1_0"
   },
   "npc_098": {
-    "name": "James Johnson",
-    "role": "D-class",
-    "room": "room_3_0_0"
+    "name": "Kenji Jones",
+    "role": "Engineer",
+    "room": "room_0_1_0"
   },
   "npc_099": {
-    "name": "James Ivanov",
-    "role": "Janitor",
-    "room": "room_0_-3_1"
+    "name": "Michael Ivanov",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
   },
   "npc_100": {
-    "name": "Kenji Smith",
-    "role": "D-class",
-    "room": "room_2_0_0"
+    "name": "Maria Garcia",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
   },
   "npc_101": {
-    "name": "Richard Johnson",
-    "role": "Isd agent",
-    "room": "room_3_-1_1"
+    "name": "Dr. Miller",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_102": {
-    "name": "Michael Davis",
-    "role": "Engineer",
-    "room": "room_1_-4_1"
+    "name": "Richard Davis",
+    "role": "D-class",
+    "room": "room_-1_1_0"
   },
   "npc_103": {
-    "name": "James Davis",
-    "role": "Janitor",
-    "room": "room_1_2_0"
+    "name": "John Davis",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
   },
   "npc_104": {
     "name": "Richard Miller",
-    "role": "Engineer",
-    "room": "room_-1_-5_2"
+    "role": "Janitor",
+    "room": "room_0_1_0"
   },
   "npc_105": {
-    "name": "Dr. Brown",
-    "role": "Scientist",
-    "room": "room_-1_-5_2"
+    "name": "Maria Johnson",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
   },
   "npc_106": {
-    "name": "Dr. Davis",
-    "role": "Scientist",
-    "room": "room_0_4_0"
+    "name": "James Brown",
+    "role": "Engineer",
+    "room": "room_0_1_0"
   },
   "npc_107": {
     "name": "Kenji Williams",
     "role": "D-class",
-    "room": "room_2_-1_1"
+    "room": "room_-1_1_0"
   },
   "npc_108": {
-    "name": "Dr. Garcia",
-    "role": "Scientist",
-    "room": "room_2_1_2"
+    "name": "John Brown",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
   },
   "npc_109": {
-    "name": "William Williams",
-    "role": "Guard",
-    "room": "room_2_2_0"
+    "name": "Dr. Williams",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_110": {
-    "name": "John Ivanov",
-    "role": "Janitor",
-    "room": "room_2_-2_1"
+    "name": "Dr. Davis",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_111": {
-    "name": "Richard Johnson",
-    "role": "D-class",
-    "room": "room_4_-1_1"
+    "name": "William Brown",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
   },
   "npc_112": {
-    "name": "Michael Jones",
-    "role": "D-class",
-    "room": "room_1_-5_2"
+    "name": "Dr. Davis",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   },
   "npc_113": {
-    "name": "Robert Johnson",
-    "role": "Janitor",
-    "room": "room_3_0_0"
+    "name": "Richard Ivanov",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
   },
   "npc_114": {
-    "name": "Olga Smith",
-    "role": "Guard",
-    "room": "room_3_0_0"
+    "name": "Robert Williams",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
   },
   "npc_115": {
-    "name": "Olga Miller",
-    "role": "Isd agent",
-    "room": "room_2_2_0"
+    "name": "John Garcia",
+    "role": "Guard",
+    "room": "room_0_1_0"
   },
   "npc_116": {
-    "name": "Dr. Johnson",
-    "role": "Scientist",
-    "room": "room_3_0_1"
+    "name": "William Johnson",
+    "role": "Guard",
+    "room": "room_-1_1_0"
   },
   "npc_117": {
-    "name": "Dr. Smith",
-    "role": "Scientist",
-    "room": "room_3_0_1"
+    "name": "James Brown",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
   },
   "npc_118": {
-    "name": "John Ivanov",
-    "role": "D-class",
-    "room": "room_2_-4_2"
+    "name": "Kenji Smith",
+    "role": "Guard",
+    "room": "room_0_1_0"
   },
   "npc_119": {
-    "name": "Olga Ivanov",
-    "role": "D-class",
-    "room": "room_1_2_0"
+    "name": "Kenji Tanaka",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
   },
   "npc_120": {
-    "name": "James Miller",
+    "name": "Maria Johnson",
     "role": "D-class",
     "room": "room_-1_1_0"
   },
   "npc_121": {
-    "name": "Robert Jones",
-    "role": "Engineer",
-    "room": "room_2_0_0"
-  },
-  "npc_122": {
-    "name": "Robert Smith",
-    "role": "D-class",
-    "room": "room_3_0_1"
-  },
-  "npc_123": {
-    "name": "Maria Davis",
-    "role": "Isd agent",
-    "room": "room_2_2_0"
-  },
-  "npc_124": {
-    "name": "Dr. Davis",
-    "role": "Scientist",
-    "room": "room_-1_-5_2"
-  },
-  "npc_125": {
-    "name": "Robert Brown",
-    "role": "Engineer",
-    "room": "room_1_-4_1"
-  },
-  "npc_126": {
-    "name": "Dr. Miller",
-    "role": "Scientist",
-    "room": "room_0_1_2"
-  },
-  "npc_127": {
-    "name": "Dr. Johnson",
-    "role": "Scientist",
-    "room": "room_2_0_1"
-  },
-  "npc_128": {
-    "name": "James Johnson",
-    "role": "Engineer",
-    "room": "room_3_0_1"
-  },
-  "npc_129": {
-    "name": "David Johnson",
-    "role": "D-class",
-    "room": "room_0_-4_2"
-  },
-  "npc_130": {
-    "name": "James Brown",
-    "role": "Isd agent",
-    "room": "room_4_-1_1"
-  },
-  "npc_131": {
-    "name": "Olga Smith",
-    "role": "D-class",
-    "room": "room_2_1_0"
-  },
-  "npc_132": {
-    "name": "Robert Tanaka",
-    "role": "Janitor",
-    "room": "room_2_-1_0"
-  },
-  "npc_133": {
-    "name": "Kenji Miller",
-    "role": "Janitor",
-    "room": "room_-1_-5_2"
-  },
-  "npc_134": {
-    "name": "John Miller",
-    "role": "Engineer",
-    "room": "room_2_-2_0"
-  },
-  "npc_135": {
-    "name": "James Tanaka",
+    "name": "William Williams",
     "role": "D-class",
     "room": "room_0_1_0"
   },
-  "npc_136": {
-    "name": "Olga Davis",
-    "role": "Janitor",
-    "room": "room_-1_-4_2"
-  },
-  "npc_137": {
-    "name": "Maria Brown",
-    "role": "Janitor",
-    "room": "room_4_-1_1"
-  },
-  "npc_138": {
-    "name": "Maria Brown",
-    "role": "D-class",
-    "room": "room_1_3_0"
-  },
-  "npc_139": {
-    "name": "Maria Brown",
-    "role": "Janitor",
-    "room": "room_2_0_1"
-  },
-  "npc_140": {
-    "name": "Maria Tanaka",
-    "role": "Janitor",
-    "room": "room_1_-4_2"
-  },
-  "npc_141": {
-    "name": "Dr. Garcia",
-    "role": "Scientist",
-    "room": "room_3_0_1"
-  },
-  "npc_142": {
-    "name": "James Williams",
-    "role": "D-class",
-    "room": "room_2_1_0"
-  },
-  "npc_143": {
-    "name": "William Williams",
-    "role": "Janitor",
-    "room": "room_0_-5_1"
-  },
-  "npc_144": {
-    "name": "Michael Garcia",
-    "role": "Engineer",
-    "room": "room_2_-4_1"
-  },
-  "npc_145": {
-    "name": "Michael Williams",
-    "role": "Janitor",
-    "room": "room_1_-4_2"
-  },
-  "npc_146": {
-    "name": "David Jones",
-    "role": "Janitor",
-    "room": "room_2_-1_0"
-  },
-  "npc_147": {
-    "name": "Richard Williams",
-    "role": "Guard",
-    "room": "room_2_-2_0"
-  },
-  "npc_148": {
-    "name": "William Ivanov",
-    "role": "Engineer",
-    "room": "room_2_-3_1"
-  },
-  "npc_149": {
-    "name": "John Davis",
-    "role": "Engineer",
-    "room": "room_0_-4_2"
-  },
-  "npc_150": {
-    "name": "Olga Brown",
+  "npc_122": {
+    "name": "Robert Garcia",
     "role": "Isd agent",
-    "room": "room_2_-1_0"
+    "room": "room_0_1_0"
   },
-  "npc_151": {
-    "name": "Olga Jones",
-    "role": "D-class",
-    "room": "room_0_3_0"
-  },
-  "npc_152": {
-    "name": "Richard Miller",
-    "role": "Guard",
-    "room": "room_0_2_0"
-  },
-  "npc_153": {
-    "name": "Olga Smith",
-    "role": "Janitor",
-    "room": "room_2_0_1"
-  },
-  "npc_154": {
-    "name": "Michael Davis",
-    "role": "Janitor",
-    "room": "room_1_0_2"
-  },
-  "npc_155": {
-    "name": "Richard Ivanov",
-    "role": "D-class",
-    "room": "room_1_-3_1"
-  },
-  "npc_156": {
-    "name": "Maria Brown",
-    "role": "D-class",
-    "room": "room_0_-2_1"
-  },
-  "npc_157": {
-    "name": "Dr. Garcia",
-    "role": "Scientist",
-    "room": "room_3_0_1"
-  },
-  "npc_158": {
-    "name": "John Miller",
-    "role": "Engineer",
-    "room": "room_0_-5_2"
-  },
-  "npc_159": {
-    "name": "Maria Jones",
-    "role": "Guard",
-    "room": "room_0_2_0"
-  },
-  "npc_160": {
+  "npc_123": {
     "name": "Dr. Tanaka",
-    "role": "Scientist",
-    "room": "room_0_-2_1"
-  },
-  "npc_161": {
-    "name": "Richard Miller",
-    "role": "Engineer",
-    "room": "room_0_-5_2"
-  },
-  "npc_162": {
-    "name": "Maria Johnson",
-    "role": "Guard",
-    "room": "room_3_0_0"
-  },
-  "npc_163": {
-    "name": "William Williams",
-    "role": "Isd agent",
-    "room": "room_2_2_0"
-  },
-  "npc_164": {
-    "name": "Richard Garcia",
-    "role": "Isd agent",
-    "room": "room_3_-1_1"
-  },
-  "npc_165": {
-    "name": "Maria Miller",
-    "role": "D-class",
-    "room": "room_2_2_0"
-  },
-  "npc_166": {
-    "name": "Richard Tanaka",
-    "role": "Guard",
-    "room": "room_2_-1_0"
-  },
-  "npc_167": {
-    "name": "Olga Ivanov",
-    "role": "Isd agent",
-    "room": "room_2_-1_0"
-  },
-  "npc_168": {
-    "name": "Olga Smith",
-    "role": "Isd agent",
-    "room": "room_4_-1_1"
-  },
-  "npc_169": {
-    "name": "Olga Williams",
-    "role": "Engineer",
-    "room": "room_4_-1_1"
-  },
-  "npc_170": {
-    "name": "John Davis",
-    "role": "Engineer",
-    "room": "room_0_-6_2"
-  },
-  "npc_171": {
-    "name": "Dr. Jones",
     "role": "Scientist",
     "room": "room_-1_1_0"
   },
-  "npc_172": {
-    "name": "Richard Williams",
-    "role": "Engineer",
-    "room": "room_0_-5_2"
+  "npc_124": {
+    "name": "Kenji Williams",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
   },
-  "npc_173": {
-    "name": "John Johnson",
+  "npc_125": {
+    "name": "Michael Johnson",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_126": {
+    "name": "Robert Johnson",
     "role": "D-class",
-    "room": "room_1_-1_1"
+    "room": "room_0_1_0"
   },
-  "npc_174": {
-    "name": "Dr. Ivanov",
-    "role": "Scientist",
-    "room": "room_0_2_0"
+  "npc_127": {
+    "name": "Michael Miller",
+    "role": "Guard",
+    "room": "room_0_1_0"
   },
-  "npc_175": {
-    "name": "John Jones",
-    "role": "D-class",
-    "room": "room_2_-3_2"
+  "npc_128": {
+    "name": "Olga Smith",
+    "role": "Janitor",
+    "room": "room_0_1_0"
   },
-  "npc_176": {
-    "name": "Kenji Ivanov",
+  "npc_129": {
+    "name": "Michael Garcia",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_130": {
+    "name": "James Williams",
     "role": "Engineer",
-    "room": "room_0_2_0"
+    "room": "room_-1_1_0"
   },
-  "npc_177": {
+  "npc_131": {
+    "name": "William Tanaka",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_132": {
+    "name": "David Ivanov",
+    "role": "Janitor",
+    "room": "room_-1_1_0"
+  },
+  "npc_133": {
+    "name": "Olga Smith",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_134": {
     "name": "Kenji Brown",
     "role": "Janitor",
-    "room": "room_0_-5_2"
+    "room": "room_-1_1_0"
   },
-  "npc_178": {
-    "name": "Michael Smith",
-    "role": "Isd agent",
-    "room": "room_0_2_0"
-  },
-  "npc_179": {
-    "name": "Dr. Jones",
-    "role": "Scientist",
-    "room": "room_0_1_2"
-  },
-  "npc_180": {
-    "name": "Maria Ivanov",
-    "role": "D-class",
-    "room": "room_4_-1_1"
-  },
-  "npc_181": {
-    "name": "Kenji Ivanov",
-    "role": "Janitor",
-    "room": "room_1_-4_2"
-  },
-  "npc_182": {
-    "name": "John Brown",
-    "role": "Engineer",
-    "room": "room_0_-8_2"
-  },
-  "npc_183": {
-    "name": "James Ivanov",
+  "npc_135": {
+    "name": "Maria Williams",
     "role": "Guard",
-    "room": "room_0_-3_1"
+    "room": "room_0_1_0"
   },
-  "npc_184": {
-    "name": "John Williams",
+  "npc_136": {
+    "name": "Michael Williams",
     "role": "Guard",
-    "room": "room_2_-1_0"
+    "room": "room_0_1_0"
   },
-  "npc_185": {
-    "name": "Robert Johnson",
-    "role": "Guard",
-    "room": "room_3_-1_1"
-  },
-  "npc_186": {
-    "name": "Kenji Garcia",
-    "role": "Isd agent",
-    "room": "room_0_-3_1"
-  },
-  "npc_187": {
-    "name": "David Garcia",
-    "role": "Guard",
-    "room": "room_0_-3_1"
-  },
-  "npc_188": {
-    "name": "James Williams",
-    "role": "D-class",
-    "room": "room_2_-4_1"
-  },
-  "npc_189": {
-    "name": "Dr. Davis",
-    "role": "Scientist",
-    "room": "room_0_4_0"
-  },
-  "npc_190": {
-    "name": "Maria Jones",
-    "role": "Isd agent",
-    "room": "room_0_-3_1"
-  },
-  "npc_191": {
-    "name": "Dr. Ivanov",
-    "role": "Scientist",
-    "room": "room_0_-2_1"
-  },
-  "npc_192": {
-    "name": "Richard Miller",
-    "role": "Janitor",
-    "room": "room_-1_-4_2"
-  },
-  "npc_193": {
-    "name": "James Brown",
-    "role": "Guard",
-    "room": "room_0_-3_1"
-  },
-  "npc_194": {
-    "name": "John Davis",
-    "role": "Engineer",
-    "room": "room_1_-6_3"
-  },
-  "npc_195": {
-    "name": "Richard Ivanov",
-    "role": "D-class",
-    "room": "room_-1_-4_2"
-  },
-  "npc_196": {
-    "name": "Robert Williams",
-    "role": "Guard",
-    "room": "room_0_2_0"
-  },
-  "npc_197": {
-    "name": "Dr. Jones",
-    "role": "Scientist",
-    "room": "room_2_-4_1"
-  },
-  "npc_198": {
-    "name": "William Miller",
-    "role": "Guard",
-    "room": "room_2_-2_0"
-  },
-  "npc_199": {
-    "name": "Kenji Jones",
-    "role": "Guard",
-    "room": "room_4_-1_1"
-  },
-  "npc_200": {
-    "name": "Dr. Garcia",
-    "role": "Scientist",
-    "room": "room_0_4_0"
-  },
-  "npc_201": {
+  "npc_137": {
     "name": "Dr. Williams",
     "role": "Scientist",
-    "room": "room_3_0_1"
+    "room": "room_-1_1_0"
   },
-  "npc_202": {
-    "name": "John Brown",
-    "role": "Isd agent",
-    "room": "room_3_0_0"
+  "npc_138": {
+    "name": "Kenji Johnson",
+    "role": "D-class",
+    "room": "room_0_1_0"
   },
-  "npc_203": {
-    "name": "William Williams",
-    "role": "Isd agent",
-    "room": "room_4_-1_1"
+  "npc_139": {
+    "name": "William Jones",
+    "role": "Engineer",
+    "room": "room_0_1_0"
   },
-  "npc_204": {
-    "name": "Dr. Ivanov",
+  "npc_140": {
+    "name": "Richard Ivanov",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_141": {
+    "name": "William Smith",
+    "role": "D-class",
+    "room": "room_-1_1_0"
+  },
+  "npc_142": {
+    "name": "Dr. Williams",
     "role": "Scientist",
-    "room": "room_0_1_2"
+    "room": "room_-1_1_0"
   },
-  "npc_205": {
+  "npc_143": {
+    "name": "Dr. Garcia",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_144": {
+    "name": "Olga Williams",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_145": {
+    "name": "James Williams",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_146": {
+    "name": "Richard Tanaka",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_147": {
+    "name": "Maria Brown",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_148": {
+    "name": "Richard Williams",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_149": {
+    "name": "John Tanaka",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_150": {
+    "name": "James Smith",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_151": {
+    "name": "Dr. Williams",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_152": {
+    "name": "Dr. Johnson",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_153": {
+    "name": "Kenji Jones",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_154": {
+    "name": "Dr. Johnson",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_155": {
+    "name": "Dr. Tanaka",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_156": {
+    "name": "Olga Davis",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_157": {
+    "name": "Dr. Brown",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_158": {
+    "name": "Michael Williams",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_159": {
     "name": "Olga Johnson",
     "role": "Janitor",
-    "room": "room_3_1_0"
+    "room": "room_0_1_0"
+  },
+  "npc_160": {
+    "name": "Olga Ivanov",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_161": {
+    "name": "Maria Miller",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_162": {
+    "name": "Olga Smith",
+    "role": "D-class",
+    "room": "room_-1_1_0"
+  },
+  "npc_163": {
+    "name": "William Johnson",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_164": {
+    "name": "Olga Williams",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_165": {
+    "name": "Dr. Williams",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_166": {
+    "name": "Dr. Davis",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_167": {
+    "name": "Dr. Davis",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_168": {
+    "name": "Kenji Ivanov",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_169": {
+    "name": "Kenji Ivanov",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_170": {
+    "name": "Richard Garcia",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_171": {
+    "name": "Richard Tanaka",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_172": {
+    "name": "Kenji Ivanov",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_173": {
+    "name": "William Ivanov",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_174": {
+    "name": "Michael Ivanov",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
+  },
+  "npc_175": {
+    "name": "William Brown",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_176": {
+    "name": "Maria Jones",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_177": {
+    "name": "James Ivanov",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_178": {
+    "name": "Richard Davis",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_179": {
+    "name": "Dr. Williams",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_180": {
+    "name": "James Brown",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_181": {
+    "name": "William Brown",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_182": {
+    "name": "Kenji Garcia",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_183": {
+    "name": "William Miller",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_184": {
+    "name": "John Smith",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_185": {
+    "name": "Maria Williams",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_186": {
+    "name": "John Smith",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_187": {
+    "name": "Dr. Brown",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_188": {
+    "name": "Michael Brown",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_189": {
+    "name": "James Miller",
+    "role": "D-class",
+    "room": "room_0_1_0"
+  },
+  "npc_190": {
+    "name": "James Ivanov",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_191": {
+    "name": "William Johnson",
+    "role": "Engineer",
+    "room": "room_0_1_0"
+  },
+  "npc_192": {
+    "name": "William Jones",
+    "role": "Isd agent",
+    "room": "room_0_1_0"
+  },
+  "npc_193": {
+    "name": "John Williams",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_194": {
+    "name": "Maria Garcia",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_195": {
+    "name": "David Johnson",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_196": {
+    "name": "Dr. Tanaka",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_197": {
+    "name": "David Johnson",
+    "role": "Guard",
+    "room": "room_-1_1_0"
+  },
+  "npc_198": {
+    "name": "Kenji Miller",
+    "role": "Guard",
+    "room": "room_0_1_0"
+  },
+  "npc_199": {
+    "name": "Maria Garcia",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_200": {
+    "name": "Richard Jones",
+    "role": "Janitor",
+    "room": "room_0_1_0"
+  },
+  "npc_201": {
+    "name": "David Garcia",
+    "role": "Engineer",
+    "room": "room_-1_1_0"
+  },
+  "npc_202": {
+    "name": "Dr. Garcia",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_203": {
+    "name": "Dr. Williams",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
+  },
+  "npc_204": {
+    "name": "Robert Davis",
+    "role": "D-class",
+    "room": "room_-1_1_0"
+  },
+  "npc_205": {
+    "name": "Richard Johnson",
+    "role": "Isd agent",
+    "room": "room_-1_1_0"
   },
   "npc_206": {
-    "name": "John Garcia",
-    "role": "Isd agent",
-    "room": "room_3_-1_1"
+    "name": "Maria Williams",
+    "role": "Guard",
+    "room": "room_-1_1_0"
   },
   "npc_207": {
-    "name": "John Miller",
-    "role": "Engineer",
-    "room": "room_0_-6_2"
+    "name": "Dr. Garcia",
+    "role": "Scientist",
+    "room": "room_-1_1_0"
   }
 }

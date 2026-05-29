@@ -1,60 +1,60 @@
 {
   "id": "npc_081",
   "bio": {
-    "full_name": "Yuki Muller",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 54,
-    "blood_type": "A+",
-    "genetic_stability": 0.909,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Joseph Brown",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 65,
+    "blood_type": "A-",
+    "genetic_stability": 0.985,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 105,
-    "build": "Heavily Muscular",
+    "height_cm": 159,
+    "weight_kg": 90,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 79,
-      "Perception": 53,
-      "Persuasion": 42
+      "Engineering": 43,
+      "Hacking": 77,
+      "Persuasion": 80
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 103,
     "personality_matrix": {
-      "openness": 26,
-      "conscientiousness": 3,
-      "extraversion": 97,
-      "agreeableness": 28,
-      "neuroticism": 46
+      "openness": 8,
+      "conscientiousness": 38,
+      "extraversion": 91,
+      "agreeableness": 34,
+      "neuroticism": 67
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

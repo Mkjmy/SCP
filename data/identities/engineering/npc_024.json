@@ -1,60 +1,60 @@
 {
   "id": "npc_024",
   "bio": {
-    "full_name": "Lars Schmidt",
+    "full_name": "John Davis",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 39,
-    "blood_type": "O+",
-    "genetic_stability": 0.948,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.985,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 61,
+    "height_cm": 170,
+    "weight_kg": 63,
     "build": "Frail",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 33,
-      "Firearms": 12,
-      "Occult_Research": 30
+      "Hacking": 83,
+      "Engineering": 15,
+      "Occult_Research": 61
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 58,
-      "conscientiousness": 69,
-      "extraversion": 37,
-      "agreeableness": 0,
-      "neuroticism": 20
+      "openness": 46,
+      "conscientiousness": 84,
+      "extraversion": 41,
+      "agreeableness": 52,
+      "neuroticism": 10
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
       "amount": 1000,
-      "creditor": "Local Mob"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

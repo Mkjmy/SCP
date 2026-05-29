@@ -1,23 +1,23 @@
 {
   "id": "npc_065",
   "bio": {
-    "full_name": "Charles Williams",
-    "gender": "Male",
+    "full_name": "Robert Sato",
+    "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 31,
-    "blood_type": "A+",
-    "genetic_stability": 0.898,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 51,
+    "blood_type": "A-",
+    "genetic_stability": 0.872,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
     "height_cm": 164,
-    "weight_kg": 57,
-    "build": "Athletic",
+    "weight_kg": 102,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Deep brown",
+      "hair": "White, Pixie cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 69,
-      "Persuasion": 20,
-      "Engineering": 13
+      "Medicine": 71,
+      "Occult_Research": 60,
+      "Engineering": 65
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 98,
-      "extraversion": 30,
-      "agreeableness": 82,
-      "neuroticism": 100
+      "openness": 100,
+      "conscientiousness": 45,
+      "extraversion": 44,
+      "agreeableness": 35,
+      "neuroticism": 61
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
       "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

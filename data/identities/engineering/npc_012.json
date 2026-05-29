@@ -1,56 +1,56 @@
 {
   "id": "npc_012",
   "bio": {
-    "full_name": "Kenji Dubois",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 43,
-    "blood_type": "B-",
-    "genetic_stability": 0.871,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Charles Ivanov",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "A+",
+    "genetic_stability": 0.954,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 99,
-    "build": "Average",
+    "height_cm": 180,
+    "weight_kg": 100,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
+      "hair": "Dyed blue, Ponytail",
       "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 66,
-      "Occult_Research": 54,
-      "Perception": 60
+      "Hacking": 30,
+      "Occult_Research": 65,
+      "Perception": 55
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 20,
-      "extraversion": 47,
-      "agreeableness": 55,
-      "neuroticism": 13
+      "openness": 4,
+      "conscientiousness": 37,
+      "extraversion": 36,
+      "agreeableness": 48,
+      "neuroticism": 19
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",

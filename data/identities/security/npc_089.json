@@ -1,23 +1,23 @@
 {
   "id": "npc_089",
   "bio": {
-    "full_name": "Fatima Tanaka",
-    "gender": "Agender",
+    "full_name": "Donald Davis",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 49,
+    "age": 46,
     "blood_type": "B-",
-    "genetic_stability": 0.943,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.934,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 95,
-    "build": "Overweight",
+    "height_cm": 166,
+    "weight_kg": 58,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Messy",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Occult_Research": 10,
-      "Persuasion": 57,
-      "Stealth": 33
+      "Hacking": 74,
+      "Firearms": 93,
+      "Medicine": 39
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 119,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 44,
-      "extraversion": 77,
-      "agreeableness": 0,
-      "neuroticism": 28
+      "openness": 62,
+      "conscientiousness": 6,
+      "extraversion": 28,
+      "agreeableness": 78,
+      "neuroticism": 33
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.58
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",

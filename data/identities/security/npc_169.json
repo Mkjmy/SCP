@@ -1,23 +1,23 @@
 {
   "id": "npc_169",
   "bio": {
-    "full_name": "Richard Muller",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 57,
+    "full_name": "Matthew Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 49,
     "blood_type": "A+",
-    "genetic_stability": 0.957,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.915,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 89,
-    "build": "Stocky",
+    "height_cm": 180,
+    "weight_kg": 91,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
+      "hair": "Black, Pompadour",
       "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Hacking": 51,
-      "Firearms": 11,
-      "Athletics": 88
+      "Occult_Research": 63,
+      "Containment_Logic": 58,
+      "Medicine": 14
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 79,
-      "extraversion": 31,
-      "agreeableness": 14,
-      "neuroticism": 62
+      "openness": 72,
+      "conscientiousness": 30,
+      "extraversion": 60,
+      "agreeableness": 77,
+      "neuroticism": 99
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_173",
   "bio": {
-    "full_name": "John Smith",
+    "full_name": "Paul Johnson",
     "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 40,
-    "blood_type": "A+",
-    "genetic_stability": 0.881,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "O-",
+    "genetic_stability": 0.991,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 81,
-    "build": "Heavily Muscular",
+    "height_cm": 170,
+    "weight_kg": 52,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 44,
-      "Engineering": 93,
-      "Medicine": 93
+      "Occult_Research": 43,
+      "Medicine": 58,
+      "Stealth": 64
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 27,
-      "extraversion": 26,
-      "agreeableness": 69,
-      "neuroticism": 30
+      "openness": 35,
+      "conscientiousness": 0,
+      "extraversion": 56,
+      "agreeableness": 41,
+      "neuroticism": 76
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

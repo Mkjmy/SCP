@@ -1,60 +1,60 @@
 {
   "id": "npc_035",
   "bio": {
-    "full_name": "Robert Muller",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 22,
-    "blood_type": "B-",
-    "genetic_stability": 0.902,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Mark O'Connor",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "B+",
+    "genetic_stability": 0.982,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 57,
-    "build": "Overweight",
+    "height_cm": 195,
+    "weight_kg": 91,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 88,
-      "Hacking": 24,
-      "Occult_Research": 27
+      "Persuasion": 31,
+      "Medicine": 15,
+      "Stealth": 23
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 61,
-      "extraversion": 28,
-      "agreeableness": 57,
-      "neuroticism": 18
+      "openness": 69,
+      "conscientiousness": 11,
+      "extraversion": 94,
+      "agreeableness": 100,
+      "neuroticism": 100
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
       "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

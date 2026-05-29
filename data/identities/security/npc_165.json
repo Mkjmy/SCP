@@ -1,23 +1,23 @@
 {
   "id": "npc_165",
   "bio": {
-    "full_name": "Arjun Dubois",
+    "full_name": "Matthew Muller",
     "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 45,
-    "blood_type": "AB-",
-    "genetic_stability": 0.879,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Asexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.911,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 60,
-    "build": "Slender",
+    "height_cm": 160,
+    "weight_kg": 95,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Manicured",
-      "eyes": "Icy blue",
+      "hair": "White, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Persuasion": 58,
-      "Firearms": 29,
-      "Hacking": 33
+      "Athletics": 39,
+      "Hacking": 63,
+      "Perception": 48
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 119,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 19,
-      "extraversion": 39,
-      "agreeableness": 20,
-      "neuroticism": 82
+      "openness": 23,
+      "conscientiousness": 54,
+      "extraversion": 79,
+      "agreeableness": 98,
+      "neuroticism": 47
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

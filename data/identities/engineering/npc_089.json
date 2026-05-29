@@ -1,23 +1,23 @@
 {
   "id": "npc_089",
   "bio": {
-    "full_name": "Andrew Kovacs",
-    "gender": "Transgender",
+    "full_name": "Anthony Gupta",
+    "gender": "Male",
     "orientation": "Pansexual",
-    "age": 26,
-    "blood_type": "AB+",
-    "genetic_stability": 0.855,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 65,
+    "blood_type": "B-",
+    "genetic_stability": 0.893,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 64,
-    "build": "Average",
+    "height_cm": 169,
+    "weight_kg": 68,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 95,
-      "Perception": 47,
-      "Stealth": 63
+      "Hacking": 94,
+      "Medicine": 38,
+      "Engineering": 85
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 86,
-      "extraversion": 20,
-      "agreeableness": 68,
-      "neuroticism": 83
+      "openness": 80,
+      "conscientiousness": 14,
+      "extraversion": 64,
+      "agreeableness": 88,
+      "neuroticism": 92
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

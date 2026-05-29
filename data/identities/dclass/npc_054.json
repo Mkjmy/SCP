@@ -1,23 +1,23 @@
 {
   "id": "npc_054",
   "bio": {
-    "full_name": "Anthony Smith",
-    "gender": "Female",
+    "full_name": "James Jones",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 39,
-    "blood_type": "A-",
-    "genetic_stability": 0.964,
+    "age": 25,
+    "blood_type": "B-",
+    "genetic_stability": 0.975,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 87,
-    "build": "Athletic",
+    "height_cm": 169,
+    "weight_kg": 92,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Emerald green",
+      "hair": "Black, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 57,
-      "Perception": 32,
-      "Stealth": 39
+      "Engineering": 70,
+      "Athletics": 37,
+      "Stealth": 28
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 88,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 88,
-      "extraversion": 33,
-      "agreeableness": 50,
-      "neuroticism": 30
+      "openness": 5,
+      "conscientiousness": 13,
+      "extraversion": 62,
+      "agreeableness": 80,
+      "neuroticism": 80
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking promotion at any cost",

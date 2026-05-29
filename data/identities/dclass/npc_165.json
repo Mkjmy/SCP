@@ -1,23 +1,23 @@
 {
   "id": "npc_165",
   "bio": {
-    "full_name": "Sven Schmidt",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 43,
+    "full_name": "Donald Smith",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 44,
     "blood_type": "O+",
-    "genetic_stability": 0.945,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.948,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 66,
-    "build": "Lithe",
+    "height_cm": 175,
+    "weight_kg": 108,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Grey",
+      "hair": "Red, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 27,
-      "Containment_Logic": 87,
-      "Medicine": 18
+      "Persuasion": 62,
+      "Athletics": 80,
+      "Perception": 58
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 14,
-      "extraversion": 93,
-      "agreeableness": 40,
-      "neuroticism": 11
+      "openness": 58,
+      "conscientiousness": 58,
+      "extraversion": 76,
+      "agreeableness": 15,
+      "neuroticism": 42
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

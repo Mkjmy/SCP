@@ -1,23 +1,23 @@
 {
   "id": "npc_200",
   "bio": {
-    "full_name": "Thomas Davis",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 27,
+    "full_name": "Andrew Smith",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 56,
     "blood_type": "B-",
-    "genetic_stability": 0.899,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.898,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 85,
-    "build": "Frail",
+    "height_cm": 181,
+    "weight_kg": 79,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Red, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 56,
-      "Persuasion": 70,
-      "Containment_Logic": 16
+      "Occult_Research": 16,
+      "Athletics": 85,
+      "Persuasion": 18
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 17,
-      "conscientiousness": 61,
-      "extraversion": 17,
-      "agreeableness": 99,
-      "neuroticism": 10
+      "openness": 98,
+      "conscientiousness": 82,
+      "extraversion": 94,
+      "agreeableness": 93,
+      "neuroticism": 42
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_112",
   "bio": {
-    "full_name": "Joshua Vasiliev",
-    "gender": "Male",
+    "full_name": "Donald Schmidt",
+    "gender": "Non-binary",
     "orientation": "Asexual",
-    "age": 65,
-    "blood_type": "O+",
-    "genetic_stability": 0.941,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 63,
+    "blood_type": "B-",
+    "genetic_stability": 0.887,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 67,
-    "build": "Overweight",
+    "height_cm": 176,
+    "weight_kg": 81,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Amber",
+      "hair": "Blonde, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 70,
-      "Engineering": 46,
-      "Occult_Research": 39
+      "Persuasion": 90,
+      "Athletics": 95,
+      "Hacking": 59
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 89,
-      "extraversion": 24,
-      "agreeableness": 73,
-      "neuroticism": 95
+      "openness": 6,
+      "conscientiousness": 34,
+      "extraversion": 10,
+      "agreeableness": 7,
+      "neuroticism": 64
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

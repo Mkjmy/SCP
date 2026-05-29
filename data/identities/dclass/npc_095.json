@@ -1,23 +1,23 @@
 {
   "id": "npc_095",
   "bio": {
-    "full_name": "Steven Johnson",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "O-",
-    "genetic_stability": 0.891,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Paul Johnson",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.995,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 102,
-    "build": "Overweight",
+    "height_cm": 177,
+    "weight_kg": 57,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 63,
-      "Occult_Research": 53,
-      "Athletics": 13
+      "Perception": 38,
+      "Stealth": 12,
+      "Persuasion": 28
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 81,
+    "iq": 89,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 50,
-      "extraversion": 56,
-      "agreeableness": 13,
-      "neuroticism": 68
+      "openness": 53,
+      "conscientiousness": 34,
+      "extraversion": 84,
+      "agreeableness": 76,
+      "neuroticism": 11
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

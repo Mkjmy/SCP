@@ -1,23 +1,23 @@
 {
   "id": "npc_054",
   "bio": {
-    "full_name": "Sven Vasiliev",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 31,
-    "blood_type": "AB-",
-    "genetic_stability": 0.925,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Mark Jones",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.935,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 75,
-    "build": "Overweight",
+    "height_cm": 183,
+    "weight_kg": 102,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Icy blue",
+      "hair": "Silver, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 48,
-      "Engineering": 32,
-      "Medicine": 61
+      "Perception": 72,
+      "Medicine": 13,
+      "Athletics": 21
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 65,
-      "conscientiousness": 38,
-      "extraversion": 39,
-      "agreeableness": 17,
-      "neuroticism": 79
+      "openness": 82,
+      "conscientiousness": 98,
+      "extraversion": 13,
+      "agreeableness": 72,
+      "neuroticism": 22
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_182",
   "bio": {
-    "full_name": "Thomas Schmidt",
-    "gender": "Non-binary",
+    "full_name": "Kenji Gupta",
+    "gender": "Female",
     "orientation": "Homosexual",
-    "age": 44,
-    "blood_type": "O+",
-    "genetic_stability": 0.87,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 59,
+    "blood_type": "A+",
+    "genetic_stability": 0.966,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 83,
-    "build": "Stocky",
+    "height_cm": 199,
+    "weight_kg": 65,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Nail biter"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Perception": 84,
-      "Persuasion": 19,
-      "Engineering": 84
+      "Perception": 90,
+      "Firearms": 41,
+      "Containment_Logic": 14
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 19,
-      "extraversion": 71,
-      "agreeableness": 54,
-      "neuroticism": 7
+      "openness": 43,
+      "conscientiousness": 48,
+      "extraversion": 49,
+      "agreeableness": 30,
+      "neuroticism": 26
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

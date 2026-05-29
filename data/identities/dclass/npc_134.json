@@ -1,23 +1,23 @@
 {
   "id": "npc_134",
   "bio": {
-    "full_name": "Matthew Johnson",
-    "gender": "Female",
+    "full_name": "Robert Tanaka",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 22,
+    "age": 35,
     "blood_type": "O+",
-    "genetic_stability": 0.957,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.972,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 79,
-    "build": "Heavily Muscular",
+    "height_cm": 181,
+    "weight_kg": 99,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 77,
-      "Perception": 36,
-      "Occult_Research": 65
+      "Persuasion": 76,
+      "Engineering": 29,
+      "Athletics": 91
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 94,
-      "extraversion": 0,
-      "agreeableness": 64,
-      "neuroticism": 75
+      "openness": 5,
+      "conscientiousness": 68,
+      "extraversion": 29,
+      "agreeableness": 11,
+      "neuroticism": 56
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

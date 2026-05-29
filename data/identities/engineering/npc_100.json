@@ -1,23 +1,23 @@
 {
   "id": "npc_100",
   "bio": {
-    "full_name": "Michael Ivanov",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 24,
-    "blood_type": "B-",
-    "genetic_stability": 0.929,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Joseph Schmidt",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "O+",
+    "genetic_stability": 0.916,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 85,
-    "build": "Lithe",
+    "height_cm": 175,
+    "weight_kg": 53,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Red, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 26,
-      "Athletics": 47,
-      "Perception": 74
+      "Medicine": 24,
+      "Athletics": 22,
+      "Engineering": 73
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 4,
-      "extraversion": 67,
-      "agreeableness": 18,
-      "neuroticism": 24
+      "openness": 86,
+      "conscientiousness": 47,
+      "extraversion": 94,
+      "agreeableness": 25,
+      "neuroticism": 47
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

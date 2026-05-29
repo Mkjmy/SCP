@@ -1,60 +1,60 @@
 {
   "id": "npc_153",
   "bio": {
-    "full_name": "Paul Garcia",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 46,
-    "blood_type": "A+",
-    "genetic_stability": 0.934,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Kenji Bakker",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 62,
+    "blood_type": "AB+",
+    "genetic_stability": 0.911,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 81,
-    "build": "Heavily Muscular",
+    "height_cm": 177,
+    "weight_kg": 51,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Emerald green",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 17,
-      "Persuasion": 13,
-      "Perception": 76
+      "Persuasion": 64,
+      "Medicine": 75,
+      "Hacking": 42
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 29,
-      "extraversion": 6,
-      "agreeableness": 84,
-      "neuroticism": 80
+      "openness": 81,
+      "conscientiousness": 95,
+      "extraversion": 60,
+      "agreeableness": 49,
+      "neuroticism": 32
     },
     "phobias": [
       "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

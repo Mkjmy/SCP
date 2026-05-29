@@ -1,23 +1,23 @@
 {
   "id": "npc_179",
   "bio": {
-    "full_name": "John Williams",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 38,
-    "blood_type": "B+",
-    "genetic_stability": 0.933,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Anthony Gupta",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 58,
+    "blood_type": "A-",
+    "genetic_stability": 0.875,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 57,
+    "height_cm": 156,
+    "weight_kg": 100,
     "build": "Average",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Amber",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 20,
-      "Containment_Logic": 55,
-      "Occult_Research": 71
+      "Medicine": 65,
+      "Persuasion": 17,
+      "Perception": 34
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 82,
-      "extraversion": 19,
-      "agreeableness": 89,
-      "neuroticism": 16
+      "openness": 61,
+      "conscientiousness": 95,
+      "extraversion": 8,
+      "agreeableness": 68,
+      "neuroticism": 1
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

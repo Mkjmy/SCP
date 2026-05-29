@@ -1,23 +1,23 @@
 {
   "id": "npc_047",
   "bio": {
-    "full_name": "Sven Muller",
-    "gender": "Female",
+    "full_name": "Andrew Sato",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 38,
-    "blood_type": "A+",
-    "genetic_stability": 0.884,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.973,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 51,
-    "build": "Lithe",
+    "height_cm": 167,
+    "weight_kg": 71,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 72,
-      "Stealth": 13,
-      "Containment_Logic": 14
+      "Containment_Logic": 31,
+      "Persuasion": 91,
+      "Athletics": 86
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 95,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 100,
-      "extraversion": 53,
-      "agreeableness": 82,
-      "neuroticism": 1
+      "openness": 76,
+      "conscientiousness": 51,
+      "extraversion": 32,
+      "agreeableness": 16,
+      "neuroticism": 6
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
       "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

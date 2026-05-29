@@ -1,21 +1,21 @@
 {
   "id": "npc_011",
   "bio": {
-    "full_name": "Chen Muller",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 27,
-    "blood_type": "B-",
-    "genetic_stability": 0.871,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Daniel Johnson",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "AB+",
+    "genetic_stability": 0.972,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 78,
-    "build": "Heavily Muscular",
+    "height_cm": 179,
+    "weight_kg": 86,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 37,
-      "Medicine": 46,
-      "Occult_Research": 70
+      "Persuasion": 20,
+      "Medicine": 62,
+      "Stealth": 36
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 97,
-      "extraversion": 30,
-      "agreeableness": 78,
-      "neuroticism": 51
+      "openness": 54,
+      "conscientiousness": 29,
+      "extraversion": 17,
+      "agreeableness": 36,
+      "neuroticism": 21
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

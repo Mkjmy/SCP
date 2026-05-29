@@ -1,23 +1,23 @@
 {
   "id": "npc_150",
   "bio": {
-    "full_name": "Joseph Bakker",
-    "gender": "Male",
+    "full_name": "Andrew Davis",
+    "gender": "Agender",
     "orientation": "Asexual",
-    "age": 33,
-    "blood_type": "B-",
-    "genetic_stability": 0.944,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 31,
+    "blood_type": "AB+",
+    "genetic_stability": 0.909,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 88,
-    "build": "Stocky",
+    "height_cm": 167,
+    "weight_kg": 85,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
+      "hair": "Black, Shoulder-length",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Athletics": 36,
-      "Stealth": 35,
-      "Occult_Research": 36
+      "Athletics": 21,
+      "Engineering": 59,
+      "Firearms": 58
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 17,
-      "extraversion": 51,
-      "agreeableness": 81,
-      "neuroticism": 13
+      "openness": 27,
+      "conscientiousness": 21,
+      "extraversion": 71,
+      "agreeableness": 88,
+      "neuroticism": 3
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
     "mental_stability": 0.87
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_017",
   "bio": {
-    "full_name": "Mark Johnson",
+    "full_name": "Andrew Smith",
     "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 26,
-    "blood_type": "A-",
-    "genetic_stability": 0.857,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "AB-",
+    "genetic_stability": 0.957,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 108,
-    "build": "Heavily Muscular",
+    "height_cm": 182,
+    "weight_kg": 104,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 65,
-      "Firearms": 28,
-      "Perception": 51
+      "Firearms": 30,
+      "Athletics": 29,
+      "Medicine": 31
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 64,
-      "extraversion": 70,
-      "agreeableness": 10,
-      "neuroticism": 29
+      "openness": 63,
+      "conscientiousness": 93,
+      "extraversion": 51,
+      "agreeableness": 43,
+      "neuroticism": 68
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

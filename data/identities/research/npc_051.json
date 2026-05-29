@@ -1,23 +1,23 @@
 {
   "id": "npc_051",
   "bio": {
-    "full_name": "Yuki Schmidt",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 36,
+    "full_name": "Maria Williams",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 55,
     "blood_type": "AB-",
-    "genetic_stability": 0.921,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.905,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 90,
-    "build": "Heavily Muscular",
+    "height_cm": 196,
+    "weight_kg": 58,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Grey, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Medicine": 28,
-      "Occult_Research": 26,
-      "Hacking": 48
+      "Persuasion": 73,
+      "Firearms": 47,
+      "Occult_Research": 92
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 80,
-      "conscientiousness": 6,
-      "extraversion": 6,
-      "agreeableness": 100,
-      "neuroticism": 5
+      "openness": 2,
+      "conscientiousness": 70,
+      "extraversion": 58,
+      "agreeableness": 94,
+      "neuroticism": 29
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

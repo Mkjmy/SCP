@@ -1,60 +1,60 @@
 {
   "id": "npc_063",
   "bio": {
-    "full_name": "Olga Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 45,
-    "blood_type": "A+",
-    "genetic_stability": 0.894,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Olga Garcia",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "B+",
+    "genetic_stability": 0.856,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 57,
-    "build": "Frail",
+    "height_cm": 167,
+    "weight_kg": 75,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Red, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Athletics": 61,
-      "Hacking": 52,
-      "Containment_Logic": 56
+      "Athletics": 69,
+      "Containment_Logic": 36,
+      "Hacking": 48
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 0,
-      "extraversion": 14,
-      "agreeableness": 88,
-      "neuroticism": 57
+      "openness": 7,
+      "conscientiousness": 24,
+      "extraversion": 82,
+      "agreeableness": 35,
+      "neuroticism": 96
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

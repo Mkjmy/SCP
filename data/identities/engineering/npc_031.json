@@ -1,57 +1,57 @@
 {
   "id": "npc_031",
   "bio": {
-    "full_name": "Sven Tanaka",
-    "gender": "Female",
+    "full_name": "Steven O'Connor",
+    "gender": "Agender",
     "orientation": "Heterosexual",
     "age": 28,
-    "blood_type": "O-",
-    "genetic_stability": 0.892,
-    "origin": "Former university professor specialized in anomalous biology"
+    "blood_type": "B-",
+    "genetic_stability": 0.887,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 103,
-    "build": "Slender",
+    "height_cm": 171,
+    "weight_kg": 56,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Pixie cut",
+      "hair": "Silver, Pompadour",
       "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 44,
-      "Containment_Logic": 68,
-      "Engineering": 91
+      "Occult_Research": 95,
+      "Perception": 43,
+      "Medicine": 84
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 16,
-      "extraversion": 76,
-      "agreeableness": 58,
-      "neuroticism": 28
+      "openness": 66,
+      "conscientiousness": 90,
+      "extraversion": 59,
+      "agreeableness": 80,
+      "neuroticism": 13
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
     "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
       "amount": 20000,
-      "creditor": "Local Mob"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

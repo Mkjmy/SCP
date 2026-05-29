@@ -1,23 +1,23 @@
 {
   "id": "npc_110",
   "bio": {
-    "full_name": "Thomas Brown",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 42,
+    "full_name": "William Jones",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 56,
     "blood_type": "A+",
-    "genetic_stability": 0.926,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.889,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 60,
-    "build": "Stocky",
+    "height_cm": 196,
+    "weight_kg": 83,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Athletics": 28,
-      "Stealth": 39,
-      "Hacking": 91
+      "Medicine": 71,
+      "Firearms": 31,
+      "Perception": 34
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 164,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 93,
-      "extraversion": 58,
-      "agreeableness": 7,
-      "neuroticism": 18
+      "openness": 93,
+      "conscientiousness": 9,
+      "extraversion": 33,
+      "agreeableness": 39,
+      "neuroticism": 30
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 1.0
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

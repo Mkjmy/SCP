@@ -1,23 +1,23 @@
 {
   "id": "npc_149",
   "bio": {
-    "full_name": "Anthony Gupta",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "B+",
-    "genetic_stability": 0.953,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Mark Jones",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 62,
+    "blood_type": "O+",
+    "genetic_stability": 0.95,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 77,
-    "build": "Athletic",
+    "height_cm": 198,
+    "weight_kg": 98,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Hazel",
+      "hair": "Black, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Stealth": 28,
-      "Persuasion": 34,
-      "Containment_Logic": 14
+      "Hacking": 74,
+      "Engineering": 56,
+      "Containment_Logic": 88
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 27,
-      "conscientiousness": 59,
-      "extraversion": 21,
-      "agreeableness": 64,
-      "neuroticism": 47
+      "openness": 94,
+      "conscientiousness": 3,
+      "extraversion": 83,
+      "agreeableness": 10,
+      "neuroticism": 38
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }
