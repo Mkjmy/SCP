@@ -1,23 +1,23 @@
 {
   "id": "npc_163",
   "bio": {
-    "full_name": "Maria Smith",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 30,
+    "full_name": "Christopher Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 65,
     "blood_type": "B+",
-    "genetic_stability": 0.996,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.895,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 51,
-    "build": "Athletic",
+    "height_cm": 158,
+    "weight_kg": 101,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "Grey, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Firearms": 28,
-      "Containment_Logic": 58,
-      "Perception": 16
+      "Containment_Logic": 21,
+      "Engineering": 53,
+      "Medicine": 18
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 83,
-      "extraversion": 85,
-      "agreeableness": 97,
-      "neuroticism": 84
+      "openness": 1,
+      "conscientiousness": 91,
+      "extraversion": 64,
+      "agreeableness": 16,
+      "neuroticism": 75
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

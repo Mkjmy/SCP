@@ -1,23 +1,23 @@
 {
   "id": "npc_059",
   "bio": {
-    "full_name": "Sven Gupta",
-    "gender": "Female",
+    "full_name": "Donald Sato",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 58,
-    "blood_type": "O+",
-    "genetic_stability": 0.977,
+    "age": 52,
+    "blood_type": "B+",
+    "genetic_stability": 0.897,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 90,
-    "build": "Average",
+    "height_cm": 169,
+    "weight_kg": 69,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Stealth": 87,
-      "Perception": 21,
-      "Athletics": 77
+      "Stealth": 80,
+      "Perception": 80,
+      "Hacking": 38
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 71,
-      "extraversion": 4,
-      "agreeableness": 41,
-      "neuroticism": 2
+      "openness": 50,
+      "conscientiousness": 64,
+      "extraversion": 74,
+      "agreeableness": 14,
+      "neuroticism": 55
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
       "amount": 20000,
-      "creditor": "Local Mob"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

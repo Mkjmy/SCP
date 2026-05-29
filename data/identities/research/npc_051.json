@@ -1,23 +1,23 @@
 {
   "id": "npc_051",
   "bio": {
-    "full_name": "Matthew Bakker",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 25,
-    "blood_type": "A-",
-    "genetic_stability": 0.99,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Yuki Schmidt",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.921,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 78,
-    "build": "Frail",
+    "height_cm": 158,
+    "weight_kg": 90,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Black, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 42,
-      "Containment_Logic": 48,
-      "Stealth": 63
+      "Medicine": 28,
+      "Occult_Research": 26,
+      "Hacking": 48
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 95,
-      "conscientiousness": 85,
-      "extraversion": 16,
-      "agreeableness": 98,
-      "neuroticism": 29
+      "openness": 80,
+      "conscientiousness": 6,
+      "extraversion": 6,
+      "agreeableness": 100,
+      "neuroticism": 5
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "Mark Dubois",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 36,
-    "blood_type": "B+",
-    "genetic_stability": 0.949,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Yuki Muller",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 52,
+    "blood_type": "AB+",
+    "genetic_stability": 0.958,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 64,
-    "build": "Stocky",
+    "height_cm": 189,
+    "weight_kg": 76,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Black, Messy",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 61,
-      "Hacking": 69,
-      "Athletics": 13
+      "Occult_Research": 94,
+      "Hacking": 61,
+      "Athletics": 35
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 42,
-      "extraversion": 68,
-      "agreeableness": 31,
-      "neuroticism": 76
+      "openness": 65,
+      "conscientiousness": 85,
+      "extraversion": 64,
+      "agreeableness": 2,
+      "neuroticism": 47
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "npc_119",
+  "bio": {
+    "full_name": "Yuki Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.914,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 176,
+    "weight_kg": 103,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Black, Manicured",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Engineering": 49,
+      "Persuasion": 79,
+      "Occult_Research": 75
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 106,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 25,
+      "extraversion": 0,
+      "agreeableness": 65,
+      "neuroticism": 88
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.56
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

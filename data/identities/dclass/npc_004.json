@@ -1,23 +1,23 @@
 {
   "id": "npc_004",
   "bio": {
-    "full_name": "James Garcia",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 40,
+    "full_name": "Olga Williams",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 30,
     "blood_type": "AB-",
-    "genetic_stability": 0.983,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.977,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 75,
-    "build": "Heavily Muscular",
+    "height_cm": 178,
+    "weight_kg": 51,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Amber",
+      "hair": "Grey, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 15,
-      "Perception": 42,
-      "Stealth": 92
+      "Firearms": 63,
+      "Medicine": 61,
+      "Containment_Logic": 29
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 55,
-      "extraversion": 35,
-      "agreeableness": 42,
-      "neuroticism": 84
+      "openness": 25,
+      "conscientiousness": 21,
+      "extraversion": 49,
+      "agreeableness": 70,
+      "neuroticism": 69
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

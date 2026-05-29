@@ -1,0 +1,60 @@
+{
+  "id": "npc_158",
+  "bio": {
+    "full_name": "Paul Wong",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.887,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 78,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Grey, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 56,
+      "Stealth": 81,
+      "Occult_Research": 68
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 103,
+    "personality_matrix": {
+      "openness": 5,
+      "conscientiousness": 37,
+      "extraversion": 96,
+      "agreeableness": 70,
+      "neuroticism": 74
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

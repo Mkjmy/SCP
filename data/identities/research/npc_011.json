@@ -1,23 +1,23 @@
 {
   "id": "npc_011",
   "bio": {
-    "full_name": "William O'Connor",
-    "gender": "Non-binary",
+    "full_name": "Joshua Schmidt",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 48,
+    "age": 28,
     "blood_type": "O+",
-    "genetic_stability": 0.949,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.925,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 56,
-    "build": "Average",
+    "height_cm": 184,
+    "weight_kg": 78,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Red, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Engineering": 20,
-      "Medicine": 89,
-      "Containment_Logic": 72
+      "Containment_Logic": 56,
+      "Perception": 36,
+      "Occult_Research": 13
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 66,
-      "extraversion": 46,
-      "agreeableness": 87,
-      "neuroticism": 76
+      "openness": 49,
+      "conscientiousness": 52,
+      "extraversion": 29,
+      "agreeableness": 77,
+      "neuroticism": 36
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

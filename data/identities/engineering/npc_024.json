@@ -1,23 +1,23 @@
 {
   "id": "npc_024",
   "bio": {
-    "full_name": "Maria Smith",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 52,
-    "blood_type": "A+",
-    "genetic_stability": 0.938,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Lars Schmidt",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.948,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 50,
+    "height_cm": 166,
+    "weight_kg": 61,
     "build": "Frail",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "White, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 18,
-      "Medicine": 53,
-      "Occult_Research": 73
+      "Containment_Logic": 33,
+      "Firearms": 12,
+      "Occult_Research": 30
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 70,
-      "extraversion": 53,
-      "agreeableness": 33,
-      "neuroticism": 68
+      "openness": 58,
+      "conscientiousness": 69,
+      "extraversion": 37,
+      "agreeableness": 0,
+      "neuroticism": 20
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

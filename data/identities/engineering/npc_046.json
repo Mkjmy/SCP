@@ -1,60 +1,60 @@
 {
   "id": "npc_046",
   "bio": {
-    "full_name": "James Miller",
+    "full_name": "Charles Gupta",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 35,
-    "blood_type": "B-",
-    "genetic_stability": 0.878,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "B+",
+    "genetic_stability": 0.859,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 96,
-    "build": "Overweight",
+    "height_cm": 196,
+    "weight_kg": 53,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 75,
-      "Medicine": 62,
-      "Engineering": 70
+      "Athletics": 71,
+      "Occult_Research": 20,
+      "Persuasion": 86
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 30,
-      "extraversion": 7,
-      "agreeableness": 59,
-      "neuroticism": 71
+      "openness": 90,
+      "conscientiousness": 41,
+      "extraversion": 50,
+      "agreeableness": 26,
+      "neuroticism": 36
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

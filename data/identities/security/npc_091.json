@@ -1,23 +1,23 @@
 {
   "id": "npc_091",
   "bio": {
-    "full_name": "Mark Williams",
+    "full_name": "Elena Sato",
     "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "AB-",
-    "genetic_stability": 0.942,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "O+",
+    "genetic_stability": 0.957,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 65,
-    "build": "Overweight",
+    "height_cm": 161,
+    "weight_kg": 106,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Brown, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Perception": 67,
-      "Athletics": 78,
-      "Firearms": 56
+      "Persuasion": 84,
+      "Athletics": 11,
+      "Engineering": 27
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 142,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 40,
-      "extraversion": 3,
-      "agreeableness": 24,
-      "neuroticism": 26
+      "openness": 11,
+      "conscientiousness": 90,
+      "extraversion": 62,
+      "agreeableness": 38,
+      "neuroticism": 79
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

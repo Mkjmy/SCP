@@ -1,60 +1,60 @@
 {
   "id": "npc_098",
   "bio": {
-    "full_name": "Daniel Wong",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 26,
-    "blood_type": "AB-",
-    "genetic_stability": 0.976,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Chen Jones",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.886,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 68,
-    "build": "Heavily Muscular",
+    "height_cm": 165,
+    "weight_kg": 54,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 46,
-      "Stealth": 61,
-      "Persuasion": 44
+      "Firearms": 63,
+      "Engineering": 30,
+      "Occult_Research": 88
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 89,
-      "extraversion": 79,
-      "agreeableness": 73,
-      "neuroticism": 75
+      "openness": 56,
+      "conscientiousness": 30,
+      "extraversion": 69,
+      "agreeableness": 76,
+      "neuroticism": 28
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

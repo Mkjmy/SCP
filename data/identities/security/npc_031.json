@@ -1,23 +1,23 @@
 {
   "id": "npc_031",
   "bio": {
-    "full_name": "Yuki Jones",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 24,
-    "blood_type": "O+",
-    "genetic_stability": 0.999,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Yuki Ivanov",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.874,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 70,
-    "build": "Frail",
+    "height_cm": 198,
+    "weight_kg": 84,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 87,
-      "Stealth": 36,
-      "Engineering": 92
+      "Perception": 39,
+      "Medicine": 17,
+      "Hacking": 72
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 114,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 18,
-      "extraversion": 80,
-      "agreeableness": 25,
-      "neuroticism": 9
+      "openness": 36,
+      "conscientiousness": 58,
+      "extraversion": 2,
+      "agreeableness": 16,
+      "neuroticism": 81
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

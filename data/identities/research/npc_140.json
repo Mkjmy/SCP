@@ -1,23 +1,23 @@
 {
   "id": "npc_140",
   "bio": {
-    "full_name": "Joseph Miller",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 47,
-    "blood_type": "B+",
-    "genetic_stability": 0.85,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Thomas Tanaka",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.913,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 65,
-    "build": "Slender",
+    "height_cm": 162,
+    "weight_kg": 96,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
+      "hair": "White, Pompadour",
       "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 34,
-      "Firearms": 70,
-      "Perception": 24
+      "Engineering": 64,
+      "Hacking": 45,
+      "Perception": 65
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 18,
-      "extraversion": 62,
-      "agreeableness": 74,
-      "neuroticism": 8
+      "openness": 4,
+      "conscientiousness": 89,
+      "extraversion": 95,
+      "agreeableness": 49,
+      "neuroticism": 95
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

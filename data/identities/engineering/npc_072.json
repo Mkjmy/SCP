@@ -1,60 +1,60 @@
 {
   "id": "npc_072",
   "bio": {
-    "full_name": "Joseph Bakker",
+    "full_name": "Michael Tanaka",
     "gender": "Female",
-    "orientation": "Asexual",
-    "age": 41,
-    "blood_type": "AB+",
-    "genetic_stability": 0.89,
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "B+",
+    "genetic_stability": 0.876,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 71,
-    "build": "Slender",
+    "height_cm": 165,
+    "weight_kg": 64,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Hazel",
+      "hair": "Red, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 58,
-      "Containment_Logic": 66,
-      "Occult_Research": 17
+      "Occult_Research": 33,
+      "Containment_Logic": 44,
+      "Engineering": 74
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 12,
-      "extraversion": 21,
-      "agreeableness": 6,
-      "neuroticism": 70
+      "openness": 26,
+      "conscientiousness": 46,
+      "extraversion": 11,
+      "agreeableness": 26,
+      "neuroticism": 4
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
       "amount": 20000,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

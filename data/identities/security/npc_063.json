@@ -1,60 +1,60 @@
 {
   "id": "npc_063",
   "bio": {
-    "full_name": "Andrew Vasiliev",
+    "full_name": "Olga Schmidt",
     "gender": "Non-binary",
     "orientation": "Heterosexual",
-    "age": 42,
-    "blood_type": "B+",
-    "genetic_stability": 0.895,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 45,
+    "blood_type": "A+",
+    "genetic_stability": 0.894,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 73,
-    "build": "Overweight",
+    "height_cm": 178,
+    "weight_kg": 57,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Black, Messy",
+      "hair": "Dyed blue, Wild and unkempt",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Hacking": 42,
-      "Medicine": 36,
-      "Athletics": 46
+      "Athletics": 61,
+      "Hacking": 52,
+      "Containment_Logic": 56
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
     "iq": 145,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 80,
-      "extraversion": 18,
-      "agreeableness": 57,
-      "neuroticism": 30
+      "openness": 82,
+      "conscientiousness": 0,
+      "extraversion": 14,
+      "agreeableness": 88,
+      "neuroticism": 57
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

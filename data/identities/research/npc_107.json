@@ -1,23 +1,23 @@
 {
   "id": "npc_107",
   "bio": {
-    "full_name": "Steven O'Connor",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 32,
-    "blood_type": "O+",
-    "genetic_stability": 0.927,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Fatima O'Connor",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.877,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 65,
-    "build": "Athletic",
+    "height_cm": 170,
+    "weight_kg": 99,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 87,
-      "Firearms": 44,
-      "Hacking": 67
+      "Perception": 54,
+      "Containment_Logic": 79,
+      "Stealth": 54
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 72,
-      "extraversion": 6,
-      "agreeableness": 24,
-      "neuroticism": 53
+      "openness": 39,
+      "conscientiousness": 65,
+      "extraversion": 70,
+      "agreeableness": 90,
+      "neuroticism": 19
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

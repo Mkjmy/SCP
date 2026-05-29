@@ -1,23 +1,23 @@
 {
   "id": "npc_092",
   "bio": {
-    "full_name": "Anthony Brown",
-    "gender": "Non-binary",
+    "full_name": "Chen Garcia",
+    "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 30,
-    "blood_type": "B-",
-    "genetic_stability": 0.931,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 46,
+    "blood_type": "AB-",
+    "genetic_stability": 0.902,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 77,
-    "build": "Athletic",
+    "height_cm": 157,
+    "weight_kg": 109,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Hazel",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Engineering": 30,
-      "Firearms": 79,
-      "Occult_Research": 46
+      "Athletics": 44,
+      "Firearms": 59,
+      "Persuasion": 81
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 53,
-      "extraversion": 35,
-      "agreeableness": 41,
-      "neuroticism": 32
+      "openness": 21,
+      "conscientiousness": 30,
+      "extraversion": 63,
+      "agreeableness": 3,
+      "neuroticism": 5
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
+      "amount": 5000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

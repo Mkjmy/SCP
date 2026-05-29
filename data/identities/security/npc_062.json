@@ -1,60 +1,60 @@
 {
   "id": "npc_062",
   "bio": {
-    "full_name": "Robert Davis",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 38,
-    "blood_type": "B-",
-    "genetic_stability": 0.881,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Olga Davis",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "O-",
+    "genetic_stability": 0.953,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 105,
-    "build": "Stocky",
+    "height_cm": 193,
+    "weight_kg": 81,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Occult_Research": 45,
-      "Hacking": 86,
-      "Stealth": 91
+      "Persuasion": 22,
+      "Containment_Logic": 87,
+      "Stealth": 70
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 51,
-      "conscientiousness": 84,
-      "extraversion": 26,
-      "agreeableness": 38,
-      "neuroticism": 30
+      "openness": 64,
+      "conscientiousness": 77,
+      "extraversion": 68,
+      "agreeableness": 31,
+      "neuroticism": 61
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

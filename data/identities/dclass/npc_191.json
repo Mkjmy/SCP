@@ -1,23 +1,23 @@
 {
   "id": "npc_191",
   "bio": {
-    "full_name": "Elena Wong",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 43,
+    "full_name": "Mark Jones",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 24,
     "blood_type": "B-",
-    "genetic_stability": 0.956,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.874,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 65,
-    "build": "Overweight",
+    "height_cm": 180,
+    "weight_kg": 97,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Blonde, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 62,
-      "Athletics": 22,
-      "Medicine": 65
+      "Firearms": 15,
+      "Athletics": 12,
+      "Perception": 46
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 51,
-      "extraversion": 10,
-      "agreeableness": 3,
-      "neuroticism": 94
+      "openness": 37,
+      "conscientiousness": 22,
+      "extraversion": 54,
+      "agreeableness": 0,
+      "neuroticism": 16
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

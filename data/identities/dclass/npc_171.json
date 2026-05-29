@@ -1,23 +1,23 @@
 {
   "id": "npc_171",
   "bio": {
-    "full_name": "Chen Brown",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 21,
-    "blood_type": "O-",
-    "genetic_stability": 0.854,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Joseph Schmidt",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.889,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 68,
+    "height_cm": 199,
+    "weight_kg": 50,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 10,
-      "Persuasion": 46,
-      "Medicine": 77
+      "Hacking": 72,
+      "Perception": 75,
+      "Medicine": 57
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 84,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 62,
-      "extraversion": 99,
-      "agreeableness": 22,
-      "neuroticism": 21
+      "openness": 41,
+      "conscientiousness": 84,
+      "extraversion": 52,
+      "agreeableness": 82,
+      "neuroticism": 30
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

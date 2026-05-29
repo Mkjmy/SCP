@@ -1,23 +1,23 @@
 {
   "id": "npc_166",
   "bio": {
-    "full_name": "David Smith",
-    "gender": "Male",
+    "full_name": "Steven Muller",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 32,
-    "blood_type": "B-",
-    "genetic_stability": 0.968,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 38,
+    "blood_type": "A+",
+    "genetic_stability": 0.94,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 97,
-    "build": "Average",
+    "height_cm": 164,
+    "weight_kg": 110,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Containment_Logic": 76,
-      "Firearms": 31,
-      "Engineering": 44
+      "Hacking": 43,
+      "Perception": 70,
+      "Firearms": 11
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 31,
-      "extraversion": 26,
-      "agreeableness": 22,
-      "neuroticism": 65
+      "openness": 100,
+      "conscientiousness": 92,
+      "extraversion": 60,
+      "agreeableness": 99,
+      "neuroticism": 33
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

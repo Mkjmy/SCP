@@ -1,23 +1,23 @@
 {
   "id": "npc_163",
   "bio": {
-    "full_name": "Elena Dubois",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "O+",
-    "genetic_stability": 0.919,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Lars Bakker",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.965,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 76,
-    "build": "Heavily Muscular",
+    "height_cm": 188,
+    "weight_kg": 56,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 64,
-      "Persuasion": 69,
-      "Stealth": 93
+      "Engineering": 56,
+      "Athletics": 74,
+      "Firearms": 85
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 97,
-      "extraversion": 3,
-      "agreeableness": 31,
-      "neuroticism": 96
+      "openness": 76,
+      "conscientiousness": 70,
+      "extraversion": 66,
+      "agreeableness": 71,
+      "neuroticism": 7
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",

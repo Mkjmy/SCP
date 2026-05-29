@@ -1,21 +1,21 @@
 {
   "id": "npc_169",
   "bio": {
-    "full_name": "Maria Miller",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 42,
-    "blood_type": "A-",
-    "genetic_stability": 0.989,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Richard Muller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 57,
+    "blood_type": "A+",
+    "genetic_stability": 0.957,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 96,
-    "build": "Overweight",
+    "height_cm": 162,
+    "weight_kg": 89,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Emerald green",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 67,
-      "Medicine": 57,
-      "Firearms": 24
+      "Hacking": 51,
+      "Firearms": 11,
+      "Athletics": 88
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 99,
-      "extraversion": 73,
-      "agreeableness": 20,
-      "neuroticism": 30
+      "openness": 74,
+      "conscientiousness": 79,
+      "extraversion": 31,
+      "agreeableness": 14,
+      "neuroticism": 62
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 0,
-      "creditor": "None"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

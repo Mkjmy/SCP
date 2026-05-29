@@ -1,23 +1,23 @@
 {
   "id": "npc_025",
   "bio": {
-    "full_name": "Lars Garcia",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 29,
-    "blood_type": "B+",
-    "genetic_stability": 0.863,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Donald Sato",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.948,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 84,
-    "build": "Heavily Muscular",
+    "height_cm": 195,
+    "weight_kg": 78,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Grey, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 17,
-      "Containment_Logic": 54,
-      "Persuasion": 59
+      "Athletics": 17,
+      "Medicine": 57,
+      "Hacking": 59
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 45,
-      "extraversion": 31,
-      "agreeableness": 67,
-      "neuroticism": 89
+      "openness": 33,
+      "conscientiousness": 100,
+      "extraversion": 29,
+      "agreeableness": 38,
+      "neuroticism": 66
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

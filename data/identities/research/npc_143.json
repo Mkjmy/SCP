@@ -1,23 +1,23 @@
 {
   "id": "npc_143",
   "bio": {
-    "full_name": "William Wong",
+    "full_name": "Maria Ivanov",
     "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 60,
-    "blood_type": "O-",
-    "genetic_stability": 0.907,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "A-",
+    "genetic_stability": 0.851,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 82,
-    "build": "Stocky",
+    "height_cm": 162,
+    "weight_kg": 64,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Athletics": 41,
-      "Engineering": 40,
-      "Firearms": 42
+      "Containment_Logic": 51,
+      "Persuasion": 84,
+      "Medicine": 13
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 9,
-      "extraversion": 96,
-      "agreeableness": 44,
-      "neuroticism": 18
+      "openness": 99,
+      "conscientiousness": 26,
+      "extraversion": 19,
+      "agreeableness": 32,
+      "neuroticism": 76
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

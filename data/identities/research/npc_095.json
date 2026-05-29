@@ -1,23 +1,23 @@
 {
   "id": "npc_095",
   "bio": {
-    "full_name": "Fatima Vasiliev",
+    "full_name": "Thomas Davis",
     "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.993,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "B-",
+    "genetic_stability": 0.925,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 85,
+    "height_cm": 167,
+    "weight_kg": 87,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Engineering": 15,
-      "Firearms": 90,
-      "Hacking": 75
+      "Firearms": 93,
+      "Medicine": 45,
+      "Engineering": 63
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 67,
-      "extraversion": 98,
-      "agreeableness": 57,
-      "neuroticism": 5
+      "openness": 62,
+      "conscientiousness": 54,
+      "extraversion": 20,
+      "agreeableness": 85,
+      "neuroticism": 29
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

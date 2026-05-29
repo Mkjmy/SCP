@@ -1,21 +1,21 @@
 {
   "id": "npc_174",
   "bio": {
-    "full_name": "Matthew Dubois",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 26,
-    "blood_type": "A+",
-    "genetic_stability": 0.942,
+    "full_name": "Paul Johnson",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.88,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 97,
-    "build": "Slender",
+    "height_cm": 158,
+    "weight_kg": 100,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Ponytail",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Talks to self in whispers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 71,
-      "Persuasion": 75,
-      "Containment_Logic": 92
+      "Perception": 25,
+      "Firearms": 43,
+      "Occult_Research": 79
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 95,
-      "extraversion": 51,
-      "agreeableness": 18,
-      "neuroticism": 24
+      "openness": 28,
+      "conscientiousness": 21,
+      "extraversion": 14,
+      "agreeableness": 48,
+      "neuroticism": 21
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 0,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

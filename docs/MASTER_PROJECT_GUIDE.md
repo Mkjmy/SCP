@@ -40,3 +40,9 @@ If an NPC in Tier 1 (Detail) interacts with an NPC in Tier 3 (Abstract), the sys
 
 ## 4. Combat & Growth
 Combat is stat-based (Strength/Dexterity). Attacking security forces results in lethal retaliation (Instant Death). Survival in combat leads to subtle, narrative-driven strength increases ("You feel your resolve hardening").
+
+## 5. Social Engineering & Information Warfare
+Information is a primary resource. The player can discover sensitive data about NPCs to use as leverage.
+- **Discovery:** In relevant rooms (Offices, Admin), players can "Search for files" or "Hack terminals" to uncover NPC secrets from their Master Identities (e.g., gambling debts, hidden agendas).
+- **Manipulation:** In the Talk menu, knowing an NPC's secret unlocks the "Manipulate using secrets" option. Successful blackmail (Intelligence-based) can force NPCs to surrender items or provide access.
+- **Physical Keys:** Clearance is no longer just a stat. The player must possess physical Keycards in their inventory to bypass high-security doors.

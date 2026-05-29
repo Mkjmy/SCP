@@ -1,21 +1,21 @@
 {
   "id": "npc_005",
   "bio": {
-    "full_name": "Thomas Dubois",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 27,
-    "blood_type": "A+",
-    "genetic_stability": 0.897,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Elena Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 22,
+    "blood_type": "AB-",
+    "genetic_stability": 0.961,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 99,
-    "build": "Slender",
+    "height_cm": 168,
+    "weight_kg": 52,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 45,
-      "Engineering": 71,
-      "Hacking": 21
+      "Hacking": 17,
+      "Medicine": 92,
+      "Containment_Logic": 72
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 6,
-      "extraversion": 77,
-      "agreeableness": 54,
-      "neuroticism": 59
+      "openness": 85,
+      "conscientiousness": 9,
+      "extraversion": 39,
+      "agreeableness": 64,
+      "neuroticism": 73
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

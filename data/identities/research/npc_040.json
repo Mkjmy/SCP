@@ -1,23 +1,23 @@
 {
   "id": "npc_040",
   "bio": {
-    "full_name": "Michael Tanaka",
+    "full_name": "Thomas Smith",
     "gender": "Transgender",
     "orientation": "Pansexual",
-    "age": 38,
+    "age": 45,
     "blood_type": "A-",
-    "genetic_stability": 0.875,
+    "genetic_stability": 0.893,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 81,
-    "build": "Frail",
+    "height_cm": 175,
+    "weight_kg": 101,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Red, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 19,
-      "Perception": 10,
-      "Persuasion": 84
+      "Hacking": 65,
+      "Firearms": 20,
+      "Perception": 80
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 14,
-      "extraversion": 70,
-      "agreeableness": 92,
-      "neuroticism": 16
+      "openness": 49,
+      "conscientiousness": 82,
+      "extraversion": 64,
+      "agreeableness": 14,
+      "neuroticism": 48
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

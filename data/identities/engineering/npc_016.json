@@ -1,23 +1,23 @@
 {
   "id": "npc_016",
   "bio": {
-    "full_name": "David Ivanov",
-    "gender": "Agender",
+    "full_name": "Matthew O'Connor",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 62,
+    "age": 39,
     "blood_type": "AB+",
-    "genetic_stability": 0.934,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.853,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
     "height_cm": 175,
-    "weight_kg": 54,
-    "build": "Average",
+    "weight_kg": 101,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 29,
-      "Occult_Research": 25,
-      "Hacking": 71
+      "Occult_Research": 45,
+      "Persuasion": 82,
+      "Containment_Logic": 24
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 63,
-      "extraversion": 87,
-      "agreeableness": 98,
-      "neuroticism": 1
+      "openness": 68,
+      "conscientiousness": 51,
+      "extraversion": 20,
+      "agreeableness": 13,
+      "neuroticism": 79
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.58
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_111",
   "bio": {
-    "full_name": "Matthew Vasiliev",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 37,
-    "blood_type": "AB-",
-    "genetic_stability": 0.944,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Anthony Brown",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.972,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 109,
-    "build": "Athletic",
+    "height_cm": 191,
+    "weight_kg": 92,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 63,
-      "Athletics": 57,
-      "Medicine": 47
+      "Athletics": 45,
+      "Occult_Research": 70,
+      "Persuasion": 70
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 80,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 62,
-      "extraversion": 93,
-      "agreeableness": 24,
-      "neuroticism": 31
+      "openness": 86,
+      "conscientiousness": 69,
+      "extraversion": 31,
+      "agreeableness": 29,
+      "neuroticism": 95
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

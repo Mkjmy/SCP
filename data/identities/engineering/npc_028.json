@@ -1,60 +1,60 @@
 {
   "id": "npc_028",
   "bio": {
-    "full_name": "Christopher Tanaka",
+    "full_name": "Olga Sato",
     "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 46,
-    "blood_type": "B-",
-    "genetic_stability": 0.899,
+    "orientation": "Homosexual",
+    "age": 49,
+    "blood_type": "O-",
+    "genetic_stability": 1.0,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 101,
+    "height_cm": 194,
+    "weight_kg": 91,
     "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Messy",
-      "eyes": "Icy blue",
+      "hair": "Red, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 82,
-      "Engineering": 44,
-      "Persuasion": 82
+      "Occult_Research": 15,
+      "Athletics": 95,
+      "Perception": 52
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 81,
-      "extraversion": 55,
-      "agreeableness": 31,
-      "neuroticism": 16
+      "openness": 56,
+      "conscientiousness": 88,
+      "extraversion": 81,
+      "agreeableness": 88,
+      "neuroticism": 97
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

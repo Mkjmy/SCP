@@ -1,21 +1,21 @@
 {
   "id": "npc_080",
   "bio": {
-    "full_name": "William Sato",
+    "full_name": "Arjun Bakker",
     "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 42,
-    "blood_type": "B+",
-    "genetic_stability": 0.924,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Homosexual",
+    "age": 44,
+    "blood_type": "A+",
+    "genetic_stability": 0.89,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 106,
-    "build": "Frail",
+    "height_cm": 162,
+    "weight_kg": 101,
+    "build": "Average",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Black, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 94,
-      "Medicine": 62,
-      "Firearms": 28
+      "Persuasion": 66,
+      "Occult_Research": 92,
+      "Athletics": 61
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 56,
-      "extraversion": 19,
-      "agreeableness": 84,
-      "neuroticism": 29
+      "openness": 6,
+      "conscientiousness": 26,
+      "extraversion": 60,
+      "agreeableness": 18,
+      "neuroticism": 90
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

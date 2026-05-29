@@ -1,51 +1,51 @@
 {
   "id": "npc_180",
   "bio": {
-    "full_name": "Christopher O'Connor",
-    "gender": "Female",
+    "full_name": "Joshua Brown",
+    "gender": "Male",
     "orientation": "Bisexual",
-    "age": 62,
-    "blood_type": "AB+",
-    "genetic_stability": 0.898,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.99,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 89,
-    "build": "Lithe",
+    "height_cm": 161,
+    "weight_kg": 66,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Wild and unkempt",
-      "eyes": "Amber",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 30,
-      "Containment_Logic": 61,
-      "Perception": 82
+      "Persuasion": 24,
+      "Hacking": 34,
+      "Containment_Logic": 52
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 57,
-      "extraversion": 71,
-      "agreeableness": 92,
-      "neuroticism": 100
+      "openness": 11,
+      "conscientiousness": 81,
+      "extraversion": 97,
+      "agreeableness": 14,
+      "neuroticism": 23
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
     "family": "Married, no children",
@@ -54,7 +54,7 @@
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

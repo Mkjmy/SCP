@@ -1,23 +1,23 @@
 {
   "id": "npc_165",
   "bio": {
-    "full_name": "Joseph Bakker",
+    "full_name": "Kenji Muller",
     "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 34,
-    "blood_type": "AB-",
-    "genetic_stability": 0.926,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "O-",
+    "genetic_stability": 0.904,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 106,
-    "build": "Stocky",
+    "height_cm": 194,
+    "weight_kg": 51,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Icy blue",
+      "hair": "Red, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 77,
-      "Perception": 70,
-      "Athletics": 61
+      "Occult_Research": 33,
+      "Medicine": 70,
+      "Containment_Logic": 20
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 96,
-      "extraversion": 31,
-      "agreeableness": 12,
-      "neuroticism": 76
+      "openness": 58,
+      "conscientiousness": 15,
+      "extraversion": 17,
+      "agreeableness": 1,
+      "neuroticism": 25
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",

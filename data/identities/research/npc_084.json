@@ -1,21 +1,21 @@
 {
   "id": "npc_084",
   "bio": {
-    "full_name": "Joseph Kovacs",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 56,
-    "blood_type": "B+",
-    "genetic_stability": 0.93,
+    "full_name": "Paul Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "AB-",
+    "genetic_stability": 0.861,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 86,
-    "build": "Average",
+    "height_cm": 194,
+    "weight_kg": 75,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "Grey, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Hacking": 88,
-      "Occult_Research": 88,
-      "Firearms": 49
+      "Stealth": 65,
+      "Medicine": 82,
+      "Occult_Research": 36
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 11,
-      "extraversion": 41,
-      "agreeableness": 42,
-      "neuroticism": 35
+      "openness": 54,
+      "conscientiousness": 60,
+      "extraversion": 17,
+      "agreeableness": 61,
+      "neuroticism": 70
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
       "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",

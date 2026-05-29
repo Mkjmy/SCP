@@ -1,60 +1,60 @@
 {
   "id": "npc_179",
   "bio": {
-    "full_name": "Mark Williams",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 22,
-    "blood_type": "O-",
-    "genetic_stability": 0.935,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Anthony Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "AB+",
+    "genetic_stability": 0.962,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 86,
-    "build": "Lithe",
+    "height_cm": 197,
+    "weight_kg": 60,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Amber",
+      "hair": "Grey, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 88,
-      "Hacking": 38,
-      "Containment_Logic": 49
+      "Occult_Research": 23,
+      "Medicine": 73,
+      "Containment_Logic": 26
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 87,
-      "extraversion": 85,
-      "agreeableness": 39,
-      "neuroticism": 95
+      "openness": 87,
+      "conscientiousness": 6,
+      "extraversion": 87,
+      "agreeableness": 60,
+      "neuroticism": 22
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

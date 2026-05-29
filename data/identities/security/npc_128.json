@@ -1,21 +1,21 @@
 {
   "id": "npc_128",
   "bio": {
-    "full_name": "Christopher Brown",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 22,
-    "blood_type": "A-",
-    "genetic_stability": 0.867,
+    "full_name": "Richard Williams",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "AB+",
+    "genetic_stability": 0.92,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 54,
-    "build": "Overweight",
+    "height_cm": 168,
+    "weight_kg": 86,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
         "Nail biter"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Perception": 72,
-      "Containment_Logic": 85,
-      "Engineering": 33
+      "Perception": 55,
+      "Medicine": 37,
+      "Containment_Logic": 55
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 38,
-      "extraversion": 36,
-      "agreeableness": 29,
-      "neuroticism": 2
+      "openness": 63,
+      "conscientiousness": 94,
+      "extraversion": 58,
+      "agreeableness": 16,
+      "neuroticism": 82
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

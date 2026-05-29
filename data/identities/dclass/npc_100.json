@@ -1,23 +1,23 @@
 {
   "id": "npc_100",
   "bio": {
-    "full_name": "Maria O'Connor",
-    "gender": "Male",
+    "full_name": "Steven Williams",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "O+",
-    "genetic_stability": 0.999,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.935,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 50,
-    "build": "Lithe",
+    "height_cm": 159,
+    "weight_kg": 59,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Pompadour",
+      "hair": "Grey, Shoulder-length",
       "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 77,
-      "Athletics": 19,
-      "Stealth": 55
+      "Hacking": 11,
+      "Athletics": 18,
+      "Containment_Logic": 12
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 67,
-      "extraversion": 15,
-      "agreeableness": 63,
-      "neuroticism": 54
+      "openness": 8,
+      "conscientiousness": 18,
+      "extraversion": 77,
+      "agreeableness": 97,
+      "neuroticism": 81
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

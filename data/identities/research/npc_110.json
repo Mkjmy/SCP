@@ -1,23 +1,23 @@
 {
   "id": "npc_110",
   "bio": {
-    "full_name": "Andrew Muller",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 22,
-    "blood_type": "O-",
-    "genetic_stability": 0.909,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Thomas Brown",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.926,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 59,
+    "height_cm": 182,
+    "weight_kg": 60,
     "build": "Stocky",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
+      "hair": "Blonde, Wild and unkempt",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Hacking": 21,
-      "Medicine": 58,
-      "Persuasion": 92
+      "Athletics": 28,
+      "Stealth": 39,
+      "Hacking": 91
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 164,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 79,
-      "extraversion": 55,
-      "agreeableness": 6,
-      "neuroticism": 88
+      "openness": 61,
+      "conscientiousness": 93,
+      "extraversion": 58,
+      "agreeableness": 7,
+      "neuroticism": 18
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 1.0
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

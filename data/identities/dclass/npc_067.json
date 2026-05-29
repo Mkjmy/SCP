@@ -1,23 +1,23 @@
 {
   "id": "npc_067",
   "bio": {
-    "full_name": "Lars Bakker",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 29,
-    "blood_type": "B-",
-    "genetic_stability": 0.877,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Andrew Davis",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 1.0,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 107,
-    "build": "Average",
+    "height_cm": 175,
+    "weight_kg": 79,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Manicured",
-      "eyes": "Hazel",
+      "hair": "Red, Pixie cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 39,
-      "Engineering": 58,
-      "Stealth": 95
+      "Engineering": 71,
+      "Firearms": 51,
+      "Perception": 42
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 87,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 80,
-      "extraversion": 26,
-      "agreeableness": 5,
-      "neuroticism": 33
+      "openness": 15,
+      "conscientiousness": 78,
+      "extraversion": 44,
+      "agreeableness": 21,
+      "neuroticism": 85
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

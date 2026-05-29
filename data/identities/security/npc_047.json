@@ -1,23 +1,23 @@
 {
   "id": "npc_047",
   "bio": {
-    "full_name": "Elena Kovacs",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "A+",
-    "genetic_stability": 0.861,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Paul Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.898,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 62,
+    "height_cm": 176,
+    "weight_kg": 102,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 13,
-      "Containment_Logic": 24,
-      "Stealth": 95
+      "Hacking": 83,
+      "Stealth": 41,
+      "Medicine": 46
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 119,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 54,
-      "extraversion": 80,
-      "agreeableness": 66,
-      "neuroticism": 48
+      "openness": 89,
+      "conscientiousness": 86,
+      "extraversion": 94,
+      "agreeableness": 5,
+      "neuroticism": 75
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

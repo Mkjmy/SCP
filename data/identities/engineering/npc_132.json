@@ -1,60 +1,60 @@
 {
   "id": "npc_132",
   "bio": {
-    "full_name": "Richard O'Connor",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 64,
-    "blood_type": "A-",
-    "genetic_stability": 0.97,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Steven Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.881,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 66,
-    "build": "Lithe",
+    "height_cm": 176,
+    "weight_kg": 93,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 45,
-      "Occult_Research": 83,
-      "Persuasion": 73
+      "Firearms": 63,
+      "Engineering": 47,
+      "Stealth": 45
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 9,
-      "extraversion": 5,
-      "agreeableness": 59,
-      "neuroticism": 64
+      "openness": 62,
+      "conscientiousness": 39,
+      "extraversion": 89,
+      "agreeableness": 66,
+      "neuroticism": 53
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
       "amount": 0,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

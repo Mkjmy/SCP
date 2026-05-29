@@ -1,23 +1,23 @@
 {
   "id": "npc_065",
   "bio": {
-    "full_name": "Daniel Miller",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 33,
-    "blood_type": "B-",
-    "genetic_stability": 0.933,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Maria Ivanov",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 34,
+    "blood_type": "B+",
+    "genetic_stability": 0.879,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 80,
-    "build": "Slender",
+    "height_cm": 199,
+    "weight_kg": 110,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
+      "hair": "Dyed green, Shoulder-length",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Engineering": 61,
-      "Medicine": 68,
-      "Athletics": 55
+      "Containment_Logic": 30,
+      "Firearms": 40,
+      "Stealth": 89
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 118,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 95,
-      "conscientiousness": 84,
-      "extraversion": 32,
-      "agreeableness": 2,
-      "neuroticism": 29
+      "openness": 45,
+      "conscientiousness": 59,
+      "extraversion": 1,
+      "agreeableness": 53,
+      "neuroticism": 82
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

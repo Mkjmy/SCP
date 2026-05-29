@@ -1,23 +1,23 @@
 {
   "id": "npc_127",
   "bio": {
-    "full_name": "Donald Ivanov",
+    "full_name": "Chen Miller",
     "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 50,
-    "blood_type": "B-",
-    "genetic_stability": 0.901,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Asexual",
+    "age": 65,
+    "blood_type": "AB-",
+    "genetic_stability": 0.877,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 64,
-    "build": "Slender",
+    "height_cm": 178,
+    "weight_kg": 81,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Pompadour",
+      "hair": "Grey, Bald",
       "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 49,
-      "Perception": 68,
-      "Hacking": 34
+      "Containment_Logic": 43,
+      "Hacking": 24,
+      "Persuasion": 21
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 22,
-      "extraversion": 55,
-      "agreeableness": 81,
-      "neuroticism": 7
+      "openness": 75,
+      "conscientiousness": 9,
+      "extraversion": 25,
+      "agreeableness": 62,
+      "neuroticism": 11
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",

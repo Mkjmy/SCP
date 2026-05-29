@@ -1,60 +1,60 @@
 {
   "id": "npc_134",
   "bio": {
-    "full_name": "Richard O'Connor",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 46,
-    "blood_type": "B+",
-    "genetic_stability": 0.897,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "William Kovacs",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "A+",
+    "genetic_stability": 0.931,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 100,
-    "build": "Athletic",
+    "height_cm": 157,
+    "weight_kg": 110,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Black, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Hacking": 66,
-      "Athletics": 21,
-      "Stealth": 95
+      "Stealth": 29,
+      "Occult_Research": 54,
+      "Persuasion": 22
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 82,
-      "extraversion": 31,
-      "agreeableness": 29,
-      "neuroticism": 31
+      "openness": 56,
+      "conscientiousness": 20,
+      "extraversion": 61,
+      "agreeableness": 25,
+      "neuroticism": 93
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

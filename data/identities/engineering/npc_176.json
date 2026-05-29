@@ -1,23 +1,23 @@
 {
   "id": "npc_176",
   "bio": {
-    "full_name": "Mark Sato",
+    "full_name": "David Tanaka",
     "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 56,
+    "orientation": "Homosexual",
+    "age": 37,
     "blood_type": "O-",
-    "genetic_stability": 0.884,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.927,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 77,
-    "build": "Stocky",
+    "height_cm": 190,
+    "weight_kg": 89,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Fade",
-      "eyes": "Emerald green",
+      "hair": "Silver, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 21,
-      "Hacking": 58,
-      "Stealth": 49
+      "Athletics": 48,
+      "Medicine": 42,
+      "Stealth": 87
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 45,
-      "extraversion": 48,
-      "agreeableness": 23,
-      "neuroticism": 18
+      "openness": 77,
+      "conscientiousness": 21,
+      "extraversion": 4,
+      "agreeableness": 27,
+      "neuroticism": 23
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

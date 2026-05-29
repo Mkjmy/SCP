@@ -1,23 +1,23 @@
 {
   "id": "npc_082",
   "bio": {
-    "full_name": "Donald Schmidt",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 20,
-    "blood_type": "O-",
-    "genetic_stability": 0.939,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Paul Davis",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "AB+",
+    "genetic_stability": 0.862,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 76,
-    "build": "Lithe",
+    "height_cm": 192,
+    "weight_kg": 50,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Messy",
+      "hair": "Dyed blue, Shoulder-length",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 21,
-      "Perception": 84,
-      "Medicine": 37
+      "Stealth": 45,
+      "Containment_Logic": 57,
+      "Medicine": 68
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 115,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 79,
-      "extraversion": 50,
-      "agreeableness": 1,
-      "neuroticism": 28
+      "openness": 21,
+      "conscientiousness": 22,
+      "extraversion": 25,
+      "agreeableness": 23,
+      "neuroticism": 61
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

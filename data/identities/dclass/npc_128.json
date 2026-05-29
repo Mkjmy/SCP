@@ -1,23 +1,23 @@
 {
   "id": "npc_128",
   "bio": {
-    "full_name": "Daniel Schmidt",
-    "gender": "Transgender",
+    "full_name": "Christopher Johnson",
+    "gender": "Male",
     "orientation": "Pansexual",
-    "age": 31,
-    "blood_type": "AB-",
-    "genetic_stability": 0.875,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.93,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 91,
-    "build": "Athletic",
+    "height_cm": 190,
+    "weight_kg": 50,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 20,
-      "Perception": 56,
-      "Engineering": 49
+      "Persuasion": 24,
+      "Perception": 50,
+      "Hacking": 44
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 87,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 36,
-      "extraversion": 1,
-      "agreeableness": 89,
-      "neuroticism": 61
+      "openness": 71,
+      "conscientiousness": 25,
+      "extraversion": 37,
+      "agreeableness": 74,
+      "neuroticism": 1
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

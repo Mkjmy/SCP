@@ -1,21 +1,21 @@
 {
   "id": "npc_155",
   "bio": {
-    "full_name": "Thomas Garcia",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 57,
-    "blood_type": "AB-",
-    "genetic_stability": 0.988,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Thomas Muller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 62,
+    "blood_type": "A-",
+    "genetic_stability": 0.901,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 74,
-    "build": "Average",
+    "height_cm": 158,
+    "weight_kg": 97,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Red, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Smokes heavily"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Containment_Logic": 13,
-      "Engineering": 69,
-      "Perception": 64
+      "Perception": 68,
+      "Hacking": 59,
+      "Stealth": 71
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 76,
-      "extraversion": 86,
-      "agreeableness": 54,
-      "neuroticism": 10
+      "openness": 23,
+      "conscientiousness": 28,
+      "extraversion": 38,
+      "agreeableness": 34,
+      "neuroticism": 6
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
     "family": "Married, no children",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

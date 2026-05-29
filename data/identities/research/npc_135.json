@@ -1,23 +1,23 @@
 {
   "id": "npc_135",
   "bio": {
-    "full_name": "Robert Williams",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 57,
-    "blood_type": "A-",
-    "genetic_stability": 0.996,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Thomas Ivanov",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "O-",
+    "genetic_stability": 0.932,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 73,
-    "build": "Lithe",
+    "height_cm": 157,
+    "weight_kg": 105,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Hazel",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 66,
-      "Containment_Logic": 31,
-      "Engineering": 95
+      "Perception": 42,
+      "Athletics": 14,
+      "Hacking": 88
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 90,
-      "extraversion": 57,
-      "agreeableness": 60,
-      "neuroticism": 92
+      "openness": 71,
+      "conscientiousness": 12,
+      "extraversion": 100,
+      "agreeableness": 65,
+      "neuroticism": 96
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

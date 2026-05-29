@@ -1,60 +1,60 @@
 {
   "id": "npc_037",
   "bio": {
-    "full_name": "John Ivanov",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 47,
+    "full_name": "Christopher Sato",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 56,
     "blood_type": "B+",
-    "genetic_stability": 0.895,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.988,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 92,
-    "build": "Heavily Muscular",
+    "height_cm": 174,
+    "weight_kg": 76,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 58,
-      "Hacking": 41,
-      "Occult_Research": 53
+      "Engineering": 78,
+      "Medicine": 89,
+      "Firearms": 59
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 94,
-      "extraversion": 85,
-      "agreeableness": 8,
-      "neuroticism": 58
+      "openness": 84,
+      "conscientiousness": 38,
+      "extraversion": 50,
+      "agreeableness": 95,
+      "neuroticism": 75
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
     "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 100000,
-      "creditor": "None"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

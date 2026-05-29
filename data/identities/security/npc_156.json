@@ -1,20 +1,20 @@
 {
   "id": "npc_156",
   "bio": {
-    "full_name": "Charles Smith",
-    "gender": "Agender",
+    "full_name": "Donald Schmidt",
+    "gender": "Female",
     "orientation": "Asexual",
-    "age": 52,
-    "blood_type": "AB+",
-    "genetic_stability": 0.893,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 34,
+    "blood_type": "A+",
+    "genetic_stability": 0.934,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 103,
+    "height_cm": 171,
+    "weight_kg": 59,
     "build": "Average",
     "physical_features": {
-      "hair": "Grey, Messy",
+      "hair": "Black, Shoulder-length",
       "eyes": "Hazel",
       "notable_marks": [
         "Talks to self in whispers"
@@ -22,39 +22,39 @@
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 24,
-      "Occult_Research": 20,
-      "Engineering": 69
+      "Firearms": 46,
+      "Containment_Logic": 77,
+      "Stealth": 66
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 95,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 64,
-      "extraversion": 37,
-      "agreeableness": 56,
-      "neuroticism": 2
+      "openness": 83,
+      "conscientiousness": 67,
+      "extraversion": 84,
+      "agreeableness": 65,
+      "neuroticism": 0
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

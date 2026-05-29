@@ -1,23 +1,23 @@
 {
   "id": "npc_125",
   "bio": {
-    "full_name": "Mark Tanaka",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 36,
-    "blood_type": "O-",
-    "genetic_stability": 0.987,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Elena Ivanov",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "O+",
+    "genetic_stability": 0.906,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 83,
-    "build": "Athletic",
+    "height_cm": 191,
+    "weight_kg": 91,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Blonde, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Persuasion": 73,
-      "Firearms": 40,
-      "Stealth": 45
+      "Containment_Logic": 78,
+      "Hacking": 64,
+      "Athletics": 82
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 31,
-      "extraversion": 13,
-      "agreeableness": 50,
-      "neuroticism": 63
+      "openness": 42,
+      "conscientiousness": 3,
+      "extraversion": 69,
+      "agreeableness": 27,
+      "neuroticism": 23
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_027",
   "bio": {
-    "full_name": "Kenji Garcia",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 37,
-    "blood_type": "O-",
-    "genetic_stability": 0.981,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "William Williams",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "A+",
+    "genetic_stability": 0.926,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 98,
-    "build": "Average",
+    "height_cm": 181,
+    "weight_kg": 80,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 39,
-      "Persuasion": 70,
-      "Stealth": 37
+      "Firearms": 66,
+      "Perception": 15,
+      "Engineering": 12
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 12,
-      "extraversion": 94,
-      "agreeableness": 96,
-      "neuroticism": 29
+      "openness": 96,
+      "conscientiousness": 97,
+      "extraversion": 83,
+      "agreeableness": 64,
+      "neuroticism": 23
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

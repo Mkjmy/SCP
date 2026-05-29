@@ -1,23 +1,23 @@
 {
   "id": "npc_097",
   "bio": {
-    "full_name": "Robert Sato",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "B-",
-    "genetic_stability": 0.926,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Christopher Miller",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 41,
+    "blood_type": "AB-",
+    "genetic_stability": 0.923,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 61,
-    "build": "Average",
+    "height_cm": 170,
+    "weight_kg": 57,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Silver, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 10,
-      "Perception": 69,
-      "Athletics": 88
+      "Containment_Logic": 33,
+      "Medicine": 64,
+      "Perception": 38
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 82,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 65,
-      "extraversion": 3,
-      "agreeableness": 58,
-      "neuroticism": 21
+      "openness": 30,
+      "conscientiousness": 99,
+      "extraversion": 71,
+      "agreeableness": 34,
+      "neuroticism": 29
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

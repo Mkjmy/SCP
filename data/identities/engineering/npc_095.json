@@ -1,60 +1,60 @@
 {
   "id": "npc_095",
   "bio": {
-    "full_name": "John Bakker",
+    "full_name": "Richard Johnson",
     "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 27,
-    "blood_type": "AB-",
-    "genetic_stability": 0.907,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.998,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 97,
+    "height_cm": 194,
+    "weight_kg": 58,
     "build": "Average",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 57,
-      "Persuasion": 95,
-      "Engineering": 56
+      "Containment_Logic": 60,
+      "Occult_Research": 59,
+      "Firearms": 22
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 37,
-      "extraversion": 16,
-      "agreeableness": 14,
-      "neuroticism": 98
+      "openness": 28,
+      "conscientiousness": 13,
+      "extraversion": 30,
+      "agreeableness": 23,
+      "neuroticism": 2
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

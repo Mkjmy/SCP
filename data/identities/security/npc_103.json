@@ -1,23 +1,23 @@
 {
   "id": "npc_103",
   "bio": {
-    "full_name": "Anthony Brown",
+    "full_name": "Kenji Tanaka",
     "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 41,
-    "blood_type": "AB+",
-    "genetic_stability": 0.911,
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "O+",
+    "genetic_stability": 0.966,
     "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 87,
-    "build": "Slender",
+    "height_cm": 179,
+    "weight_kg": 68,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Pompadour",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Athletics": 26,
-      "Containment_Logic": 41,
-      "Occult_Research": 92
+      "Persuasion": 73,
+      "Perception": 24,
+      "Engineering": 38
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 119,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 54,
-      "conscientiousness": 29,
-      "extraversion": 0,
-      "agreeableness": 16,
-      "neuroticism": 27
+      "openness": 75,
+      "conscientiousness": 8,
+      "extraversion": 85,
+      "agreeableness": 33,
+      "neuroticism": 4
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

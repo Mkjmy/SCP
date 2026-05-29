@@ -1,21 +1,21 @@
 {
   "id": "npc_157",
   "bio": {
-    "full_name": "Joshua Miller",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 62,
-    "blood_type": "A-",
-    "genetic_stability": 0.982,
+    "full_name": "Sven Williams",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 65,
+    "blood_type": "O-",
+    "genetic_stability": 0.894,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 58,
-    "build": "Lithe",
+    "height_cm": 196,
+    "weight_kg": 57,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
         "Cracks knuckles frequently"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 45,
-      "Containment_Logic": 60,
-      "Perception": 30
+      "Occult_Research": 65,
+      "Containment_Logic": 21,
+      "Medicine": 92
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 18,
-      "extraversion": 48,
-      "agreeableness": 87,
-      "neuroticism": 1
+      "openness": 1,
+      "conscientiousness": 66,
+      "extraversion": 44,
+      "agreeableness": 2,
+      "neuroticism": 2
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

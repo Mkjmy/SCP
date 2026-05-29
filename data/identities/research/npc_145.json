@@ -1,23 +1,23 @@
 {
   "id": "npc_145",
   "bio": {
-    "full_name": "Steven Ivanov",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 34,
-    "blood_type": "O+",
-    "genetic_stability": 0.924,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Paul Bakker",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 51,
+    "blood_type": "A+",
+    "genetic_stability": 0.963,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 105,
-    "build": "Heavily Muscular",
+    "height_cm": 171,
+    "weight_kg": 77,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Grey, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Medicine": 86,
-      "Persuasion": 43,
-      "Perception": 89
+      "Firearms": 72,
+      "Engineering": 15,
+      "Medicine": 73
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 18,
-      "extraversion": 40,
-      "agreeableness": 79,
-      "neuroticism": 11
+      "openness": 60,
+      "conscientiousness": 61,
+      "extraversion": 8,
+      "agreeableness": 78,
+      "neuroticism": 99
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

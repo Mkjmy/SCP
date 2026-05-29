@@ -1,23 +1,23 @@
 {
   "id": "npc_075",
   "bio": {
-    "full_name": "Robert Williams",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 49,
-    "blood_type": "O-",
-    "genetic_stability": 0.859,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Christopher Vasiliev",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 36,
+    "blood_type": "B-",
+    "genetic_stability": 0.971,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 72,
-    "build": "Slender",
+    "height_cm": 173,
+    "weight_kg": 71,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Hacking": 78,
-      "Occult_Research": 71,
-      "Containment_Logic": 26
+      "Hacking": 30,
+      "Perception": 32,
+      "Firearms": 32
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 26,
-      "extraversion": 27,
-      "agreeableness": 8,
-      "neuroticism": 33
+      "openness": 5,
+      "conscientiousness": 41,
+      "extraversion": 96,
+      "agreeableness": 95,
+      "neuroticism": 89
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.4
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

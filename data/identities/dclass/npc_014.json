@@ -1,21 +1,21 @@
 {
   "id": "npc_014",
   "bio": {
-    "full_name": "Yuki Schmidt",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 39,
+    "full_name": "Richard Davis",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 24,
     "blood_type": "O+",
-    "genetic_stability": 0.9,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.872,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 52,
-    "build": "Frail",
+    "height_cm": 197,
+    "weight_kg": 94,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 92,
-      "Stealth": 49,
-      "Containment_Logic": 22
+      "Medicine": 54,
+      "Engineering": 67,
+      "Perception": 28
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 30,
-      "conscientiousness": 17,
-      "extraversion": 47,
-      "agreeableness": 93,
-      "neuroticism": 0
+      "openness": 56,
+      "conscientiousness": 5,
+      "extraversion": 74,
+      "agreeableness": 79,
+      "neuroticism": 18
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

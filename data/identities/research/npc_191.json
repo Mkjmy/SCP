@@ -1,23 +1,23 @@
 {
   "id": "npc_191",
   "bio": {
-    "full_name": "Richard O'Connor",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 46,
-    "blood_type": "B+",
-    "genetic_stability": 0.876,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Steven Dubois",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "A+",
+    "genetic_stability": 0.898,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 86,
-    "build": "Slender",
+    "height_cm": 172,
+    "weight_kg": 90,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
+      "hair": "Dyed blue, Buzz cut",
       "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 51,
-      "Firearms": 79,
-      "Occult_Research": 23
+      "Engineering": 50,
+      "Occult_Research": 53,
+      "Medicine": 55
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 98,
-      "extraversion": 90,
-      "agreeableness": 3,
-      "neuroticism": 35
+      "openness": 18,
+      "conscientiousness": 75,
+      "extraversion": 76,
+      "agreeableness": 2,
+      "neuroticism": 52
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
+      "amount": 100000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

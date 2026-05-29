@@ -1,23 +1,23 @@
 {
   "id": "npc_139",
   "bio": {
-    "full_name": "Matthew Davis",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 36,
-    "blood_type": "A+",
-    "genetic_stability": 0.871,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Olga Ivanov",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "AB-",
+    "genetic_stability": 0.936,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 99,
-    "build": "Overweight",
+    "height_cm": 185,
+    "weight_kg": 101,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Grey, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 82,
-      "Firearms": 93,
-      "Stealth": 71
+      "Medicine": 66,
+      "Occult_Research": 75,
+      "Persuasion": 41
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 88,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 46,
-      "extraversion": 92,
-      "agreeableness": 45,
-      "neuroticism": 42
+      "openness": 46,
+      "conscientiousness": 24,
+      "extraversion": 49,
+      "agreeableness": 30,
+      "neuroticism": 3
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_060",
   "bio": {
-    "full_name": "Olga Jones",
+    "full_name": "Richard Williams",
     "gender": "Non-binary",
     "orientation": "Homosexual",
     "age": 56,
-    "blood_type": "O+",
-    "genetic_stability": 0.994,
-    "origin": "Former investigative journalist who dug too deep"
+    "blood_type": "AB+",
+    "genetic_stability": 0.973,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 70,
-    "build": "Overweight",
+    "height_cm": 178,
+    "weight_kg": 60,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Hazel",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Engineering": 73,
-      "Containment_Logic": 33,
-      "Hacking": 54
+      "Stealth": 12,
+      "Perception": 65,
+      "Firearms": 81
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 165,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 1,
-      "extraversion": 44,
-      "agreeableness": 73,
-      "neuroticism": 71
+      "openness": 7,
+      "conscientiousness": 13,
+      "extraversion": 23,
+      "agreeableness": 60,
+      "neuroticism": 58
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
       "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

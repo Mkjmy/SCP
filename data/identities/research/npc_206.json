@@ -1,23 +1,23 @@
 {
   "id": "npc_206",
   "bio": {
-    "full_name": "James Garcia",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 56,
-    "blood_type": "O+",
-    "genetic_stability": 0.88,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Sven Muller",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "O-",
+    "genetic_stability": 0.999,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 52,
-    "build": "Overweight",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "White, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 78,
-      "Athletics": 80,
-      "Containment_Logic": 63
+      "Occult_Research": 63,
+      "Hacking": 13,
+      "Athletics": 15
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 31,
-      "conscientiousness": 13,
-      "extraversion": 87,
-      "agreeableness": 47,
-      "neuroticism": 89
+      "openness": 12,
+      "conscientiousness": 58,
+      "extraversion": 11,
+      "agreeableness": 67,
+      "neuroticism": 10
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
     "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

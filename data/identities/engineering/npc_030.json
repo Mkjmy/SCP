@@ -1,23 +1,23 @@
 {
   "id": "npc_030",
   "bio": {
-    "full_name": "Paul Muller",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 64,
+    "full_name": "Kenji Smith",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 28,
     "blood_type": "O+",
-    "genetic_stability": 0.854,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.863,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 94,
-    "build": "Stocky",
+    "height_cm": 174,
+    "weight_kg": 105,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Amber",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Hums classical music"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 91,
-      "Firearms": 51,
-      "Medicine": 64
+      "Containment_Logic": 19,
+      "Stealth": 69,
+      "Medicine": 86
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 27,
-      "extraversion": 14,
-      "agreeableness": 41,
-      "neuroticism": 99
+      "openness": 55,
+      "conscientiousness": 98,
+      "extraversion": 7,
+      "agreeableness": 34,
+      "neuroticism": 25
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.95
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

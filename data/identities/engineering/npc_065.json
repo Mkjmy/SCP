@@ -1,23 +1,23 @@
 {
   "id": "npc_065",
   "bio": {
-    "full_name": "Donald Miller",
-    "gender": "Transgender",
+    "full_name": "Charles Williams",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 50,
-    "blood_type": "O+",
-    "genetic_stability": 0.954,
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.898,
     "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 89,
-    "build": "Lithe",
+    "height_cm": 164,
+    "weight_kg": 57,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Black, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 19,
-      "Hacking": 37,
-      "Occult_Research": 24
+      "Athletics": 69,
+      "Persuasion": 20,
+      "Engineering": 13
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 85,
-      "extraversion": 58,
-      "agreeableness": 95,
-      "neuroticism": 44
+      "openness": 28,
+      "conscientiousness": 98,
+      "extraversion": 30,
+      "agreeableness": 82,
+      "neuroticism": 100
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

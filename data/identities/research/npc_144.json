@@ -1,23 +1,23 @@
 {
   "id": "npc_144",
   "bio": {
-    "full_name": "Robert Bakker",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 36,
-    "blood_type": "A-",
-    "genetic_stability": 0.945,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Andrew Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 61,
+    "blood_type": "B+",
+    "genetic_stability": 0.879,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 73,
-    "build": "Stocky",
+    "height_cm": 158,
+    "weight_kg": 78,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Firearms": 33,
-      "Hacking": 51,
-      "Occult_Research": 20
+      "Occult_Research": 27,
+      "Engineering": 77,
+      "Persuasion": 52
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 32,
-      "extraversion": 27,
-      "agreeableness": 9,
-      "neuroticism": 98
+      "openness": 0,
+      "conscientiousness": 69,
+      "extraversion": 12,
+      "agreeableness": 60,
+      "neuroticism": 86
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

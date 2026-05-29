@@ -1,23 +1,23 @@
 {
   "id": "npc_017",
   "bio": {
-    "full_name": "Paul Miller",
+    "full_name": "Mark Johnson",
     "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 30,
-    "blood_type": "AB+",
-    "genetic_stability": 0.905,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 26,
+    "blood_type": "A-",
+    "genetic_stability": 0.857,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 70,
-    "build": "Lithe",
+    "height_cm": 181,
+    "weight_kg": 108,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 85,
-      "Perception": 32,
-      "Containment_Logic": 22
+      "Medicine": 65,
+      "Firearms": 28,
+      "Perception": 51
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 84,
+    "iq": 86,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 78,
-      "extraversion": 48,
-      "agreeableness": 70,
-      "neuroticism": 5
+      "openness": 97,
+      "conscientiousness": 64,
+      "extraversion": 70,
+      "agreeableness": 10,
+      "neuroticism": 29
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

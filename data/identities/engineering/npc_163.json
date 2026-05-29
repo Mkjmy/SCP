@@ -1,23 +1,23 @@
 {
   "id": "npc_163",
   "bio": {
-    "full_name": "Arjun Muller",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 50,
-    "blood_type": "A-",
-    "genetic_stability": 0.974,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Robert Jones",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 40,
+    "blood_type": "O+",
+    "genetic_stability": 0.973,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 81,
-    "build": "Frail",
+    "height_cm": 187,
+    "weight_kg": 58,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Black, Ponytail",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 35,
-      "Medicine": 68,
-      "Athletics": 87
+      "Hacking": 15,
+      "Athletics": 34,
+      "Persuasion": 17
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 62,
-      "conscientiousness": 58,
-      "extraversion": 86,
-      "agreeableness": 65,
-      "neuroticism": 19
+      "openness": 7,
+      "conscientiousness": 97,
+      "extraversion": 69,
+      "agreeableness": 14,
+      "neuroticism": 47
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

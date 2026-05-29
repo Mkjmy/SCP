@@ -1,23 +1,23 @@
 {
   "id": "npc_102",
   "bio": {
-    "full_name": "Christopher Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 34,
-    "blood_type": "AB+",
-    "genetic_stability": 0.944,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Paul Bakker",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "B-",
+    "genetic_stability": 0.98,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 92,
+    "height_cm": 172,
+    "weight_kg": 100,
     "build": "Frail",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Black, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Persuasion": 51,
-      "Hacking": 72,
-      "Firearms": 63
+      "Hacking": 43,
+      "Firearms": 58,
+      "Persuasion": 25
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 143,
     "personality_matrix": {
-      "openness": 51,
-      "conscientiousness": 27,
-      "extraversion": 5,
-      "agreeableness": 74,
-      "neuroticism": 88
+      "openness": 62,
+      "conscientiousness": 72,
+      "extraversion": 70,
+      "agreeableness": 84,
+      "neuroticism": 43
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.4
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
+      "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

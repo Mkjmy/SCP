@@ -1,23 +1,23 @@
 {
   "id": "npc_185",
   "bio": {
-    "full_name": "Lars Sato",
+    "full_name": "Joshua Williams",
     "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 28,
-    "blood_type": "A-",
-    "genetic_stability": 0.992,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "AB+",
+    "genetic_stability": 0.981,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 80,
-    "build": "Frail",
+    "height_cm": 192,
+    "weight_kg": 56,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 45,
-      "Firearms": 41,
-      "Containment_Logic": 63
+      "Medicine": 25,
+      "Occult_Research": 36,
+      "Perception": 42
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 95,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 89,
-      "extraversion": 42,
-      "agreeableness": 43,
-      "neuroticism": 89
+      "openness": 44,
+      "conscientiousness": 71,
+      "extraversion": 12,
+      "agreeableness": 85,
+      "neuroticism": 42
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

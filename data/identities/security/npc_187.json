@@ -1,20 +1,20 @@
 {
   "id": "npc_187",
   "bio": {
-    "full_name": "Michael Davis",
+    "full_name": "William Ivanov",
     "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 23,
-    "blood_type": "B-",
-    "genetic_stability": 0.982,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Homosexual",
+    "age": 49,
+    "blood_type": "O-",
+    "genetic_stability": 0.977,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 80,
-    "build": "Overweight",
+    "height_cm": 157,
+    "weight_kg": 87,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Manicured",
+      "hair": "Dyed blue, Wild and unkempt",
       "eyes": "Icy blue",
       "notable_marks": [
         "Smokes heavily"
@@ -22,39 +22,39 @@
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 34,
-      "Perception": 50,
-      "Athletics": 28
+      "Containment_Logic": 70,
+      "Persuasion": 20,
+      "Perception": 76
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 95,
-      "extraversion": 71,
-      "agreeableness": 10,
-      "neuroticism": 46
+      "openness": 15,
+      "conscientiousness": 25,
+      "extraversion": 63,
+      "agreeableness": 54,
+      "neuroticism": 93
     },
     "phobias": [
       "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
+      "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

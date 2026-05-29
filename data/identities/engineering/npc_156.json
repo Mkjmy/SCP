@@ -1,57 +1,57 @@
 {
   "id": "npc_156",
   "bio": {
-    "full_name": "Fatima Schmidt",
+    "full_name": "Charles Dubois",
     "gender": "Female",
-    "orientation": "Asexual",
-    "age": 64,
+    "orientation": "Heterosexual",
+    "age": 22,
     "blood_type": "O+",
-    "genetic_stability": 0.851,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.876,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 57,
-    "build": "Frail",
+    "height_cm": 163,
+    "weight_kg": 107,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Ponytail",
+      "hair": "Silver, Messy",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 89,
-      "Perception": 10,
-      "Containment_Logic": 76
+      "Perception": 43,
+      "Medicine": 89,
+      "Stealth": 38
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 51,
-      "extraversion": 60,
-      "agreeableness": 22,
-      "neuroticism": 61
+      "openness": 100,
+      "conscientiousness": 65,
+      "extraversion": 75,
+      "agreeableness": 75,
+      "neuroticism": 12
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Secretly worships the Scarlet King",

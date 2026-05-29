@@ -1,21 +1,21 @@
 {
   "id": "npc_173",
   "bio": {
-    "full_name": "Michael Schmidt",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 57,
+    "full_name": "Maria Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 42,
     "blood_type": "O+",
-    "genetic_stability": 0.877,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.895,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 69,
-    "build": "Stocky",
+    "height_cm": 155,
+    "weight_kg": 58,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Bald",
-      "eyes": "Hazel",
+      "hair": "Black, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Containment_Logic": 41,
-      "Athletics": 84,
-      "Perception": 47
+      "Firearms": 41,
+      "Perception": 12,
+      "Stealth": 67
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 91,
-      "extraversion": 9,
-      "agreeableness": 58,
-      "neuroticism": 33
+      "openness": 89,
+      "conscientiousness": 47,
+      "extraversion": 40,
+      "agreeableness": 32,
+      "neuroticism": 60
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

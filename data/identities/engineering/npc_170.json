@@ -1,60 +1,60 @@
 {
   "id": "npc_170",
   "bio": {
-    "full_name": "Chen Kovacs",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 38,
-    "blood_type": "AB-",
-    "genetic_stability": 0.914,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Arjun Gupta",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 45,
+    "blood_type": "O-",
+    "genetic_stability": 0.871,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 68,
-    "build": "Slender",
+    "height_cm": 162,
+    "weight_kg": 108,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Silver, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 12,
-      "Containment_Logic": 43,
-      "Occult_Research": 84
+      "Occult_Research": 83,
+      "Containment_Logic": 79,
+      "Firearms": 16
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 133,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 95,
-      "conscientiousness": 22,
-      "extraversion": 42,
-      "agreeableness": 93,
-      "neuroticism": 46
+      "openness": 4,
+      "conscientiousness": 0,
+      "extraversion": 1,
+      "agreeableness": 47,
+      "neuroticism": 79
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

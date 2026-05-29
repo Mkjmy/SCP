@@ -1,23 +1,23 @@
 {
   "id": "npc_130",
   "bio": {
-    "full_name": "Robert Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 44,
-    "blood_type": "AB-",
-    "genetic_stability": 0.989,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "James Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.92,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 91,
-    "build": "Slender",
+    "height_cm": 166,
+    "weight_kg": 92,
+    "build": "Frail",
     "physical_features": {
       "hair": "Blonde, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 92,
-      "Medicine": 65,
-      "Athletics": 15
+      "Hacking": 20,
+      "Athletics": 86,
+      "Containment_Logic": 47
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 35,
-      "extraversion": 47,
-      "agreeableness": 82,
-      "neuroticism": 11
+      "openness": 95,
+      "conscientiousness": 99,
+      "extraversion": 16,
+      "agreeableness": 79,
+      "neuroticism": 70
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",

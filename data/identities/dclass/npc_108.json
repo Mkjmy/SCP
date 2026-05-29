@@ -1,23 +1,23 @@
 {
   "id": "npc_108",
   "bio": {
-    "full_name": "Fatima Schmidt",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 35,
-    "blood_type": "B-",
-    "genetic_stability": 0.864,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Sven Brown",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "A+",
+    "genetic_stability": 0.966,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 79,
-    "build": "Stocky",
+    "height_cm": 156,
+    "weight_kg": 92,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 73,
-      "Containment_Logic": 54,
-      "Engineering": 47
+      "Medicine": 25,
+      "Firearms": 78,
+      "Stealth": 82
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
     "iq": 113,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 79,
-      "extraversion": 31,
-      "agreeableness": 11,
-      "neuroticism": 81
+      "openness": 73,
+      "conscientiousness": 31,
+      "extraversion": 82,
+      "agreeableness": 81,
+      "neuroticism": 76
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
       "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

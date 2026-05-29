@@ -1,23 +1,23 @@
 {
   "id": "npc_059",
   "bio": {
-    "full_name": "David Ivanov",
-    "gender": "Female",
+    "full_name": "Christopher Bakker",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 42,
-    "blood_type": "AB+",
-    "genetic_stability": 0.951,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 33,
+    "blood_type": "B-",
+    "genetic_stability": 0.871,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 91,
-    "build": "Overweight",
+    "height_cm": 193,
+    "weight_kg": 63,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Grey, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Athletics": 80,
-      "Firearms": 17,
-      "Persuasion": 27
+      "Engineering": 59,
+      "Containment_Logic": 94,
+      "Occult_Research": 57
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 100,
-      "extraversion": 14,
-      "agreeableness": 54,
-      "neuroticism": 47
+      "openness": 90,
+      "conscientiousness": 42,
+      "extraversion": 34,
+      "agreeableness": 89,
+      "neuroticism": 44
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

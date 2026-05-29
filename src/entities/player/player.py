@@ -86,11 +86,17 @@ class Player:
         self.origin = origin
         self.personality = personality
         self.specialty = specialty
-        self.identified_npc_ids = set()
         
-        # --- Combat State ---
+        # --- Combat and Social State ---
         self.combat_momentum = 0 # Positive = Win streak, Negative = Loss streak
         self.total_kills = 0
+        self.known_secrets = {} # { "npc_id": { "secret_type": "secret_value" } }
+        self.discovered_intel = [] # General facility secrets
+
+    def get_description(self, debug=False):
+        """Returns a string with the player's details, including stats."""
+        if not debug:
+            details = [
                 f"  Name: {self.name} ({self.role})",
                 f"\n  Hands:",
                 f"    Left: {self.left_hand if self.left_hand else 'Empty'}",
@@ -111,12 +117,20 @@ class Player:
 
         return "\n".join(details)
 
+    def get_injury_status(self):
+        """Returns a list of all current injuries."""
+        injuries = []
+        for part, status in self.body_parts.items():
+            if status != 'intact' and status != 'uninjured':
+                injuries.append(f"{part.replace('_', ' ').title()}: {status.replace('_', ' ').title()}")
+        return injuries
+
     def apply_injury(self, part, severity='bruised'):
         """Applies damage to a specific anatomical part or organ."""
         if part not in self.body_parts:
             return f"Invalid anatomical target: {part}"
 
-        current_level = DAMAGE_STATES[self.body_parts[part]]
+        current_level = DAMAGE_STATES.get(self.body_parts[part], 0)
         new_level = DAMAGE_STATES[severity]
 
         if new_level > current_level:
@@ -143,7 +157,7 @@ class Player:
         # 3. Accumulated Trauma
         major_trauma = 0
         for status in self.body_parts.values():
-            if DAMAGE_STATES[status] >= 3: # Fractured or worse
+            if DAMAGE_STATES.get(status, 0) >= 3: # Fractured or worse
                 major_trauma += 1
         
         if major_trauma >= 5:
@@ -172,38 +186,31 @@ class Player:
             return f"You don't have '{item_name}' in your backpack."
         
         if hand == 'left':
-            if self.left_hand is not None:
-                return "Your left hand is already full."
+            if self.left_hand: self.inventory.append(self.left_hand)
             self.left_hand = item_name
-            self.inventory.remove(item_name)
-            return f"You equipped '{item_name}' in your left hand."
         elif hand == 'right':
-            if self.right_hand is not None:
-                return "Your right hand is already full."
+            if self.right_hand: self.inventory.append(self.right_hand)
             self.right_hand = item_name
-            self.inventory.remove(item_name)
-            return f"You equipped '{item_name}' in your right hand."
-        else:
-            return "You can only equip items in your 'left' or 'right' hand."
+        else: return "Choose 'left' or 'right' hand."
+        
+        self.inventory.remove(item_name)
+        return f"You equipped '{item_name}' in your {hand} hand."
 
     def unequip_item(self, hand):
         """Moves an item from a hand to inventory."""
         if hand == 'left':
-            if self.left_hand is None:
-                return "Your left hand is empty."
+            if self.left_hand is None: return "Your left hand is empty."
             item_name = self.left_hand
             self.inventory.append(item_name)
             self.left_hand = None
             return f"You moved '{item_name}' to your backpack."
         elif hand == 'right':
-            if self.right_hand is None:
-                return "Your right hand is empty."
+            if self.right_hand is None: return "Your right hand is empty."
             item_name = self.right_hand
             self.inventory.append(item_name)
             self.right_hand = None
             return f"You moved '{item_name}' to your backpack."
-        else:
-            return "You can only unequip from your 'left' or 'right' hand."
+        else: return "You can only unequip from your 'left' or 'right' hand."
     
     def change_morale(self, amount):
         """Adjusts player morale within bounds."""
@@ -213,7 +220,7 @@ class Player:
             return f"Your morale improved by {self.morale - old_morale}!"
         elif self.morale < old_morale:
             return f"Your morale dropped by {old_morale - self.morale}!"
-        return "" # No change
+        return "" 
 
     def change_sanity(self, amount):
         """Adjusts player sanity within bounds."""
@@ -223,107 +230,18 @@ class Player:
             return f"Your sanity improved by {self.sanity - old_sanity}!"
         elif self.sanity < old_sanity:
             return f"Your sanity dropped by {old_sanity - self.sanity}!"
-        return "" # No change
-
-    def get_morale_effect(self, stat_type):
-        """Calculates a morale-based modifier for a given stat or action type."""
-        morale_threshold_low = 30
-        morale_threshold_mid = 70
-        
-        if self.morale < morale_threshold_low:
-            return -2 # Significant debuff
-        elif self.morale < morale_threshold_mid:
-            return -1 # Minor debuff
-        elif self.morale > morale_threshold_mid:
-            return 1 # Minor buff
-        return 0 # No significant effect
-
-    def learn_knowledge(self, knowledge_id):
-        """Adds new knowledge to the player's repertoire."""
-        if knowledge_id not in self.knowledge:
-            self.knowledge.add(knowledge_id)
-            return f"You learned: {knowledge_id.replace('_', ' ').title()}!"
-        return f"You already know: {knowledge_id.replace('_', ' ').title()}."
-
-    def has_knowledge(self, knowledge_id):
-        """Checks if the player possesses specific knowledge."""
-        return knowledge_id in self.knowledge
-
-    def apply_injury(self, part, severity='minor_injury'):
-        """Applies or worsens an injury to a specific body part."""
-        if part not in self.body_parts:
-            return f"Invalid body part: {part}"
-
-        current_severity_level = DAMAGE_STATES[self.body_parts[part]]
-        new_severity_level = DAMAGE_STATES[severity]
-
-        # Only worsen the injury
-        if new_severity_level > current_severity_level:
-            for state, level in DAMAGE_STATES.items():
-                if level == new_severity_level:
-                    self.body_parts[part] = state
-                    return f"Your {part} is now {state.replace('_', ' ')}."
-        return f"Your {part} is already {self.body_parts[part].replace('_', ' ')} or worse."
-
-    def get_debuff(self, attribute=None, action_type=None):
-        """Calculates total debuff from injuries for an attribute or action."""
-        total_debuff = 0
-        for part, status in self.body_parts.items():
-            if status == 'uninjured':
-                continue
-            
-            severity_value = DEBUFF_VALUES.get(status, 0)
-            
-            if attribute:
-                if attribute == 'strength' and ('arm' in part or 'torso' in part):
-                    total_debuff += severity_value
-                elif attribute == 'dexterity' and ('arm' in part or 'leg' in part):
-                    total_debuff += severity_value
-                elif attribute == 'intelligence' and 'head' in part:
-                    total_debuff += severity_value
-            
-            if action_type:
-                if action_type == 'run' and 'leg' in part:
-                    total_debuff += severity_value * 2 # Legs heavily impact running
-                elif action_type == 'attack' and 'arm' in part:
-                    total_debuff += severity_value * 2 # Arms heavily impact attacking
-        
-        return total_debuff
-
-    def get_injury_status(self):
-        """Returns a list of strings describing current injuries."""
-        injuries = []
-        for part, status in self.body_parts.items():
-            if status != 'uninjured':
-                injuries.append(f"{part.replace('_', ' ').title()}: {status.replace('_', ' ').title()}")
-        return injuries
+        return ""
 
     def is_part_severely_injured(self, part):
         """Checks if a specific body part has a severe injury (fractured or worse)."""
-        # Threshold: Fractured (level 3) is considered severe for basic action blocking
         current_status = self.body_parts.get(part, 'intact')
         return DAMAGE_STATES.get(current_status, 0) >= DAMAGE_STATES['fractured']
 
     def reduce_attribute(self, attribute, amount):
-        """Reduces a specific base attribute. Useful for penalties after losing fights."""
+        """Reduces a specific base attribute."""
         if attribute in self.attributes:
             old_val = self.attributes[attribute]
             self.attributes[attribute] = max(1, self.attributes[attribute] - amount)
             if self.attributes[attribute] < old_val:
-                return f"Your {attribute.capitalize()} has decreased to {self.attributes[attribute]} due to your injuries."
+                return f"Your {attribute.capitalize()} has decreased to {self.attributes[attribute]}."
         return ""
-
-    def is_incapacitated(self):
-        """Checks if the player is too mangled to act."""
-        if self.health < 15:
-            return True, "Your body is failing. Every movement brings a wave of blinding pain. You can't do this."
-        
-        severe_count = 0
-        for status in self.body_parts.values():
-            if status in ['major_injury', 'severe_injury']:
-                severe_count += 1
-        
-        if severe_count >= 3:
-            return True, "Your injuries are too extensive. Your limbs won't obey your commands. You are completely broken."
-            
-        return False, ""

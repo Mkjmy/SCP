@@ -1,0 +1,60 @@
+{
+  "id": "npc_150",
+  "bio": {
+    "full_name": "Sven Schmidt",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 20,
+    "blood_type": "A+",
+    "genetic_stability": 0.922,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
+  },
+  "appearance": {
+    "height_cm": 186,
+    "weight_kg": 84,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Silver, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 84,
+      "Athletics": 90,
+      "Engineering": 74
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 112,
+    "personality_matrix": {
+      "openness": 25,
+      "conscientiousness": 22,
+      "extraversion": 31,
+      "agreeableness": 33,
+      "neuroticism": 64
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.62
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

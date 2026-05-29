@@ -1,23 +1,23 @@
 {
   "id": "npc_064",
   "bio": {
-    "full_name": "Maria Kovacs",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "AB-",
-    "genetic_stability": 1.0,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Daniel Garcia",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 44,
+    "blood_type": "A+",
+    "genetic_stability": 0.883,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 69,
+    "height_cm": 199,
+    "weight_kg": 63,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Black, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 35,
-      "Containment_Logic": 58,
-      "Occult_Research": 40
+      "Containment_Logic": 62,
+      "Occult_Research": 68,
+      "Medicine": 88
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 10,
-      "extraversion": 68,
-      "agreeableness": 86,
-      "neuroticism": 80
+      "openness": 42,
+      "conscientiousness": 67,
+      "extraversion": 80,
+      "agreeableness": 40,
+      "neuroticism": 22
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 1.0
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

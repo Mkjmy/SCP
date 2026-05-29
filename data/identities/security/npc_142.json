@@ -1,20 +1,20 @@
 {
   "id": "npc_142",
   "bio": {
-    "full_name": "Richard Ivanov",
-    "gender": "Non-binary",
+    "full_name": "Sven Johnson",
+    "gender": "Transgender",
     "orientation": "Pansexual",
     "age": 24,
-    "blood_type": "A-",
-    "genetic_stability": 0.999,
-    "origin": "Rescued from a defunct GOI cell"
+    "blood_type": "AB-",
+    "genetic_stability": 0.979,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 61,
-    "build": "Stocky",
+    "height_cm": 164,
+    "weight_kg": 75,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Pixie cut",
+      "hair": "Silver, Shoulder-length",
       "eyes": "Icy blue",
       "notable_marks": [
         "Hums classical music"
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 43,
-      "Engineering": 59,
-      "Athletics": 55
+      "Hacking": 51,
+      "Firearms": 80,
+      "Persuasion": 53
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 97,
-      "extraversion": 7,
-      "agreeableness": 36,
-      "neuroticism": 71
+      "openness": 53,
+      "conscientiousness": 55,
+      "extraversion": 27,
+      "agreeableness": 95,
+      "neuroticism": 5
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

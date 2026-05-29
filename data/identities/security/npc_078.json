@@ -1,60 +1,60 @@
 {
   "id": "npc_078",
   "bio": {
-    "full_name": "Michael Kovacs",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 46,
+    "full_name": "Yuki Bakker",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 35,
     "blood_type": "AB+",
-    "genetic_stability": 0.993,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.86,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 62,
-    "build": "Heavily Muscular",
+    "height_cm": 187,
+    "weight_kg": 84,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Wild and unkempt",
-      "eyes": "Emerald green",
+      "hair": "Blonde, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Medicine": 46,
-      "Stealth": 44,
-      "Perception": 39
+      "Perception": 82,
+      "Persuasion": 25,
+      "Containment_Logic": 87
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 93,
-      "conscientiousness": 20,
-      "extraversion": 85,
-      "agreeableness": 26,
-      "neuroticism": 24
+      "openness": 8,
+      "conscientiousness": 92,
+      "extraversion": 86,
+      "agreeableness": 88,
+      "neuroticism": 14
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

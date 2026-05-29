@@ -1,23 +1,23 @@
 {
   "id": "npc_149",
   "bio": {
-    "full_name": "Robert Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 24,
-    "blood_type": "A+",
-    "genetic_stability": 0.946,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Lars Tanaka",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "B+",
+    "genetic_stability": 0.907,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 110,
-    "build": "Frail",
+    "height_cm": 186,
+    "weight_kg": 50,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Amber",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 70,
-      "Perception": 45,
-      "Hacking": 36
+      "Medicine": 87,
+      "Stealth": 16,
+      "Firearms": 61
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 85,
     "personality_matrix": {
-      "openness": 84,
-      "conscientiousness": 41,
-      "extraversion": 0,
-      "agreeableness": 47,
-      "neuroticism": 32
+      "openness": 35,
+      "conscientiousness": 50,
+      "extraversion": 40,
+      "agreeableness": 99,
+      "neuroticism": 17
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

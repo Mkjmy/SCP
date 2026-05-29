@@ -1,23 +1,23 @@
 {
   "id": "npc_183",
   "bio": {
-    "full_name": "Robert Dubois",
+    "full_name": "Kenji Bakker",
     "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 26,
-    "blood_type": "A-",
-    "genetic_stability": 0.967,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "B-",
+    "genetic_stability": 0.901,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 83,
-    "build": "Overweight",
+    "height_cm": 164,
+    "weight_kg": 59,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "White, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Firearms": 59,
-      "Stealth": 33,
-      "Athletics": 45
+      "Medicine": 87,
+      "Stealth": 29,
+      "Perception": 51
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 28,
-      "extraversion": 9,
-      "agreeableness": 32,
-      "neuroticism": 4
+      "openness": 43,
+      "conscientiousness": 19,
+      "extraversion": 28,
+      "agreeableness": 68,
+      "neuroticism": 69
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

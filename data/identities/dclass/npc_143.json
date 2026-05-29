@@ -1,23 +1,23 @@
 {
   "id": "npc_143",
   "bio": {
-    "full_name": "David Brown",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 31,
-    "blood_type": "AB-",
-    "genetic_stability": 0.981,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Daniel Dubois",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.95,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 91,
-    "build": "Lithe",
+    "height_cm": 194,
+    "weight_kg": 108,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Grey",
+      "hair": "Brown, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 67,
-      "Medicine": 77,
-      "Athletics": 19
+      "Athletics": 85,
+      "Perception": 43,
+      "Hacking": 16
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 86,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 34,
-      "extraversion": 49,
-      "agreeableness": 1,
-      "neuroticism": 71
+      "openness": 65,
+      "conscientiousness": 45,
+      "extraversion": 46,
+      "agreeableness": 50,
+      "neuroticism": 18
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

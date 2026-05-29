@@ -1,23 +1,23 @@
 {
   "id": "npc_159",
   "bio": {
-    "full_name": "Thomas Vasiliev",
+    "full_name": "Arjun Gupta",
     "gender": "Female",
-    "orientation": "Asexual",
-    "age": 34,
-    "blood_type": "AB-",
-    "genetic_stability": 0.889,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "orientation": "Bisexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.958,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 82,
-    "build": "Slender",
+    "height_cm": 195,
+    "weight_kg": 78,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Grey",
+      "hair": "Silver, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 59,
-      "Hacking": 27,
-      "Containment_Logic": 49
+      "Persuasion": 95,
+      "Firearms": 39,
+      "Hacking": 37
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 10,
-      "extraversion": 55,
-      "agreeableness": 27,
-      "neuroticism": 82
+      "openness": 29,
+      "conscientiousness": 48,
+      "extraversion": 82,
+      "agreeableness": 11,
+      "neuroticism": 99
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

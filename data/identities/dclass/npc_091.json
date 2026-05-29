@@ -1,23 +1,23 @@
 {
   "id": "npc_091",
   "bio": {
-    "full_name": "James Davis",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 33,
-    "blood_type": "AB-",
-    "genetic_stability": 0.989,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Charles Brown",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 37,
+    "blood_type": "A-",
+    "genetic_stability": 0.998,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 69,
-    "build": "Slender",
+    "height_cm": 156,
+    "weight_kg": 107,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Red, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 15,
-      "Persuasion": 43,
-      "Containment_Logic": 16
+      "Engineering": 84,
+      "Hacking": 50,
+      "Stealth": 92
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 17,
-      "extraversion": 44,
-      "agreeableness": 46,
-      "neuroticism": 20
+      "openness": 57,
+      "conscientiousness": 93,
+      "extraversion": 5,
+      "agreeableness": 90,
+      "neuroticism": 84
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

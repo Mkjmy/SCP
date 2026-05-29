@@ -1,23 +1,23 @@
 {
   "id": "npc_065",
   "bio": {
-    "full_name": "Yuki Kovacs",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 32,
-    "blood_type": "A+",
-    "genetic_stability": 0.957,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Joseph Wong",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.948,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 77,
-    "build": "Heavily Muscular",
+    "height_cm": 191,
+    "weight_kg": 102,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
+      "hair": "Black, Fade",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 68,
-      "Containment_Logic": 50,
-      "Medicine": 86
+      "Hacking": 41,
+      "Stealth": 86,
+      "Persuasion": 89
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 133,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 63,
-      "extraversion": 66,
-      "agreeableness": 66,
-      "neuroticism": 99
+      "openness": 68,
+      "conscientiousness": 23,
+      "extraversion": 50,
+      "agreeableness": 4,
+      "neuroticism": 39
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

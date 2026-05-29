@@ -1,23 +1,23 @@
 {
   "id": "npc_142",
   "bio": {
-    "full_name": "Elena Williams",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 26,
-    "blood_type": "A-",
-    "genetic_stability": 0.909,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Maria Gupta",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "A+",
+    "genetic_stability": 0.958,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 195,
+    "height_cm": 189,
     "weight_kg": 70,
-    "build": "Athletic",
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 24,
-      "Athletics": 68,
-      "Engineering": 60
+      "Occult_Research": 42,
+      "Hacking": 40,
+      "Persuasion": 68
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 33,
-      "extraversion": 32,
-      "agreeableness": 74,
-      "neuroticism": 1
+      "openness": 5,
+      "conscientiousness": 79,
+      "extraversion": 9,
+      "agreeableness": 68,
+      "neuroticism": 37
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

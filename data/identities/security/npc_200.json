@@ -1,23 +1,23 @@
 {
   "id": "npc_200",
   "bio": {
-    "full_name": "Matthew Gupta",
+    "full_name": "Christopher Vasiliev",
     "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "AB-",
-    "genetic_stability": 0.945,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.895,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 105,
-    "build": "Heavily Muscular",
+    "height_cm": 184,
+    "weight_kg": 80,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Hazel",
+      "hair": "Grey, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Stealth": 94,
-      "Containment_Logic": 52,
-      "Hacking": 57
+      "Firearms": 54,
+      "Stealth": 12,
+      "Engineering": 74
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 38,
-      "conscientiousness": 87,
-      "extraversion": 29,
-      "agreeableness": 43,
-      "neuroticism": 45
+      "openness": 32,
+      "conscientiousness": 70,
+      "extraversion": 72,
+      "agreeableness": 8,
+      "neuroticism": 22
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

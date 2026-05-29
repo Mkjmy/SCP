@@ -1,23 +1,23 @@
 {
   "id": "npc_071",
   "bio": {
-    "full_name": "Maria Johnson",
+    "full_name": "Charles Ivanov",
     "gender": "Agender",
     "orientation": "Pansexual",
-    "age": 36,
+    "age": 48,
     "blood_type": "O+",
-    "genetic_stability": 0.986,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.989,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 98,
-    "build": "Slender",
+    "height_cm": 157,
+    "weight_kg": 91,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Stealth": 86,
-      "Medicine": 78,
-      "Firearms": 45
+      "Engineering": 56,
+      "Hacking": 32,
+      "Perception": 26
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 86,
-      "extraversion": 78,
-      "agreeableness": 35,
-      "neuroticism": 40
+      "openness": 8,
+      "conscientiousness": 83,
+      "extraversion": 48,
+      "agreeableness": 59,
+      "neuroticism": 35
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_088",
   "bio": {
-    "full_name": "Paul Davis",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 35,
-    "blood_type": "AB-",
-    "genetic_stability": 0.884,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Thomas Kovacs",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 23,
+    "blood_type": "B+",
+    "genetic_stability": 0.969,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 107,
-    "build": "Athletic",
+    "height_cm": 182,
+    "weight_kg": 75,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Medicine": 53,
-      "Persuasion": 13,
-      "Hacking": 70
+      "Medicine": 26,
+      "Occult_Research": 91,
+      "Athletics": 81
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 88,
-      "extraversion": 27,
-      "agreeableness": 39,
-      "neuroticism": 86
+      "openness": 69,
+      "conscientiousness": 75,
+      "extraversion": 84,
+      "agreeableness": 49,
+      "neuroticism": 81
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

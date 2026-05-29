@@ -1,23 +1,23 @@
 {
   "id": "npc_066",
   "bio": {
-    "full_name": "Richard Jones",
+    "full_name": "Yuki Tanaka",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 45,
-    "blood_type": "O+",
-    "genetic_stability": 0.969,
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.855,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 77,
-    "build": "Lithe",
+    "height_cm": 190,
+    "weight_kg": 80,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 83,
-      "Engineering": 41,
-      "Perception": 25
+      "Perception": 38,
+      "Containment_Logic": 13,
+      "Stealth": 27
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 123,
     "personality_matrix": {
-      "openness": 32,
-      "conscientiousness": 80,
-      "extraversion": 35,
-      "agreeableness": 75,
-      "neuroticism": 70
+      "openness": 74,
+      "conscientiousness": 9,
+      "extraversion": 98,
+      "agreeableness": 56,
+      "neuroticism": 9
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

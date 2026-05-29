@@ -1,23 +1,23 @@
 {
   "id": "npc_172",
   "bio": {
-    "full_name": "David Brown",
-    "gender": "Transgender",
+    "full_name": "Lars Wong",
+    "gender": "Male",
     "orientation": "Asexual",
-    "age": 35,
-    "blood_type": "A+",
-    "genetic_stability": 0.954,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.995,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 107,
-    "build": "Stocky",
+    "height_cm": 159,
+    "weight_kg": 59,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 28,
-      "Persuasion": 20,
-      "Firearms": 47
+      "Occult_Research": 56,
+      "Persuasion": 15,
+      "Athletics": 61
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 103,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 10,
-      "extraversion": 93,
-      "agreeableness": 37,
-      "neuroticism": 92
+      "openness": 45,
+      "conscientiousness": 82,
+      "extraversion": 70,
+      "agreeableness": 32,
+      "neuroticism": 49
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

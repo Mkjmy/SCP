@@ -1,0 +1,60 @@
+{
+  "id": "npc_024",
+  "bio": {
+    "full_name": "Andrew Wong",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 35,
+    "blood_type": "B+",
+    "genetic_stability": 0.868,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 179,
+    "weight_kg": 93,
+    "build": "Athletic",
+    "physical_features": {
+      "hair": "Grey, Ponytail",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Obsessively cleans their glasses"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 76,
+      "Hacking": 18,
+      "Occult_Research": 31
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 51,
+      "extraversion": 22,
+      "agreeableness": 74,
+      "neuroticism": 55
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

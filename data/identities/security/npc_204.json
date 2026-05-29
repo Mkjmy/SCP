@@ -1,20 +1,20 @@
 {
   "id": "npc_204",
   "bio": {
-    "full_name": "Michael Williams",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 49,
-    "blood_type": "A+",
-    "genetic_stability": 0.918,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "David Ivanov",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.975,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 50,
-    "build": "Stocky",
+    "height_cm": 174,
+    "weight_kg": 61,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
+      "hair": "Black, Manicured",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Hums classical music"
@@ -22,39 +22,39 @@
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Occult_Research": 72,
-      "Persuasion": 21,
-      "Hacking": 55
+      "Stealth": 85,
+      "Persuasion": 31,
+      "Hacking": 39
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 152,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 55,
-      "extraversion": 26,
-      "agreeableness": 89,
-      "neuroticism": 67
+      "openness": 81,
+      "conscientiousness": 9,
+      "extraversion": 30,
+      "agreeableness": 41,
+      "neuroticism": 91
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
       "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_040",
   "bio": {
-    "full_name": "Charles O'Connor",
-    "gender": "Female",
+    "full_name": "Joshua Tanaka",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 32,
+    "age": 22,
     "blood_type": "O-",
-    "genetic_stability": 0.959,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.887,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 74,
-    "build": "Frail",
+    "height_cm": 156,
+    "weight_kg": 110,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Silver, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 82,
-      "Medicine": 71,
-      "Hacking": 14
+      "Stealth": 85,
+      "Engineering": 81,
+      "Persuasion": 91
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 69,
-      "extraversion": 37,
-      "agreeableness": 99,
-      "neuroticism": 4
+      "openness": 82,
+      "conscientiousness": 47,
+      "extraversion": 49,
+      "agreeableness": 0,
+      "neuroticism": 76
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_150",
   "bio": {
-    "full_name": "Joshua Tanaka",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 48,
-    "blood_type": "AB-",
-    "genetic_stability": 0.856,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Richard Schmidt",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.977,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 86,
-    "build": "Overweight",
+    "height_cm": 157,
+    "weight_kg": 90,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Grey",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 91,
-      "Persuasion": 81,
-      "Firearms": 95
+      "Persuasion": 17,
+      "Stealth": 95,
+      "Hacking": 92
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 7,
-      "extraversion": 30,
-      "agreeableness": 2,
-      "neuroticism": 98
+      "openness": 18,
+      "conscientiousness": 37,
+      "extraversion": 14,
+      "agreeableness": 89,
+      "neuroticism": 39
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

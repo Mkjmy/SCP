@@ -1,60 +1,60 @@
 {
   "id": "npc_190",
   "bio": {
-    "full_name": "Thomas Dubois",
-    "gender": "Transgender",
+    "full_name": "David Williams",
+    "gender": "Male",
     "orientation": "Pansexual",
-    "age": 37,
-    "blood_type": "A-",
-    "genetic_stability": 0.933,
+    "age": 46,
+    "blood_type": "O-",
+    "genetic_stability": 0.945,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 97,
-    "build": "Athletic",
+    "height_cm": 160,
+    "weight_kg": 92,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Pompadour",
-      "eyes": "Grey",
+      "hair": "Grey, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 23,
-      "Medicine": 23,
-      "Occult_Research": 69
+      "Persuasion": 72,
+      "Firearms": 31,
+      "Perception": 68
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 42,
-      "conscientiousness": 24,
-      "extraversion": 54,
-      "agreeableness": 19,
-      "neuroticism": 30
+      "openness": 30,
+      "conscientiousness": 98,
+      "extraversion": 36,
+      "agreeableness": 43,
+      "neuroticism": 93
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

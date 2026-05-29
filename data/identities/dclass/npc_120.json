@@ -1,0 +1,60 @@
+{
+  "id": "npc_120",
+  "bio": {
+    "full_name": "Yuki Muller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.975,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 68,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Bald",
+      "eyes": "Emerald green",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 18,
+      "Stealth": 56,
+      "Medicine": 91
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 98,
+    "personality_matrix": {
+      "openness": 44,
+      "conscientiousness": 7,
+      "extraversion": 24,
+      "agreeableness": 100,
+      "neuroticism": 58
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.61
+  },
+  "social_and_secrets": {
+    "family": "Married, no children",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

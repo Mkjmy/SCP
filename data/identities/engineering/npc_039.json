@@ -1,21 +1,21 @@
 {
   "id": "npc_039",
   "bio": {
-    "full_name": "William Wong",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 36,
-    "blood_type": "B-",
-    "genetic_stability": 0.969,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Steven Gupta",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.967,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 52,
-    "build": "Athletic",
+    "height_cm": 197,
+    "weight_kg": 63,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 20,
-      "Medicine": 62,
-      "Stealth": 58
+      "Stealth": 85,
+      "Persuasion": 90,
+      "Occult_Research": 18
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 117,
     "personality_matrix": {
-      "openness": 86,
-      "conscientiousness": 70,
-      "extraversion": 74,
-      "agreeableness": 54,
-      "neuroticism": 69
+      "openness": 37,
+      "conscientiousness": 18,
+      "extraversion": 59,
+      "agreeableness": 8,
+      "neuroticism": 63
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
+      "amount": 0,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

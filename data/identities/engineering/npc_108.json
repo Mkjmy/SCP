@@ -1,23 +1,23 @@
 {
   "id": "npc_108",
   "bio": {
-    "full_name": "Daniel Miller",
+    "full_name": "Maria Tanaka",
     "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 65,
-    "blood_type": "A+",
-    "genetic_stability": 0.965,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Heterosexual",
+    "age": 59,
+    "blood_type": "AB-",
+    "genetic_stability": 0.87,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
     "height_cm": 176,
-    "weight_kg": 61,
-    "build": "Overweight",
+    "weight_kg": 67,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Silver, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 56,
-      "Stealth": 84,
-      "Perception": 13
+      "Medicine": 88,
+      "Stealth": 12,
+      "Perception": 64
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 42,
-      "extraversion": 28,
-      "agreeableness": 45,
-      "neuroticism": 41
+      "openness": 71,
+      "conscientiousness": 26,
+      "extraversion": 7,
+      "agreeableness": 0,
+      "neuroticism": 60
     },
     "phobias": [
       "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

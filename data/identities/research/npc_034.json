@@ -1,23 +1,23 @@
 {
   "id": "npc_034",
   "bio": {
-    "full_name": "Joshua Williams",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 24,
-    "blood_type": "B+",
-    "genetic_stability": 0.913,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Matthew Vasiliev",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 62,
+    "blood_type": "AB-",
+    "genetic_stability": 0.943,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 105,
-    "build": "Average",
+    "height_cm": 165,
+    "weight_kg": 76,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Grey",
+      "hair": "Black, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Occult_Research": 67,
-      "Stealth": 60,
-      "Containment_Logic": 90
+      "Occult_Research": 64,
+      "Athletics": 38,
+      "Stealth": 46
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 89,
-      "extraversion": 99,
-      "agreeableness": 78,
-      "neuroticism": 52
+      "openness": 93,
+      "conscientiousness": 26,
+      "extraversion": 97,
+      "agreeableness": 92,
+      "neuroticism": 25
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

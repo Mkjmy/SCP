@@ -1,23 +1,23 @@
 {
   "id": "npc_088",
   "bio": {
-    "full_name": "Elena Williams",
-    "gender": "Female",
+    "full_name": "Daniel Tanaka",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 34,
-    "blood_type": "A-",
-    "genetic_stability": 0.931,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 29,
+    "blood_type": "B-",
+    "genetic_stability": 0.86,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 79,
-    "build": "Heavily Muscular",
+    "height_cm": 193,
+    "weight_kg": 52,
+    "build": "Average",
     "physical_features": {
-      "hair": "Grey, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Grey, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 42,
-      "Athletics": 35,
-      "Medicine": 48
+      "Occult_Research": 78,
+      "Persuasion": 35,
+      "Engineering": 47
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 83,
-      "conscientiousness": 53,
-      "extraversion": 62,
-      "agreeableness": 11,
-      "neuroticism": 61
+      "openness": 21,
+      "conscientiousness": 23,
+      "extraversion": 42,
+      "agreeableness": 44,
+      "neuroticism": 47
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_076",
   "bio": {
-    "full_name": "Daniel Wong",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 61,
-    "blood_type": "AB-",
-    "genetic_stability": 0.918,
+    "full_name": "Thomas Johnson",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "AB+",
+    "genetic_stability": 0.851,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 74,
-    "build": "Overweight",
+    "height_cm": 157,
+    "weight_kg": 104,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Deep brown",
+      "hair": "Grey, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 45,
-      "Hacking": 18,
-      "Medicine": 14
+      "Occult_Research": 66,
+      "Perception": 88,
+      "Firearms": 38
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 31,
-      "conscientiousness": 63,
-      "extraversion": 71,
-      "agreeableness": 88,
-      "neuroticism": 13
+      "openness": 100,
+      "conscientiousness": 19,
+      "extraversion": 66,
+      "agreeableness": 27,
+      "neuroticism": 55
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

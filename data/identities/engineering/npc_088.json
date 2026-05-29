@@ -1,23 +1,23 @@
 {
   "id": "npc_088",
   "bio": {
-    "full_name": "Richard Smith",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 56,
-    "blood_type": "O+",
-    "genetic_stability": 0.965,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "William Johnson",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.879,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 76,
-    "build": "Athletic",
+    "height_cm": 179,
+    "weight_kg": 95,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Fade",
-      "eyes": "Hazel",
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Hums classical music"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 13,
-      "Containment_Logic": 74,
-      "Occult_Research": 32
+      "Hacking": 29,
+      "Medicine": 49,
+      "Stealth": 44
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 53,
-      "extraversion": 89,
-      "agreeableness": 51,
-      "neuroticism": 26
+      "openness": 92,
+      "conscientiousness": 95,
+      "extraversion": 16,
+      "agreeableness": 7,
+      "neuroticism": 51
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

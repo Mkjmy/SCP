@@ -1,60 +1,60 @@
 {
   "id": "npc_013",
   "bio": {
-    "full_name": "Yuki Wong",
-    "gender": "Transgender",
+    "full_name": "David Schmidt",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "B-",
-    "genetic_stability": 0.882,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.998,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 71,
-    "build": "Slender",
+    "height_cm": 190,
+    "weight_kg": 107,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Amber",
+      "hair": "Grey, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 58,
-      "Athletics": 94,
-      "Hacking": 93
+      "Perception": 35,
+      "Occult_Research": 14,
+      "Firearms": 36
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 27,
-      "conscientiousness": 53,
-      "extraversion": 83,
-      "agreeableness": 52,
-      "neuroticism": 94
+      "openness": 92,
+      "conscientiousness": 18,
+      "extraversion": 58,
+      "agreeableness": 86,
+      "neuroticism": 29
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

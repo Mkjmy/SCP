@@ -1,60 +1,60 @@
 {
   "id": "npc_108",
   "bio": {
-    "full_name": "Fatima Sato",
+    "full_name": "Matthew Jones",
     "gender": "Female",
     "orientation": "Bisexual",
-    "age": 56,
+    "age": 26,
     "blood_type": "B-",
-    "genetic_stability": 0.854,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.975,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 73,
-    "build": "Lithe",
+    "height_cm": 197,
+    "weight_kg": 63,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Emerald green",
+      "hair": "Grey, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Medicine": 54,
-      "Hacking": 69,
-      "Athletics": 89
+      "Containment_Logic": 14,
+      "Medicine": 77,
+      "Perception": 81
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 118,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 51,
-      "conscientiousness": 70,
-      "extraversion": 5,
-      "agreeableness": 27,
-      "neuroticism": 78
+      "openness": 26,
+      "conscientiousness": 46,
+      "extraversion": 37,
+      "agreeableness": 90,
+      "neuroticism": 73
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

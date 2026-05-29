@@ -1,23 +1,23 @@
 {
   "id": "npc_068",
   "bio": {
-    "full_name": "Andrew Bakker",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 45,
-    "blood_type": "A-",
-    "genetic_stability": 0.999,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "William Sato",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 57,
+    "blood_type": "O+",
+    "genetic_stability": 0.939,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 53,
-    "build": "Heavily Muscular",
+    "height_cm": 162,
+    "weight_kg": 92,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Engineering": 58,
-      "Perception": 70,
-      "Hacking": 43
+      "Engineering": 15,
+      "Persuasion": 82,
+      "Athletics": 72
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 123,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 74,
-      "extraversion": 63,
-      "agreeableness": 69,
-      "neuroticism": 64
+      "openness": 58,
+      "conscientiousness": 7,
+      "extraversion": 14,
+      "agreeableness": 74,
+      "neuroticism": 57
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

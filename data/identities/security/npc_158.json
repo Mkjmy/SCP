@@ -1,56 +1,56 @@
 {
   "id": "npc_158",
   "bio": {
-    "full_name": "John Muller",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 36,
-    "blood_type": "O+",
-    "genetic_stability": 0.931,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Chen Johnson",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 58,
+    "blood_type": "B+",
+    "genetic_stability": 0.935,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 65,
-    "build": "Average",
+    "height_cm": 186,
+    "weight_kg": 60,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 45,
-      "Medicine": 91,
-      "Containment_Logic": 51
+      "Persuasion": 81,
+      "Containment_Logic": 85,
+      "Hacking": 66
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 11,
-      "extraversion": 79,
-      "agreeableness": 1,
-      "neuroticism": 84
+      "openness": 31,
+      "conscientiousness": 97,
+      "extraversion": 16,
+      "agreeableness": 14,
+      "neuroticism": 95
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",

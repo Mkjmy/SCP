@@ -1,60 +1,60 @@
 {
   "id": "npc_010",
   "bio": {
-    "full_name": "Richard Schmidt",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 48,
-    "blood_type": "AB+",
-    "genetic_stability": 0.908,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Mark Dubois",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "AB-",
+    "genetic_stability": 0.954,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 53,
-    "build": "Overweight",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Emerald green",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Hacking": 20,
-      "Containment_Logic": 12,
-      "Engineering": 61
+      "Perception": 41,
+      "Medicine": 93,
+      "Engineering": 22
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 26,
-      "conscientiousness": 7,
-      "extraversion": 17,
-      "agreeableness": 11,
-      "neuroticism": 40
+      "openness": 74,
+      "conscientiousness": 73,
+      "extraversion": 51,
+      "agreeableness": 35,
+      "neuroticism": 50
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

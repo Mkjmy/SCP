@@ -1,0 +1,60 @@
+{
+  "id": "npc_164",
+  "bio": {
+    "full_name": "Paul Bakker",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.925,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 77,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 46,
+      "Athletics": 34,
+      "Hacking": 85
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 113,
+    "personality_matrix": {
+      "openness": 36,
+      "conscientiousness": 49,
+      "extraversion": 54,
+      "agreeableness": 76,
+      "neuroticism": 67
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
+  }
+}

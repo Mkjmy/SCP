@@ -1,21 +1,21 @@
 {
   "id": "npc_041",
   "bio": {
-    "full_name": "Thomas Ivanov",
+    "full_name": "Arjun Dubois",
     "gender": "Male",
-    "orientation": "Asexual",
-    "age": 48,
-    "blood_type": "O+",
-    "genetic_stability": 0.979,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Pansexual",
+    "age": 63,
+    "blood_type": "A-",
+    "genetic_stability": 0.978,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 106,
-    "build": "Slender",
+    "height_cm": 189,
+    "weight_kg": 87,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Talks to self in whispers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 38,
-      "Perception": 29,
-      "Athletics": 42
+      "Medicine": 89,
+      "Firearms": 55,
+      "Hacking": 69
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 93,
-      "extraversion": 77,
-      "agreeableness": 41,
-      "neuroticism": 43
+      "openness": 7,
+      "conscientiousness": 22,
+      "extraversion": 21,
+      "agreeableness": 65,
+      "neuroticism": 22
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

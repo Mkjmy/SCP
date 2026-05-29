@@ -1,23 +1,23 @@
 {
   "id": "npc_087",
   "bio": {
-    "full_name": "Arjun Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 55,
-    "blood_type": "A+",
-    "genetic_stability": 0.922,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Fatima Williams",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "AB+",
+    "genetic_stability": 0.856,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 95,
-    "build": "Heavily Muscular",
+    "height_cm": 162,
+    "weight_kg": 50,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Hazel",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Hacking": 65,
-      "Occult_Research": 31,
-      "Firearms": 86
+      "Occult_Research": 70,
+      "Athletics": 52,
+      "Containment_Logic": 21
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 89,
-      "extraversion": 82,
-      "agreeableness": 72,
-      "neuroticism": 51
+      "openness": 8,
+      "conscientiousness": 71,
+      "extraversion": 4,
+      "agreeableness": 98,
+      "neuroticism": 81
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

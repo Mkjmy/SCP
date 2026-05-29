@@ -1,23 +1,23 @@
 {
   "id": "npc_113",
   "bio": {
-    "full_name": "Steven Wong",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 30,
-    "blood_type": "B-",
-    "genetic_stability": 0.913,
+    "full_name": "Richard Muller",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.936,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
     "height_cm": 187,
-    "weight_kg": 107,
-    "build": "Lithe",
+    "weight_kg": 110,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Amber",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 60,
-      "Stealth": 11,
-      "Perception": 86
+      "Firearms": 55,
+      "Persuasion": 12,
+      "Occult_Research": 62
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 47,
-      "extraversion": 28,
-      "agreeableness": 29,
-      "neuroticism": 1
+      "openness": 52,
+      "conscientiousness": 24,
+      "extraversion": 68,
+      "agreeableness": 96,
+      "neuroticism": 100
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
+      "amount": 0,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

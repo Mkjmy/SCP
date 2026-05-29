@@ -1,20 +1,20 @@
 {
   "id": "npc_194",
   "bio": {
-    "full_name": "Thomas Sato",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 28,
-    "blood_type": "A-",
-    "genetic_stability": 0.858,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Daniel Muller",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.98,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 99,
-    "build": "Frail",
+    "height_cm": 173,
+    "weight_kg": 70,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Manicured",
+      "hair": "Black, Pompadour",
       "eyes": "Sharp blue",
       "notable_marks": [
         "Cracks knuckles frequently"
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 25,
-      "Hacking": 72,
-      "Stealth": 46
+      "Persuasion": 63,
+      "Firearms": 79,
+      "Perception": 32
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 95,
+    "iq": 85,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 63,
-      "extraversion": 61,
-      "agreeableness": 8,
-      "neuroticism": 15
+      "openness": 28,
+      "conscientiousness": 73,
+      "extraversion": 77,
+      "agreeableness": 83,
+      "neuroticism": 83
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 100000,
-      "creditor": "None"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

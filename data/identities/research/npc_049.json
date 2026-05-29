@@ -1,23 +1,23 @@
 {
   "id": "npc_049",
   "bio": {
-    "full_name": "Sven Wong",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 33,
-    "blood_type": "AB-",
-    "genetic_stability": 0.99,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "William Muller",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.873,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 105,
-    "build": "Frail",
+    "height_cm": 174,
+    "weight_kg": 86,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Firearms": 39,
-      "Containment_Logic": 91,
-      "Medicine": 72
+      "Firearms": 69,
+      "Engineering": 49,
+      "Stealth": 75
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 54,
-      "extraversion": 61,
-      "agreeableness": 72,
-      "neuroticism": 15
+      "openness": 74,
+      "conscientiousness": 84,
+      "extraversion": 14,
+      "agreeableness": 24,
+      "neuroticism": 7
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_022",
   "bio": {
-    "full_name": "John Schmidt",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 62,
-    "blood_type": "B-",
-    "genetic_stability": 0.989,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Arjun Miller",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "B+",
+    "genetic_stability": 0.882,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 60,
-    "build": "Athletic",
+    "height_cm": 186,
+    "weight_kg": 99,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "Blonde, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 66,
-      "Athletics": 10,
-      "Perception": 10
+      "Engineering": 30,
+      "Occult_Research": 89,
+      "Medicine": 62
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 94,
-      "extraversion": 38,
-      "agreeableness": 80,
-      "neuroticism": 16
+      "openness": 63,
+      "conscientiousness": 69,
+      "extraversion": 30,
+      "agreeableness": 92,
+      "neuroticism": 59
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
       "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

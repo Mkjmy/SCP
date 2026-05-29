@@ -1,23 +1,23 @@
 {
   "id": "npc_121",
   "bio": {
-    "full_name": "Arjun Bakker",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 40,
-    "blood_type": "A-",
-    "genetic_stability": 0.963,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Joseph Vasiliev",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "O+",
+    "genetic_stability": 0.939,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 108,
+    "height_cm": 163,
+    "weight_kg": 83,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 13,
-      "Perception": 17,
-      "Occult_Research": 38
+      "Engineering": 37,
+      "Persuasion": 58,
+      "Medicine": 65
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 27,
-      "conscientiousness": 9,
-      "extraversion": 40,
-      "agreeableness": 12,
-      "neuroticism": 60
+      "openness": 47,
+      "conscientiousness": 84,
+      "extraversion": 49,
+      "agreeableness": 2,
+      "neuroticism": 15
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

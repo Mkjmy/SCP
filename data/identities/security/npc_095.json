@@ -1,60 +1,60 @@
 {
   "id": "npc_095",
   "bio": {
-    "full_name": "Robert O'Connor",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 44,
-    "blood_type": "O-",
-    "genetic_stability": 0.986,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Maria Schmidt",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.936,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 77,
-    "build": "Slender",
+    "height_cm": 171,
+    "weight_kg": 54,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Athletics": 68,
-      "Hacking": 79,
-      "Containment_Logic": 45
+      "Medicine": 69,
+      "Persuasion": 91,
+      "Hacking": 54
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 115,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 61,
-      "extraversion": 10,
-      "agreeableness": 39,
-      "neuroticism": 68
+      "openness": 96,
+      "conscientiousness": 38,
+      "extraversion": 80,
+      "agreeableness": 14,
+      "neuroticism": 36
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_032",
   "bio": {
-    "full_name": "Lars Garcia",
-    "gender": "Agender",
+    "full_name": "Paul Williams",
+    "gender": "Female",
     "orientation": "Bisexual",
-    "age": 30,
+    "age": 59,
     "blood_type": "O+",
-    "genetic_stability": 0.922,
+    "genetic_stability": 0.929,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 65,
-    "build": "Overweight",
+    "height_cm": 197,
+    "weight_kg": 73,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Amber",
+      "hair": "Grey, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 33,
-      "Engineering": 57,
-      "Stealth": 19
+      "Occult_Research": 32,
+      "Medicine": 81,
+      "Engineering": 72
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 81,
-      "conscientiousness": 54,
-      "extraversion": 63,
-      "agreeableness": 88,
-      "neuroticism": 33
+      "openness": 96,
+      "conscientiousness": 86,
+      "extraversion": 43,
+      "agreeableness": 69,
+      "neuroticism": 92
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

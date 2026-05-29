@@ -1,23 +1,23 @@
 {
   "id": "npc_207",
   "bio": {
-    "full_name": "Robert Kovacs",
+    "full_name": "Donald Dubois",
     "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 34,
+    "orientation": "Heterosexual",
+    "age": 29,
     "blood_type": "B-",
-    "genetic_stability": 0.906,
+    "genetic_stability": 0.928,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 80,
+    "height_cm": 181,
+    "weight_kg": 66,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Amber",
+      "hair": "Black, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 11,
-      "Perception": 83,
-      "Firearms": 36
+      "Containment_Logic": 40,
+      "Firearms": 50,
+      "Stealth": 93
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 84,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 98,
-      "extraversion": 59,
-      "agreeableness": 7,
-      "neuroticism": 64
+      "openness": 83,
+      "conscientiousness": 83,
+      "extraversion": 94,
+      "agreeableness": 72,
+      "neuroticism": 51
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
+      "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",

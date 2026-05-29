@@ -1,23 +1,23 @@
 {
   "id": "npc_122",
   "bio": {
-    "full_name": "Elena Smith",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 30,
-    "blood_type": "B+",
-    "genetic_stability": 0.923,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Lars Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 22,
+    "blood_type": "B-",
+    "genetic_stability": 0.959,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 56,
-    "build": "Frail",
+    "height_cm": 158,
+    "weight_kg": 93,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 89,
-      "Medicine": 65,
-      "Stealth": 74
+      "Occult_Research": 46,
+      "Firearms": 20,
+      "Athletics": 21
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 77,
-      "conscientiousness": 53,
-      "extraversion": 99,
-      "agreeableness": 78,
-      "neuroticism": 25
+      "openness": 44,
+      "conscientiousness": 21,
+      "extraversion": 33,
+      "agreeableness": 15,
+      "neuroticism": 79
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
+      "amount": 100000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

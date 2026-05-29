@@ -1,23 +1,23 @@
 {
   "id": "npc_123",
   "bio": {
-    "full_name": "John Schmidt",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 37,
-    "blood_type": "AB-",
-    "genetic_stability": 0.978,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Donald Sato",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 26,
+    "blood_type": "B-",
+    "genetic_stability": 0.977,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 100,
-    "build": "Heavily Muscular",
+    "height_cm": 182,
+    "weight_kg": 85,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Emerald green",
+      "hair": "Red, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 94,
-      "Hacking": 57,
-      "Stealth": 90
+      "Athletics": 35,
+      "Engineering": 91,
+      "Medicine": 61
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 90,
-      "extraversion": 72,
-      "agreeableness": 20,
-      "neuroticism": 46
+      "openness": 85,
+      "conscientiousness": 81,
+      "extraversion": 81,
+      "agreeableness": 22,
+      "neuroticism": 79
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

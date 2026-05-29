@@ -1,21 +1,21 @@
 {
   "id": "npc_160",
   "bio": {
-    "full_name": "Elena Ivanov",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 52,
-    "blood_type": "AB+",
-    "genetic_stability": 0.928,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Christopher Johnson",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.912,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 85,
-    "build": "Lithe",
+    "height_cm": 196,
+    "weight_kg": 75,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Cracks knuckles frequently"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 64,
-      "Occult_Research": 76,
-      "Hacking": 39
+      "Stealth": 81,
+      "Persuasion": 61,
+      "Athletics": 59
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 82,
-      "extraversion": 71,
-      "agreeableness": 47,
-      "neuroticism": 54
+      "openness": 24,
+      "conscientiousness": 74,
+      "extraversion": 55,
+      "agreeableness": 74,
+      "neuroticism": 15
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.95
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

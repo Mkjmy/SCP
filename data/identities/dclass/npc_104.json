@@ -1,23 +1,23 @@
 {
   "id": "npc_104",
   "bio": {
-    "full_name": "Kenji Tanaka",
-    "gender": "Non-binary",
+    "full_name": "Robert Bakker",
+    "gender": "Female",
     "orientation": "Homosexual",
-    "age": 35,
-    "blood_type": "B+",
-    "genetic_stability": 0.875,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.851,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 98,
+    "height_cm": 176,
+    "weight_kg": 54,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "White, Messy",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 38,
-      "Hacking": 23,
-      "Engineering": 16
+      "Hacking": 29,
+      "Containment_Logic": 91,
+      "Medicine": 17
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 21,
-      "extraversion": 9,
-      "agreeableness": 32,
-      "neuroticism": 87
+      "openness": 29,
+      "conscientiousness": 59,
+      "extraversion": 67,
+      "agreeableness": 28,
+      "neuroticism": 39
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

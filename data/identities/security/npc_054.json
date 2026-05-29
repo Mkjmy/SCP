@@ -1,60 +1,60 @@
 {
   "id": "npc_054",
   "bio": {
-    "full_name": "Lars Tanaka",
+    "full_name": "Chen Wong",
     "gender": "Male",
-    "orientation": "Asexual",
-    "age": 32,
-    "blood_type": "B-",
-    "genetic_stability": 0.908,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "A+",
+    "genetic_stability": 0.981,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 84,
-    "build": "Overweight",
+    "height_cm": 182,
+    "weight_kg": 87,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Athletics": 83,
-      "Containment_Logic": 38,
-      "Hacking": 76
+      "Occult_Research": 75,
+      "Persuasion": 43,
+      "Medicine": 63
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 26,
-      "extraversion": 5,
-      "agreeableness": 16,
-      "neuroticism": 32
+      "openness": 9,
+      "conscientiousness": 57,
+      "extraversion": 77,
+      "agreeableness": 71,
+      "neuroticism": 6
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

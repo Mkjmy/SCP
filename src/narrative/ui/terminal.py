@@ -64,7 +64,7 @@ def display_message(stdscr, message, is_danger=False, is_dialogue=False, is_item
     stdscr.getch()
 
 def render_scene(stdscr, options, current_room, all_items, npcs_in_room, scps_in_room, player, debug_active, header_text, story_messages, selected_idx):
-    """Novel-style Narrative UI rendering with integrated word-wrapping."""
+    """Refined Hyper-Modern UI with persistent log and clear hierarchy."""
     h, w = stdscr.getmaxyx()
     
     loc_color = curses.color_pair(LOCATION_PAIR)
@@ -73,78 +73,91 @@ def render_scene(stdscr, options, current_room, all_items, npcs_in_room, scps_in
     npc_color = curses.color_pair(NPC_PAIR)
     danger_color = curses.color_pair(DANGER_PAIR)
     item_color = curses.color_pair(ITEM_PAIR)
+    diag_color = curses.color_pair(DIALOGUE_PAIR)
 
     stdscr.clear()
     
-    # --- TITLE ---
+    # --- 1. THE HEADER ---
     title = f" {current_room['name'].upper()} "
-    stdscr.addstr(0, max(0, (w - len(title))//2), title, curses.A_BOLD)
-    stdscr.addstr(1, 0, "─" * (w-1), curses.A_DIM)
+    stdscr.addstr(0, max(0, (w - len(title))//2), title, curses.A_BOLD | loc_color)
+    stdscr.addstr(1, 0, "━" * (w-1), curses.A_DIM)
 
-    # --- THE NOVEL (Narrative) ---
-    row = 3
-    narrative_parts = []
+    row = 2
+    
+    # --- 2. RECENT EVENTS (Persistent Story/Action Feedback) ---
     if story_messages:
-        for sm in story_messages: narrative_parts.append(sm)
-    else:
-        narrative_parts.append(current_room['description'])
+        stdscr.addstr(row, 2, "◈ RECENT EVENTS", curses.A_BOLD | diag_color)
+        row += 1
+        for sm in story_messages[-3:]: # Show last 3 messages
+            # Wrap story message
+            words = sm.split()
+            line = "  "
+            for word in words:
+                if len(line) + len(word) + 1 < w - 6: line += word + " "
+                else:
+                    if row < h - 4: stdscr.addstr(row, 2, line, curses.A_ITALIC | diag_color); row += 1
+                    line = "  " + word + " "
+            if row < h - 4: stdscr.addstr(row, 2, line, curses.A_ITALIC | diag_color); row += 1
+        row += 1
 
-    full_prose = " ".join(narrative_parts)
+    # --- 3. THE ENVIRONMENT (Static Context) ---
+    stdscr.addstr(row, 2, "◈ ENVIRONMENT", curses.A_BOLD | curses.A_DIM)
+    row += 1
+    full_prose = current_room['description']
     words = full_prose.split()
-    line = ""
+    line = "  "
     for word in words:
         if len(line) + len(word) + 1 < w - 6: line += word + " "
         else:
-            stdscr.addstr(row, 2, line, curses.A_ITALIC if story_messages else curses.A_NORMAL)
-            row += 1; line = word + " "
-    stdscr.addstr(row, 2, line, curses.A_ITALIC if story_messages else curses.A_NORMAL)
-    row += 2
+            if row < h - 4: stdscr.addstr(row, 2, line, curses.A_DIM); row += 1
+            line = "  " + word + " "
+    if row < h - 4: stdscr.addstr(row, 2, line, curses.A_DIM); row += 1
+    row += 1
 
-    # --- THE SCAN (Structured Lists) ---
-    room_items = [all_items[item_id]["name"] for item_id in current_room.get("items", []) if item_id in all_items]
-    if room_items:
-        stdscr.addstr(row, 2, "Objects of interest:", curses.A_BOLD); row += 1
-        for item in room_items:
-            if row < h - 15: stdscr.addstr(row, 4, f"─ {item}", item_color); row += 1
-        row += 1
-
-    if npcs_in_room or scps_in_room:
-        stdscr.addstr(row, 2, "Other presences:", curses.A_BOLD); row += 1
+    # --- 4. THE SCAN (Personnel & Items) ---
+    # SORT NPCs for consistency
+    sorted_npcs = sorted(npcs_in_room, key=lambda x: x["character"].name)
+    
+    if sorted_npcs or scps_in_room:
+        stdscr.addstr(row, 2, "◈ PERSONNEL", curses.A_BOLD | npc_color); row += 1
         display_count = 0
         for s in scps_in_room:
-            if display_count < 3:
+            if display_count < 2 and row < h - 4:
                 stdscr.addstr(row, 4, f"─ {s.on_observe_description(player, s.get_status())}", danger_color)
                 row += 1; display_count += 1
-        
-        for n in npcs_in_room:
-            if display_count < 6:
+        for n in sorted_npcs:
+            if display_count < 6 and row < h - 4:
                 npc = n["character"]
                 stdscr.addstr(row, 4, f"─ {npc.get_description(player=player)}", npc_color)
                 row += 1; display_count += 1
     
-    row += 2
-    if row < h - 10: stdscr.addstr(row, 0, "─" * (w-1), curses.A_DIM); row += 1
+    room_items = [all_items[item_id]["name"] for item_id in current_room.get("items", []) if item_id in all_items]
+    if room_items and row < h - 8:
+        stdscr.addstr(row, 2, "◈ OBJECTS", curses.A_BOLD | item_color); row += 1
+        for item in room_items[:3]:
+            stdscr.addstr(row, 4, f"─ {item}", item_color); row += 1
 
-    # --- INTERFACE OPTIONS ---
-    stdscr.addstr(row, 2, f"{header_text}:", prompt_color); row += 1
+    # --- 5. INTERFACE ---
+    row = max(row + 1, h - len(options) - 5)
+    stdscr.addstr(row, 2, f"➤ {header_text.upper()}", curses.A_BOLD | prompt_color); row += 1
     for i, opt in enumerate(options):
-        if row < h - 3:
-            prefix = "  ▶ " if i == selected_idx else "    "
-            stdscr.addstr(row, 2, f"{prefix}{opt.replace('_', ' ').capitalize()}", highlight_attr if i == selected_idx else curses.A_NORMAL)
-            row += 1
+        if row < h - 2:
+            if opt.startswith("SECTION:"):
+                section_name = opt.split(":")[1].upper()
+                stdscr.addstr(row, 2, f"  [{section_name}]", curses.A_DIM | prompt_color)
+                row += 1
+            else:
+                prefix = "  ▶ " if i == selected_idx else "    "
+                stdscr.addstr(row, 2, f"{prefix}{opt.replace('_', ' ').capitalize()}", highlight_attr if i == selected_idx else curses.A_NORMAL)
+                row += 1
 
-    # --- BIOMETRICS (Bottom Bar) ---
-    cond = "Healthy" if player.health > 80 else "Wounded" if player.health > 40 else "In Critical Pain"
-    stamina_text = "Full of Energy" if player.stamina > 80 else "Tired" if player.stamina > 40 else "Exhausted"
-    sensation = "Focused"
-    if player.sanity < 30: sensation = "Terrified"
-    elif player.sanity < 70: sensation = "Nervous"
-    
-    hands = f"Left: {player.left_hand or 'Empty'} | Right: {player.right_hand or 'Empty'}"
-    status_line = f"Physical: {cond} | Stamina: {stamina_text} | Feeling: {sensation}"
+    # --- 6. BIOMETRICS ---
+    cond = "Healthy" if player.health > 80 else "Wounded" if player.health > 40 else "Critical"
+    stamina_text = "Ready" if player.stamina > 70 else "Tired" if player.stamina > 30 else "Exhausted"
+    status_line = f" [ STATUS: {cond.upper()} | STAMINA: {stamina_text.upper()} | MORALE: {int(player.morale)}% ] "
     try:
-        stdscr.addstr(h - 2, 2, hands, item_color)
-        stdscr.addstr(h - 1, 2, status_line, curses.A_DIM)
+        stdscr.addstr(h - 1, 0, "━" * (w-1), curses.A_DIM)
+        stdscr.addstr(h - 1, (w - len(status_line)) // 2, status_line, curses.A_REVERSE | loc_color)
     except: pass
 
     stdscr.refresh()

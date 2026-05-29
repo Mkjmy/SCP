@@ -1,23 +1,23 @@
 {
   "id": "npc_023",
   "bio": {
-    "full_name": "Elena Garcia",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 53,
-    "blood_type": "B+",
-    "genetic_stability": 0.922,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Richard Williams",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 60,
+    "blood_type": "AB+",
+    "genetic_stability": 0.968,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 65,
-    "build": "Athletic",
+    "height_cm": 199,
+    "weight_kg": 106,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Red, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Perception": 26,
-      "Containment_Logic": 15,
-      "Engineering": 59
+      "Hacking": 90,
+      "Athletics": 84,
+      "Engineering": 94
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 69,
-      "extraversion": 26,
-      "agreeableness": 49,
-      "neuroticism": 79
+      "openness": 8,
+      "conscientiousness": 36,
+      "extraversion": 35,
+      "agreeableness": 28,
+      "neuroticism": 33
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

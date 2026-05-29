@@ -1,0 +1,60 @@
+{
+  "id": "npc_028",
+  "bio": {
+    "full_name": "William Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "AB-",
+    "genetic_stability": 0.867,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 159,
+    "weight_kg": 98,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "White, Buzz cut",
+      "eyes": "Icy blue",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Firearms": 11,
+      "Persuasion": 52,
+      "Medicine": 95
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 83,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 96,
+      "extraversion": 18,
+      "agreeableness": 50,
+      "neuroticism": 54
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

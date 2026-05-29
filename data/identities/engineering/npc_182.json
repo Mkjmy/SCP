@@ -1,20 +1,20 @@
 {
   "id": "npc_182",
   "bio": {
-    "full_name": "Matthew Miller",
+    "full_name": "Anthony Bakker",
     "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 39,
-    "blood_type": "A+",
-    "genetic_stability": 0.904,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Bisexual",
+    "age": 54,
+    "blood_type": "O-",
+    "genetic_stability": 0.953,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 94,
-    "build": "Frail",
+    "height_cm": 177,
+    "weight_kg": 65,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Bald",
+      "hair": "Blonde, Manicured",
       "eyes": "Deep brown",
       "notable_marks": [
         "Smokes heavily"
@@ -22,39 +22,39 @@
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 94,
-      "Persuasion": 43,
-      "Firearms": 71
+      "Perception": 84,
+      "Persuasion": 16,
+      "Stealth": 34
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 100,
-      "extraversion": 80,
-      "agreeableness": 61,
-      "neuroticism": 40
+      "openness": 74,
+      "conscientiousness": 12,
+      "extraversion": 96,
+      "agreeableness": 3,
+      "neuroticism": 32
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

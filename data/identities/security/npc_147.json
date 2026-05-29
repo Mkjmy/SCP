@@ -1,60 +1,60 @@
 {
   "id": "npc_147",
   "bio": {
-    "full_name": "Yuki O'Connor",
-    "gender": "Agender",
+    "full_name": "Sven Sato",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 32,
-    "blood_type": "A-",
-    "genetic_stability": 0.991,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 60,
+    "blood_type": "O+",
+    "genetic_stability": 0.87,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 55,
-    "build": "Athletic",
+    "height_cm": 184,
+    "weight_kg": 103,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Hazel",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 25,
-      "Persuasion": 26,
-      "Firearms": 79
+      "Stealth": 20,
+      "Hacking": 83,
+      "Occult_Research": 53
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 119,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 0,
-      "extraversion": 10,
-      "agreeableness": 84,
-      "neuroticism": 23
+      "openness": 12,
+      "conscientiousness": 79,
+      "extraversion": 36,
+      "agreeableness": 46,
+      "neuroticism": 14
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

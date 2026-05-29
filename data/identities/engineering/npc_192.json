@@ -1,23 +1,23 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "James Kovacs",
-    "gender": "Non-binary",
+    "full_name": "Sven Muller",
+    "gender": "Male",
     "orientation": "Asexual",
-    "age": 37,
+    "age": 53,
     "blood_type": "AB+",
-    "genetic_stability": 0.977,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.855,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 55,
-    "build": "Frail",
+    "height_cm": 181,
+    "weight_kg": 97,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
+      "hair": "Dyed blue, Fade",
       "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 43,
-      "Stealth": 62,
-      "Engineering": 11
+      "Hacking": 41,
+      "Containment_Logic": 51,
+      "Medicine": 13
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 98,
-      "extraversion": 98,
-      "agreeableness": 85,
-      "neuroticism": 30
+      "openness": 69,
+      "conscientiousness": 54,
+      "extraversion": 53,
+      "agreeableness": 23,
+      "neuroticism": 3
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Undercover ISD agent",

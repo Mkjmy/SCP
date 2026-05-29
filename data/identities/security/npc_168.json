@@ -1,60 +1,60 @@
 {
   "id": "npc_168",
   "bio": {
-    "full_name": "Arjun Jones",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 61,
-    "blood_type": "A-",
-    "genetic_stability": 0.958,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Fatima Bakker",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.964,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 104,
+    "height_cm": 156,
+    "weight_kg": 65,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Grey",
+      "hair": "Red, Pixie cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 45,
-      "Medicine": 70,
-      "Stealth": 70
+      "Stealth": 48,
+      "Athletics": 58,
+      "Perception": 29
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 14,
-      "extraversion": 26,
-      "agreeableness": 78,
-      "neuroticism": 90
+      "openness": 94,
+      "conscientiousness": 21,
+      "extraversion": 72,
+      "agreeableness": 88,
+      "neuroticism": 85
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_085",
   "bio": {
-    "full_name": "Kenji Gupta",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 65,
-    "blood_type": "B-",
-    "genetic_stability": 0.943,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Michael Tanaka",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "AB+",
+    "genetic_stability": 0.955,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 93,
-    "build": "Frail",
+    "height_cm": 169,
+    "weight_kg": 69,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Pompadour",
+      "hair": "Silver, Bald",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 72,
-      "Firearms": 92,
-      "Athletics": 31
+      "Firearms": 66,
+      "Hacking": 93,
+      "Perception": 25
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 28,
-      "extraversion": 15,
-      "agreeableness": 70,
-      "neuroticism": 77
+      "openness": 80,
+      "conscientiousness": 73,
+      "extraversion": 51,
+      "agreeableness": 93,
+      "neuroticism": 49
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "npc_181",
+  "bio": {
+    "full_name": "Donald Muller",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.953,
+    "origin": "Former investigative journalist who dug too deep"
+  },
+  "appearance": {
+    "height_cm": 164,
+    "weight_kg": 87,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Dyed blue, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Medicine": 80,
+      "Persuasion": 65,
+      "Occult_Research": 86
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 147,
+    "personality_matrix": {
+      "openness": 15,
+      "conscientiousness": 56,
+      "extraversion": 30,
+      "agreeableness": 45,
+      "neuroticism": 13
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of being touched)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

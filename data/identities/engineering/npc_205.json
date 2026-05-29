@@ -1,23 +1,23 @@
 {
   "id": "npc_205",
   "bio": {
-    "full_name": "Matthew Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 37,
-    "blood_type": "AB-",
-    "genetic_stability": 0.854,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Charles Muller",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 1.0,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 169,
+    "height_cm": 198,
     "weight_kg": 60,
-    "build": "Stocky",
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Black, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 69,
-      "Occult_Research": 28,
-      "Containment_Logic": 72
+      "Medicine": 92,
+      "Hacking": 83,
+      "Firearms": 34
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 98,
-      "extraversion": 12,
-      "agreeableness": 97,
-      "neuroticism": 79
+      "openness": 68,
+      "conscientiousness": 12,
+      "extraversion": 63,
+      "agreeableness": 27,
+      "neuroticism": 50
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

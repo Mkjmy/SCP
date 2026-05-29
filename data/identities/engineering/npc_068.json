@@ -1,23 +1,23 @@
 {
   "id": "npc_068",
   "bio": {
-    "full_name": "Yuki Bakker",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 27,
-    "blood_type": "B+",
-    "genetic_stability": 0.934,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "James Smith",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "A-",
+    "genetic_stability": 0.938,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 83,
-    "build": "Overweight",
+    "height_cm": 198,
+    "weight_kg": 57,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "White, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 10,
-      "Persuasion": 25,
-      "Firearms": 43
+      "Perception": 16,
+      "Medicine": 42,
+      "Containment_Logic": 91
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 101,
     "personality_matrix": {
-      "openness": 64,
-      "conscientiousness": 72,
-      "extraversion": 4,
-      "agreeableness": 36,
-      "neuroticism": 77
+      "openness": 88,
+      "conscientiousness": 20,
+      "extraversion": 97,
+      "agreeableness": 0,
+      "neuroticism": 7
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

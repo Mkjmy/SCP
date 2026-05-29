@@ -1,23 +1,23 @@
 {
   "id": "npc_021",
   "bio": {
-    "full_name": "Joshua Sato",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 51,
+    "full_name": "Olga Kovacs",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 62,
     "blood_type": "O+",
-    "genetic_stability": 0.939,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.997,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 50,
-    "build": "Lithe",
+    "height_cm": 187,
+    "weight_kg": 77,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Bald",
+      "hair": "Dyed blue, Shoulder-length",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 50,
-      "Containment_Logic": 82,
-      "Hacking": 50
+      "Containment_Logic": 85,
+      "Hacking": 13,
+      "Firearms": 77
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 49,
-      "extraversion": 13,
-      "agreeableness": 6,
-      "neuroticism": 87
+      "openness": 12,
+      "conscientiousness": 28,
+      "extraversion": 41,
+      "agreeableness": 99,
+      "neuroticism": 40
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

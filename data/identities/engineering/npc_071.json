@@ -1,23 +1,23 @@
 {
   "id": "npc_071",
   "bio": {
-    "full_name": "Kenji Dubois",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 42,
-    "blood_type": "A-",
-    "genetic_stability": 0.984,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "James Muller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 59,
+    "blood_type": "O+",
+    "genetic_stability": 0.977,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 75,
+    "height_cm": 179,
+    "weight_kg": 96,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Bald",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 64,
-      "Containment_Logic": 58,
-      "Perception": 65
+      "Persuasion": 24,
+      "Engineering": 16,
+      "Hacking": 76
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 7,
-      "extraversion": 33,
-      "agreeableness": 45,
-      "neuroticism": 17
+      "openness": 41,
+      "conscientiousness": 92,
+      "extraversion": 41,
+      "agreeableness": 94,
+      "neuroticism": 2
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

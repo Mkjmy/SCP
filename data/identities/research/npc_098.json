@@ -1,23 +1,23 @@
 {
   "id": "npc_098",
   "bio": {
-    "full_name": "Michael Ivanov",
+    "full_name": "Olga Sato",
     "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 22,
-    "blood_type": "A+",
-    "genetic_stability": 0.904,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "orientation": "Homosexual",
+    "age": 26,
+    "blood_type": "O-",
+    "genetic_stability": 0.939,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 77,
-    "build": "Overweight",
+    "height_cm": 188,
+    "weight_kg": 53,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Red, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Hacking": 44,
-      "Firearms": 46,
-      "Occult_Research": 47
+      "Athletics": 60,
+      "Occult_Research": 19,
+      "Containment_Logic": 43
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 163,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 93,
-      "conscientiousness": 9,
-      "extraversion": 58,
-      "agreeableness": 31,
-      "neuroticism": 72
+      "openness": 10,
+      "conscientiousness": 47,
+      "extraversion": 44,
+      "agreeableness": 76,
+      "neuroticism": 84
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",

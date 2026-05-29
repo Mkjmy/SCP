@@ -47,14 +47,26 @@ class NPCManager:
         return process_npc_sim_turn(self, player_location, game_map)
 
     def move_npc(self, npc_id):
-        """Moves an NPC to a random adjacent room."""
+        """Moves an NPC to a random adjacent room, respecting door clearance."""
         if npc_id not in self._npcs: return False
-        info = self._npcs[npc_id]; current_room_id = info["current_room"]
-        room_exits = self.map_data.get(current_room_id, {}).get("exits", {})
+        info = self._npcs[npc_id]
+        char = info["character"]
+        current_room_id = info["current_room"]
+        
+        room_data = self.map_data.get(current_room_id, {})
+        room_exits = room_data.get("exits", {})
         if not room_exits: return False
         
-        dest_dict = random.choice(list(room_exits.values()))
-        info["current_room"] = dest_dict["destination"]
+        # Filter exits by clearance
+        valid_exits = []
+        for direction, exit_info in room_exits.items():
+            if char.clearance_level >= exit_info.get("door_level", 0):
+                valid_exits.append(exit_info["destination"])
+        
+        if not valid_exits:
+            return False # NPC is locked in
+            
+        info["current_room"] = random.choice(valid_exits)
         info["last_moved_at"] = datetime.datetime.now()
         return True
 

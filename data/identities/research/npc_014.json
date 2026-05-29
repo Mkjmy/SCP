@@ -1,0 +1,60 @@
+{
+  "id": "npc_014",
+  "bio": {
+    "full_name": "Arjun Vasiliev",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.916,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 108,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Grey, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Engineering": 19,
+      "Athletics": 28,
+      "Medicine": 68
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 136,
+    "personality_matrix": {
+      "openness": 98,
+      "conscientiousness": 50,
+      "extraversion": 58,
+      "agreeableness": 71,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.98
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
+  }
+}

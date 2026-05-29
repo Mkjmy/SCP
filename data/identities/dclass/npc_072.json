@@ -1,0 +1,60 @@
+{
+  "id": "npc_072",
+  "bio": {
+    "full_name": "Kenji Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.948,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 189,
+    "weight_kg": 91,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Grey, Buzz cut",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Occult_Research": 86,
+      "Containment_Logic": 18,
+      "Athletics": 28
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 104,
+    "personality_matrix": {
+      "openness": 30,
+      "conscientiousness": 89,
+      "extraversion": 13,
+      "agreeableness": 59,
+      "neuroticism": 1
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.46
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
+  }
+}

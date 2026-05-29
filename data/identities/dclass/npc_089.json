@@ -1,23 +1,23 @@
 {
   "id": "npc_089",
   "bio": {
-    "full_name": "Donald O'Connor",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 39,
-    "blood_type": "B+",
-    "genetic_stability": 0.954,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "John Tanaka",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "A+",
+    "genetic_stability": 0.939,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 87,
-    "build": "Athletic",
+    "height_cm": 197,
+    "weight_kg": 63,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Emerald green",
+      "hair": "Black, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 65,
-      "Containment_Logic": 37,
-      "Athletics": 41
+      "Perception": 67,
+      "Medicine": 70,
+      "Athletics": 44
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 10,
-      "extraversion": 60,
-      "agreeableness": 70,
-      "neuroticism": 81
+      "openness": 17,
+      "conscientiousness": 77,
+      "extraversion": 35,
+      "agreeableness": 88,
+      "neuroticism": 18
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_affiliation": "None"
   }
 }

@@ -1,57 +1,57 @@
 {
   "id": "npc_159",
   "bio": {
-    "full_name": "James Kovacs",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 27,
-    "blood_type": "A+",
-    "genetic_stability": 0.895,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Elena Wong",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 22,
+    "blood_type": "O+",
+    "genetic_stability": 0.972,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 90,
-    "build": "Athletic",
+    "height_cm": 171,
+    "weight_kg": 73,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
+      "hair": "White, Manicured",
       "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 71,
-      "Engineering": 37,
-      "Persuasion": 40
+      "Persuasion": 54,
+      "Occult_Research": 29,
+      "Stealth": 35
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 76,
-      "extraversion": 34,
-      "agreeableness": 89,
-      "neuroticism": 55
+      "openness": 68,
+      "conscientiousness": 68,
+      "extraversion": 43,
+      "agreeableness": 99,
+      "neuroticism": 34
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 5000,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Trying to clear their family name",

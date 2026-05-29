@@ -1,23 +1,23 @@
 {
   "id": "npc_057",
   "bio": {
-    "full_name": "Donald Vasiliev",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 32,
-    "blood_type": "O+",
-    "genetic_stability": 0.861,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Thomas Williams",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "AB-",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 72,
-    "build": "Slender",
+    "height_cm": 169,
+    "weight_kg": 77,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Red, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Firearms": 59,
-      "Medicine": 67,
-      "Hacking": 51
+      "Engineering": 22,
+      "Containment_Logic": 42,
+      "Persuasion": 35
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 149,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 24,
-      "extraversion": 5,
-      "agreeableness": 6,
-      "neuroticism": 69
+      "openness": 23,
+      "conscientiousness": 87,
+      "extraversion": 7,
+      "agreeableness": 40,
+      "neuroticism": 54
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

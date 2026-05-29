@@ -1,23 +1,23 @@
 {
   "id": "npc_102",
   "bio": {
-    "full_name": "Charles Williams",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 26,
-    "blood_type": "O-",
-    "genetic_stability": 0.892,
+    "full_name": "Andrew Kovacs",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "AB+",
+    "genetic_stability": 0.96,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 60,
-    "build": "Average",
+    "height_cm": 191,
+    "weight_kg": 62,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Pompadour",
+      "hair": "Grey, Pixie cut",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Engineering": 18,
-      "Perception": 60,
-      "Hacking": 93
+      "Stealth": 37,
+      "Perception": 62,
+      "Firearms": 71
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 54,
-      "conscientiousness": 55,
-      "extraversion": 21,
-      "agreeableness": 2,
-      "neuroticism": 85
+      "openness": 2,
+      "conscientiousness": 89,
+      "extraversion": 4,
+      "agreeableness": 45,
+      "neuroticism": 25
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

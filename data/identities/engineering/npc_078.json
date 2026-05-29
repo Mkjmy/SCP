@@ -1,23 +1,23 @@
 {
   "id": "npc_078",
   "bio": {
-    "full_name": "Christopher Johnson",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 46,
-    "blood_type": "AB-",
-    "genetic_stability": 0.957,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Joseph Dubois",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.875,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 98,
-    "build": "Average",
+    "height_cm": 196,
+    "weight_kg": 50,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Manicured",
+      "hair": "Brown, Wild and unkempt",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 58,
-      "Medicine": 65,
-      "Hacking": 70
+      "Containment_Logic": 79,
+      "Persuasion": 37,
+      "Occult_Research": 34
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 21,
-      "extraversion": 58,
-      "agreeableness": 0,
-      "neuroticism": 58
+      "openness": 74,
+      "conscientiousness": 64,
+      "extraversion": 80,
+      "agreeableness": 93,
+      "neuroticism": 54
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

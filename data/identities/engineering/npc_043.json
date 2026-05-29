@@ -1,23 +1,23 @@
 {
   "id": "npc_043",
   "bio": {
-    "full_name": "Elena Gupta",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 38,
-    "blood_type": "AB+",
-    "genetic_stability": 0.963,
+    "full_name": "Donald Wong",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 60,
+    "blood_type": "B+",
+    "genetic_stability": 0.876,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 75,
-    "build": "Slender",
+    "height_cm": 196,
+    "weight_kg": 103,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Hazel",
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 16,
-      "Perception": 11,
-      "Firearms": 70
+      "Hacking": 64,
+      "Occult_Research": 31,
+      "Persuasion": 27
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 20,
-      "conscientiousness": 85,
-      "extraversion": 34,
-      "agreeableness": 39,
-      "neuroticism": 94
+      "openness": 49,
+      "conscientiousness": 92,
+      "extraversion": 24,
+      "agreeableness": 68,
+      "neuroticism": 40
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
     "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

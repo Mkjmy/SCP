@@ -1,23 +1,23 @@
 {
   "id": "npc_105",
   "bio": {
-    "full_name": "Andrew Sato",
+    "full_name": "James Schmidt",
     "gender": "Non-binary",
-    "orientation": "Pansexual",
+    "orientation": "Asexual",
     "age": 53,
-    "blood_type": "O-",
-    "genetic_stability": 0.897,
-    "origin": "Former NASA engineer who saw too much"
+    "blood_type": "B+",
+    "genetic_stability": 0.913,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 75,
-    "build": "Athletic",
+    "height_cm": 175,
+    "weight_kg": 67,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Hazel",
+      "hair": "Grey, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 59,
-      "Medicine": 16,
-      "Stealth": 91
+      "Perception": 69,
+      "Hacking": 90,
+      "Stealth": 20
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 83,
-      "extraversion": 75,
-      "agreeableness": 59,
-      "neuroticism": 93
+      "openness": 58,
+      "conscientiousness": 36,
+      "extraversion": 70,
+      "agreeableness": 16,
+      "neuroticism": 94
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

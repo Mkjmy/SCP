@@ -1,23 +1,23 @@
 {
   "id": "npc_013",
   "bio": {
-    "full_name": "Christopher Gupta",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 57,
-    "blood_type": "AB+",
-    "genetic_stability": 0.962,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Elena Dubois",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 39,
+    "blood_type": "O+",
+    "genetic_stability": 0.951,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 105,
-    "build": "Slender",
+    "height_cm": 160,
+    "weight_kg": 50,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Grey, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Perception": 74,
-      "Firearms": 78,
-      "Hacking": 34
+      "Persuasion": 50,
+      "Medicine": 15,
+      "Stealth": 38
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 74,
-      "extraversion": 80,
-      "agreeableness": 3,
-      "neuroticism": 36
+      "openness": 54,
+      "conscientiousness": 32,
+      "extraversion": 2,
+      "agreeableness": 88,
+      "neuroticism": 27
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

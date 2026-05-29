@@ -1,0 +1,60 @@
+{
+  "id": "npc_085",
+  "bio": {
+    "full_name": "Yuki Williams",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.857,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 171,
+    "weight_kg": 70,
+    "build": "Heavily Muscular",
+    "physical_features": {
+      "hair": "Blonde, Manicured",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Persuasion": 44,
+      "Medicine": 47,
+      "Containment_Logic": 12
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 83,
+      "conscientiousness": 42,
+      "extraversion": 10,
+      "agreeableness": 77,
+      "neuroticism": 31
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.97
+  },
+  "social_and_secrets": {
+    "family": "Orphaned",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

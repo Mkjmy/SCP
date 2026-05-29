@@ -1,57 +1,57 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "Daniel Kovacs",
-    "gender": "Transgender",
+    "full_name": "Yuki Ivanov",
+    "gender": "Male",
     "orientation": "Asexual",
-    "age": 32,
-    "blood_type": "O-",
-    "genetic_stability": 0.964,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.936,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 70,
-    "build": "Stocky",
+    "height_cm": 184,
+    "weight_kg": 94,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Amber",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 75,
-      "Stealth": 66,
-      "Hacking": 89
+      "Engineering": 68,
+      "Stealth": 67,
+      "Persuasion": 82
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 58,
-      "conscientiousness": 11,
-      "extraversion": 56,
-      "agreeableness": 47,
-      "neuroticism": 67
+      "openness": 78,
+      "conscientiousness": 6,
+      "extraversion": 13,
+      "agreeableness": 73,
+      "neuroticism": 1
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

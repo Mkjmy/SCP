@@ -1,23 +1,23 @@
 {
   "id": "npc_116",
   "bio": {
-    "full_name": "Kenji Garcia",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 48,
-    "blood_type": "AB+",
-    "genetic_stability": 0.936,
+    "full_name": "Michael Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 47,
+    "blood_type": "O-",
+    "genetic_stability": 0.862,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 66,
-    "build": "Heavily Muscular",
+    "height_cm": 162,
+    "weight_kg": 107,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Grey",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Engineering": 67,
-      "Occult_Research": 83,
-      "Athletics": 73
+      "Perception": 74,
+      "Firearms": 39,
+      "Engineering": 67
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 36,
-      "conscientiousness": 91,
-      "extraversion": 23,
-      "agreeableness": 63,
-      "neuroticism": 86
+      "openness": 83,
+      "conscientiousness": 7,
+      "extraversion": 81,
+      "agreeableness": 6,
+      "neuroticism": 23
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

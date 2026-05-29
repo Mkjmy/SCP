@@ -1,23 +1,23 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Christopher Wong",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 20,
-    "blood_type": "A-",
-    "genetic_stability": 0.923,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Andrew Jones",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 43,
+    "blood_type": "O-",
+    "genetic_stability": 0.965,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 50,
+    "height_cm": 159,
+    "weight_kg": 73,
     "build": "Overweight",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Amber",
+      "hair": "Blonde, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 63,
-      "Occult_Research": 10,
-      "Containment_Logic": 38
+      "Firearms": 15,
+      "Persuasion": 36,
+      "Occult_Research": 90
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 81,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 26,
-      "extraversion": 79,
-      "agreeableness": 40,
-      "neuroticism": 88
+      "openness": 68,
+      "conscientiousness": 18,
+      "extraversion": 44,
+      "agreeableness": 32,
+      "neuroticism": 78
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

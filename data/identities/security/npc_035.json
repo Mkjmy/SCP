@@ -1,23 +1,23 @@
 {
   "id": "npc_035",
   "bio": {
-    "full_name": "Charles Garcia",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 62,
+    "full_name": "Charles Smith",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 31,
     "blood_type": "O+",
-    "genetic_stability": 0.894,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.854,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 88,
-    "build": "Heavily Muscular",
+    "height_cm": 185,
+    "weight_kg": 64,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Grey",
+      "hair": "Red, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 50,
-      "Firearms": 28,
-      "Persuasion": 17
+      "Firearms": 70,
+      "Medicine": 53,
+      "Stealth": 76
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 95,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 4,
-      "extraversion": 63,
-      "agreeableness": 99,
-      "neuroticism": 61
+      "openness": 40,
+      "conscientiousness": 40,
+      "extraversion": 41,
+      "agreeableness": 21,
+      "neuroticism": 50
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.4
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

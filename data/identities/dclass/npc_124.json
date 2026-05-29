@@ -1,23 +1,23 @@
 {
   "id": "npc_124",
   "bio": {
-    "full_name": "Fatima Tanaka",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 26,
-    "blood_type": "A+",
-    "genetic_stability": 0.93,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Thomas Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.859,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 63,
-    "build": "Overweight",
+    "height_cm": 160,
+    "weight_kg": 110,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Messy",
+      "hair": "Dyed blue, Fade",
       "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 67,
-      "Containment_Logic": 25,
-      "Hacking": 59
+      "Persuasion": 85,
+      "Hacking": 95,
+      "Engineering": 12
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 11,
-      "extraversion": 49,
-      "agreeableness": 43,
-      "neuroticism": 14
+      "openness": 42,
+      "conscientiousness": 71,
+      "extraversion": 22,
+      "agreeableness": 95,
+      "neuroticism": 49
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

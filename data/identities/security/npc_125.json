@@ -1,57 +1,57 @@
 {
   "id": "npc_125",
   "bio": {
-    "full_name": "Charles Garcia",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 34,
-    "blood_type": "O+",
-    "genetic_stability": 0.993,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Arjun Bakker",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 60,
+    "blood_type": "AB-",
+    "genetic_stability": 0.959,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 76,
-    "build": "Heavily Muscular",
+    "height_cm": 184,
+    "weight_kg": 66,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Messy",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Athletics": 59,
-      "Engineering": 66,
-      "Persuasion": 51
+      "Occult_Research": 91,
+      "Containment_Logic": 31,
+      "Stealth": 25
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 91,
-      "extraversion": 67,
-      "agreeableness": 44,
-      "neuroticism": 90
+      "openness": 21,
+      "conscientiousness": 27,
+      "extraversion": 28,
+      "agreeableness": 18,
+      "neuroticism": 27
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",

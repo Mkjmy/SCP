@@ -1,23 +1,23 @@
 {
   "id": "npc_152",
   "bio": {
-    "full_name": "Robert Muller",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 31,
-    "blood_type": "B+",
-    "genetic_stability": 0.92,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Joseph Bakker",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "AB+",
+    "genetic_stability": 0.885,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 110,
-    "build": "Athletic",
+    "height_cm": 175,
+    "weight_kg": 95,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Medicine": 79,
-      "Occult_Research": 69,
-      "Athletics": 36
+      "Hacking": 16,
+      "Stealth": 51,
+      "Medicine": 28
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 66,
-      "extraversion": 55,
-      "agreeableness": 24,
-      "neuroticism": 70
+      "openness": 100,
+      "conscientiousness": 100,
+      "extraversion": 75,
+      "agreeableness": 2,
+      "neuroticism": 90
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

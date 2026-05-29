@@ -1,23 +1,23 @@
 {
   "id": "npc_016",
   "bio": {
-    "full_name": "Matthew Ivanov",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 29,
-    "blood_type": "B+",
-    "genetic_stability": 0.94,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Joseph Brown",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "B-",
+    "genetic_stability": 0.858,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 102,
-    "build": "Slender",
+    "height_cm": 161,
+    "weight_kg": 104,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Grey, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Medicine": 50,
-      "Engineering": 29,
-      "Stealth": 59
+      "Persuasion": 33,
+      "Perception": 37,
+      "Medicine": 71
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 94,
-      "extraversion": 89,
-      "agreeableness": 97,
-      "neuroticism": 68
+      "openness": 4,
+      "conscientiousness": 83,
+      "extraversion": 75,
+      "agreeableness": 30,
+      "neuroticism": 19
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

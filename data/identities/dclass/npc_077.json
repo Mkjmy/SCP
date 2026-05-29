@@ -1,23 +1,23 @@
 {
   "id": "npc_077",
   "bio": {
-    "full_name": "Yuki Kovacs",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 30,
+    "full_name": "Fatima Williams",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 41,
     "blood_type": "A+",
-    "genetic_stability": 0.999,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.953,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 85,
-    "build": "Lithe",
+    "height_cm": 164,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Hazel",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 66,
-      "Containment_Logic": 19,
-      "Engineering": 82
+      "Perception": 70,
+      "Containment_Logic": 92,
+      "Engineering": 93
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 12,
-      "extraversion": 19,
+      "openness": 96,
+      "conscientiousness": 22,
+      "extraversion": 40,
       "agreeableness": 16,
-      "neuroticism": 4
+      "neuroticism": 48
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

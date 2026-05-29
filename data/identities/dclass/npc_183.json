@@ -1,23 +1,23 @@
 {
   "id": "npc_183",
   "bio": {
-    "full_name": "Thomas Miller",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 29,
-    "blood_type": "B+",
-    "genetic_stability": 0.955,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Michael Garcia",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.997,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 97,
-    "build": "Lithe",
+    "height_cm": 199,
+    "weight_kg": 51,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Grey",
+      "hair": "Brown, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 88,
-      "Hacking": 14,
-      "Stealth": 66
+      "Engineering": 94,
+      "Stealth": 92,
+      "Hacking": 80
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 83,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 90,
-      "extraversion": 67,
-      "agreeableness": 37,
-      "neuroticism": 95
+      "openness": 13,
+      "conscientiousness": 52,
+      "extraversion": 19,
+      "agreeableness": 83,
+      "neuroticism": 41
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Undercover ISD agent",

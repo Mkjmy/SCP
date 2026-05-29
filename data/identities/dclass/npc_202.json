@@ -1,23 +1,23 @@
 {
   "id": "npc_202",
   "bio": {
-    "full_name": "John Garcia",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 45,
-    "blood_type": "B+",
-    "genetic_stability": 0.951,
+    "full_name": "Christopher Dubois",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "A-",
+    "genetic_stability": 0.947,
     "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 54,
-    "build": "Athletic",
+    "height_cm": 195,
+    "weight_kg": 85,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Amber",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 41,
-      "Athletics": 55,
-      "Occult_Research": 21
+      "Firearms": 82,
+      "Athletics": 95,
+      "Persuasion": 46
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 4,
-      "extraversion": 34,
-      "agreeableness": 61,
-      "neuroticism": 1
+      "openness": 77,
+      "conscientiousness": 46,
+      "extraversion": 1,
+      "agreeableness": 18,
+      "neuroticism": 67
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.67
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_132",
   "bio": {
-    "full_name": "Fatima Bakker",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 52,
-    "blood_type": "B-",
-    "genetic_stability": 0.902,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Fatima Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "O-",
+    "genetic_stability": 0.935,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 96,
-    "build": "Overweight",
+    "height_cm": 191,
+    "weight_kg": 73,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Silver, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Medicine": 18,
-      "Stealth": 54,
-      "Engineering": 59
+      "Persuasion": 26,
+      "Hacking": 38,
+      "Stealth": 59
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 51,
-      "extraversion": 21,
-      "agreeableness": 2,
-      "neuroticism": 45
+      "openness": 3,
+      "conscientiousness": 30,
+      "extraversion": 10,
+      "agreeableness": 90,
+      "neuroticism": 57
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

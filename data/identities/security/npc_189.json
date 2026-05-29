@@ -1,23 +1,23 @@
 {
   "id": "npc_189",
   "bio": {
-    "full_name": "Olga O'Connor",
+    "full_name": "Olga Jones",
     "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 35,
+    "orientation": "Heterosexual",
+    "age": 64,
     "blood_type": "O-",
-    "genetic_stability": 0.919,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.979,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 80,
-    "build": "Heavily Muscular",
+    "height_cm": 192,
+    "weight_kg": 94,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
+      "hair": "Dyed green, Ponytail",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Medicine": 12,
-      "Engineering": 55,
-      "Hacking": 22
+      "Containment_Logic": 72,
+      "Hacking": 73,
+      "Athletics": 94
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 117,
+    "iq": 149,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 81,
-      "extraversion": 52,
-      "agreeableness": 47,
-      "neuroticism": 21
+      "openness": 44,
+      "conscientiousness": 94,
+      "extraversion": 76,
+      "agreeableness": 10,
+      "neuroticism": 50
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

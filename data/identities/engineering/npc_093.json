@@ -1,23 +1,23 @@
 {
   "id": "npc_093",
   "bio": {
-    "full_name": "Daniel Ivanov",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 49,
-    "blood_type": "B+",
-    "genetic_stability": 0.871,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Sven Miller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "O-",
+    "genetic_stability": 0.937,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
     "height_cm": 190,
-    "weight_kg": 62,
-    "build": "Overweight",
+    "weight_kg": 78,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Black, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 59,
-      "Firearms": 43,
-      "Hacking": 74
+      "Containment_Logic": 45,
+      "Engineering": 87,
+      "Occult_Research": 15
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 72,
-      "extraversion": 22,
-      "agreeableness": 57,
-      "neuroticism": 86
+      "openness": 100,
+      "conscientiousness": 82,
+      "extraversion": 36,
+      "agreeableness": 42,
+      "neuroticism": 49
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

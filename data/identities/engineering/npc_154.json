@@ -1,60 +1,60 @@
 {
   "id": "npc_154",
   "bio": {
-    "full_name": "John Dubois",
+    "full_name": "Charles Dubois",
     "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 38,
-    "blood_type": "AB-",
-    "genetic_stability": 0.912,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Asexual",
+    "age": 27,
+    "blood_type": "A-",
+    "genetic_stability": 0.951,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 72,
-    "build": "Stocky",
+    "height_cm": 200,
+    "weight_kg": 109,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Brown, Bald",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 86,
-      "Perception": 60,
-      "Stealth": 70
+      "Stealth": 33,
+      "Containment_Logic": 55,
+      "Perception": 65
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 38,
-      "conscientiousness": 8,
-      "extraversion": 10,
-      "agreeableness": 0,
-      "neuroticism": 59
+      "openness": 75,
+      "conscientiousness": 91,
+      "extraversion": 7,
+      "agreeableness": 62,
+      "neuroticism": 11
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

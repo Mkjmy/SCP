@@ -1,23 +1,23 @@
 {
   "id": "npc_206",
   "bio": {
-    "full_name": "Steven Gupta",
+    "full_name": "Maria Davis",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 33,
-    "blood_type": "AB+",
-    "genetic_stability": 0.917,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Bisexual",
+    "age": 21,
+    "blood_type": "A+",
+    "genetic_stability": 0.89,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 92,
-    "build": "Stocky",
+    "height_cm": 183,
+    "weight_kg": 107,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Deep brown",
+      "hair": "White, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 51,
-      "Medicine": 84,
-      "Persuasion": 36
+      "Medicine": 28,
+      "Containment_Logic": 17,
+      "Hacking": 55
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 17,
-      "extraversion": 4,
-      "agreeableness": 25,
-      "neuroticism": 64
+      "openness": 82,
+      "conscientiousness": 37,
+      "extraversion": 34,
+      "agreeableness": 90,
+      "neuroticism": 83
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

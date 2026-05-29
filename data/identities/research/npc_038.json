@@ -1,23 +1,23 @@
 {
   "id": "npc_038",
   "bio": {
-    "full_name": "James Wong",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 54,
-    "blood_type": "B-",
-    "genetic_stability": 0.884,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Richard O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 36,
+    "blood_type": "AB-",
+    "genetic_stability": 0.953,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 105,
-    "build": "Average",
+    "height_cm": 170,
+    "weight_kg": 76,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Brown, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 13,
-      "Athletics": 31,
-      "Occult_Research": 87
+      "Medicine": 74,
+      "Athletics": 95,
+      "Perception": 72
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 2,
-      "extraversion": 47,
-      "agreeableness": 42,
-      "neuroticism": 52
+      "openness": 84,
+      "conscientiousness": 66,
+      "extraversion": 14,
+      "agreeableness": 24,
+      "neuroticism": 22
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

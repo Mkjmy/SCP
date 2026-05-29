@@ -1,23 +1,23 @@
 {
   "id": "npc_048",
   "bio": {
-    "full_name": "Chen Dubois",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 44,
-    "blood_type": "O+",
-    "genetic_stability": 0.918,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Yuki Brown",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.915,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 98,
-    "build": "Slender",
+    "height_cm": 161,
+    "weight_kg": 51,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Hums classical music"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Hacking": 30,
-      "Engineering": 60,
-      "Occult_Research": 21
+      "Engineering": 76,
+      "Containment_Logic": 42,
+      "Hacking": 90
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 50,
-      "extraversion": 33,
-      "agreeableness": 24,
-      "neuroticism": 52
+      "openness": 91,
+      "conscientiousness": 11,
+      "extraversion": 14,
+      "agreeableness": 3,
+      "neuroticism": 81
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
       "amount": 100000,
-      "creditor": "Local Mob"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

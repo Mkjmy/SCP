@@ -1,23 +1,23 @@
 {
   "id": "npc_138",
   "bio": {
-    "full_name": "Chen Wong",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 44,
-    "blood_type": "A-",
-    "genetic_stability": 0.939,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Sven Tanaka",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 30,
+    "blood_type": "B+",
+    "genetic_stability": 0.999,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 102,
-    "build": "Athletic",
+    "height_cm": 163,
+    "weight_kg": 50,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Stealth": 75,
-      "Firearms": 24,
-      "Medicine": 38
+      "Occult_Research": 81,
+      "Hacking": 61,
+      "Containment_Logic": 65
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 165,
     "personality_matrix": {
-      "openness": 44,
-      "conscientiousness": 83,
-      "extraversion": 69,
-      "agreeableness": 14,
-      "neuroticism": 3
+      "openness": 68,
+      "conscientiousness": 8,
+      "extraversion": 10,
+      "agreeableness": 35,
+      "neuroticism": 8
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

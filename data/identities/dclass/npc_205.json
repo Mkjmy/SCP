@@ -1,23 +1,23 @@
 {
   "id": "npc_205",
   "bio": {
-    "full_name": "Olga Gupta",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 44,
-    "blood_type": "A+",
-    "genetic_stability": 0.866,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Thomas Williams",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.976,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 67,
-    "build": "Stocky",
+    "height_cm": 164,
+    "weight_kg": 100,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Fade",
-      "eyes": "Grey",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 84,
-      "Hacking": 79,
-      "Containment_Logic": 25
+      "Perception": 53,
+      "Athletics": 87,
+      "Engineering": 16
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 81,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 8,
-      "extraversion": 69,
-      "agreeableness": 10,
-      "neuroticism": 59
+      "openness": 100,
+      "conscientiousness": 9,
+      "extraversion": 91,
+      "agreeableness": 74,
+      "neuroticism": 88
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

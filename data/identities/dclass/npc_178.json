@@ -1,23 +1,23 @@
 {
   "id": "npc_178",
   "bio": {
-    "full_name": "Joshua Johnson",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "O-",
-    "genetic_stability": 0.994,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Andrew Smith",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 20,
+    "blood_type": "B+",
+    "genetic_stability": 0.864,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 61,
-    "build": "Lithe",
+    "height_cm": 158,
+    "weight_kg": 95,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
+      "hair": "Black, Shoulder-length",
       "eyes": "Grey",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 26,
-      "Firearms": 15,
-      "Stealth": 34
+      "Medicine": 52,
+      "Stealth": 26,
+      "Engineering": 43
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 112,
     "personality_matrix": {
-      "openness": 64,
-      "conscientiousness": 11,
-      "extraversion": 91,
-      "agreeableness": 85,
-      "neuroticism": 82
+      "openness": 18,
+      "conscientiousness": 1,
+      "extraversion": 64,
+      "agreeableness": 87,
+      "neuroticism": 4
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

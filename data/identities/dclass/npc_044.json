@@ -1,23 +1,23 @@
 {
   "id": "npc_044",
   "bio": {
-    "full_name": "Michael Jones",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 44,
-    "blood_type": "A-",
-    "genetic_stability": 0.952,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "John Miller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 21,
+    "blood_type": "B+",
+    "genetic_stability": 0.889,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
     "height_cm": 188,
-    "weight_kg": 107,
-    "build": "Slender",
+    "weight_kg": 87,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 64,
-      "Stealth": 59,
-      "Perception": 83
+      "Athletics": 46,
+      "Medicine": 18,
+      "Perception": 29
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 100,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 68,
-      "extraversion": 38,
-      "agreeableness": 9,
-      "neuroticism": 3
+      "openness": 91,
+      "conscientiousness": 9,
+      "extraversion": 40,
+      "agreeableness": 4,
+      "neuroticism": 75
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

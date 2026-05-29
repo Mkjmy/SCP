@@ -1,23 +1,23 @@
 {
   "id": "npc_033",
   "bio": {
-    "full_name": "Andrew O'Connor",
-    "gender": "Non-binary",
+    "full_name": "Olga Wong",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "B-",
-    "genetic_stability": 0.878,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 41,
+    "blood_type": "O+",
+    "genetic_stability": 0.893,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 91,
-    "build": "Frail",
+    "height_cm": 180,
+    "weight_kg": 78,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Amber",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 62,
-      "Stealth": 56,
-      "Engineering": 87
+      "Occult_Research": 82,
+      "Hacking": 77,
+      "Athletics": 26
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 89,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 97,
-      "extraversion": 81,
-      "agreeableness": 71,
-      "neuroticism": 0
+      "openness": 66,
+      "conscientiousness": 86,
+      "extraversion": 26,
+      "agreeableness": 59,
+      "neuroticism": 43
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

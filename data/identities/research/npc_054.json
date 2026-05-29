@@ -1,23 +1,23 @@
 {
   "id": "npc_054",
   "bio": {
-    "full_name": "Joshua Sato",
+    "full_name": "Sven Vasiliev",
     "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 23,
+    "orientation": "Asexual",
+    "age": 31,
     "blood_type": "AB-",
-    "genetic_stability": 0.967,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.925,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 106,
-    "build": "Stocky",
+    "height_cm": 179,
+    "weight_kg": 75,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Perception": 15,
-      "Hacking": 87,
-      "Athletics": 75
+      "Athletics": 48,
+      "Engineering": 32,
+      "Medicine": 61
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 154,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 29,
-      "extraversion": 52,
-      "agreeableness": 7,
-      "neuroticism": 72
+      "openness": 65,
+      "conscientiousness": 38,
+      "extraversion": 39,
+      "agreeableness": 17,
+      "neuroticism": 79
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

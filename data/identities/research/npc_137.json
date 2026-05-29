@@ -1,21 +1,21 @@
 {
   "id": "npc_137",
   "bio": {
-    "full_name": "John Davis",
+    "full_name": "Maria Sato",
     "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 48,
-    "blood_type": "AB+",
-    "genetic_stability": 0.872,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Bisexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.91,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 58,
-    "build": "Lithe",
+    "height_cm": 177,
+    "weight_kg": 86,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
         "Cracks knuckles frequently"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Medicine": 44,
-      "Occult_Research": 78,
-      "Athletics": 18
+      "Occult_Research": 84,
+      "Medicine": 20,
+      "Athletics": 90
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 81,
-      "conscientiousness": 84,
-      "extraversion": 72,
-      "agreeableness": 44,
-      "neuroticism": 69
+      "openness": 79,
+      "conscientiousness": 100,
+      "extraversion": 8,
+      "agreeableness": 64,
+      "neuroticism": 24
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

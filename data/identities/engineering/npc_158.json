@@ -1,23 +1,23 @@
 {
   "id": "npc_158",
   "bio": {
-    "full_name": "David Gupta",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 44,
-    "blood_type": "A+",
-    "genetic_stability": 0.994,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "William Garcia",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 57,
+    "blood_type": "B+",
+    "genetic_stability": 0.882,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 65,
-    "build": "Athletic",
+    "height_cm": 195,
+    "weight_kg": 55,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 89,
-      "Hacking": 25,
-      "Occult_Research": 61
+      "Firearms": 24,
+      "Medicine": 89,
+      "Hacking": 45
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 74,
-      "extraversion": 78,
-      "agreeableness": 63,
-      "neuroticism": 44
+      "openness": 97,
+      "conscientiousness": 2,
+      "extraversion": 25,
+      "agreeableness": 10,
+      "neuroticism": 48
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",

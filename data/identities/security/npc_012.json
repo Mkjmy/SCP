@@ -1,23 +1,23 @@
 {
   "id": "npc_012",
   "bio": {
-    "full_name": "James Vasiliev",
-    "gender": "Transgender",
+    "full_name": "Daniel O'Connor",
+    "gender": "Male",
     "orientation": "Bisexual",
-    "age": 40,
-    "blood_type": "AB+",
-    "genetic_stability": 0.891,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 37,
+    "blood_type": "A+",
+    "genetic_stability": 0.986,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 84,
-    "build": "Heavily Muscular",
+    "height_cm": 170,
+    "weight_kg": 65,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Bald",
-      "eyes": "Icy blue",
+      "hair": "White, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Athletics": 74,
-      "Stealth": 91,
-      "Firearms": 53
+      "Perception": 37,
+      "Containment_Logic": 89,
+      "Persuasion": 93
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 112,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 23,
-      "extraversion": 47,
-      "agreeableness": 39,
-      "neuroticism": 73
+      "openness": 96,
+      "conscientiousness": 22,
+      "extraversion": 10,
+      "agreeableness": 37,
+      "neuroticism": 74
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

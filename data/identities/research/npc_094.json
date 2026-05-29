@@ -1,23 +1,23 @@
 {
   "id": "npc_094",
   "bio": {
-    "full_name": "Steven O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 35,
-    "blood_type": "AB-",
-    "genetic_stability": 0.952,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Mark Ivanov",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.909,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 66,
-    "build": "Average",
+    "height_cm": 183,
+    "weight_kg": 85,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 82,
-      "Perception": 19,
-      "Medicine": 86
+      "Engineering": 16,
+      "Firearms": 75,
+      "Perception": 30
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 66,
-      "extraversion": 49,
-      "agreeableness": 97,
-      "neuroticism": 27
+      "openness": 56,
+      "conscientiousness": 60,
+      "extraversion": 64,
+      "agreeableness": 6,
+      "neuroticism": 25
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
       "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

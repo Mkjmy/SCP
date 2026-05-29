@@ -1,23 +1,23 @@
 {
   "id": "npc_046",
   "bio": {
-    "full_name": "John Ivanov",
-    "gender": "Agender",
+    "full_name": "Joshua Kovacs",
+    "gender": "Female",
     "orientation": "Pansexual",
-    "age": 47,
-    "blood_type": "A-",
-    "genetic_stability": 0.942,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.879,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 68,
+    "height_cm": 180,
+    "weight_kg": 67,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "White, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Stealth": 84,
-      "Engineering": 20,
-      "Firearms": 10
+      "Perception": 43,
+      "Occult_Research": 42,
+      "Hacking": 87
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 85,
-      "extraversion": 88,
-      "agreeableness": 10,
-      "neuroticism": 27
+      "openness": 53,
+      "conscientiousness": 78,
+      "extraversion": 87,
+      "agreeableness": 39,
+      "neuroticism": 58
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

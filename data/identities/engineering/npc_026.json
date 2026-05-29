@@ -1,23 +1,23 @@
 {
   "id": "npc_026",
   "bio": {
-    "full_name": "Steven Johnson",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 31,
+    "full_name": "Thomas Schmidt",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 35,
     "blood_type": "A-",
-    "genetic_stability": 0.899,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.888,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 99,
-    "build": "Frail",
+    "height_cm": 162,
+    "weight_kg": 92,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Grey",
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 20,
-      "Occult_Research": 22,
-      "Firearms": 33
+      "Containment_Logic": 93,
+      "Athletics": 61,
+      "Engineering": 29
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 117,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 0,
-      "extraversion": 60,
-      "agreeableness": 73,
-      "neuroticism": 11
+      "openness": 64,
+      "conscientiousness": 44,
+      "extraversion": 24,
+      "agreeableness": 61,
+      "neuroticism": 71
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

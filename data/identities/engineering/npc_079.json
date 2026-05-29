@@ -1,23 +1,23 @@
 {
   "id": "npc_079",
   "bio": {
-    "full_name": "Daniel Vasiliev",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 53,
+    "full_name": "Paul Johnson",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 45,
     "blood_type": "AB+",
-    "genetic_stability": 0.984,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.982,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 96,
-    "build": "Athletic",
+    "height_cm": 175,
+    "weight_kg": 73,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,28 +27,28 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 21,
-      "Athletics": 37,
-      "Medicine": 13
+      "Occult_Research": 19,
+      "Persuasion": 45,
+      "Hacking": 58
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 17,
-      "conscientiousness": 12,
-      "extraversion": 73,
-      "agreeableness": 84,
-      "neuroticism": 57
+      "openness": 79,
+      "conscientiousness": 79,
+      "extraversion": 42,
+      "agreeableness": 31,
+      "neuroticism": 81
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
       "amount": 20000,
       "creditor": "None"

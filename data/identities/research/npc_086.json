@@ -1,20 +1,20 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Mark Gupta",
-    "gender": "Agender",
+    "full_name": "James Williams",
+    "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 64,
-    "blood_type": "O+",
-    "genetic_stability": 0.91,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 55,
+    "blood_type": "B+",
+    "genetic_stability": 0.999,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 99,
+    "height_cm": 184,
+    "weight_kg": 106,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Pixie cut",
+      "hair": "Grey, Manicured",
       "eyes": "Grey",
       "notable_marks": [
         "Talks to self in whispers"
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Engineering": 20,
-      "Firearms": 20,
-      "Containment_Logic": 59
+      "Hacking": 43,
+      "Stealth": 82,
+      "Perception": 95
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 163,
     "personality_matrix": {
-      "openness": 35,
-      "conscientiousness": 5,
-      "extraversion": 48,
-      "agreeableness": 18,
+      "openness": 47,
+      "conscientiousness": 98,
+      "extraversion": 96,
+      "agreeableness": 48,
       "neuroticism": 15
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

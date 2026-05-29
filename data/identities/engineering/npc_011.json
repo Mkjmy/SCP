@@ -1,57 +1,57 @@
 {
   "id": "npc_011",
   "bio": {
-    "full_name": "Arjun Schmidt",
+    "full_name": "Chen Muller",
     "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 65,
-    "blood_type": "A+",
-    "genetic_stability": 0.948,
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.871,
     "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 75,
-    "build": "Overweight",
+    "height_cm": 192,
+    "weight_kg": 78,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Grey",
+      "hair": "Red, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
         "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 33,
-      "Athletics": 14,
-      "Containment_Logic": 91
+      "Hacking": 37,
+      "Medicine": 46,
+      "Occult_Research": 70
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 81,
-      "conscientiousness": 7,
-      "extraversion": 86,
-      "agreeableness": 15,
-      "neuroticism": 32
+      "openness": 70,
+      "conscientiousness": 97,
+      "extraversion": 30,
+      "agreeableness": 78,
+      "neuroticism": 51
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

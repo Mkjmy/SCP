@@ -1,23 +1,23 @@
 {
   "id": "npc_141",
   "bio": {
-    "full_name": "Joshua Smith",
+    "full_name": "Michael Gupta",
     "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 61,
-    "blood_type": "AB+",
-    "genetic_stability": 0.887,
-    "origin": "Ex-military police recruited after a classified incident"
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "A-",
+    "genetic_stability": 0.86,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 76,
-    "build": "Overweight",
+    "height_cm": 200,
+    "weight_kg": 73,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Stealth": 54,
-      "Persuasion": 23,
-      "Engineering": 29
+      "Stealth": 13,
+      "Hacking": 46,
+      "Containment_Logic": 47
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 85,
-      "extraversion": 45,
-      "agreeableness": 4,
-      "neuroticism": 85
+      "openness": 82,
+      "conscientiousness": 15,
+      "extraversion": 72,
+      "agreeableness": 84,
+      "neuroticism": 93
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

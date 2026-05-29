@@ -1,21 +1,21 @@
 {
   "id": "npc_162",
   "bio": {
-    "full_name": "Matthew Brown",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 28,
-    "blood_type": "AB-",
-    "genetic_stability": 0.933,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Kenji O'Connor",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "O-",
+    "genetic_stability": 0.913,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 89,
-    "build": "Overweight",
+    "height_cm": 194,
+    "weight_kg": 95,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "White, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 79,
-      "Engineering": 88,
-      "Medicine": 92
+      "Persuasion": 19,
+      "Containment_Logic": 58,
+      "Athletics": 81
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 91,
-      "extraversion": 79,
-      "agreeableness": 15,
-      "neuroticism": 59
+      "openness": 26,
+      "conscientiousness": 90,
+      "extraversion": 10,
+      "agreeableness": 87,
+      "neuroticism": 1
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
+      "amount": 20000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

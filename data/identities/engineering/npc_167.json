@@ -1,23 +1,23 @@
 {
   "id": "npc_167",
   "bio": {
-    "full_name": "Lars Muller",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 40,
+    "full_name": "Robert Kovacs",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 39,
     "blood_type": "A-",
-    "genetic_stability": 0.893,
+    "genetic_stability": 0.861,
     "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 88,
+    "height_cm": 165,
+    "weight_kg": 57,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 30,
-      "Persuasion": 60,
-      "Firearms": 42
+      "Medicine": 78,
+      "Engineering": 26,
+      "Perception": 39
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 73,
-      "conscientiousness": 34,
-      "extraversion": 60,
-      "agreeableness": 90,
-      "neuroticism": 97
+      "openness": 72,
+      "conscientiousness": 32,
+      "extraversion": 80,
+      "agreeableness": 77,
+      "neuroticism": 89
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

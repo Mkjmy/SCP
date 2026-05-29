@@ -1,23 +1,23 @@
 {
   "id": "npc_184",
   "bio": {
-    "full_name": "Kenji Davis",
-    "gender": "Female",
+    "full_name": "Fatima Smith",
+    "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 27,
-    "blood_type": "O+",
-    "genetic_stability": 0.876,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.971,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 85,
-    "build": "Athletic",
+    "height_cm": 178,
+    "weight_kg": 52,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Hazel",
+      "hair": "White, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Athletics": 27,
-      "Firearms": 14,
-      "Persuasion": 30
+      "Perception": 91,
+      "Persuasion": 12,
+      "Engineering": 67
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 100,
-      "conscientiousness": 100,
-      "extraversion": 86,
-      "agreeableness": 46,
-      "neuroticism": 5
+      "openness": 56,
+      "conscientiousness": 7,
+      "extraversion": 15,
+      "agreeableness": 7,
+      "neuroticism": 2
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

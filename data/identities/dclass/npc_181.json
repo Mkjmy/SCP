@@ -1,23 +1,23 @@
 {
   "id": "npc_181",
   "bio": {
-    "full_name": "Thomas Gupta",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 24,
-    "blood_type": "O+",
-    "genetic_stability": 0.934,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Robert Smith",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 43,
+    "blood_type": "AB-",
+    "genetic_stability": 0.98,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 188,
-    "weight_kg": 65,
-    "build": "Slender",
+    "height_cm": 187,
+    "weight_kg": 58,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 56,
-      "Athletics": 70,
-      "Medicine": 82
+      "Stealth": 71,
+      "Engineering": 19,
+      "Firearms": 24
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 48,
-      "extraversion": 18,
-      "agreeableness": 71,
-      "neuroticism": 91
+      "openness": 86,
+      "conscientiousness": 91,
+      "extraversion": 33,
+      "agreeableness": 56,
+      "neuroticism": 48
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

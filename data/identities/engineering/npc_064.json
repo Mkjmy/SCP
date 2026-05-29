@@ -1,23 +1,23 @@
 {
   "id": "npc_064",
   "bio": {
-    "full_name": "William Ivanov",
-    "gender": "Male",
+    "full_name": "John Williams",
+    "gender": "Agender",
     "orientation": "Bisexual",
-    "age": 41,
-    "blood_type": "A-",
-    "genetic_stability": 0.97,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 60,
+    "blood_type": "O-",
+    "genetic_stability": 0.963,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 106,
-    "build": "Average",
+    "height_cm": 177,
+    "weight_kg": 66,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "White, Manicured",
-      "eyes": "Icy blue",
+      "hair": "Red, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 78,
-      "Stealth": 22,
-      "Containment_Logic": 41
+      "Medicine": 91,
+      "Firearms": 25,
+      "Occult_Research": 35
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 75,
-      "extraversion": 97,
-      "agreeableness": 72,
-      "neuroticism": 45
+      "openness": 24,
+      "conscientiousness": 21,
+      "extraversion": 52,
+      "agreeableness": 53,
+      "neuroticism": 5
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
       "amount": 100000,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_197",
   "bio": {
-    "full_name": "Thomas Gupta",
+    "full_name": "Arjun Garcia",
     "gender": "Transgender",
     "orientation": "Heterosexual",
-    "age": 61,
-    "blood_type": "AB+",
-    "genetic_stability": 0.961,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 62,
+    "blood_type": "A+",
+    "genetic_stability": 0.875,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 177,
+    "height_cm": 197,
     "weight_kg": 66,
     "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Bald",
+      "hair": "Dyed green, Wild and unkempt",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Containment_Logic": 71,
-      "Perception": 52,
-      "Firearms": 59
+      "Occult_Research": 38,
+      "Engineering": 15,
+      "Perception": 19
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 47,
-      "extraversion": 2,
-      "agreeableness": 76,
-      "neuroticism": 39
+      "openness": 51,
+      "conscientiousness": 68,
+      "extraversion": 16,
+      "agreeableness": 85,
+      "neuroticism": 84
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
       "amount": 5000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

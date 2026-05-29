@@ -1,23 +1,23 @@
 {
   "id": "npc_201",
   "bio": {
-    "full_name": "John Ivanov",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 51,
-    "blood_type": "O-",
-    "genetic_stability": 0.856,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Sven Muller",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 48,
+    "blood_type": "B+",
+    "genetic_stability": 0.964,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 61,
-    "build": "Athletic",
+    "height_cm": 181,
+    "weight_kg": 107,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Amber",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Medicine": 61,
-      "Hacking": 20,
-      "Engineering": 46
+      "Occult_Research": 40,
+      "Persuasion": 86,
+      "Medicine": 79
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 54,
-      "extraversion": 91,
-      "agreeableness": 17,
-      "neuroticism": 80
+      "openness": 64,
+      "conscientiousness": 2,
+      "extraversion": 35,
+      "agreeableness": 38,
+      "neuroticism": 53
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

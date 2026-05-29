@@ -1,0 +1,60 @@
+{
+  "id": "npc_170",
+  "bio": {
+    "full_name": "Matthew O'Connor",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 65,
+    "blood_type": "O+",
+    "genetic_stability": 0.978,
+    "origin": "Former NASA engineer who saw too much"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 107,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Talks to self in whispers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Guard",
+    "department": "Security",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Firearms": 88,
+      "Engineering": 51,
+      "Occult_Research": 18
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 93,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 85,
+      "extraversion": 21,
+      "agreeableness": 95,
+      "neuroticism": 41
+    },
+    "phobias": [
+      "Arachnophobia (Fear of spiders)"
+    ],
+    "mental_stability": 0.67
+  },
+  "social_and_secrets": {
+    "family": "Married, 2 children",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
+  }
+}

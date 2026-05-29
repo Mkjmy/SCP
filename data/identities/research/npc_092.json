@@ -1,23 +1,23 @@
 {
   "id": "npc_092",
   "bio": {
-    "full_name": "Sven Kovacs",
-    "gender": "Agender",
+    "full_name": "Daniel Bakker",
+    "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 38,
-    "blood_type": "AB+",
-    "genetic_stability": 0.972,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 57,
+    "blood_type": "O-",
+    "genetic_stability": 0.89,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 96,
-    "build": "Frail",
+    "height_cm": 176,
+    "weight_kg": 63,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
-      "eyes": "Emerald green",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Engineering": 65,
-      "Athletics": 86,
-      "Persuasion": 15
+      "Athletics": 40,
+      "Firearms": 14,
+      "Persuasion": 77
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 57,
-      "extraversion": 53,
-      "agreeableness": 79,
-      "neuroticism": 4
+      "openness": 100,
+      "conscientiousness": 92,
+      "extraversion": 20,
+      "agreeableness": 1,
+      "neuroticism": 76
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_083",
   "bio": {
-    "full_name": "Yuki Jones",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "B+",
-    "genetic_stability": 0.914,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Elena Vasiliev",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.948,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 72,
-    "build": "Average",
+    "height_cm": 191,
+    "weight_kg": 87,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Grey",
+      "hair": "Brown, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Athletics": 31,
-      "Containment_Logic": 10,
-      "Stealth": 13
+      "Engineering": 67,
+      "Hacking": 26,
+      "Containment_Logic": 59
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 118,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 83,
-      "conscientiousness": 35,
-      "extraversion": 49,
-      "agreeableness": 75,
-      "neuroticism": 25
+      "openness": 24,
+      "conscientiousness": 8,
+      "extraversion": 28,
+      "agreeableness": 32,
+      "neuroticism": 65
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

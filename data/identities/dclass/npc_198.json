@@ -1,23 +1,23 @@
 {
   "id": "npc_198",
   "bio": {
-    "full_name": "Thomas Gupta",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 31,
-    "blood_type": "O-",
-    "genetic_stability": 0.957,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "John Bakker",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "A-",
+    "genetic_stability": 0.88,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 91,
-    "build": "Overweight",
+    "height_cm": 186,
+    "weight_kg": 53,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Blonde, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 16,
-      "Athletics": 33,
-      "Engineering": 43
+      "Athletics": 80,
+      "Perception": 44,
+      "Containment_Logic": 73
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 51,
-      "extraversion": 52,
-      "agreeableness": 17,
-      "neuroticism": 71
+      "openness": 78,
+      "conscientiousness": 96,
+      "extraversion": 53,
+      "agreeableness": 25,
+      "neuroticism": 84
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

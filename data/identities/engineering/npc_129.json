@@ -1,23 +1,23 @@
 {
   "id": "npc_129",
   "bio": {
-    "full_name": "Joshua Miller",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 33,
-    "blood_type": "O-",
-    "genetic_stability": 0.938,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Andrew Ivanov",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 61,
+    "blood_type": "O+",
+    "genetic_stability": 0.926,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 92,
-    "build": "Lithe",
+    "height_cm": 172,
+    "weight_kg": 97,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Black, Ponytail",
+      "hair": "Grey, Bald",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 32,
-      "Firearms": 20,
-      "Athletics": 48
+      "Engineering": 73,
+      "Persuasion": 36,
+      "Firearms": 15
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 88,
-      "extraversion": 41,
-      "agreeableness": 63,
-      "neuroticism": 73
+      "openness": 43,
+      "conscientiousness": 54,
+      "extraversion": 2,
+      "agreeableness": 45,
+      "neuroticism": 89
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

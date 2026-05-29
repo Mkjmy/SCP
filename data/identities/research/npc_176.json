@@ -1,23 +1,23 @@
 {
   "id": "npc_176",
   "bio": {
-    "full_name": "Daniel Muller",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 63,
-    "blood_type": "O+",
-    "genetic_stability": 0.908,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Joshua Schmidt",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "AB-",
+    "genetic_stability": 0.913,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 95,
-    "build": "Stocky",
+    "height_cm": 169,
+    "weight_kg": 90,
+    "build": "Heavily Muscular",
     "physical_features": {
       "hair": "Brown, Manicured",
-      "eyes": "Icy blue",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Containment_Logic": 34,
-      "Athletics": 44,
-      "Medicine": 57
+      "Containment_Logic": 26,
+      "Firearms": 14,
+      "Hacking": 19
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 143,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 17,
-      "extraversion": 34,
-      "agreeableness": 34,
-      "neuroticism": 25
+      "openness": 8,
+      "conscientiousness": 40,
+      "extraversion": 70,
+      "agreeableness": 62,
+      "neuroticism": 26
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_036",
   "bio": {
-    "full_name": "Michael Jones",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 36,
-    "blood_type": "AB-",
-    "genetic_stability": 0.906,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Matthew Miller",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.853,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 59,
-    "build": "Overweight",
+    "height_cm": 158,
+    "weight_kg": 95,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 45,
-      "Engineering": 25,
-      "Hacking": 61
+      "Athletics": 71,
+      "Firearms": 35,
+      "Stealth": 73
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 21,
-      "extraversion": 18,
-      "agreeableness": 19,
-      "neuroticism": 48
+      "openness": 61,
+      "conscientiousness": 97,
+      "extraversion": 38,
+      "agreeableness": 66,
+      "neuroticism": 60
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

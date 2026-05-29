@@ -1,0 +1,60 @@
+{
+  "id": "npc_165",
+  "bio": {
+    "full_name": "Joshua Dubois",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "AB-",
+    "genetic_stability": 0.958,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 197,
+    "weight_kg": 92,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Black, Bald",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Smokes heavily"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 2,
+    "skills": {
+      "Athletics": 41,
+      "Firearms": 75,
+      "Occult_Research": 80
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 151,
+    "personality_matrix": {
+      "openness": 62,
+      "conscientiousness": 47,
+      "extraversion": 82,
+      "agreeableness": 48,
+      "neuroticism": 29
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.95
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

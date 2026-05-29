@@ -1,23 +1,23 @@
 {
   "id": "npc_066",
   "bio": {
-    "full_name": "Sven Jones",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 30,
-    "blood_type": "A+",
-    "genetic_stability": 0.909,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Charles Gupta",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.996,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 107,
-    "build": "Athletic",
+    "height_cm": 196,
+    "weight_kg": 69,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Fade",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 48,
-      "Occult_Research": 65,
-      "Medicine": 32
+      "Occult_Research": 53,
+      "Hacking": 72,
+      "Engineering": 67
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 81,
-      "extraversion": 57,
-      "agreeableness": 4,
-      "neuroticism": 97
+      "openness": 55,
+      "conscientiousness": 90,
+      "extraversion": 91,
+      "agreeableness": 91,
+      "neuroticism": 40
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_039",
   "bio": {
-    "full_name": "Andrew Miller",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 59,
-    "blood_type": "A-",
-    "genetic_stability": 0.855,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Yuki Johnson",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "A+",
+    "genetic_stability": 0.886,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 96,
-    "build": "Average",
+    "height_cm": 173,
+    "weight_kg": 109,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Amber",
+      "hair": "Black, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Engineering": 66,
-      "Persuasion": 81,
-      "Containment_Logic": 83
+      "Occult_Research": 51,
+      "Persuasion": 35,
+      "Containment_Logic": 56
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 73,
-      "conscientiousness": 48,
-      "extraversion": 98,
-      "agreeableness": 92,
-      "neuroticism": 48
+      "openness": 16,
+      "conscientiousness": 31,
+      "extraversion": 59,
+      "agreeableness": 80,
+      "neuroticism": 72
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
     "family": "Married, no children",
     "debts": {
       "amount": 0,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

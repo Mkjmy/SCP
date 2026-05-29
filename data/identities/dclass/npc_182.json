@@ -1,23 +1,23 @@
 {
   "id": "npc_182",
   "bio": {
-    "full_name": "Michael Garcia",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 20,
-    "blood_type": "AB-",
-    "genetic_stability": 0.875,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Robert Johnson",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 40,
+    "blood_type": "O-",
+    "genetic_stability": 0.921,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
     "height_cm": 192,
-    "weight_kg": 106,
-    "build": "Average",
+    "weight_kg": 98,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Bald",
+      "hair": "Grey, Fade",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 28,
-      "Stealth": 87,
-      "Persuasion": 49
+      "Engineering": 55,
+      "Stealth": 48,
+      "Perception": 69
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 38,
-      "conscientiousness": 87,
-      "extraversion": 7,
+      "openness": 100,
+      "conscientiousness": 4,
+      "extraversion": 97,
       "agreeableness": 36,
-      "neuroticism": 82
+      "neuroticism": 6
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
       "amount": 100000,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

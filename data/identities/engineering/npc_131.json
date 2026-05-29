@@ -1,60 +1,60 @@
 {
   "id": "npc_131",
   "bio": {
-    "full_name": "James Muller",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 65,
-    "blood_type": "O-",
-    "genetic_stability": 0.936,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Paul Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 63,
+    "blood_type": "B-",
+    "genetic_stability": 0.924,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 78,
-    "build": "Overweight",
+    "height_cm": 189,
+    "weight_kg": 103,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
         "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 94,
-      "Medicine": 82,
-      "Athletics": 41
+      "Medicine": 76,
+      "Persuasion": 46,
+      "Containment_Logic": 40
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 93,
-      "extraversion": 83,
-      "agreeableness": 84,
-      "neuroticism": 6
+      "openness": 70,
+      "conscientiousness": 3,
+      "extraversion": 72,
+      "agreeableness": 19,
+      "neuroticism": 30
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_021",
   "bio": {
-    "full_name": "William Smith",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 56,
-    "blood_type": "O+",
-    "genetic_stability": 0.947,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "William Tanaka",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "B+",
+    "genetic_stability": 0.95,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 77,
-    "build": "Heavily Muscular",
+    "height_cm": 167,
+    "weight_kg": 74,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Engineering": 84,
-      "Perception": 69,
-      "Stealth": 14
+      "Hacking": 55,
+      "Engineering": 19,
+      "Stealth": 32
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 39,
-      "conscientiousness": 68,
-      "extraversion": 95,
-      "agreeableness": 24,
-      "neuroticism": 89
+      "openness": 62,
+      "conscientiousness": 82,
+      "extraversion": 24,
+      "agreeableness": 31,
+      "neuroticism": 30
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

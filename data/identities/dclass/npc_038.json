@@ -1,23 +1,23 @@
 {
   "id": "npc_038",
   "bio": {
-    "full_name": "Joseph Gupta",
-    "gender": "Agender",
-    "orientation": "Pansexual",
+    "full_name": "Matthew Johnson",
+    "gender": "Female",
+    "orientation": "Homosexual",
     "age": 28,
-    "blood_type": "A+",
-    "genetic_stability": 0.958,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "blood_type": "O+",
+    "genetic_stability": 0.876,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 79,
-    "build": "Lithe",
+    "height_cm": 185,
+    "weight_kg": 90,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Red, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 92,
-      "Firearms": 52,
-      "Persuasion": 48
+      "Athletics": 83,
+      "Containment_Logic": 32,
+      "Medicine": 46
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 84,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 21,
-      "extraversion": 93,
-      "agreeableness": 37,
-      "neuroticism": 55
+      "openness": 63,
+      "conscientiousness": 95,
+      "extraversion": 45,
+      "agreeableness": 95,
+      "neuroticism": 90
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

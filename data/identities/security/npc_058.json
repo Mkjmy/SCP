@@ -1,23 +1,23 @@
 {
   "id": "npc_058",
   "bio": {
-    "full_name": "Matthew Schmidt",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 39,
-    "blood_type": "AB+",
-    "genetic_stability": 0.988,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "William Wong",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.935,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 76,
-    "build": "Heavily Muscular",
+    "height_cm": 178,
+    "weight_kg": 85,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Blonde, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Hacking": 30,
-      "Occult_Research": 10,
-      "Athletics": 72
+      "Containment_Logic": 13,
+      "Hacking": 56,
+      "Engineering": 86
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 69,
-      "extraversion": 72,
-      "agreeableness": 38,
-      "neuroticism": 15
+      "openness": 54,
+      "conscientiousness": 32,
+      "extraversion": 69,
+      "agreeableness": 83,
+      "neuroticism": 50
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

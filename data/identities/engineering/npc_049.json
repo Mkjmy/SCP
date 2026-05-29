@@ -2,22 +2,22 @@
   "id": "npc_049",
   "bio": {
     "full_name": "William Sato",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 22,
-    "blood_type": "AB-",
-    "genetic_stability": 0.87,
-    "origin": "Former investigative journalist who dug too deep"
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 55,
+    "blood_type": "A-",
+    "genetic_stability": 0.877,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 61,
-    "build": "Athletic",
+    "height_cm": 179,
+    "weight_kg": 74,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Grey",
+      "hair": "Grey, Bald",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 14,
-      "Hacking": 54,
-      "Athletics": 75
+      "Occult_Research": 77,
+      "Hacking": 45,
+      "Perception": 69
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 62,
+      "openness": 79,
       "conscientiousness": 66,
-      "extraversion": 49,
-      "agreeableness": 25,
-      "neuroticism": 93
+      "extraversion": 8,
+      "agreeableness": 33,
+      "neuroticism": 54
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

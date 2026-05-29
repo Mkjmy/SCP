@@ -1,60 +1,60 @@
 {
   "id": "npc_018",
   "bio": {
-    "full_name": "Andrew Bakker",
+    "full_name": "Charles Tanaka",
     "gender": "Non-binary",
     "orientation": "Homosexual",
-    "age": 54,
-    "blood_type": "AB+",
-    "genetic_stability": 0.911,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 52,
+    "blood_type": "O+",
+    "genetic_stability": 0.915,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 104,
-    "build": "Frail",
+    "height_cm": 192,
+    "weight_kg": 93,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Amber",
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 94,
-      "Perception": 39,
-      "Athletics": 95
+      "Persuasion": 35,
+      "Containment_Logic": 18,
+      "Occult_Research": 60
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 46,
-      "extraversion": 38,
-      "agreeableness": 68,
-      "neuroticism": 16
+      "openness": 44,
+      "conscientiousness": 26,
+      "extraversion": 3,
+      "agreeableness": 27,
+      "neuroticism": 80
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

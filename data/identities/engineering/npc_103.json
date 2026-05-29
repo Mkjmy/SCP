@@ -1,60 +1,60 @@
 {
   "id": "npc_103",
   "bio": {
-    "full_name": "Andrew Garcia",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 37,
-    "blood_type": "A+",
-    "genetic_stability": 0.889,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Thomas Johnson",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "B-",
+    "genetic_stability": 0.934,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 88,
-    "build": "Frail",
+    "height_cm": 176,
+    "weight_kg": 83,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
+      "hair": "Blonde, Fade",
       "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 15,
-      "Firearms": 15,
-      "Occult_Research": 13
+      "Containment_Logic": 63,
+      "Athletics": 93,
+      "Engineering": 77
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 112,
     "personality_matrix": {
-      "openness": 43,
-      "conscientiousness": 3,
-      "extraversion": 50,
-      "agreeableness": 62,
-      "neuroticism": 30
+      "openness": 32,
+      "conscientiousness": 83,
+      "extraversion": 36,
+      "agreeableness": 92,
+      "neuroticism": 1
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

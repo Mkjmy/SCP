@@ -1,60 +1,60 @@
 {
   "id": "npc_206",
   "bio": {
-    "full_name": "Andrew Muller",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 54,
-    "blood_type": "B+",
-    "genetic_stability": 0.896,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Arjun Gupta",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 53,
+    "blood_type": "A-",
+    "genetic_stability": 0.961,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 88,
-    "build": "Heavily Muscular",
+    "height_cm": 165,
+    "weight_kg": 77,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Messy",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 91,
-      "Perception": 47,
-      "Hacking": 47
+      "Firearms": 94,
+      "Stealth": 78,
+      "Containment_Logic": 27
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 103,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 45,
-      "extraversion": 91,
-      "agreeableness": 36,
-      "neuroticism": 74
+      "openness": 89,
+      "conscientiousness": 54,
+      "extraversion": 42,
+      "agreeableness": 19,
+      "neuroticism": 3
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

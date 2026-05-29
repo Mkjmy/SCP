@@ -1,23 +1,23 @@
 {
   "id": "npc_195",
   "bio": {
-    "full_name": "Maria Smith",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 39,
-    "blood_type": "B+",
-    "genetic_stability": 0.965,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Olga Sato",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.875,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 51,
-    "build": "Overweight",
+    "height_cm": 174,
+    "weight_kg": 73,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "White, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 21,
-      "Firearms": 50,
-      "Stealth": 64
+      "Stealth": 61,
+      "Persuasion": 20,
+      "Firearms": 85
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 66,
-      "extraversion": 65,
-      "agreeableness": 73,
-      "neuroticism": 73
+      "openness": 8,
+      "conscientiousness": 65,
+      "extraversion": 76,
+      "agreeableness": 52,
+      "neuroticism": 55
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

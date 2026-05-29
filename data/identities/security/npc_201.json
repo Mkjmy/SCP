@@ -1,23 +1,23 @@
 {
   "id": "npc_201",
   "bio": {
-    "full_name": "Michael Gupta",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 26,
-    "blood_type": "O-",
-    "genetic_stability": 0.927,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Yuki Bakker",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 55,
+    "blood_type": "AB-",
+    "genetic_stability": 0.987,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 91,
-    "build": "Slender",
+    "height_cm": 187,
+    "weight_kg": 95,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "White, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Hacking": 56,
-      "Containment_Logic": 19,
-      "Medicine": 25
+      "Persuasion": 80,
+      "Containment_Logic": 63,
+      "Medicine": 34
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 49,
-      "extraversion": 94,
-      "agreeableness": 89,
-      "neuroticism": 24
+      "openness": 44,
+      "conscientiousness": 85,
+      "extraversion": 29,
+      "agreeableness": 61,
+      "neuroticism": 99
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

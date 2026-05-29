@@ -1,23 +1,23 @@
 {
   "id": "npc_172",
   "bio": {
-    "full_name": "Matthew Johnson",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "B+",
-    "genetic_stability": 0.961,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Joseph Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 29,
+    "blood_type": "AB-",
+    "genetic_stability": 0.968,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 69,
-    "build": "Average",
+    "height_cm": 164,
+    "weight_kg": 93,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Wild and unkempt",
+      "hair": "Grey, Buzz cut",
       "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 52,
-      "Containment_Logic": 91,
-      "Occult_Research": 27
+      "Firearms": 44,
+      "Medicine": 70,
+      "Containment_Logic": 63
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 42,
-      "conscientiousness": 14,
-      "extraversion": 15,
-      "agreeableness": 90,
-      "neuroticism": 22
+      "openness": 56,
+      "conscientiousness": 72,
+      "extraversion": 45,
+      "agreeableness": 78,
+      "neuroticism": 29
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Spying for the Chaos Insurgency",

@@ -1,23 +1,23 @@
 {
   "id": "npc_151",
   "bio": {
-    "full_name": "Anthony Ivanov",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 50,
-    "blood_type": "O-",
-    "genetic_stability": 0.955,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Donald Sato",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.993,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 82,
-    "build": "Heavily Muscular",
+    "height_cm": 194,
+    "weight_kg": 81,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Silver, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 60,
-      "Stealth": 94,
-      "Athletics": 78
+      "Persuasion": 73,
+      "Athletics": 93,
+      "Occult_Research": 37
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 72,
-      "extraversion": 3,
-      "agreeableness": 66,
-      "neuroticism": 3
+      "openness": 23,
+      "conscientiousness": 18,
+      "extraversion": 69,
+      "agreeableness": 52,
+      "neuroticism": 46
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

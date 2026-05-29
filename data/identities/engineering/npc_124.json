@@ -1,21 +1,21 @@
 {
   "id": "npc_124",
   "bio": {
-    "full_name": "Paul Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 56,
-    "blood_type": "AB-",
-    "genetic_stability": 0.979,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Maria Muller",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 64,
+    "blood_type": "B-",
+    "genetic_stability": 0.969,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 69,
-    "build": "Lithe",
+    "height_cm": 171,
+    "weight_kg": 81,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Grey",
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 28,
-      "Containment_Logic": 84,
-      "Stealth": 79
+      "Persuasion": 38,
+      "Hacking": 62,
+      "Medicine": 52
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 42,
-      "extraversion": 51,
-      "agreeableness": 39,
-      "neuroticism": 69
+      "openness": 66,
+      "conscientiousness": 32,
+      "extraversion": 27,
+      "agreeableness": 29,
+      "neuroticism": 88
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

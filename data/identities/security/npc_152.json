@@ -1,20 +1,20 @@
 {
   "id": "npc_152",
   "bio": {
-    "full_name": "Daniel Kovacs",
-    "gender": "Agender",
+    "full_name": "Thomas Muller",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 55,
-    "blood_type": "A+",
-    "genetic_stability": 0.876,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.929,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 62,
+    "height_cm": 188,
+    "weight_kg": 88,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
+      "hair": "White, Shoulder-length",
       "eyes": "Amber",
       "notable_marks": [
         "Taps fingers rhythmically"
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 18,
-      "Containment_Logic": 46,
-      "Firearms": 13
+      "Athletics": 47,
+      "Perception": 60,
+      "Containment_Logic": 39
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 39,
-      "conscientiousness": 54,
-      "extraversion": 12,
-      "agreeableness": 63,
-      "neuroticism": 93
+      "openness": 3,
+      "conscientiousness": 84,
+      "extraversion": 95,
+      "agreeableness": 7,
+      "neuroticism": 94
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

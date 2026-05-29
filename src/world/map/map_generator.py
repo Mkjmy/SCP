@@ -104,11 +104,23 @@ def place_scp_zone(grid, x, y, entrance_dir, zone_data):
         
     return True
 
-def generate_map(templates, num_rooms=15, scp_defs_file="data/scp_definitions.json"):
+def get_sector_info(depth):
+    """Returns sector name and thematic description based on depth."""
+    if depth == 0:
+        return "Sector A (Residential/Admin)", "Hyper-modern white polymer walls with soft LED lighting."
+    elif depth == 1:
+        return "Sector B (Light Containment)", "Clinical glass partitions and humming decontamination systems."
+    else:
+        return "Sector C (Heavy Containment)", "Reinforced alloy walls and deep-subterranean concrete. Shadows are long here."
+
+def generate_map(templates, num_rooms=50, scp_defs_file="data/scp_definitions.json"):
     """
-    Generates a procedural map by connecting rooms and injecting SCP Zones.
+    Generates a procedural map with multiple sectors based on depth.
+    Depth 0: Sector A (Residential)
+    Depth 1-2: Sector B (Light Research)
+    Depth 3+: Sector C (Heavy Containment)
     """
-    grid = {}  # (x, y) -> room_dict
+    grid = {}  # (x, y, depth) -> room_dict
     
     # Load SCP Zones to inject
     scp_zones = []
@@ -117,40 +129,49 @@ def generate_map(templates, num_rooms=15, scp_defs_file="data/scp_definitions.js
             with open(scp_defs_file, 'r') as f:
                 defs = json.load(f)
                 scp_zones = list(defs.values())
-        except:
-            pass
+        except: pass
 
-    # Start room (Cell)
+    # Start room (Cell) at Depth 0
     start_template = next((t for t in templates if "start" in t.get("tags", [])), templates[0])
-    grid[(0, 0)] = copy.deepcopy(start_template)
+    grid[(0, 0, 0)] = copy.deepcopy(start_template)
     
     frontier = []
+    # Initial exits lead to Sector A
     for exit_dir in start_template["exits"]:
-        dx, dy = 0, 0
+        dx, dy, dz = 0, 0, 0
         if exit_dir == "north": dy = 1
         elif exit_dir == "south": dy = -1
         elif exit_dir == "east": dx = 1
         elif exit_dir == "west": dx = -1
-        frontier.append((dx, dy, OPPOSITE_DIRECTIONS[exit_dir]))
+        frontier.append((dx, dy, dz, OPPOSITE_DIRECTIONS[exit_dir]))
 
     while frontier and len(grid) < num_rooms:
-        x, y, required_from_neighbor = frontier.pop(random.randint(0, len(frontier) - 1))
+        x, y, z, required_from_neighbor = frontier.pop(random.randint(0, len(frontier) - 1))
 
-        if (x, y) in grid:
+        if (x, y, z) in grid:
             continue
 
-        # Try to inject an SCP Zone cluster if we have any left and are not at start
-        if scp_zones and len(grid) > 3 and random.random() < 0.4:
+        # Depth-based sector logic
+        sector_name, sector_theme = get_sector_info(z)
+
+        # Chance to descend deeper
+        if len(grid) > (num_rooms // 3) * (z + 1) and z < 3:
+            z += 1
+            sector_name, sector_theme = get_sector_info(z)
+
+        # Inject SCP Zones based on depth (Heavy SCPs go deeper)
+        if scp_zones and len(grid) > 5 and random.random() < 0.3:
+            # Simple check: if depth is high, try to place a zone
             zone_data = scp_zones.pop(0)
-            if place_scp_zone(grid, x, y, required_from_neighbor, zone_data):
+            if place_scp_zone_3d(grid, x, y, z, required_from_neighbor, zone_data):
                 continue
 
-        # Otherwise place a normal room
+        # Normal room placement
         required_exits = {required_from_neighbor}
         forbidden_exits = set()
         
         for d, (dx, dy) in {"north": (0, 1), "south": (0, -1), "east": (1, 0), "west": (-1, 0)}.items():
-            neighbor_coord = (x + dx, y + dy)
+            neighbor_coord = (x + dx, y + dy, z)
             if neighbor_coord in grid:
                 if OPPOSITE_DIRECTIONS[d] in grid[neighbor_coord].get("exits", []):
                     required_exits.add(d)
@@ -158,20 +179,15 @@ def generate_map(templates, num_rooms=15, scp_defs_file="data/scp_definitions.js
                     forbidden_exits.add(d)
 
         possible_templates = find_matching_templates(templates, required_exits, forbidden_exits)
-        if not possible_templates:
-            continue
+        if not possible_templates: continue
             
         chosen_template = copy.deepcopy(random.choice(possible_templates))
         
-        # Don't place another start cell
-        if "start" in chosen_template.get("tags", []) and (x, y) != (0, 0):
-             non_start = [t for t in possible_templates if "start" not in t.get("tags", [])]
-             if non_start:
-                 chosen_template = copy.deepcopy(random.choice(non_start))
-
-        grid[(x, y)] = chosen_template
+        # Apply Sector Theme to description
+        chosen_template["description"] = f"[{sector_name}] {chosen_template['description']} {sector_theme}"
+        grid[(x, y, z)] = chosen_template
         
-        # Add new frontiers
+        # Add frontiers
         for exit_dir in chosen_template["exits"]:
             dx, dy = 0, 0
             if exit_dir == "north": dy = 1
@@ -179,14 +195,13 @@ def generate_map(templates, num_rooms=15, scp_defs_file="data/scp_definitions.js
             elif exit_dir == "east": dx = 1
             elif exit_dir == "west": dx = -1
             
-            nx, ny = x + dx, y + dy
-            if (nx, ny) not in grid:
-                frontier.append((nx, ny, OPPOSITE_DIRECTIONS[exit_dir]))
-    
-    # Finalize the exits with IDs and Door Levels
+            if (x+dx, y+dy, z) not in grid:
+                frontier.append((x+dx, y+dy, z, OPPOSITE_DIRECTIONS[exit_dir]))
+
+    # Finalize (IDs and Door Levels)
     final_map = {}
-    for (x, y), room_data in grid.items():
-        room_id = f"room_{x}_{y}"
+    for (x, y, z), room_data in grid.items():
+        room_id = f"room_{x}_{y}_{z}"
         actual_exits = {}
         
         for exit_dir in room_data.get("exits", []):
@@ -196,40 +211,59 @@ def generate_map(templates, num_rooms=15, scp_defs_file="data/scp_definitions.js
             elif exit_dir == "east": dx = 1
             elif exit_dir == "west": dx = -1
             
-            nx, ny = x + dx, y + dy
-            if (nx, ny) in grid:
-                # Determine Door Level
-                lv = 0
-                if (x, y) == (0, 0): lv = 3 # Start cell is locked
-                
-                # Logic for SCP Zones
-                if room_data.get("id") == "containment_lobby" or "suite" in room_data.get("tags", []):
-                    if exit_dir == "north": lv = 3 # Chamber door
-                    else: lv = 1 # Lobby entrance/observation
-                elif "security" in room_data.get("tags", []):
-                    lv = 1
+            if (x+dx, y+dy, z) in grid:
+                # Security logic based on depth
+                lv = z # Base clearance = depth
+                if (x, y, z) == (0, 0, 0): lv = 3
+                elif "security" in room_data.get("tags", []): lv += 1
+                elif "chamber" in room_data.get("tags", []): lv += 2
                 
                 actual_exits[exit_dir] = {
-                    "destination": f"room_{nx}_{ny}",
+                    "destination": f"room_{x+dx}_{y+dy}_{z}",
                     "door_level": lv
                 }
         
-        # Match description to actual exits if possible
-        required_exits_set = set(actual_exits.keys())
-        forbidden_exits_set = {"north", "south", "east", "west"} - required_exits_set
-        
-        # (Only refine normal rooms, keep SCP rooms as they are)
-        if "suite" not in room_data.get("tags", []) and "chamber" not in room_data.get("tags", []):
-            perfect_templates = find_matching_templates(templates, required_exits_set, forbidden_exits_set)
-            if perfect_templates:
-                new_data = copy.deepcopy(random.choice(perfect_templates))
-                new_data["exits"] = actual_exits
-                # Keep position-based scp_id if it was there
-                if "scp_id" in room_data: new_data["scp_id"] = room_data["scp_id"]
-                final_map[room_id] = new_data
-                continue
-
         room_data["exits"] = actual_exits
         final_map[room_id] = room_data
         
-    return final_map, "room_0_0"
+    return final_map, "room_0_0_0"
+
+def place_scp_zone_3d(grid, x, y, z, entrance_dir, zone_data):
+    # (Adapted fork logic for 3D grid)
+    lobby_pos = (x, y, z)
+    cha_pos = (x, y + 1, z)
+    obs_pos = (x + 1, y, z)
+    
+    struct = zone_data.get("structure", {})
+    lobby_data = struct.get("lobby")
+    chamber_data = struct.get("chamber")
+    observation_data = struct.get("observation")
+    
+    if not lobby_data or not chamber_data: return False
+    if lobby_pos in grid or cha_pos in grid: return False
+    if observation_data and obs_pos in grid: return False
+    
+    sector_name, sector_theme = get_sector_info(z)
+    
+    # Lobby
+    lobby = copy.deepcopy(lobby_data)
+    lobby["exits"] = [entrance_dir, "north"]
+    if observation_data: lobby["exits"].append("east")
+    lobby["description"] = f"[{sector_name}] {lobby['description']} {sector_theme}"
+    grid[lobby_pos] = lobby
+    
+    # Chamber
+    chamber = copy.deepcopy(chamber_data)
+    chamber["exits"] = ["south"]
+    chamber["scp_id"] = zone_data["entity"]["id"]
+    chamber["description"] = f"[{sector_name}] {chamber['description']} {sector_theme}"
+    grid[cha_pos] = chamber
+    
+    # Observation (Optional)
+    if observation_data:
+        obs_room = copy.deepcopy(observation_data)
+        obs_room["exits"] = ["west"]
+        obs_room["description"] = f"[{sector_name}] {obs_room['description']} {sector_theme}"
+        grid[obs_pos] = obs_room
+    
+    return True

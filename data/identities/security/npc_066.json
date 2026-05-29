@@ -1,23 +1,23 @@
 {
   "id": "npc_066",
   "bio": {
-    "full_name": "Richard Williams",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 23,
-    "blood_type": "A-",
-    "genetic_stability": 0.962,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Lars Wong",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.902,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 74,
-    "build": "Lithe",
+    "height_cm": 199,
+    "weight_kg": 75,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Engineering": 50,
-      "Containment_Logic": 22,
-      "Firearms": 48
+      "Athletics": 29,
+      "Persuasion": 15,
+      "Engineering": 10
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 24,
-      "extraversion": 51,
-      "agreeableness": 64,
-      "neuroticism": 100
+      "openness": 11,
+      "conscientiousness": 59,
+      "extraversion": 96,
+      "agreeableness": 72,
+      "neuroticism": 79
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
+      "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

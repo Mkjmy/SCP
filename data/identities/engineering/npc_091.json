@@ -1,23 +1,23 @@
 {
   "id": "npc_091",
   "bio": {
-    "full_name": "Daniel Wong",
-    "gender": "Non-binary",
+    "full_name": "Sven Garcia",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 24,
-    "blood_type": "B-",
-    "genetic_stability": 0.969,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 53,
+    "blood_type": "O-",
+    "genetic_stability": 0.883,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 100,
-    "build": "Slender",
+    "height_cm": 200,
+    "weight_kg": 72,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 85,
-      "Firearms": 68,
-      "Persuasion": 32
+      "Medicine": 44,
+      "Containment_Logic": 83,
+      "Perception": 55
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 138,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 87,
-      "extraversion": 40,
-      "agreeableness": 50,
-      "neuroticism": 10
+      "openness": 33,
+      "conscientiousness": 8,
+      "extraversion": 2,
+      "agreeableness": 5,
+      "neuroticism": 79
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

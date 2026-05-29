@@ -1,23 +1,23 @@
 {
   "id": "npc_021",
   "bio": {
-    "full_name": "Matthew O'Connor",
+    "full_name": "Michael Jones",
     "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 36,
-    "blood_type": "O-",
-    "genetic_stability": 0.938,
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "O+",
+    "genetic_stability": 0.937,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 94,
-    "build": "Slender",
+    "height_cm": 198,
+    "weight_kg": 67,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 31,
-      "Persuasion": 20,
-      "Athletics": 59
+      "Hacking": 20,
+      "Stealth": 14,
+      "Medicine": 70
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 117,
     "personality_matrix": {
-      "openness": 75,
-      "conscientiousness": 27,
-      "extraversion": 82,
-      "agreeableness": 52,
-      "neuroticism": 48
+      "openness": 44,
+      "conscientiousness": 26,
+      "extraversion": 15,
+      "agreeableness": 54,
+      "neuroticism": 55
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

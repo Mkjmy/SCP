@@ -1,60 +1,60 @@
 {
   "id": "npc_115",
   "bio": {
-    "full_name": "Joshua O'Connor",
+    "full_name": "Robert Smith",
     "gender": "Male",
     "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "O-",
-    "genetic_stability": 0.958,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 51,
+    "blood_type": "B+",
+    "genetic_stability": 0.93,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 82,
-    "build": "Average",
+    "height_cm": 155,
+    "weight_kg": 98,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Persuasion": 64,
-      "Engineering": 57,
-      "Perception": 45
+      "Medicine": 29,
+      "Perception": 51,
+      "Hacking": 30
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 38,
-      "extraversion": 16,
-      "agreeableness": 54,
-      "neuroticism": 26
+      "openness": 73,
+      "conscientiousness": 86,
+      "extraversion": 73,
+      "agreeableness": 62,
+      "neuroticism": 61
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

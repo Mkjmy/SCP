@@ -1,0 +1,60 @@
+{
+  "id": "npc_043",
+  "bio": {
+    "full_name": "Andrew Wong",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 20,
+    "blood_type": "B-",
+    "genetic_stability": 0.913,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 161,
+    "weight_kg": 79,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Red, Pixie cut",
+      "eyes": "Sharp blue",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Athletics": 73,
+      "Engineering": 59,
+      "Firearms": 81
+    },
+    "salary_level": "Grade-C"
+  },
+  "psychological_profile": {
+    "iq": 94,
+    "personality_matrix": {
+      "openness": 91,
+      "conscientiousness": 12,
+      "extraversion": 32,
+      "agreeableness": 39,
+      "neuroticism": 70
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.78
+  },
+  "social_and_secrets": {
+    "family": "Estranged from family",
+    "debts": {
+      "amount": 100000,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

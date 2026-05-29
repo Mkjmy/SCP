@@ -1,21 +1,21 @@
 {
   "id": "npc_010",
   "bio": {
-    "full_name": "Daniel Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 60,
-    "blood_type": "AB+",
-    "genetic_stability": 0.927,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Chen Davis",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 59,
+    "blood_type": "O-",
+    "genetic_stability": 0.879,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 110,
-    "build": "Average",
+    "height_cm": 197,
+    "weight_kg": 108,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Silver, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 24,
-      "Persuasion": 86,
-      "Engineering": 70
+      "Perception": 16,
+      "Engineering": 89,
+      "Persuasion": 38
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 117,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 90,
-      "extraversion": 88,
-      "agreeableness": 35,
-      "neuroticism": 65
+      "openness": 84,
+      "conscientiousness": 64,
+      "extraversion": 29,
+      "agreeableness": 20,
+      "neuroticism": 58
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

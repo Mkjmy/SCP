@@ -1,21 +1,21 @@
 {
   "id": "npc_042",
   "bio": {
-    "full_name": "Charles Wong",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 31,
-    "blood_type": "B+",
-    "genetic_stability": 0.888,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Anthony Schmidt",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "O-",
+    "genetic_stability": 0.969,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 54,
-    "build": "Stocky",
+    "height_cm": 193,
+    "weight_kg": 71,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Hazel",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Athletics": 81,
-      "Firearms": 79,
-      "Engineering": 24
+      "Persuasion": 26,
+      "Athletics": 46,
+      "Hacking": 12
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 117,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 55,
-      "extraversion": 2,
-      "agreeableness": 57,
-      "neuroticism": 8
+      "openness": 83,
+      "conscientiousness": 85,
+      "extraversion": 71,
+      "agreeableness": 95,
+      "neuroticism": 88
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_169",
   "bio": {
-    "full_name": "James Brown",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 23,
-    "blood_type": "AB-",
-    "genetic_stability": 0.938,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "James Williams",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.979,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 110,
-    "build": "Overweight",
+    "height_cm": 177,
+    "weight_kg": 105,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Amber",
+      "hair": "Brown, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 35,
-      "Athletics": 54,
-      "Perception": 75
+      "Medicine": 68,
+      "Stealth": 61,
+      "Firearms": 19
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 74,
-      "extraversion": 63,
-      "agreeableness": 74,
-      "neuroticism": 28
+      "openness": 88,
+      "conscientiousness": 87,
+      "extraversion": 21,
+      "agreeableness": 83,
+      "neuroticism": 2
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

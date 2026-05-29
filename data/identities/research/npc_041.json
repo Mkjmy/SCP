@@ -1,0 +1,60 @@
+{
+  "id": "npc_041",
+  "bio": {
+    "full_name": "Joshua O'Connor",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 53,
+    "blood_type": "AB-",
+    "genetic_stability": 0.989,
+    "origin": "Raised in a Foundation-sponsored orphanage"
+  },
+  "appearance": {
+    "height_cm": 196,
+    "weight_kg": 106,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Black, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Firearms": 37,
+      "Medicine": 65,
+      "Engineering": 77
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 95,
+      "conscientiousness": 56,
+      "extraversion": 100,
+      "agreeableness": 19,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Claustrophobia (Fear of confined spaces)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "ISD_UNDERCOVER"
+  }
+}

@@ -1,60 +1,60 @@
 {
   "id": "npc_119",
   "bio": {
-    "full_name": "Christopher Davis",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 26,
-    "blood_type": "O-",
-    "genetic_stability": 0.879,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Charles Smith",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.956,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 102,
-    "build": "Frail",
+    "height_cm": 174,
+    "weight_kg": 66,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 75,
-      "Firearms": 80,
-      "Occult_Research": 13
+      "Engineering": 30,
+      "Hacking": 70,
+      "Containment_Logic": 82
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 38,
-      "conscientiousness": 30,
-      "extraversion": 46,
-      "agreeableness": 94,
-      "neuroticism": 9
+      "openness": 15,
+      "conscientiousness": 88,
+      "extraversion": 12,
+      "agreeableness": 25,
+      "neuroticism": 69
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

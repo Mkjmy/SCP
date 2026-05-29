@@ -1,21 +1,21 @@
 {
   "id": "npc_189",
   "bio": {
-    "full_name": "Robert Dubois",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 44,
-    "blood_type": "O-",
-    "genetic_stability": 0.873,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Olga Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 30,
+    "blood_type": "B-",
+    "genetic_stability": 0.997,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 109,
+    "height_cm": 195,
+    "weight_kg": 78,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Grey",
+      "hair": "Black, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 73,
-      "Occult_Research": 94,
-      "Hacking": 89
+      "Persuasion": 86,
+      "Firearms": 92,
+      "Athletics": 18
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 87,
     "personality_matrix": {
-      "openness": 56,
-      "conscientiousness": 44,
-      "extraversion": 48,
-      "agreeableness": 89,
-      "neuroticism": 15
+      "openness": 61,
+      "conscientiousness": 9,
+      "extraversion": 53,
+      "agreeableness": 50,
+      "neuroticism": 75
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
       "amount": 0,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

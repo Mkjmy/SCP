@@ -1,23 +1,23 @@
 {
   "id": "npc_195",
   "bio": {
-    "full_name": "Thomas Bakker",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 35,
-    "blood_type": "AB+",
-    "genetic_stability": 0.916,
+    "full_name": "William Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.888,
     "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 69,
-    "build": "Frail",
+    "height_cm": 194,
+    "weight_kg": 95,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 49,
-      "Firearms": 71,
-      "Perception": 49
+      "Stealth": 14,
+      "Perception": 41,
+      "Athletics": 13
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 34,
-      "extraversion": 79,
-      "agreeableness": 89,
-      "neuroticism": 89
+      "openness": 52,
+      "conscientiousness": 12,
+      "extraversion": 83,
+      "agreeableness": 64,
+      "neuroticism": 83
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
     "mental_stability": 0.58
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 5000,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_019",
   "bio": {
-    "full_name": "Donald Davis",
+    "full_name": "Chen Williams",
     "gender": "Non-binary",
-    "orientation": "Bisexual",
+    "orientation": "Asexual",
     "age": 45,
-    "blood_type": "AB-",
-    "genetic_stability": 0.878,
+    "blood_type": "O-",
+    "genetic_stability": 0.957,
     "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 106,
-    "build": "Heavily Muscular",
+    "height_cm": 166,
+    "weight_kg": 109,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
+      "hair": "Blonde, Fade",
       "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 50,
-      "Perception": 58,
-      "Athletics": 39
+      "Stealth": 65,
+      "Hacking": 90,
+      "Perception": 70
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 97,
-      "conscientiousness": 18,
-      "extraversion": 88,
+      "openness": 90,
+      "conscientiousness": 69,
+      "extraversion": 4,
       "agreeableness": 87,
-      "neuroticism": 31
+      "neuroticism": 90
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,21 +1,21 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "Joshua Davis",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 43,
+    "full_name": "Joshua Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 40,
     "blood_type": "AB+",
-    "genetic_stability": 0.904,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.989,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 89,
-    "build": "Heavily Muscular",
+    "height_cm": 174,
+    "weight_kg": 98,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 82,
-      "Occult_Research": 24,
-      "Containment_Logic": 50
+      "Stealth": 36,
+      "Firearms": 92,
+      "Medicine": 53
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 86,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 73,
-      "extraversion": 7,
-      "agreeableness": 90,
-      "neuroticism": 75
+      "openness": 53,
+      "conscientiousness": 24,
+      "extraversion": 9,
+      "agreeableness": 85,
+      "neuroticism": 72
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
       "amount": 0,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_179",
   "bio": {
-    "full_name": "Anthony Miller",
+    "full_name": "Sven Sato",
     "gender": "Non-binary",
-    "orientation": "Asexual",
+    "orientation": "Homosexual",
     "age": 32,
-    "blood_type": "O-",
-    "genetic_stability": 0.964,
-    "origin": "Ex-military police recruited after a classified incident"
+    "blood_type": "A+",
+    "genetic_stability": 0.937,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 109,
-    "build": "Stocky",
+    "height_cm": 187,
+    "weight_kg": 88,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Fade",
-      "eyes": "Emerald green",
+      "hair": "Black, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 28,
-      "Stealth": 47,
-      "Athletics": 10
+      "Perception": 73,
+      "Persuasion": 37,
+      "Hacking": 25
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 84,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 25,
-      "conscientiousness": 68,
-      "extraversion": 58,
-      "agreeableness": 3,
-      "neuroticism": 64
+      "openness": 43,
+      "conscientiousness": 15,
+      "extraversion": 6,
+      "agreeableness": 34,
+      "neuroticism": 88
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

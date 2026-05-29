@@ -1,23 +1,23 @@
 {
   "id": "npc_189",
   "bio": {
-    "full_name": "Donald Brown",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.864,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Mark Davis",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "B-",
+    "genetic_stability": 0.852,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 57,
-    "build": "Stocky",
+    "height_cm": 169,
+    "weight_kg": 105,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Blonde, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Perception": 85,
-      "Engineering": 68,
-      "Stealth": 36
+      "Persuasion": 41,
+      "Firearms": 42,
+      "Stealth": 78
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 163,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 78,
-      "conscientiousness": 13,
-      "extraversion": 24,
-      "agreeableness": 98,
-      "neuroticism": 47
+      "openness": 92,
+      "conscientiousness": 74,
+      "extraversion": 46,
+      "agreeableness": 88,
+      "neuroticism": 57
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

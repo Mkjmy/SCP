@@ -1,60 +1,60 @@
 {
   "id": "npc_015",
   "bio": {
-    "full_name": "Olga Ivanov",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 39,
+    "full_name": "Joshua Gupta",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 53,
     "blood_type": "A-",
-    "genetic_stability": 0.935,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.948,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 98,
-    "build": "Slender",
+    "height_cm": 190,
+    "weight_kg": 55,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 22,
-      "Firearms": 88,
-      "Perception": 10
+      "Medicine": 30,
+      "Persuasion": 52,
+      "Firearms": 23
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 105,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 22,
-      "extraversion": 42,
-      "agreeableness": 45,
-      "neuroticism": 52
+      "openness": 12,
+      "conscientiousness": 78,
+      "extraversion": 85,
+      "agreeableness": 5,
+      "neuroticism": 76
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

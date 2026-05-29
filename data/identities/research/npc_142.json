@@ -1,23 +1,23 @@
 {
   "id": "npc_142",
   "bio": {
-    "full_name": "Charles Johnson",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 22,
-    "blood_type": "AB+",
-    "genetic_stability": 0.888,
+    "full_name": "Charles Miller",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 40,
+    "blood_type": "O-",
+    "genetic_stability": 0.937,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 104,
-    "build": "Overweight",
+    "height_cm": 163,
+    "weight_kg": 105,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Ponytail",
-      "eyes": "Hazel",
+      "hair": "White, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Occult_Research": 35,
-      "Engineering": 78,
-      "Hacking": 80
+      "Perception": 39,
+      "Engineering": 41,
+      "Containment_Logic": 57
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 35,
+      "openness": 52,
       "conscientiousness": 8,
-      "extraversion": 62,
-      "agreeableness": 71,
-      "neuroticism": 53
+      "extraversion": 13,
+      "agreeableness": 70,
+      "neuroticism": 67
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
+      "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

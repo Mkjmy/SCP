@@ -1,21 +1,21 @@
 {
   "id": "npc_007",
   "bio": {
-    "full_name": "Olga Brown",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 45,
-    "blood_type": "AB+",
-    "genetic_stability": 0.984,
+    "full_name": "James Muller",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 27,
+    "blood_type": "B+",
+    "genetic_stability": 0.924,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
     "height_cm": 163,
     "weight_kg": 97,
-    "build": "Heavily Muscular",
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Talks to self in whispers"
       ]
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 33,
-      "Athletics": 46,
-      "Stealth": 77
+      "Perception": 87,
+      "Containment_Logic": 79,
+      "Stealth": 73
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 5,
-      "conscientiousness": 54,
-      "extraversion": 13,
-      "agreeableness": 60,
-      "neuroticism": 20
+      "openness": 35,
+      "conscientiousness": 64,
+      "extraversion": 2,
+      "agreeableness": 85,
+      "neuroticism": 80
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

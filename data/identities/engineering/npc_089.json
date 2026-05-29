@@ -1,23 +1,23 @@
 {
   "id": "npc_089",
   "bio": {
-    "full_name": "Lars Muller",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 60,
+    "full_name": "Andrew Kovacs",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 26,
     "blood_type": "AB+",
-    "genetic_stability": 0.978,
+    "genetic_stability": 0.855,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 56,
-    "build": "Overweight",
+    "height_cm": 174,
+    "weight_kg": 64,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Amber",
+      "hair": "Silver, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 24,
-      "Athletics": 36,
-      "Perception": 79
+      "Occult_Research": 95,
+      "Perception": 47,
+      "Stealth": 63
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 90,
-      "extraversion": 70,
-      "agreeableness": 78,
-      "neuroticism": 96
+      "openness": 63,
+      "conscientiousness": 86,
+      "extraversion": 20,
+      "agreeableness": 68,
+      "neuroticism": 83
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
       "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

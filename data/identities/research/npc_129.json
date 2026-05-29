@@ -1,20 +1,20 @@
 {
   "id": "npc_129",
   "bio": {
-    "full_name": "Donald Schmidt",
+    "full_name": "Arjun Miller",
     "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 62,
-    "blood_type": "AB+",
-    "genetic_stability": 0.99,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 29,
+    "blood_type": "A+",
+    "genetic_stability": 0.928,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 76,
-    "build": "Heavily Muscular",
+    "height_cm": 173,
+    "weight_kg": 70,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
+      "hair": "Brown, Shoulder-length",
       "eyes": "Grey",
       "notable_marks": [
         "Obsessively cleans their glasses"
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 56,
-      "Engineering": 64,
-      "Perception": 16
+      "Hacking": 16,
+      "Firearms": 22,
+      "Perception": 20
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
     "iq": 133,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 99,
-      "extraversion": 27,
-      "agreeableness": 49,
-      "neuroticism": 20
+      "openness": 32,
+      "conscientiousness": 32,
+      "extraversion": 34,
+      "agreeableness": 2,
+      "neuroticism": 22
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

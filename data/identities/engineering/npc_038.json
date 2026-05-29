@@ -1,23 +1,23 @@
 {
   "id": "npc_038",
   "bio": {
-    "full_name": "Joseph Bakker",
-    "gender": "Agender",
+    "full_name": "James Brown",
+    "gender": "Female",
     "orientation": "Bisexual",
-    "age": 51,
-    "blood_type": "AB-",
-    "genetic_stability": 0.967,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 50,
+    "blood_type": "B-",
+    "genetic_stability": 0.864,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 75,
-    "build": "Heavily Muscular",
+    "height_cm": 188,
+    "weight_kg": 99,
+    "build": "Frail",
     "physical_features": {
       "hair": "Black, Pompadour",
-      "eyes": "Amber",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 65,
-      "Stealth": 64,
-      "Engineering": 68
+      "Occult_Research": 41,
+      "Containment_Logic": 24,
+      "Perception": 74
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 24,
-      "extraversion": 16,
-      "agreeableness": 99,
-      "neuroticism": 32
+      "openness": 99,
+      "conscientiousness": 43,
+      "extraversion": 62,
+      "agreeableness": 58,
+      "neuroticism": 8
     },
     "phobias": [
       "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

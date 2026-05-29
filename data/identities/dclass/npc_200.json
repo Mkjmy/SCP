@@ -1,23 +1,23 @@
 {
   "id": "npc_200",
   "bio": {
-    "full_name": "David O'Connor",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 40,
-    "blood_type": "O+",
-    "genetic_stability": 0.978,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "David Bakker",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "AB+",
+    "genetic_stability": 0.856,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 91,
-    "build": "Frail",
+    "height_cm": 169,
+    "weight_kg": 63,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
+      "hair": "Silver, Ponytail",
       "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 27,
-      "Firearms": 76,
-      "Athletics": 35
+      "Stealth": 48,
+      "Persuasion": 11,
+      "Occult_Research": 68
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 93,
     "personality_matrix": {
       "openness": 23,
-      "conscientiousness": 27,
-      "extraversion": 30,
-      "agreeableness": 28,
-      "neuroticism": 72
+      "conscientiousness": 89,
+      "extraversion": 77,
+      "agreeableness": 98,
+      "neuroticism": 17
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_083",
   "bio": {
-    "full_name": "Kenji Vasiliev",
+    "full_name": "Sven O'Connor",
     "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 61,
-    "blood_type": "O+",
-    "genetic_stability": 0.984,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Asexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.963,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 51,
-    "build": "Average",
+    "height_cm": 197,
+    "weight_kg": 75,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 77,
-      "Firearms": 69,
-      "Occult_Research": 53
+      "Engineering": 44,
+      "Stealth": 36,
+      "Containment_Logic": 10
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 16,
-      "extraversion": 43,
-      "agreeableness": 42,
-      "neuroticism": 44
+      "openness": 79,
+      "conscientiousness": 26,
+      "extraversion": 54,
+      "agreeableness": 22,
+      "neuroticism": 10
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

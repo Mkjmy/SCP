@@ -1,23 +1,23 @@
 {
   "id": "npc_067",
   "bio": {
-    "full_name": "Sven Jones",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 52,
+    "full_name": "Sven Wong",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 42,
     "blood_type": "O+",
-    "genetic_stability": 0.892,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "genetic_stability": 0.909,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 79,
-    "build": "Overweight",
+    "height_cm": 183,
+    "weight_kg": 83,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Bald",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 44,
-      "Hacking": 75,
-      "Persuasion": 27
+      "Hacking": 66,
+      "Stealth": 44,
+      "Medicine": 55
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 56,
-      "extraversion": 35,
-      "agreeableness": 92,
-      "neuroticism": 1
+      "openness": 68,
+      "conscientiousness": 68,
+      "extraversion": 25,
+      "agreeableness": 99,
+      "neuroticism": 47
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_194",
   "bio": {
-    "full_name": "Andrew Kovacs",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "A-",
-    "genetic_stability": 0.861,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Michael Tanaka",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 53,
+    "blood_type": "B-",
+    "genetic_stability": 0.997,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 108,
+    "height_cm": 186,
+    "weight_kg": 67,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Sharp blue",
+      "hair": "Black, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 31,
-      "Firearms": 50,
-      "Containment_Logic": 37
+      "Stealth": 79,
+      "Perception": 95,
+      "Engineering": 67
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 43,
-      "extraversion": 38,
-      "agreeableness": 25,
+      "openness": 46,
+      "conscientiousness": 35,
+      "extraversion": 91,
+      "agreeableness": 46,
       "neuroticism": 2
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

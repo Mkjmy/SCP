@@ -1,0 +1,60 @@
+{
+  "id": "npc_155",
+  "bio": {
+    "full_name": "Andrew Gupta",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.972,
+    "origin": "Ex-special forces with experience in urban warfare"
+  },
+  "appearance": {
+    "height_cm": 180,
+    "weight_kg": 87,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "Black, Ponytail",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Containment_Logic": 23,
+      "Perception": 14,
+      "Stealth": 38
+    },
+    "salary_level": "Grade-D"
+  },
+  "psychological_profile": {
+    "iq": 102,
+    "personality_matrix": {
+      "openness": 27,
+      "conscientiousness": 34,
+      "extraversion": 2,
+      "agreeableness": 63,
+      "neuroticism": 0
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.92
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

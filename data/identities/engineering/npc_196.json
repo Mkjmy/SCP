@@ -1,23 +1,23 @@
 {
   "id": "npc_196",
   "bio": {
-    "full_name": "Thomas Miller",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 48,
+    "full_name": "Yuki Smith",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 35,
     "blood_type": "O+",
-    "genetic_stability": 0.903,
-    "origin": "Former investigative journalist who dug too deep"
+    "genetic_stability": 0.907,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 93,
-    "build": "Overweight",
+    "height_cm": 184,
+    "weight_kg": 102,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Amber",
+      "hair": "Blonde, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 71,
-      "Athletics": 69,
-      "Persuasion": 13
+      "Stealth": 30,
+      "Persuasion": 77,
+      "Perception": 18
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 94,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 15,
-      "conscientiousness": 99,
-      "extraversion": 26,
-      "agreeableness": 34,
-      "neuroticism": 95
+      "openness": 60,
+      "conscientiousness": 100,
+      "extraversion": 17,
+      "agreeableness": 97,
+      "neuroticism": 4
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_053",
   "bio": {
-    "full_name": "David Bakker",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 62,
-    "blood_type": "B+",
-    "genetic_stability": 0.872,
+    "full_name": "Chen Wong",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "B-",
+    "genetic_stability": 0.997,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 97,
-    "build": "Athletic",
+    "height_cm": 179,
+    "weight_kg": 93,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 36,
-      "Occult_Research": 53,
-      "Medicine": 47
+      "Persuasion": 11,
+      "Containment_Logic": 60,
+      "Stealth": 82
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 39,
-      "extraversion": 42,
-      "agreeableness": 2,
-      "neuroticism": 65
+      "openness": 82,
+      "conscientiousness": 12,
+      "extraversion": 1,
+      "agreeableness": 81,
+      "neuroticism": 80
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

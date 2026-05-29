@@ -1,23 +1,23 @@
 {
   "id": "npc_009",
   "bio": {
-    "full_name": "James Smith",
-    "gender": "Agender",
+    "full_name": "Sven Ivanov",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 44,
-    "blood_type": "AB+",
-    "genetic_stability": 0.944,
+    "age": 43,
+    "blood_type": "A-",
+    "genetic_stability": 0.962,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 84,
-    "build": "Overweight",
+    "height_cm": 176,
+    "weight_kg": 85,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 58,
-      "Engineering": 83,
-      "Stealth": 35
+      "Medicine": 18,
+      "Engineering": 78,
+      "Stealth": 46
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 84,
-      "extraversion": 17,
-      "agreeableness": 74,
-      "neuroticism": 31
+      "openness": 60,
+      "conscientiousness": 86,
+      "extraversion": 100,
+      "agreeableness": 95,
+      "neuroticism": 97
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

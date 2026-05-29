@@ -1,23 +1,23 @@
 {
   "id": "npc_063",
   "bio": {
-    "full_name": "John Miller",
+    "full_name": "Christopher Smith",
     "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 24,
-    "blood_type": "O+",
-    "genetic_stability": 0.959,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "orientation": "Asexual",
+    "age": 59,
+    "blood_type": "O-",
+    "genetic_stability": 0.937,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 86,
-    "build": "Average",
+    "height_cm": 160,
+    "weight_kg": 95,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Hazel",
+      "hair": "Black, Messy",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 16,
-      "Occult_Research": 15,
-      "Hacking": 41
+      "Medicine": 87,
+      "Occult_Research": 28,
+      "Engineering": 77
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 117,
     "personality_matrix": {
-      "openness": 64,
-      "conscientiousness": 91,
-      "extraversion": 15,
-      "agreeableness": 15,
-      "neuroticism": 56
+      "openness": 39,
+      "conscientiousness": 57,
+      "extraversion": 86,
+      "agreeableness": 58,
+      "neuroticism": 13
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.4
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

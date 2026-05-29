@@ -1,60 +1,60 @@
 {
   "id": "npc_168",
   "bio": {
-    "full_name": "Christopher Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 41,
-    "blood_type": "A+",
-    "genetic_stability": 0.901,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Chen Vasiliev",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 39,
+    "blood_type": "A-",
+    "genetic_stability": 0.891,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 107,
+    "height_cm": 171,
+    "weight_kg": 62,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Icy blue",
+      "hair": "White, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 44,
-      "Hacking": 16,
-      "Firearms": 55
+      "Perception": 70,
+      "Medicine": 64,
+      "Hacking": 63
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 100,
-      "extraversion": 3,
-      "agreeableness": 96,
-      "neuroticism": 51
+      "openness": 11,
+      "conscientiousness": 52,
+      "extraversion": 4,
+      "agreeableness": 66,
+      "neuroticism": 71
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

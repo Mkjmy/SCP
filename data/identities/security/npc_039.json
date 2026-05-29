@@ -1,23 +1,23 @@
 {
   "id": "npc_039",
   "bio": {
-    "full_name": "Joshua Smith",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 42,
-    "blood_type": "O+",
-    "genetic_stability": 0.981,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "David Muller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "B+",
+    "genetic_stability": 0.898,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 76,
-    "build": "Slender",
+    "height_cm": 174,
+    "weight_kg": 92,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed green, Shoulder-length",
-      "eyes": "Amber",
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Containment_Logic": 12,
-      "Athletics": 89,
-      "Firearms": 60
+      "Firearms": 91,
+      "Occult_Research": 71,
+      "Stealth": 69
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 139,
     "personality_matrix": {
       "openness": 80,
-      "conscientiousness": 81,
-      "extraversion": 97,
-      "agreeableness": 82,
-      "neuroticism": 36
+      "conscientiousness": 64,
+      "extraversion": 34,
+      "agreeableness": 57,
+      "neuroticism": 10
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

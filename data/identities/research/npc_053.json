@@ -1,23 +1,23 @@
 {
   "id": "npc_053",
   "bio": {
-    "full_name": "William Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 44,
-    "blood_type": "O+",
-    "genetic_stability": 0.977,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Andrew Davis",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 49,
+    "blood_type": "A-",
+    "genetic_stability": 0.854,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 95,
-    "build": "Slender",
+    "height_cm": 162,
+    "weight_kg": 74,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Pompadour",
+      "hair": "White, Wild and unkempt",
       "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Engineering": 65,
-      "Medicine": 28,
-      "Athletics": 76
+      "Medicine": 77,
+      "Perception": 61,
+      "Persuasion": 58
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 161,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 74,
-      "extraversion": 61,
-      "agreeableness": 10,
-      "neuroticism": 61
+      "openness": 26,
+      "conscientiousness": 5,
+      "extraversion": 23,
+      "agreeableness": 95,
+      "neuroticism": 29
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
+      "amount": 100000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

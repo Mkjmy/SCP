@@ -1,23 +1,23 @@
 {
   "id": "npc_130",
   "bio": {
-    "full_name": "Yuki Bakker",
-    "gender": "Non-binary",
+    "full_name": "Charles Muller",
+    "gender": "Male",
     "orientation": "Pansexual",
-    "age": 24,
-    "blood_type": "A+",
-    "genetic_stability": 0.998,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 46,
+    "blood_type": "O+",
+    "genetic_stability": 0.958,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 158,
+    "height_cm": 189,
     "weight_kg": 67,
-    "build": "Frail",
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 35,
-      "Athletics": 62,
+      "Stealth": 13,
+      "Occult_Research": 14,
       "Medicine": 20
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 53,
-      "extraversion": 41,
-      "agreeableness": 11,
-      "neuroticism": 22
+      "openness": 47,
+      "conscientiousness": 3,
+      "extraversion": 73,
+      "agreeableness": 29,
+      "neuroticism": 52
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
       "amount": 0,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,59 +1,60 @@
 {
   "id": "npc_045",
   "bio": {
-    "full_name": "Fatima Jones",
+    "full_name": "Anthony Smith",
     "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.874,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "B+",
+    "genetic_stability": 0.855,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 82,
+    "height_cm": 189,
+    "weight_kg": 106,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Deep brown",
+      "hair": "Grey, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 64,
-      "Perception": 93,
-      "Medicine": 86
+      "Stealth": 38,
+      "Perception": 24,
+      "Firearms": 48
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 64,
-      "conscientiousness": 33,
-      "extraversion": 51,
-      "agreeableness": 25,
-      "neuroticism": 46
+      "openness": 73,
+      "conscientiousness": 47,
+      "extraversion": 49,
+      "agreeableness": 61,
+      "neuroticism": 2
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

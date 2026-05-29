@@ -1,23 +1,23 @@
 {
   "id": "npc_028",
   "bio": {
-    "full_name": "Steven Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 61,
-    "blood_type": "O+",
-    "genetic_stability": 0.917,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Maria Kovacs",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.88,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
     "height_cm": 182,
-    "weight_kg": 66,
-    "build": "Overweight",
+    "weight_kg": 68,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Perception": 86,
-      "Stealth": 57,
-      "Containment_Logic": 56
+      "Athletics": 80,
+      "Persuasion": 67,
+      "Perception": 20
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 163,
     "personality_matrix": {
-      "openness": 92,
-      "conscientiousness": 26,
-      "extraversion": 30,
-      "agreeableness": 81,
-      "neuroticism": 27
+      "openness": 42,
+      "conscientiousness": 76,
+      "extraversion": 26,
+      "agreeableness": 16,
+      "neuroticism": 53
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
       "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

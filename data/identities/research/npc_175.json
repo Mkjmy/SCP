@@ -1,23 +1,23 @@
 {
   "id": "npc_175",
   "bio": {
-    "full_name": "Richard Dubois",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 54,
-    "blood_type": "AB+",
-    "genetic_stability": 0.972,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Michael Kovacs",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 59,
+    "blood_type": "B-",
+    "genetic_stability": 0.993,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 60,
-    "build": "Athletic",
+    "height_cm": 174,
+    "weight_kg": 94,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 22,
-      "Stealth": 80,
-      "Occult_Research": 50
+      "Occult_Research": 16,
+      "Persuasion": 80,
+      "Hacking": 31
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 161,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 17,
-      "extraversion": 26,
-      "agreeableness": 69,
-      "neuroticism": 64
+      "openness": 98,
+      "conscientiousness": 66,
+      "extraversion": 11,
+      "agreeableness": 6,
+      "neuroticism": 99
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

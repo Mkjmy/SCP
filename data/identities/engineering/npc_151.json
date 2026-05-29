@@ -1,23 +1,23 @@
 {
   "id": "npc_151",
   "bio": {
-    "full_name": "Daniel Schmidt",
+    "full_name": "Steven Schmidt",
     "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 54,
+    "orientation": "Homosexual",
+    "age": 41,
     "blood_type": "AB+",
-    "genetic_stability": 0.937,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.851,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 89,
-    "build": "Frail",
+    "height_cm": 169,
+    "weight_kg": 67,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 70,
-      "Athletics": 20,
-      "Persuasion": 20
+      "Athletics": 19,
+      "Persuasion": 27,
+      "Hacking": 54
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 69,
-      "extraversion": 61,
-      "agreeableness": 85,
-      "neuroticism": 94
+      "openness": 20,
+      "conscientiousness": 80,
+      "extraversion": 91,
+      "agreeableness": 87,
+      "neuroticism": 90
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "npc_027",
+  "bio": {
+    "full_name": "Steven Dubois",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "O-",
+    "genetic_stability": 0.94,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 157,
+    "weight_kg": 82,
+    "build": "Average",
+    "physical_features": {
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 95,
+      "Medicine": 58,
+      "Perception": 62
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 160,
+    "personality_matrix": {
+      "openness": 33,
+      "conscientiousness": 66,
+      "extraversion": 80,
+      "agreeableness": 59,
+      "neuroticism": 50
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.74
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

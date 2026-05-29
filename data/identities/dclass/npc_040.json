@@ -2,22 +2,22 @@
   "id": "npc_040",
   "bio": {
     "full_name": "Maria Tanaka",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 36,
-    "blood_type": "A-",
-    "genetic_stability": 0.894,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.914,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 63,
-    "build": "Slender",
+    "height_cm": 200,
+    "weight_kg": 57,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 94,
-      "Hacking": 31,
-      "Stealth": 37
+      "Persuasion": 19,
+      "Engineering": 65,
+      "Stealth": 14
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 88,
-      "extraversion": 85,
-      "agreeableness": 27,
-      "neuroticism": 84
+      "openness": 86,
+      "conscientiousness": 71,
+      "extraversion": 18,
+      "agreeableness": 36,
+      "neuroticism": 29
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.4
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

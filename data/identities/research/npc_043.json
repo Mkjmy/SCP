@@ -1,23 +1,23 @@
 {
   "id": "npc_043",
   "bio": {
-    "full_name": "Joseph Garcia",
-    "gender": "Agender",
+    "full_name": "Daniel Wong",
+    "gender": "Male",
     "orientation": "Bisexual",
-    "age": 25,
+    "age": 41,
     "blood_type": "O+",
-    "genetic_stability": 0.997,
+    "genetic_stability": 0.978,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 84,
-    "build": "Overweight",
+    "height_cm": 161,
+    "weight_kg": 50,
+    "build": "Slender",
     "physical_features": {
       "hair": "Brown, Shoulder-length",
-      "eyes": "Icy blue",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Firearms": 47,
-      "Perception": 82,
-      "Athletics": 90
+      "Engineering": 62,
+      "Firearms": 42,
+      "Medicine": 15
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 165,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 77,
-      "extraversion": 81,
-      "agreeableness": 36,
-      "neuroticism": 97
+      "openness": 96,
+      "conscientiousness": 78,
+      "extraversion": 30,
+      "agreeableness": 50,
+      "neuroticism": 50
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

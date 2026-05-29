@@ -1,60 +1,60 @@
 {
   "id": "npc_157",
   "bio": {
-    "full_name": "Robert Williams",
-    "gender": "Female",
-    "orientation": "Pansexual",
+    "full_name": "Arjun Bakker",
+    "gender": "Male",
+    "orientation": "Asexual",
     "age": 22,
-    "blood_type": "B-",
-    "genetic_stability": 0.891,
-    "origin": "Rescued from a defunct GOI cell"
+    "blood_type": "AB-",
+    "genetic_stability": 0.927,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 56,
-    "build": "Lithe",
+    "height_cm": 172,
+    "weight_kg": 99,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Bald",
-      "eyes": "Hazel",
+      "hair": "Red, Manicured",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Firearms": 94,
-      "Perception": 47,
-      "Stealth": 67
+      "Engineering": 64,
+      "Firearms": 24,
+      "Containment_Logic": 31
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 83,
-      "extraversion": 76,
-      "agreeableness": 47,
-      "neuroticism": 80
+      "openness": 100,
+      "conscientiousness": 37,
+      "extraversion": 24,
+      "agreeableness": 70,
+      "neuroticism": 13
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

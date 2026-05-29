@@ -1,60 +1,60 @@
 {
   "id": "npc_121",
   "bio": {
-    "full_name": "John Tanaka",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 39,
-    "blood_type": "O+",
-    "genetic_stability": 0.929,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Anthony Schmidt",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "A-",
+    "genetic_stability": 0.949,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 88,
-    "build": "Frail",
+    "height_cm": 184,
+    "weight_kg": 60,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
+      "hair": "Red, Shoulder-length",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 13,
-      "Occult_Research": 84,
-      "Hacking": 49
+      "Persuasion": 74,
+      "Athletics": 80,
+      "Stealth": 37
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 9,
-      "extraversion": 54,
-      "agreeableness": 45,
-      "neuroticism": 10
+      "openness": 15,
+      "conscientiousness": 18,
+      "extraversion": 11,
+      "agreeableness": 48,
+      "neuroticism": 52
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

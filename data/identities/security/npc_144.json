@@ -1,60 +1,60 @@
 {
   "id": "npc_144",
   "bio": {
-    "full_name": "Elena Bakker",
+    "full_name": "Charles Gupta",
     "gender": "Female",
-    "orientation": "Asexual",
-    "age": 58,
-    "blood_type": "A+",
-    "genetic_stability": 0.929,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "AB-",
+    "genetic_stability": 0.955,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 103,
-    "build": "Average",
+    "height_cm": 164,
+    "weight_kg": 81,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Buzz cut",
-      "eyes": "Amber",
+      "hair": "Black, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Stealth": 68,
-      "Persuasion": 11,
-      "Firearms": 36
+      "Persuasion": 33,
+      "Perception": 58,
+      "Occult_Research": 50
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 43,
-      "extraversion": 47,
-      "agreeableness": 84,
-      "neuroticism": 100
+      "openness": 85,
+      "conscientiousness": 16,
+      "extraversion": 11,
+      "agreeableness": 56,
+      "neuroticism": 16
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.91
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

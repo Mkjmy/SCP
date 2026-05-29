@@ -1,6 +1,6 @@
 import json
 import os
-import identity_generator as id_gen
+import entities.npc.identity_generator as id_gen
 
 def save_global_tracker(npc_manager, force=False):
     """Updates the central registry of all NPC locations, throttled to prevent lag."""

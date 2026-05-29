@@ -1,60 +1,60 @@
 {
   "id": "npc_117",
   "bio": {
-    "full_name": "Kenji Gupta",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 44,
-    "blood_type": "AB-",
+    "full_name": "Anthony Ivanov",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 27,
+    "blood_type": "AB+",
     "genetic_stability": 0.876,
-    "origin": "Former NASA engineer who saw too much"
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 62,
-    "build": "Average",
+    "height_cm": 200,
+    "weight_kg": 52,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Icy blue",
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 81,
-      "Athletics": 41,
-      "Persuasion": 15
+      "Hacking": 86,
+      "Athletics": 51,
+      "Occult_Research": 65
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 133,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 1,
-      "conscientiousness": 12,
-      "extraversion": 67,
-      "agreeableness": 86,
-      "neuroticism": 50
+      "openness": 20,
+      "conscientiousness": 99,
+      "extraversion": 50,
+      "agreeableness": 26,
+      "neuroticism": 78
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.86
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_199",
   "bio": {
-    "full_name": "Chen Vasiliev",
-    "gender": "Agender",
+    "full_name": "Robert Miller",
+    "gender": "Female",
     "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "AB-",
-    "genetic_stability": 0.972,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 26,
+    "blood_type": "O+",
+    "genetic_stability": 0.88,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 106,
-    "build": "Heavily Muscular",
+    "height_cm": 176,
+    "weight_kg": 67,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Grey",
+      "hair": "Brown, Wild and unkempt",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 64,
-      "Stealth": 75,
-      "Perception": 87
+      "Stealth": 21,
+      "Hacking": 80,
+      "Persuasion": 55
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 115,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 24,
-      "extraversion": 24,
-      "agreeableness": 28,
-      "neuroticism": 75
+      "openness": 59,
+      "conscientiousness": 23,
+      "extraversion": 61,
+      "agreeableness": 51,
+      "neuroticism": 26
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.95
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

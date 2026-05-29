@@ -1,23 +1,23 @@
 {
   "id": "npc_193",
   "bio": {
-    "full_name": "Sven O'Connor",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 31,
-    "blood_type": "O-",
-    "genetic_stability": 0.906,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Kenji Dubois",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "A-",
+    "genetic_stability": 0.897,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 95,
-    "build": "Stocky",
+    "height_cm": 185,
+    "weight_kg": 105,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Amber",
+      "hair": "Black, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 47,
-      "Containment_Logic": 40,
-      "Hacking": 24
+      "Stealth": 74,
+      "Firearms": 38,
+      "Occult_Research": 53
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 57,
-      "conscientiousness": 36,
-      "extraversion": 17,
-      "agreeableness": 49,
-      "neuroticism": 57
+      "openness": 74,
+      "conscientiousness": 17,
+      "extraversion": 49,
+      "agreeableness": 25,
+      "neuroticism": 85
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

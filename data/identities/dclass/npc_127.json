@@ -1,23 +1,23 @@
 {
   "id": "npc_127",
   "bio": {
-    "full_name": "Kenji Jones",
+    "full_name": "Anthony Miller",
     "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 33,
+    "orientation": "Homosexual",
+    "age": 32,
     "blood_type": "A+",
-    "genetic_stability": 0.957,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.905,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 101,
-    "build": "Frail",
+    "height_cm": 169,
+    "weight_kg": 60,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
+      "hair": "Brown, Fade",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 73,
-      "Firearms": 17,
-      "Perception": 28
+      "Persuasion": 24,
+      "Athletics": 73,
+      "Firearms": 85
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 89,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 57,
-      "extraversion": 36,
-      "agreeableness": 85,
-      "neuroticism": 35
+      "openness": 33,
+      "conscientiousness": 67,
+      "extraversion": 58,
+      "agreeableness": 66,
+      "neuroticism": 70
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.95
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

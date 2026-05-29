@@ -31,13 +31,17 @@ def attack(player, characters_in_room, scps_in_room=None):
             player.health = 0
             return f"You attempt to strike {target.name}. Before you can even move, they draw their sidearm and fire. The world fades to black.", True
 
-        # Combat Stats with Momentum
+        # --- Standard Combat Stats ---
         p_str = player.attributes['strength']
         p_dex = player.attributes['dexterity']
-        t_str = target.attributes['strength']
-        t_dex = target.attributes['dexterity']
-        
+
+        # USE EFFECTIVE ATTRIBUTES FOR NPC (Butterfly Effect)
+        t_eff = target.get_effective_attributes()
+        t_str = t_eff['strength']
+        t_dex = t_eff['dexterity']
+
         p_debuff = player.get_debuff(action_type='attack')
+
         effective_p_str = max(1, p_str - p_debuff)
         
         # MOMENTUM IMPACT: Each point of momentum adds/removes 10% win chance

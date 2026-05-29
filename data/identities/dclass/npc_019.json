@@ -1,23 +1,23 @@
 {
   "id": "npc_019",
   "bio": {
-    "full_name": "Daniel Gupta",
-    "gender": "Female",
+    "full_name": "Elena Muller",
+    "gender": "Agender",
     "orientation": "Asexual",
-    "age": 32,
-    "blood_type": "O+",
-    "genetic_stability": 0.905,
+    "age": 22,
+    "blood_type": "O-",
+    "genetic_stability": 0.936,
     "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 53,
-    "build": "Heavily Muscular",
+    "height_cm": 166,
+    "weight_kg": 100,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 42,
-      "Perception": 20,
-      "Hacking": 48
+      "Medicine": 56,
+      "Containment_Logic": 67,
+      "Engineering": 80
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 92,
-      "extraversion": 92,
-      "agreeableness": 2,
-      "neuroticism": 45
+      "openness": 3,
+      "conscientiousness": 10,
+      "extraversion": 35,
+      "agreeableness": 89,
+      "neuroticism": 78
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
   }
 }

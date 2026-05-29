@@ -1,23 +1,23 @@
 {
   "id": "npc_077",
   "bio": {
-    "full_name": "Joshua Wong",
+    "full_name": "Richard Sato",
     "gender": "Female",
-    "orientation": "Asexual",
-    "age": 31,
-    "blood_type": "B-",
-    "genetic_stability": 0.924,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "B+",
+    "genetic_stability": 0.896,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 60,
+    "height_cm": 158,
+    "weight_kg": 99,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Fade",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 46,
-      "Engineering": 34,
-      "Perception": 53
+      "Firearms": 31,
+      "Occult_Research": 54,
+      "Containment_Logic": 85
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 146,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 33,
-      "extraversion": 6,
-      "agreeableness": 87,
-      "neuroticism": 32
+      "openness": 66,
+      "conscientiousness": 0,
+      "extraversion": 70,
+      "agreeableness": 65,
+      "neuroticism": 15
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

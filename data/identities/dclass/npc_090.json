@@ -1,23 +1,23 @@
 {
   "id": "npc_090",
   "bio": {
-    "full_name": "Arjun Dubois",
-    "gender": "Transgender",
+    "full_name": "Andrew Gupta",
+    "gender": "Male",
     "orientation": "Pansexual",
     "age": 31,
-    "blood_type": "A+",
-    "genetic_stability": 0.887,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "blood_type": "O-",
+    "genetic_stability": 0.939,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 65,
-    "build": "Average",
+    "height_cm": 174,
+    "weight_kg": 52,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Black, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 58,
-      "Hacking": 40,
-      "Firearms": 19
+      "Engineering": 26,
+      "Hacking": 48,
+      "Stealth": 13
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 80,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 14,
-      "extraversion": 93,
-      "agreeableness": 66,
-      "neuroticism": 86
+      "openness": 15,
+      "conscientiousness": 0,
+      "extraversion": 77,
+      "agreeableness": 97,
+      "neuroticism": 15
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

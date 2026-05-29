@@ -1,23 +1,23 @@
 {
   "id": "npc_181",
   "bio": {
-    "full_name": "James Wong",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 63,
-    "blood_type": "O-",
-    "genetic_stability": 0.976,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "James Gupta",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "A+",
+    "genetic_stability": 0.954,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 82,
-    "build": "Lithe",
+    "height_cm": 177,
+    "weight_kg": 85,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Hazel",
+      "hair": "Silver, Shoulder-length",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 59,
-      "Engineering": 37,
-      "Hacking": 95
+      "Perception": 40,
+      "Athletics": 11,
+      "Occult_Research": 15
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 118,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 63,
-      "extraversion": 78,
-      "agreeableness": 66,
-      "neuroticism": 43
+      "openness": 41,
+      "conscientiousness": 5,
+      "extraversion": 64,
+      "agreeableness": 52,
+      "neuroticism": 76
     },
     "phobias": [
       "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.9
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
+      "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

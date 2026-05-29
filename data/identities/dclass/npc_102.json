@@ -1,23 +1,23 @@
 {
   "id": "npc_102",
   "bio": {
-    "full_name": "Paul Tanaka",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 26,
-    "blood_type": "B+",
-    "genetic_stability": 0.961,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Anthony Brown",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 33,
+    "blood_type": "A-",
+    "genetic_stability": 0.945,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 60,
-    "build": "Athletic",
+    "height_cm": 197,
+    "weight_kg": 67,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Red, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 55,
-      "Athletics": 61,
-      "Hacking": 87
+      "Occult_Research": 57,
+      "Engineering": 22,
+      "Athletics": 80
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 82,
+    "iq": 80,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 66,
-      "extraversion": 4,
-      "agreeableness": 52,
-      "neuroticism": 29
+      "openness": 45,
+      "conscientiousness": 64,
+      "extraversion": 55,
+      "agreeableness": 22,
+      "neuroticism": 40
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

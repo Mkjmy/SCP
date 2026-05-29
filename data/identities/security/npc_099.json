@@ -1,60 +1,60 @@
 {
   "id": "npc_099",
   "bio": {
-    "full_name": "Lars Muller",
-    "gender": "Non-binary",
+    "full_name": "Robert Schmidt",
+    "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 25,
-    "blood_type": "B-",
-    "genetic_stability": 0.874,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.946,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 92,
-    "build": "Overweight",
+    "height_cm": 198,
+    "weight_kg": 82,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Emerald green",
+      "hair": "Grey, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Persuasion": 13,
-      "Medicine": 60,
-      "Athletics": 35
+      "Medicine": 44,
+      "Engineering": 39,
+      "Athletics": 81
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 81,
-      "extraversion": 5,
-      "agreeableness": 4,
-      "neuroticism": 46
+      "openness": 60,
+      "conscientiousness": 13,
+      "extraversion": 12,
+      "agreeableness": 94,
+      "neuroticism": 71
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 1.0
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

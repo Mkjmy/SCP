@@ -1,60 +1,60 @@
 {
   "id": "npc_051",
   "bio": {
-    "full_name": "Lars Tanaka",
-    "gender": "Non-binary",
+    "full_name": "Sven Williams",
+    "gender": "Transgender",
     "orientation": "Pansexual",
-    "age": 23,
-    "blood_type": "A-",
-    "genetic_stability": 0.981,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 51,
+    "blood_type": "A+",
+    "genetic_stability": 0.935,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 61,
-    "build": "Stocky",
+    "height_cm": 196,
+    "weight_kg": 91,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 31,
-      "Occult_Research": 93,
-      "Firearms": 65
+      "Occult_Research": 11,
+      "Perception": 62,
+      "Engineering": 52
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 61,
-      "conscientiousness": 98,
-      "extraversion": 42,
-      "agreeableness": 36,
-      "neuroticism": 17
+      "openness": 22,
+      "conscientiousness": 21,
+      "extraversion": 18,
+      "agreeableness": 11,
+      "neuroticism": 28
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.74
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

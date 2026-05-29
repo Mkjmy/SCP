@@ -1,0 +1,60 @@
+{
+  "id": "npc_197",
+  "bio": {
+    "full_name": "Fatima Gupta",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 36,
+    "blood_type": "B+",
+    "genetic_stability": 0.859,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
+  },
+  "appearance": {
+    "height_cm": 194,
+    "weight_kg": 110,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Blonde, Fade",
+      "eyes": "Amber",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "D-Class",
+    "department": "D-Class",
+    "assigned_scp": null,
+    "clearance": 0,
+    "skills": {
+      "Engineering": 47,
+      "Medicine": 45,
+      "Stealth": 87
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 108,
+    "personality_matrix": {
+      "openness": 49,
+      "conscientiousness": 89,
+      "extraversion": 95,
+      "agreeableness": 6,
+      "neuroticism": 82
+    },
+    "phobias": [
+      "Chronophobia (Fear of time passing)"
+    ],
+    "mental_stability": 0.77
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
+  }
+}

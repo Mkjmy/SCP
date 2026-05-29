@@ -1,23 +1,23 @@
 {
   "id": "npc_205",
   "bio": {
-    "full_name": "Richard Tanaka",
+    "full_name": "Andrew Muller",
     "gender": "Transgender",
     "orientation": "Homosexual",
-    "age": 56,
-    "blood_type": "AB-",
-    "genetic_stability": 0.851,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 53,
+    "blood_type": "A+",
+    "genetic_stability": 0.924,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 83,
-    "build": "Frail",
+    "height_cm": 172,
+    "weight_kg": 73,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Firearms": 12,
-      "Hacking": 43,
-      "Containment_Logic": 85
+      "Perception": 15,
+      "Medicine": 43,
+      "Engineering": 26
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 126,
+    "iq": 101,
     "personality_matrix": {
-      "openness": 32,
-      "conscientiousness": 83,
-      "extraversion": 76,
-      "agreeableness": 82,
-      "neuroticism": 34
+      "openness": 42,
+      "conscientiousness": 43,
+      "extraversion": 41,
+      "agreeableness": 15,
+      "neuroticism": 52
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

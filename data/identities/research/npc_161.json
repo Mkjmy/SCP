@@ -1,23 +1,23 @@
 {
   "id": "npc_161",
   "bio": {
-    "full_name": "William Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 35,
-    "blood_type": "A-",
-    "genetic_stability": 0.99,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Steven Jones",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 52,
+    "blood_type": "AB-",
+    "genetic_stability": 0.921,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 73,
-    "build": "Slender",
+    "height_cm": 186,
+    "weight_kg": 56,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Icy blue",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 48,
-      "Containment_Logic": 89,
-      "Firearms": 12
+      "Medicine": 54,
+      "Firearms": 77,
+      "Stealth": 29
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 161,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 79,
-      "extraversion": 96,
-      "agreeableness": 6,
-      "neuroticism": 48
+      "openness": 13,
+      "conscientiousness": 39,
+      "extraversion": 73,
+      "agreeableness": 14,
+      "neuroticism": 100
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_079",
   "bio": {
-    "full_name": "Lars Schmidt",
-    "gender": "Male",
+    "full_name": "James Sato",
+    "gender": "Non-binary",
     "orientation": "Heterosexual",
-    "age": 30,
-    "blood_type": "B+",
-    "genetic_stability": 0.86,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 57,
+    "blood_type": "B-",
+    "genetic_stability": 0.933,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 72,
-    "build": "Athletic",
+    "height_cm": 159,
+    "weight_kg": 97,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
-      "eyes": "Amber",
+      "hair": "Black, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Perception": 82,
-      "Athletics": 73,
-      "Engineering": 68
+      "Athletics": 84,
+      "Containment_Logic": 43,
+      "Perception": 32
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 73,
-      "conscientiousness": 23,
-      "extraversion": 16,
-      "agreeableness": 43,
-      "neuroticism": 78
+      "openness": 49,
+      "conscientiousness": 27,
+      "extraversion": 69,
+      "agreeableness": 72,
+      "neuroticism": 30
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

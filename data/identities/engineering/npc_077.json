@@ -1,60 +1,60 @@
 {
   "id": "npc_077",
   "bio": {
-    "full_name": "Elena Williams",
-    "gender": "Male",
+    "full_name": "Michael Kovacs",
+    "gender": "Non-binary",
     "orientation": "Heterosexual",
-    "age": 56,
-    "blood_type": "AB-",
-    "genetic_stability": 0.924,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 55,
+    "blood_type": "B+",
+    "genetic_stability": 0.968,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 81,
-    "build": "Stocky",
+    "height_cm": 177,
+    "weight_kg": 73,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Hazel",
+      "hair": "Brown, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 39,
-      "Stealth": 32,
-      "Athletics": 36
+      "Containment_Logic": 70,
+      "Persuasion": 54,
+      "Stealth": 86
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 48,
-      "extraversion": 57,
-      "agreeableness": 77,
-      "neuroticism": 31
+      "openness": 58,
+      "conscientiousness": 23,
+      "extraversion": 92,
+      "agreeableness": 60,
+      "neuroticism": 71
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

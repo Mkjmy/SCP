@@ -1,60 +1,60 @@
 {
   "id": "npc_188",
   "bio": {
-    "full_name": "Charles Bakker",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 30,
-    "blood_type": "B+",
-    "genetic_stability": 0.948,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Joshua Miller",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 37,
+    "blood_type": "O-",
+    "genetic_stability": 0.865,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
     "height_cm": 173,
-    "weight_kg": 88,
-    "build": "Frail",
+    "weight_kg": 82,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
+      "hair": "Brown, Ponytail",
       "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Stealth": 15,
-      "Occult_Research": 93,
-      "Hacking": 45
+      "Engineering": 95,
+      "Athletics": 49,
+      "Hacking": 20
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 149,
     "personality_matrix": {
-      "openness": 59,
-      "conscientiousness": 63,
-      "extraversion": 33,
-      "agreeableness": 41,
-      "neuroticism": 94
+      "openness": 22,
+      "conscientiousness": 54,
+      "extraversion": 79,
+      "agreeableness": 49,
+      "neuroticism": 36
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

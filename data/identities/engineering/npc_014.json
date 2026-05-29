@@ -1,23 +1,23 @@
 {
   "id": "npc_014",
   "bio": {
-    "full_name": "Chen Davis",
+    "full_name": "James Sato",
     "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 22,
-    "blood_type": "O+",
-    "genetic_stability": 0.853,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.924,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 70,
-    "build": "Lithe",
+    "height_cm": 171,
+    "weight_kg": 56,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 71,
-      "Perception": 74,
-      "Medicine": 11
+      "Hacking": 22,
+      "Stealth": 94,
+      "Occult_Research": 64
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 16,
-      "conscientiousness": 26,
-      "extraversion": 22,
-      "agreeableness": 54,
-      "neuroticism": 86
+      "openness": 25,
+      "conscientiousness": 54,
+      "extraversion": 72,
+      "agreeableness": 74,
+      "neuroticism": 2
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 0.97
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

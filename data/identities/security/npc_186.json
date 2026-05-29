@@ -1,60 +1,60 @@
 {
   "id": "npc_186",
   "bio": {
-    "full_name": "Arjun Brown",
-    "gender": "Agender",
+    "full_name": "Maria Johnson",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 46,
-    "blood_type": "B-",
-    "genetic_stability": 0.9,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 36,
+    "blood_type": "A-",
+    "genetic_stability": 0.887,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 163,
+    "height_cm": 184,
     "weight_kg": 69,
-    "build": "Overweight",
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Perception": 95,
-      "Engineering": 32,
-      "Hacking": 21
+      "Medicine": 87,
+      "Engineering": 67,
+      "Hacking": 93
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 41,
-      "extraversion": 14,
-      "agreeableness": 40,
-      "neuroticism": 86
+      "openness": 44,
+      "conscientiousness": 34,
+      "extraversion": 77,
+      "agreeableness": 5,
+      "neuroticism": 64
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

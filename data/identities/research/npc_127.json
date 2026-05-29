@@ -1,23 +1,23 @@
 {
   "id": "npc_127",
   "bio": {
-    "full_name": "Lars Dubois",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 63,
-    "blood_type": "AB-",
-    "genetic_stability": 0.918,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Donald Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 46,
+    "blood_type": "B+",
+    "genetic_stability": 0.898,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 91,
-    "build": "Overweight",
+    "height_cm": 175,
+    "weight_kg": 68,
+    "build": "Slender",
     "physical_features": {
       "hair": "Brown, Fade",
-      "eyes": "Sharp blue",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 28,
-      "Hacking": 93,
-      "Medicine": 78
+      "Firearms": 59,
+      "Persuasion": 23,
+      "Occult_Research": 35
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 161,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 77,
-      "extraversion": 26,
-      "agreeableness": 26,
-      "neuroticism": 98
+      "openness": 28,
+      "conscientiousness": 36,
+      "extraversion": 82,
+      "agreeableness": 74,
+      "neuroticism": 77
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 5000,
-      "creditor": "Local Mob"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

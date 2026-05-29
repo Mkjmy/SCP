@@ -1,60 +1,60 @@
 {
   "id": "npc_185",
   "bio": {
-    "full_name": "Daniel Miller",
-    "gender": "Transgender",
+    "full_name": "Andrew Tanaka",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 52,
-    "blood_type": "B+",
-    "genetic_stability": 0.858,
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.991,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 71,
-    "build": "Frail",
+    "height_cm": 173,
+    "weight_kg": 61,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Grey, Bald",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 39,
-      "Containment_Logic": 57,
-      "Medicine": 62
+      "Perception": 55,
+      "Athletics": 24,
+      "Medicine": 24
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 23,
-      "conscientiousness": 18,
-      "extraversion": 54,
-      "agreeableness": 66,
-      "neuroticism": 64
+      "openness": 20,
+      "conscientiousness": 96,
+      "extraversion": 7,
+      "agreeableness": 91,
+      "neuroticism": 66
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
+      "amount": 20000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

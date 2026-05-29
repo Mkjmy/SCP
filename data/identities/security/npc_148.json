@@ -1,23 +1,23 @@
 {
   "id": "npc_148",
   "bio": {
-    "full_name": "Joseph Tanaka",
-    "gender": "Agender",
+    "full_name": "Elena Davis",
+    "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 39,
-    "blood_type": "O-",
-    "genetic_stability": 0.991,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 63,
+    "blood_type": "B-",
+    "genetic_stability": 0.985,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 72,
-    "build": "Lithe",
+    "height_cm": 168,
+    "weight_kg": 56,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Wild and unkempt",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Medicine": 61,
-      "Hacking": 83,
-      "Containment_Logic": 41
+      "Engineering": 26,
+      "Occult_Research": 19,
+      "Persuasion": 87
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 52,
-      "extraversion": 48,
-      "agreeableness": 87,
-      "neuroticism": 23
+      "openness": 55,
+      "conscientiousness": 38,
+      "extraversion": 39,
+      "agreeableness": 20,
+      "neuroticism": 24
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

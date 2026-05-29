@@ -1,21 +1,21 @@
 {
   "id": "npc_124",
   "bio": {
-    "full_name": "Charles Johnson",
+    "full_name": "William Muller",
     "gender": "Female",
-    "orientation": "Asexual",
-    "age": 48,
+    "orientation": "Homosexual",
+    "age": 26,
     "blood_type": "O-",
-    "genetic_stability": 0.898,
-    "origin": "Ex-military police recruited after a classified incident"
+    "genetic_stability": 0.88,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 61,
-    "build": "Lithe",
+    "height_cm": 166,
+    "weight_kg": 79,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Black, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
         "Check their watch every 30 seconds"
       ]
@@ -25,22 +25,22 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 79,
-      "Engineering": 75,
-      "Athletics": 93
+      "Firearms": 50,
+      "Perception": 64,
+      "Engineering": 45
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 21,
-      "extraversion": 78,
-      "agreeableness": 50,
-      "neuroticism": 33
+      "openness": 33,
+      "conscientiousness": 25,
+      "extraversion": 56,
+      "agreeableness": 78,
+      "neuroticism": 80
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
@@ -48,13 +48,13 @@
     "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_166",
   "bio": {
-    "full_name": "Thomas Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 47,
+    "full_name": "Andrew Jones",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 53,
     "blood_type": "O-",
-    "genetic_stability": 0.949,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "genetic_stability": 0.936,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 98,
+    "height_cm": 198,
+    "weight_kg": 78,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Pompadour",
+      "hair": "White, Messy",
       "eyes": "Amber",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 90,
-      "Medicine": 47,
-      "Perception": 88
+      "Hacking": 30,
+      "Athletics": 45,
+      "Persuasion": 84
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 32,
-      "extraversion": 74,
-      "agreeableness": 69,
-      "neuroticism": 69
+      "openness": 2,
+      "conscientiousness": 44,
+      "extraversion": 88,
+      "agreeableness": 31,
+      "neuroticism": 31
     },
     "phobias": [
       "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
   }
 }

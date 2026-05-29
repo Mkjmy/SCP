@@ -1,60 +1,60 @@
 {
   "id": "npc_173",
   "bio": {
-    "full_name": "Donald Bakker",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 59,
-    "blood_type": "A-",
-    "genetic_stability": 0.961,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Mark Vasiliev",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 54,
+    "blood_type": "AB+",
+    "genetic_stability": 0.983,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 103,
-    "build": "Frail",
+    "height_cm": 163,
+    "weight_kg": 79,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Amber",
+      "hair": "Blonde, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 17,
-      "Containment_Logic": 64,
-      "Perception": 40
+      "Persuasion": 65,
+      "Stealth": 24,
+      "Athletics": 12
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 6,
-      "extraversion": 28,
-      "agreeableness": 8,
-      "neuroticism": 34
+      "openness": 46,
+      "conscientiousness": 16,
+      "extraversion": 91,
+      "agreeableness": 92,
+      "neuroticism": 50
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

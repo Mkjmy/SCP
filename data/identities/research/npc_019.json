@@ -1,23 +1,23 @@
 {
   "id": "npc_019",
   "bio": {
-    "full_name": "John Garcia",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 24,
-    "blood_type": "O-",
-    "genetic_stability": 0.872,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Joshua Davis",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.931,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 171,
+    "height_cm": 182,
     "weight_kg": 55,
-    "build": "Lithe",
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
+      "hair": "Blonde, Ponytail",
       "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Medicine": 41,
-      "Containment_Logic": 25,
-      "Hacking": 11
+      "Firearms": 27,
+      "Perception": 83,
+      "Occult_Research": 93
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 124,
     "personality_matrix": {
-      "openness": 62,
-      "conscientiousness": 48,
-      "extraversion": 75,
-      "agreeableness": 83,
-      "neuroticism": 10
+      "openness": 41,
+      "conscientiousness": 14,
+      "extraversion": 85,
+      "agreeableness": 75,
+      "neuroticism": 47
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

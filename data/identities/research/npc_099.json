@@ -1,23 +1,23 @@
 {
   "id": "npc_099",
   "bio": {
-    "full_name": "Lars Wong",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 40,
-    "blood_type": "O-",
-    "genetic_stability": 0.963,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Steven Smith",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "A+",
+    "genetic_stability": 0.935,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 58,
-    "build": "Heavily Muscular",
+    "height_cm": 161,
+    "weight_kg": 69,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Fade",
-      "eyes": "Amber",
+      "hair": "Black, Bald",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Medicine": 67,
-      "Perception": 80,
-      "Occult_Research": 71
+      "Athletics": 17,
+      "Occult_Research": 30,
+      "Firearms": 55
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 100,
-      "extraversion": 19,
-      "agreeableness": 20,
-      "neuroticism": 3
+      "openness": 44,
+      "conscientiousness": 43,
+      "extraversion": 26,
+      "agreeableness": 96,
+      "neuroticism": 80
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

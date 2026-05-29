@@ -1,60 +1,60 @@
 {
   "id": "npc_120",
   "bio": {
-    "full_name": "Robert Ivanov",
-    "gender": "Male",
+    "full_name": "Christopher Garcia",
+    "gender": "Female",
     "orientation": "Pansexual",
-    "age": 35,
-    "blood_type": "AB-",
-    "genetic_stability": 0.869,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 31,
+    "blood_type": "AB+",
+    "genetic_stability": 0.997,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 104,
-    "build": "Frail",
+    "height_cm": 183,
+    "weight_kg": 93,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 24,
-      "Firearms": 45,
-      "Persuasion": 69
+      "Occult_Research": 94,
+      "Stealth": 54,
+      "Persuasion": 33
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 107,
     "personality_matrix": {
-      "openness": 40,
-      "conscientiousness": 90,
-      "extraversion": 33,
-      "agreeableness": 58,
-      "neuroticism": 84
+      "openness": 53,
+      "conscientiousness": 34,
+      "extraversion": 71,
+      "agreeableness": 77,
+      "neuroticism": 80
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.73
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

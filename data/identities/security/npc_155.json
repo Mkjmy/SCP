@@ -1,60 +1,60 @@
 {
   "id": "npc_155",
   "bio": {
-    "full_name": "Robert Gupta",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 63,
-    "blood_type": "AB-",
-    "genetic_stability": 0.936,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Olga Smith",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 49,
+    "blood_type": "O-",
+    "genetic_stability": 0.924,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 61,
-    "build": "Overweight",
+    "height_cm": 188,
+    "weight_kg": 103,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Stealth": 15,
-      "Athletics": 24,
-      "Containment_Logic": 32
+      "Persuasion": 64,
+      "Hacking": 16,
+      "Stealth": 11
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 158,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 42,
-      "extraversion": 59,
-      "agreeableness": 80,
-      "neuroticism": 19
+      "openness": 66,
+      "conscientiousness": 97,
+      "extraversion": 25,
+      "agreeableness": 13,
+      "neuroticism": 30
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.51
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

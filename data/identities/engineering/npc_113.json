@@ -1,60 +1,60 @@
 {
   "id": "npc_113",
   "bio": {
-    "full_name": "Kenji Williams",
+    "full_name": "Matthew Muller",
     "gender": "Non-binary",
     "orientation": "Asexual",
-    "age": 62,
-    "blood_type": "O+",
-    "genetic_stability": 0.927,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 52,
+    "blood_type": "B-",
+    "genetic_stability": 0.96,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 73,
-    "build": "Average",
+    "height_cm": 174,
+    "weight_kg": 91,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Pixie cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 58,
-      "Hacking": 16,
-      "Firearms": 83
+      "Medicine": 56,
+      "Athletics": 22,
+      "Firearms": 74
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 79,
-      "extraversion": 54,
-      "agreeableness": 80,
-      "neuroticism": 69
+      "openness": 17,
+      "conscientiousness": 95,
+      "extraversion": 24,
+      "agreeableness": 93,
+      "neuroticism": 92
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
       "amount": 20000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

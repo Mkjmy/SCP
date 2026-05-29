@@ -1,60 +1,60 @@
 {
   "id": "npc_143",
   "bio": {
-    "full_name": "Paul Dubois",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 30,
-    "blood_type": "O-",
-    "genetic_stability": 0.879,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Lars Kovacs",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "AB-",
+    "genetic_stability": 0.919,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 87,
-    "build": "Overweight",
+    "height_cm": 173,
+    "weight_kg": 91,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Buzz cut",
-      "eyes": "Amber",
+      "hair": "Dyed green, Shoulder-length",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Hacking": 73,
-      "Perception": 51,
-      "Firearms": 82
+      "Engineering": 16,
+      "Medicine": 23,
+      "Firearms": 72
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 90,
-      "extraversion": 94,
-      "agreeableness": 14,
-      "neuroticism": 13
+      "openness": 7,
+      "conscientiousness": 38,
+      "extraversion": 65,
+      "agreeableness": 69,
+      "neuroticism": 46
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
+      "amount": 1000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_037",
   "bio": {
-    "full_name": "Richard Sato",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 43,
-    "blood_type": "AB+",
-    "genetic_stability": 0.863,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Paul Gupta",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "A-",
+    "genetic_stability": 0.975,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 99,
-    "build": "Stocky",
+    "height_cm": 157,
+    "weight_kg": 61,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Icy blue",
+      "hair": "White, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 90,
-      "Medicine": 19,
-      "Perception": 30
+      "Stealth": 51,
+      "Firearms": 60,
+      "Occult_Research": 55
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 71,
-      "extraversion": 80,
-      "agreeableness": 39,
-      "neuroticism": 86
+      "openness": 37,
+      "conscientiousness": 6,
+      "extraversion": 11,
+      "agreeableness": 9,
+      "neuroticism": 58
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

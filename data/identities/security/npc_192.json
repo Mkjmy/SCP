@@ -1,60 +1,60 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "William Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 61,
-    "blood_type": "A-",
-    "genetic_stability": 0.993,
+    "full_name": "Robert Dubois",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 55,
+    "blood_type": "A+",
+    "genetic_stability": 0.901,
     "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 54,
-    "build": "Lithe",
+    "height_cm": 190,
+    "weight_kg": 91,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Hazel",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Engineering": 25,
-      "Persuasion": 89,
-      "Occult_Research": 45
+      "Occult_Research": 92,
+      "Engineering": 73,
+      "Stealth": 81
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 149,
     "personality_matrix": {
-      "openness": 59,
-      "conscientiousness": 2,
-      "extraversion": 3,
-      "agreeableness": 60,
-      "neuroticism": 93
+      "openness": 7,
+      "conscientiousness": 87,
+      "extraversion": 1,
+      "agreeableness": 30,
+      "neuroticism": 31
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

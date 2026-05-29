@@ -1,60 +1,60 @@
 {
   "id": "npc_059",
   "bio": {
-    "full_name": "Michael Davis",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 56,
-    "blood_type": "O-",
-    "genetic_stability": 0.868,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "David Schmidt",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "B+",
+    "genetic_stability": 0.887,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 93,
-    "build": "Stocky",
+    "height_cm": 162,
+    "weight_kg": 54,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Ponytail",
-      "eyes": "Amber",
+      "hair": "Blonde, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 34,
-      "Containment_Logic": 60,
-      "Persuasion": 25
+      "Containment_Logic": 17,
+      "Perception": 90,
+      "Athletics": 14
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 75,
-      "extraversion": 8,
-      "agreeableness": 97,
-      "neuroticism": 2
+      "openness": 63,
+      "conscientiousness": 30,
+      "extraversion": 7,
+      "agreeableness": 71,
+      "neuroticism": 73
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

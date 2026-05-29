@@ -1,23 +1,23 @@
 {
   "id": "npc_102",
   "bio": {
-    "full_name": "Thomas Sato",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 22,
-    "blood_type": "B+",
-    "genetic_stability": 0.934,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "John Muller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "AB+",
+    "genetic_stability": 0.896,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 57,
-    "build": "Average",
+    "height_cm": 199,
+    "weight_kg": 71,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Red, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 43,
-      "Firearms": 18,
-      "Engineering": 80
+      "Occult_Research": 16,
+      "Hacking": 76,
+      "Athletics": 49
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 81,
-      "conscientiousness": 44,
-      "extraversion": 18,
-      "agreeableness": 76,
-      "neuroticism": 59
+      "openness": 11,
+      "conscientiousness": 42,
+      "extraversion": 73,
+      "agreeableness": 16,
+      "neuroticism": 97
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

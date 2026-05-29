@@ -1,60 +1,60 @@
 {
   "id": "npc_140",
   "bio": {
-    "full_name": "Chen Bakker",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 34,
-    "blood_type": "O+",
-    "genetic_stability": 0.973,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Thomas Brown",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 61,
+    "blood_type": "A+",
+    "genetic_stability": 0.918,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 88,
-    "build": "Frail",
+    "height_cm": 166,
+    "weight_kg": 93,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Containment_Logic": 15,
-      "Firearms": 11,
-      "Medicine": 91
+      "Occult_Research": 13,
+      "Containment_Logic": 29,
+      "Perception": 34
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 0,
-      "extraversion": 89,
-      "agreeableness": 34,
-      "neuroticism": 14
+      "openness": 17,
+      "conscientiousness": 14,
+      "extraversion": 64,
+      "agreeableness": 83,
+      "neuroticism": 58
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

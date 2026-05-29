@@ -1,60 +1,60 @@
 {
   "id": "npc_196",
   "bio": {
-    "full_name": "Charles Miller",
+    "full_name": "Thomas Dubois",
     "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 23,
-    "blood_type": "A-",
-    "genetic_stability": 0.907,
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.854,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 54,
-    "build": "Frail",
+    "height_cm": 200,
+    "weight_kg": 90,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Silver, Manicured",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 71,
-      "Containment_Logic": 74,
-      "Persuasion": 39
+      "Perception": 31,
+      "Containment_Logic": 90,
+      "Engineering": 75
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 152,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 0,
-      "extraversion": 23,
-      "agreeableness": 39,
-      "neuroticism": 22
+      "openness": 37,
+      "conscientiousness": 95,
+      "extraversion": 3,
+      "agreeableness": 2,
+      "neuroticism": 67
     },
     "phobias": [
       "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

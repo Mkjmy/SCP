@@ -1,60 +1,60 @@
 {
   "id": "npc_123",
   "bio": {
-    "full_name": "John Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 58,
-    "blood_type": "AB-",
-    "genetic_stability": 0.896,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Donald Schmidt",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 57,
+    "blood_type": "A-",
+    "genetic_stability": 0.901,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 105,
-    "build": "Athletic",
+    "height_cm": 194,
+    "weight_kg": 108,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Fade",
+      "hair": "Red, Ponytail",
       "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 46,
-      "Athletics": 64,
-      "Medicine": 90
+      "Containment_Logic": 20,
+      "Persuasion": 52,
+      "Engineering": 76
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 156,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 0,
-      "conscientiousness": 66,
-      "extraversion": 8,
-      "agreeableness": 8,
-      "neuroticism": 34
+      "openness": 96,
+      "conscientiousness": 34,
+      "extraversion": 21,
+      "agreeableness": 42,
+      "neuroticism": 26
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 100000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

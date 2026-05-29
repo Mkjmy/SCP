@@ -1,23 +1,23 @@
 {
   "id": "npc_183",
   "bio": {
-    "full_name": "Anthony Sato",
-    "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 47,
-    "blood_type": "B-",
-    "genetic_stability": 0.93,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "James Dubois",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 30,
+    "blood_type": "O+",
+    "genetic_stability": 0.993,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 99,
-    "build": "Overweight",
+    "height_cm": 187,
+    "weight_kg": 96,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Grey",
+      "hair": "Silver, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Persuasion": 31,
-      "Engineering": 73,
-      "Stealth": 47
+      "Athletics": 86,
+      "Engineering": 86,
+      "Stealth": 43
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 93,
-      "extraversion": 19,
-      "agreeableness": 75,
-      "neuroticism": 17
+      "openness": 22,
+      "conscientiousness": 45,
+      "extraversion": 13,
+      "agreeableness": 67,
+      "neuroticism": 9
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

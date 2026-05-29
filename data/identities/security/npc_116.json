@@ -1,60 +1,60 @@
 {
   "id": "npc_116",
   "bio": {
-    "full_name": "Daniel Ivanov",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "AB-",
-    "genetic_stability": 0.983,
+    "full_name": "Donald Davis",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "O+",
+    "genetic_stability": 0.943,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 58,
-    "build": "Heavily Muscular",
+    "height_cm": 179,
+    "weight_kg": 53,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Grey",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 80,
-      "Containment_Logic": 45,
-      "Firearms": 47
+      "Occult_Research": 73,
+      "Athletics": 92,
+      "Hacking": 64
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 32,
-      "extraversion": 71,
-      "agreeableness": 59,
-      "neuroticism": 3
+      "openness": 10,
+      "conscientiousness": 97,
+      "extraversion": 89,
+      "agreeableness": 47,
+      "neuroticism": 53
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
       "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

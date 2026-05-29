@@ -1,23 +1,23 @@
 {
   "id": "npc_160",
   "bio": {
-    "full_name": "Michael Ivanov",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 43,
-    "blood_type": "AB-",
-    "genetic_stability": 0.976,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Daniel Garcia",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.909,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 51,
-    "build": "Frail",
+    "height_cm": 178,
+    "weight_kg": 100,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
+      "hair": "White, Pixie cut",
       "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 65,
-      "Medicine": 72,
-      "Hacking": 68
+      "Containment_Logic": 41,
+      "Stealth": 63,
+      "Persuasion": 49
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 143,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 7,
-      "extraversion": 82,
-      "agreeableness": 60,
-      "neuroticism": 57
+      "openness": 29,
+      "conscientiousness": 36,
+      "extraversion": 42,
+      "agreeableness": 22,
+      "neuroticism": 100
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

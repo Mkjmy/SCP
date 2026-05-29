@@ -1,23 +1,23 @@
 {
   "id": "npc_022",
   "bio": {
-    "full_name": "Thomas Garcia",
-    "gender": "Agender",
+    "full_name": "Elena Vasiliev",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 23,
-    "blood_type": "A-",
-    "genetic_stability": 0.977,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 45,
+    "blood_type": "B+",
+    "genetic_stability": 0.882,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 108,
-    "build": "Lithe",
+    "height_cm": 186,
+    "weight_kg": 53,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 67,
-      "Hacking": 15,
-      "Persuasion": 79
+      "Stealth": 93,
+      "Hacking": 78,
+      "Engineering": 48
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 131,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 26,
-      "extraversion": 99,
-      "agreeableness": 87,
-      "neuroticism": 95
+      "openness": 68,
+      "conscientiousness": 99,
+      "extraversion": 96,
+      "agreeableness": 59,
+      "neuroticism": 14
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

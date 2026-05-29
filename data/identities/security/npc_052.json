@@ -1,21 +1,21 @@
 {
   "id": "npc_052",
   "bio": {
-    "full_name": "Paul Brown",
+    "full_name": "Paul Bakker",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 56,
-    "blood_type": "AB+",
-    "genetic_stability": 0.984,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "orientation": "Heterosexual",
+    "age": 47,
+    "blood_type": "A+",
+    "genetic_stability": 0.989,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 103,
+    "height_cm": 162,
+    "weight_kg": 54,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Occult_Research": 22,
-      "Medicine": 94,
-      "Athletics": 64
+      "Engineering": 82,
+      "Medicine": 88,
+      "Stealth": 63
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 49,
-      "extraversion": 86,
-      "agreeableness": 67,
-      "neuroticism": 92
+      "openness": 78,
+      "conscientiousness": 86,
+      "extraversion": 61,
+      "agreeableness": 69,
+      "neuroticism": 23
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
+      "amount": 100000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

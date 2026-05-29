@@ -1,21 +1,21 @@
 {
   "id": "npc_032",
   "bio": {
-    "full_name": "Lars Vasiliev",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 54,
-    "blood_type": "AB-",
-    "genetic_stability": 0.943,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Sven Kovacs",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 52,
+    "blood_type": "O-",
+    "genetic_stability": 0.896,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 50,
-    "build": "Frail",
+    "height_cm": 190,
+    "weight_kg": 59,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Blonde, Bald",
-      "eyes": "Amber",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Hazel",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Perception": 73,
-      "Stealth": 12,
-      "Athletics": 44
+      "Containment_Logic": 15,
+      "Persuasion": 72,
+      "Stealth": 45
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 115,
     "personality_matrix": {
-      "openness": 56,
-      "conscientiousness": 13,
-      "extraversion": 62,
-      "agreeableness": 9,
-      "neuroticism": 93
+      "openness": 25,
+      "conscientiousness": 48,
+      "extraversion": 98,
+      "agreeableness": 84,
+      "neuroticism": 53
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 0.98
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

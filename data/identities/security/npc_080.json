@@ -1,23 +1,23 @@
 {
   "id": "npc_080",
   "bio": {
-    "full_name": "Paul Jones",
-    "gender": "Female",
+    "full_name": "Christopher Tanaka",
+    "gender": "Agender",
     "orientation": "Heterosexual",
-    "age": 31,
+    "age": 62,
     "blood_type": "B+",
-    "genetic_stability": 0.877,
-    "origin": "Ex-military police recruited after a classified incident"
+    "genetic_stability": 0.953,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 98,
-    "build": "Frail",
+    "height_cm": 189,
+    "weight_kg": 61,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Bald",
-      "eyes": "Deep brown",
+      "hair": "Brown, Bald",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Hacking": 39,
-      "Stealth": 88,
-      "Occult_Research": 32
+      "Athletics": 78,
+      "Perception": 45,
+      "Persuasion": 70
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 147,
+    "iq": 106,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 20,
-      "extraversion": 25,
-      "agreeableness": 80,
-      "neuroticism": 29
+      "openness": 36,
+      "conscientiousness": 91,
+      "extraversion": 74,
+      "agreeableness": 61,
+      "neuroticism": 31
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

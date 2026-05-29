@@ -1,23 +1,23 @@
 {
   "id": "npc_193",
   "bio": {
-    "full_name": "Michael Brown",
+    "full_name": "Maria Bakker",
     "gender": "Female",
     "orientation": "Homosexual",
-    "age": 51,
+    "age": 45,
     "blood_type": "O-",
-    "genetic_stability": 0.95,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.926,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 75,
-    "build": "Slender",
+    "height_cm": 156,
+    "weight_kg": 72,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
-      "eyes": "Amber",
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Nail biter"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Engineering": 73,
-      "Persuasion": 67,
-      "Firearms": 38
+      "Perception": 91,
+      "Engineering": 77,
+      "Medicine": 31
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 142,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 90,
-      "extraversion": 61,
-      "agreeableness": 100,
-      "neuroticism": 87
+      "openness": 93,
+      "conscientiousness": 9,
+      "extraversion": 34,
+      "agreeableness": 32,
+      "neuroticism": 46
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

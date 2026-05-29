@@ -1,23 +1,23 @@
 {
   "id": "npc_071",
   "bio": {
-    "full_name": "Donald Vasiliev",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 52,
-    "blood_type": "A+",
-    "genetic_stability": 0.922,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Michael Davis",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 54,
+    "blood_type": "AB+",
+    "genetic_stability": 0.947,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 92,
-    "build": "Athletic",
+    "height_cm": 163,
+    "weight_kg": 75,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Silver, Messy",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Stealth": 94,
-      "Occult_Research": 37,
-      "Athletics": 14
+      "Firearms": 31,
+      "Athletics": 14,
+      "Medicine": 54
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 39,
-      "conscientiousness": 92,
-      "extraversion": 44,
-      "agreeableness": 1,
-      "neuroticism": 56
+      "openness": 91,
+      "conscientiousness": 37,
+      "extraversion": 54,
+      "agreeableness": 56,
+      "neuroticism": 55
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

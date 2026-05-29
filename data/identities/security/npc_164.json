@@ -1,23 +1,23 @@
 {
   "id": "npc_164",
   "bio": {
-    "full_name": "Maria Vasiliev",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 42,
-    "blood_type": "A+",
-    "genetic_stability": 0.879,
+    "full_name": "William Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 58,
+    "blood_type": "B+",
+    "genetic_stability": 0.888,
     "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 93,
-    "build": "Heavily Muscular",
+    "height_cm": 199,
+    "weight_kg": 62,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Bald",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Engineering": 92,
-      "Occult_Research": 59,
-      "Hacking": 50
+      "Occult_Research": 74,
+      "Athletics": 72,
+      "Medicine": 91
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 52,
-      "conscientiousness": 97,
-      "extraversion": 6,
-      "agreeableness": 51,
-      "neuroticism": 28
+      "openness": 16,
+      "conscientiousness": 49,
+      "extraversion": 96,
+      "agreeableness": 1,
+      "neuroticism": 59
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

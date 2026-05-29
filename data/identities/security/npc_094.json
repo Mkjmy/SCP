@@ -1,23 +1,23 @@
 {
   "id": "npc_094",
   "bio": {
-    "full_name": "William Vasiliev",
-    "gender": "Male",
-    "orientation": "Pansexual",
-    "age": 58,
-    "blood_type": "AB+",
-    "genetic_stability": 0.861,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Joseph Muller",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 55,
+    "blood_type": "B+",
+    "genetic_stability": 0.918,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 165,
+    "height_cm": 156,
     "weight_kg": 70,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Messy",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Occult_Research": 80,
-      "Medicine": 47,
-      "Engineering": 70
+      "Medicine": 95,
+      "Hacking": 13,
+      "Firearms": 13
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 73,
-      "extraversion": 69,
-      "agreeableness": 75,
-      "neuroticism": 75
+      "openness": 99,
+      "conscientiousness": 85,
+      "extraversion": 19,
+      "agreeableness": 95,
+      "neuroticism": 63
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
       "amount": 20000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_182",
   "bio": {
-    "full_name": "Kenji Vasiliev",
-    "gender": "Transgender",
+    "full_name": "Christopher Garcia",
+    "gender": "Non-binary",
     "orientation": "Heterosexual",
-    "age": 37,
-    "blood_type": "O-",
-    "genetic_stability": 0.945,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 46,
+    "blood_type": "B-",
+    "genetic_stability": 0.936,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 50,
-    "build": "Overweight",
+    "height_cm": 165,
+    "weight_kg": 58,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Black, Bald",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 72,
-      "Medicine": 48,
-      "Firearms": 84
+      "Perception": 67,
+      "Firearms": 65,
+      "Hacking": 38
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 119,
+    "iq": 148,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 58,
-      "extraversion": 40,
-      "agreeableness": 18,
-      "neuroticism": 15
+      "openness": 89,
+      "conscientiousness": 38,
+      "extraversion": 63,
+      "agreeableness": 10,
+      "neuroticism": 39
     },
     "phobias": [
       "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

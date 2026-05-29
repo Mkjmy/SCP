@@ -1,23 +1,23 @@
 {
   "id": "npc_110",
   "bio": {
-    "full_name": "Sven Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 57,
-    "blood_type": "O-",
-    "genetic_stability": 0.91,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "John Kovacs",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "B+",
+    "genetic_stability": 0.919,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 92,
-    "build": "Athletic",
+    "height_cm": 163,
+    "weight_kg": 106,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Emerald green",
+      "hair": "Brown, Manicured",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 65,
-      "Persuasion": 66,
-      "Firearms": 45
+      "Firearms": 85,
+      "Medicine": 91,
+      "Persuasion": 89
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 143,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 81,
-      "extraversion": 1,
-      "agreeableness": 4,
-      "neuroticism": 52
+      "openness": 22,
+      "conscientiousness": 72,
+      "extraversion": 40,
+      "agreeableness": 97,
+      "neuroticism": 26
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Arachnophobia (Fear of spiders)"
     ],
     "mental_stability": 0.89
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
       "amount": 20000,
-      "creditor": "Student Loans"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

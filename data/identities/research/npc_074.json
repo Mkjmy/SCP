@@ -1,23 +1,23 @@
 {
   "id": "npc_074",
   "bio": {
-    "full_name": "Charles Smith",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 64,
+    "full_name": "Lars O'Connor",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 44,
     "blood_type": "O-",
-    "genetic_stability": 0.984,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.947,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 63,
+    "height_cm": 191,
+    "weight_kg": 86,
     "build": "Average",
     "physical_features": {
-      "hair": "Brown, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Red, Shoulder-length",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Athletics": 24,
+      "Occult_Research": 64,
       "Perception": 71,
-      "Medicine": 33
+      "Stealth": 17
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 162,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 38,
-      "extraversion": 89,
-      "agreeableness": 29,
-      "neuroticism": 39
+      "openness": 77,
+      "conscientiousness": 18,
+      "extraversion": 30,
+      "agreeableness": 66,
+      "neuroticism": 83
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

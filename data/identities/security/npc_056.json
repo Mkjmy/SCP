@@ -1,23 +1,23 @@
 {
   "id": "npc_056",
   "bio": {
-    "full_name": "Arjun Davis",
+    "full_name": "James Sato",
     "gender": "Female",
     "orientation": "Heterosexual",
-    "age": 35,
-    "blood_type": "B-",
-    "genetic_stability": 0.885,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 32,
+    "blood_type": "O+",
+    "genetic_stability": 0.944,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 67,
-    "build": "Overweight",
+    "height_cm": 197,
+    "weight_kg": 90,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Fade",
+      "hair": "Red, Shoulder-length",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Firearms": 68,
-      "Engineering": 90,
-      "Containment_Logic": 95
+      "Stealth": 38,
+      "Occult_Research": 62,
+      "Firearms": 51
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 143,
     "personality_matrix": {
-      "openness": 11,
-      "conscientiousness": 58,
-      "extraversion": 3,
-      "agreeableness": 33,
-      "neuroticism": 5
+      "openness": 68,
+      "conscientiousness": 20,
+      "extraversion": 63,
+      "agreeableness": 25,
+      "neuroticism": 62
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.52
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

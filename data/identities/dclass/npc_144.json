@@ -1,21 +1,21 @@
 {
   "id": "npc_144",
   "bio": {
-    "full_name": "Paul Miller",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 22,
-    "blood_type": "O-",
-    "genetic_stability": 0.926,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Elena Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 24,
+    "blood_type": "AB-",
+    "genetic_stability": 0.942,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 89,
-    "build": "Slender",
+    "height_cm": 195,
+    "weight_kg": 77,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 23,
-      "Hacking": 27,
-      "Occult_Research": 57
+      "Occult_Research": 62,
+      "Firearms": 79,
+      "Persuasion": 22
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 83,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 20,
-      "extraversion": 98,
-      "agreeableness": 42,
-      "neuroticism": 12
+      "openness": 67,
+      "conscientiousness": 52,
+      "extraversion": 49,
+      "agreeableness": 15,
+      "neuroticism": 27
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

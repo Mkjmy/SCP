@@ -1,21 +1,21 @@
 {
   "id": "npc_101",
   "bio": {
-    "full_name": "William Dubois",
+    "full_name": "Chen Schmidt",
     "gender": "Female",
     "orientation": "Bisexual",
-    "age": 65,
+    "age": 56,
     "blood_type": "AB+",
-    "genetic_stability": 0.958,
+    "genetic_stability": 0.916,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 108,
-    "build": "Slender",
+    "height_cm": 170,
+    "weight_kg": 72,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Emerald green",
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 57,
-      "Perception": 38,
-      "Occult_Research": 49
+      "Firearms": 38,
+      "Occult_Research": 37,
+      "Perception": 23
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 116,
+    "iq": 103,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 80,
-      "extraversion": 28,
-      "agreeableness": 30,
-      "neuroticism": 18
+      "openness": 53,
+      "conscientiousness": 35,
+      "extraversion": 64,
+      "agreeableness": 11,
+      "neuroticism": 22
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.58
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

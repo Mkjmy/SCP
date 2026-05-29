@@ -1,23 +1,23 @@
 {
   "id": "npc_073",
   "bio": {
-    "full_name": "Paul Jones",
+    "full_name": "Donald Schmidt",
     "gender": "Female",
-    "orientation": "Asexual",
-    "age": 45,
-    "blood_type": "AB+",
-    "genetic_stability": 0.985,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Homosexual",
+    "age": 31,
+    "blood_type": "A-",
+    "genetic_stability": 0.859,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 85,
-    "build": "Average",
+    "height_cm": 170,
+    "weight_kg": 72,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Messy",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,25 +27,25 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 12,
-      "Firearms": 92,
-      "Containment_Logic": 52
+      "Occult_Research": 77,
+      "Persuasion": 86,
+      "Medicine": 16
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 140,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 43,
-      "conscientiousness": 38,
-      "extraversion": 5,
-      "agreeableness": 27,
-      "neuroticism": 43
+      "openness": 49,
+      "conscientiousness": 59,
+      "extraversion": 88,
+      "agreeableness": 8,
+      "neuroticism": 45
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
     "family": "Divorced",

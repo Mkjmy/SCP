@@ -1,23 +1,23 @@
 {
   "id": "npc_069",
   "bio": {
-    "full_name": "Mark Brown",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 32,
-    "blood_type": "A-",
-    "genetic_stability": 0.935,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Donald O'Connor",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 34,
+    "blood_type": "B+",
+    "genetic_stability": 0.895,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 65,
-    "build": "Slender",
+    "height_cm": 159,
+    "weight_kg": 98,
+    "build": "Average",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Hazel",
+      "hair": "Red, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 47,
-      "Firearms": 77,
-      "Occult_Research": 73
+      "Stealth": 12,
+      "Containment_Logic": 80,
+      "Engineering": 88
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 83,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 71,
-      "conscientiousness": 92,
-      "extraversion": 1,
-      "agreeableness": 37,
-      "neuroticism": 38
+      "openness": 41,
+      "conscientiousness": 14,
+      "extraversion": 9,
+      "agreeableness": 6,
+      "neuroticism": 39
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

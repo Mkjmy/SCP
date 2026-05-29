@@ -1,21 +1,21 @@
 {
   "id": "npc_178",
   "bio": {
-    "full_name": "Steven O'Connor",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 36,
-    "blood_type": "O-",
-    "genetic_stability": 0.976,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Richard Gupta",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "AB-",
+    "genetic_stability": 0.946,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 74,
-    "build": "Frail",
+    "height_cm": 171,
+    "weight_kg": 80,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
         "Check their watch every 30 seconds"
       ]
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Hacking": 40,
-      "Firearms": 36,
-      "Containment_Logic": 16
+      "Occult_Research": 31,
+      "Perception": 87,
+      "Hacking": 63
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 157,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 62,
-      "conscientiousness": 75,
-      "extraversion": 49,
-      "agreeableness": 85,
-      "neuroticism": 7
+      "openness": 6,
+      "conscientiousness": 72,
+      "extraversion": 29,
+      "agreeableness": 94,
+      "neuroticism": 100
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

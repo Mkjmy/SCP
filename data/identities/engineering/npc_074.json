@@ -1,23 +1,23 @@
 {
   "id": "npc_074",
   "bio": {
-    "full_name": "Mark Johnson",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 32,
-    "blood_type": "A-",
-    "genetic_stability": 0.919,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Maria Wong",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 23,
+    "blood_type": "O-",
+    "genetic_stability": 0.881,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 62,
-    "build": "Lithe",
+    "height_cm": 171,
+    "weight_kg": 56,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Ponytail",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 39,
-      "Stealth": 59,
-      "Occult_Research": 74
+      "Stealth": 78,
+      "Athletics": 88,
+      "Perception": 57
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 124,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 61,
-      "extraversion": 11,
-      "agreeableness": 34,
-      "neuroticism": 75
+      "openness": 74,
+      "conscientiousness": 72,
+      "extraversion": 82,
+      "agreeableness": 5,
+      "neuroticism": 60
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

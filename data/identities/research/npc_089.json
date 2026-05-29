@@ -1,23 +1,23 @@
 {
   "id": "npc_089",
   "bio": {
-    "full_name": "David Brown",
+    "full_name": "Robert Miller",
     "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 28,
-    "blood_type": "O+",
-    "genetic_stability": 0.931,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Bisexual",
+    "age": 26,
+    "blood_type": "AB-",
+    "genetic_stability": 0.933,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 101,
-    "build": "Lithe",
+    "height_cm": 180,
+    "weight_kg": 70,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Firearms": 74,
-      "Athletics": 58,
-      "Containment_Logic": 54
+      "Athletics": 22,
+      "Stealth": 68,
+      "Medicine": 17
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 83,
-      "conscientiousness": 65,
-      "extraversion": 25,
-      "agreeableness": 60,
-      "neuroticism": 20
+      "openness": 2,
+      "conscientiousness": 78,
+      "extraversion": 31,
+      "agreeableness": 66,
+      "neuroticism": 57
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "William Johnson",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 30,
-    "blood_type": "O+",
-    "genetic_stability": 0.98,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Chen Williams",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 40,
+    "blood_type": "B+",
+    "genetic_stability": 0.913,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 84,
-    "build": "Average",
+    "height_cm": 156,
+    "weight_kg": 108,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 86,
-      "Medicine": 63,
-      "Engineering": 67
+      "Athletics": 18,
+      "Hacking": 16,
+      "Persuasion": 69
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 86,
     "personality_matrix": {
-      "openness": 49,
-      "conscientiousness": 97,
-      "extraversion": 23,
-      "agreeableness": 9,
+      "openness": 5,
+      "conscientiousness": 15,
+      "extraversion": 81,
+      "agreeableness": 42,
       "neuroticism": 78
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.48
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

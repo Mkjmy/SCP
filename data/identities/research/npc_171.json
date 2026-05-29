@@ -1,23 +1,23 @@
 {
   "id": "npc_171",
   "bio": {
-    "full_name": "Anthony Schmidt",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 49,
-    "blood_type": "A+",
-    "genetic_stability": 0.875,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Michael O'Connor",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 51,
+    "blood_type": "O-",
+    "genetic_stability": 0.986,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 166,
-    "weight_kg": 86,
-    "build": "Slender",
+    "height_cm": 175,
+    "weight_kg": 101,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Blonde, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Hums classical music"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Engineering": 23,
-      "Perception": 86,
-      "Hacking": 78
+      "Perception": 78,
+      "Medicine": 24,
+      "Persuasion": 36
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 142,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 32,
-      "conscientiousness": 13,
-      "extraversion": 47,
+      "openness": 87,
+      "conscientiousness": 98,
+      "extraversion": 5,
       "agreeableness": 78,
-      "neuroticism": 37
+      "neuroticism": 45
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

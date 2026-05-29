@@ -1,23 +1,23 @@
 {
   "id": "npc_192",
   "bio": {
-    "full_name": "Robert Schmidt",
-    "gender": "Female",
+    "full_name": "Robert Garcia",
+    "gender": "Agender",
     "orientation": "Pansexual",
     "age": 53,
-    "blood_type": "AB+",
-    "genetic_stability": 0.935,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "blood_type": "O-",
+    "genetic_stability": 0.88,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 68,
-    "build": "Slender",
+    "height_cm": 174,
+    "weight_kg": 63,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Red, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "Silver, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Containment_Logic": 66,
-      "Stealth": 43,
-      "Hacking": 32
+      "Firearms": 38,
+      "Stealth": 51,
+      "Containment_Logic": 53
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 161,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 0,
-      "extraversion": 55,
-      "agreeableness": 83,
-      "neuroticism": 24
+      "openness": 41,
+      "conscientiousness": 64,
+      "extraversion": 49,
+      "agreeableness": 82,
+      "neuroticism": 29
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
       "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

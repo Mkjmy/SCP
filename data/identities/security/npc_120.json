@@ -1,60 +1,60 @@
 {
   "id": "npc_120",
   "bio": {
-    "full_name": "Thomas Davis",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 22,
+    "full_name": "Donald Wong",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 62,
     "blood_type": "O+",
-    "genetic_stability": 0.931,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.914,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 104,
-    "build": "Frail",
+    "height_cm": 172,
+    "weight_kg": 56,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Athletics": 38,
-      "Hacking": 53,
-      "Engineering": 52
+      "Medicine": 53,
+      "Occult_Research": 92,
+      "Stealth": 60
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 50,
-      "extraversion": 76,
-      "agreeableness": 93,
-      "neuroticism": 20
+      "openness": 97,
+      "conscientiousness": 42,
+      "extraversion": 77,
+      "agreeableness": 16,
+      "neuroticism": 18
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.66
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

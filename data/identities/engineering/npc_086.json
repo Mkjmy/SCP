@@ -1,60 +1,60 @@
 {
   "id": "npc_086",
   "bio": {
-    "full_name": "Olga Kovacs",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 44,
-    "blood_type": "AB+",
-    "genetic_stability": 0.934,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Andrew Williams",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 59,
+    "blood_type": "B-",
+    "genetic_stability": 0.909,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 89,
-    "build": "Average",
+    "height_cm": 170,
+    "weight_kg": 67,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Grey",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 39,
-      "Hacking": 93,
-      "Athletics": 34
+      "Persuasion": 72,
+      "Containment_Logic": 77,
+      "Occult_Research": 77
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 119,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 55,
-      "extraversion": 82,
-      "agreeableness": 58,
-      "neuroticism": 38
+      "openness": 75,
+      "conscientiousness": 22,
+      "extraversion": 62,
+      "agreeableness": 0,
+      "neuroticism": 4
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

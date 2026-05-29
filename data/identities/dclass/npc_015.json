@@ -1,23 +1,23 @@
 {
   "id": "npc_015",
   "bio": {
-    "full_name": "Lars Tanaka",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 21,
-    "blood_type": "A-",
-    "genetic_stability": 0.906,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Anthony Smith",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "O+",
+    "genetic_stability": 0.885,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 57,
-    "build": "Slender",
+    "height_cm": 155,
+    "weight_kg": 104,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Hazel",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 74,
-      "Hacking": 20,
-      "Perception": 75
+      "Firearms": 63,
+      "Perception": 95,
+      "Engineering": 27
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 90,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 51,
-      "conscientiousness": 86,
-      "extraversion": 68,
-      "agreeableness": 21,
-      "neuroticism": 65
+      "openness": 15,
+      "conscientiousness": 67,
+      "extraversion": 46,
+      "agreeableness": 34,
+      "neuroticism": 94
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

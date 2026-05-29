@@ -1,23 +1,23 @@
 {
   "id": "npc_103",
   "bio": {
-    "full_name": "Elena Wong",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 24,
-    "blood_type": "AB-",
-    "genetic_stability": 0.967,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Mark Sato",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "O+",
+    "genetic_stability": 0.885,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 76,
+    "height_cm": 163,
+    "weight_kg": 84,
     "build": "Average",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Hazel",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 40,
-      "Firearms": 15,
-      "Occult_Research": 82
+      "Persuasion": 25,
+      "Engineering": 93,
+      "Hacking": 57
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 85,
-      "extraversion": 64,
-      "agreeableness": 64,
-      "neuroticism": 82
+      "openness": 46,
+      "conscientiousness": 21,
+      "extraversion": 95,
+      "agreeableness": 92,
+      "neuroticism": 18
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
+      "amount": 5000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

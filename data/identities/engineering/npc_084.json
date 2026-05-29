@@ -1,60 +1,60 @@
 {
   "id": "npc_084",
   "bio": {
-    "full_name": "Donald Bakker",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 40,
-    "blood_type": "B-",
-    "genetic_stability": 0.943,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Olga Dubois",
+    "gender": "Agender",
+    "orientation": "Homosexual",
+    "age": 26,
+    "blood_type": "B+",
+    "genetic_stability": 0.922,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 66,
-    "build": "Average",
+    "height_cm": 172,
+    "weight_kg": 58,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Messy",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Athletics": 80,
-      "Perception": 15,
-      "Hacking": 73
+      "Persuasion": 79,
+      "Perception": 91,
+      "Firearms": 36
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 138,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 69,
-      "extraversion": 26,
-      "agreeableness": 30,
-      "neuroticism": 33
+      "openness": 4,
+      "conscientiousness": 27,
+      "extraversion": 28,
+      "agreeableness": 91,
+      "neuroticism": 34
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

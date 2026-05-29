@@ -1,60 +1,60 @@
 {
   "id": "npc_203",
   "bio": {
-    "full_name": "John O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 25,
+    "full_name": "Joshua Tanaka",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 28,
     "blood_type": "O+",
-    "genetic_stability": 0.987,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.971,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 109,
+    "height_cm": 182,
+    "weight_kg": 83,
     "build": "Frail",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Grey",
+      "hair": "White, Ponytail",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Firearms": 11,
-      "Hacking": 60,
-      "Engineering": 42
+      "Occult_Research": 63,
+      "Firearms": 29,
+      "Hacking": 56
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 80,
-      "conscientiousness": 97,
-      "extraversion": 64,
-      "agreeableness": 74,
-      "neuroticism": 90
+      "openness": 38,
+      "conscientiousness": 47,
+      "extraversion": 61,
+      "agreeableness": 73,
+      "neuroticism": 32
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.95
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

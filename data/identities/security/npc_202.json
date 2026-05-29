@@ -1,23 +1,23 @@
 {
   "id": "npc_202",
   "bio": {
-    "full_name": "Christopher Johnson",
-    "gender": "Transgender",
+    "full_name": "Fatima Brown",
+    "gender": "Non-binary",
     "orientation": "Asexual",
-    "age": 24,
-    "blood_type": "O+",
-    "genetic_stability": 0.908,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 25,
+    "blood_type": "AB-",
+    "genetic_stability": 0.864,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 61,
+    "height_cm": 159,
+    "weight_kg": 110,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Grey, Messy",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 12,
-      "Athletics": 66,
-      "Perception": 12
+      "Hacking": 70,
+      "Persuasion": 81,
+      "Engineering": 78
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 149,
     "personality_matrix": {
-      "openness": 82,
-      "conscientiousness": 64,
-      "extraversion": 58,
-      "agreeableness": 37,
-      "neuroticism": 15
+      "openness": 76,
+      "conscientiousness": 95,
+      "extraversion": 51,
+      "agreeableness": 40,
+      "neuroticism": 81
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

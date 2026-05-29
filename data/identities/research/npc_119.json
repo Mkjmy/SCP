@@ -1,23 +1,23 @@
 {
   "id": "npc_119",
   "bio": {
-    "full_name": "Chen Davis",
-    "gender": "Non-binary",
+    "full_name": "Mark Dubois",
+    "gender": "Female",
     "orientation": "Bisexual",
-    "age": 24,
-    "blood_type": "O+",
-    "genetic_stability": 0.916,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 47,
+    "blood_type": "A+",
+    "genetic_stability": 0.855,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 175,
-    "weight_kg": 74,
-    "build": "Heavily Muscular",
+    "height_cm": 191,
+    "weight_kg": 68,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Pompadour",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 4,
     "skills": {
-      "Stealth": 21,
-      "Hacking": 50,
-      "Perception": 36
+      "Engineering": 10,
+      "Persuasion": 89,
+      "Occult_Research": 18
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 159,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 6,
-      "extraversion": 8,
-      "agreeableness": 73,
-      "neuroticism": 27
+      "openness": 41,
+      "conscientiousness": 88,
+      "extraversion": 18,
+      "agreeableness": 91,
+      "neuroticism": 57
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
     "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

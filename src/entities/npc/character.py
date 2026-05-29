@@ -57,16 +57,56 @@ class Character:
         self.is_focused = False
         self.focus_timer = 0
 
-    def needs_tick(self):
-        """Updates needs for a single turn."""
-        self.needs["hunger"] = min(100, self.needs["hunger"] + 1)
-        self.needs["energy"] = max(0, self.needs["energy"] - 1)
-        self.needs["bladder"] = min(100, self.needs["bladder"] + 2)
+    def needs_tick(self, current_room_tags=None):
+        """Updates needs for a single turn, providing benefits for functional rooms."""
+        tags = current_room_tags or []
         
-        # Mental stability affects stress gain
+        # 1. Recovery Logic (Functional Rooms)
+        if "cafeteria" in tags:
+            self.needs["hunger"] = max(0, self.needs["hunger"] - 20)
+        else:
+            self.needs["hunger"] = min(100, self.needs["hunger"] + 1)
+
+        if "dormitory" in tags or "break_room" in tags:
+            self.needs["energy"] = min(100, self.needs["energy"] + 15)
+        else:
+            self.needs["energy"] = max(0, self.needs["energy"] - 1)
+
+        if "restroom" in tags:
+            self.needs["bladder"] = max(0, self.needs["bladder"] - 40)
+        else:
+            self.needs["bladder"] = min(100, self.needs["bladder"] + 2)
+        
+        if "medibay" in tags:
+            self.health = min(self.max_health, self.health + 10)
+            self.needs["stress"] = max(0, self.needs["stress"] - 5)
+
+        # 2. Stress & Stability
         stability = getattr(self, 'master_identity', {}).get('psychological_profile', {}).get('mental_stability', 0.5)
-        if stability < 0.5:
-            self.needs["stress"] = min(100, self.needs["stress"] + 1)
+        if stability < 0.5 or "hazard" in tags:
+            self.needs["stress"] = min(100, self.needs["stress"] + 2)
+        else:
+            self.needs["stress"] = max(0, self.needs["stress"] - 1)
+
+    def get_effective_attributes(self):
+        """Returns attributes modified by physical/mental state (Butterfly Effect)."""
+        eff = self.attributes.copy()
+        
+        # Hunger Penalty: Famished NPCs are weaker and slower
+        if self.needs["hunger"] > 80:
+            eff['strength'] = max(1, eff['strength'] - 2)
+            eff['dexterity'] = max(1, eff['dexterity'] - 1)
+        
+        # Energy Penalty: Exhausted NPCs lose focus and reaction time
+        if self.needs["energy"] < 20:
+            eff['intelligence'] = max(1, eff['intelligence'] - 2)
+            eff['dexterity'] = max(1, eff['dexterity'] - 2)
+            
+        # Stress Penalty: Panicked NPCs make poor decisions
+        if self.needs["stress"] > 70:
+            eff['intelligence'] = max(1, eff['intelligence'] - 3)
+            
+        return eff
 
     def get_sensation(self):
         """Returns a narrative description of physical/mental state."""

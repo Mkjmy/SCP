@@ -1,23 +1,23 @@
 {
   "id": "npc_171",
   "bio": {
-    "full_name": "Daniel Miller",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 50,
-    "blood_type": "B-",
-    "genetic_stability": 0.955,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Anthony Garcia",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.912,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 79,
-    "build": "Athletic",
+    "height_cm": 187,
+    "weight_kg": 85,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 54,
-      "Athletics": 13,
-      "Medicine": 93
+      "Perception": 89,
+      "Athletics": 48,
+      "Containment_Logic": 69
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 98,
-      "conscientiousness": 28,
-      "extraversion": 44,
-      "agreeableness": 43,
-      "neuroticism": 36
+      "openness": 43,
+      "conscientiousness": 11,
+      "extraversion": 8,
+      "agreeableness": 9,
+      "neuroticism": 26
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

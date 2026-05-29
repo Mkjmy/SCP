@@ -1,23 +1,23 @@
 {
   "id": "npc_123",
   "bio": {
-    "full_name": "Paul Vasiliev",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 38,
-    "blood_type": "B+",
-    "genetic_stability": 0.981,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Kenji Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.968,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 99,
-    "build": "Frail",
+    "height_cm": 198,
+    "weight_kg": 94,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Medicine": 49,
-      "Stealth": 49,
-      "Hacking": 12
+      "Containment_Logic": 50,
+      "Stealth": 60,
+      "Perception": 92
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 18,
-      "extraversion": 82,
-      "agreeableness": 47,
-      "neuroticism": 100
+      "openness": 6,
+      "conscientiousness": 33,
+      "extraversion": 23,
+      "agreeableness": 98,
+      "neuroticism": 1
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.79
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
       "amount": 100000,
-      "creditor": "Local Mob"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_155",
   "bio": {
-    "full_name": "John O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 42,
+    "full_name": "Richard O'Connor",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 35,
     "blood_type": "O-",
-    "genetic_stability": 0.871,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.867,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 91,
-    "build": "Athletic",
+    "height_cm": 173,
+    "weight_kg": 79,
+    "build": "Frail",
     "physical_features": {
-      "hair": "White, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Blonde, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 91,
-      "Athletics": 42,
-      "Medicine": 74
+      "Hacking": 24,
+      "Firearms": 45,
+      "Perception": 84
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 10,
-      "extraversion": 2,
-      "agreeableness": 16,
-      "neuroticism": 91
+      "openness": 3,
+      "conscientiousness": 32,
+      "extraversion": 15,
+      "agreeableness": 51,
+      "neuroticism": 29
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
       "amount": 100000,
-      "creditor": "Student Loans"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

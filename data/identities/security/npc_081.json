@@ -1,60 +1,60 @@
 {
   "id": "npc_081",
   "bio": {
-    "full_name": "Yuki Brown",
+    "full_name": "Mark O'Connor",
     "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 31,
-    "blood_type": "B+",
-    "genetic_stability": 0.85,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Homosexual",
+    "age": 25,
+    "blood_type": "A-",
+    "genetic_stability": 0.925,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 94,
+    "height_cm": 164,
+    "weight_kg": 62,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "Grey, Wild and unkempt",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Firearms": 92,
-      "Occult_Research": 79,
-      "Athletics": 93
+      "Perception": 80,
+      "Athletics": 22,
+      "Hacking": 64
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 104,
     "personality_matrix": {
-      "openness": 34,
-      "conscientiousness": 64,
-      "extraversion": 85,
-      "agreeableness": 56,
-      "neuroticism": 34
+      "openness": 42,
+      "conscientiousness": 62,
+      "extraversion": 54,
+      "agreeableness": 53,
+      "neuroticism": 57
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

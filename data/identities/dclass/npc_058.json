@@ -1,23 +1,23 @@
 {
   "id": "npc_058",
   "bio": {
-    "full_name": "Christopher Tanaka",
-    "gender": "Agender",
+    "full_name": "Mark O'Connor",
+    "gender": "Male",
     "orientation": "Bisexual",
-    "age": 21,
-    "blood_type": "AB+",
-    "genetic_stability": 0.903,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 31,
+    "blood_type": "B+",
+    "genetic_stability": 0.864,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 51,
-    "build": "Overweight",
+    "height_cm": 167,
+    "weight_kg": 50,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "White, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 46,
-      "Stealth": 62,
-      "Occult_Research": 41
+      "Containment_Logic": 88,
+      "Athletics": 47,
+      "Firearms": 53
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 24,
-      "conscientiousness": 61,
-      "extraversion": 69,
-      "agreeableness": 20,
-      "neuroticism": 3
+      "openness": 91,
+      "conscientiousness": 28,
+      "extraversion": 90,
+      "agreeableness": 8,
+      "neuroticism": 54
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means"
+    "hidden_agenda": "Undercover ISD agent",
+    "hidden_affiliation": "None"
   }
 }

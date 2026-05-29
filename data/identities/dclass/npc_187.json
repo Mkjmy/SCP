@@ -1,23 +1,23 @@
 {
   "id": "npc_187",
   "bio": {
-    "full_name": "Joseph Muller",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 41,
-    "blood_type": "B+",
-    "genetic_stability": 0.924,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "William Dubois",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 44,
+    "blood_type": "B-",
+    "genetic_stability": 0.915,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 68,
-    "build": "Heavily Muscular",
+    "height_cm": 193,
+    "weight_kg": 101,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "White, Wild and unkempt",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Nail biter"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,25 +27,25 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 52,
-      "Perception": 35,
-      "Engineering": 73
+      "Medicine": 66,
+      "Hacking": 60,
+      "Firearms": 48
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 80,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 70,
-      "extraversion": 74,
-      "agreeableness": 85,
-      "neuroticism": 1
+      "openness": 16,
+      "conscientiousness": 51,
+      "extraversion": 83,
+      "agreeableness": 13,
+      "neuroticism": 93
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
     "family": "Married, no children",
@@ -54,7 +54,7 @@
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

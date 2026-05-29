@@ -1,23 +1,23 @@
 {
   "id": "npc_100",
   "bio": {
-    "full_name": "Joshua Bakker",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 41,
-    "blood_type": "O+",
-    "genetic_stability": 0.877,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Christopher Miller",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "A+",
+    "genetic_stability": 0.936,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 50,
-    "build": "Slender",
+    "height_cm": 162,
+    "weight_kg": 63,
+    "build": "Average",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Silver, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Containment_Logic": 83,
-      "Engineering": 34,
-      "Firearms": 41
+      "Occult_Research": 43,
+      "Engineering": 56,
+      "Firearms": 11
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 31,
-      "conscientiousness": 17,
-      "extraversion": 64,
-      "agreeableness": 54,
-      "neuroticism": 38
+      "openness": 15,
+      "conscientiousness": 3,
+      "extraversion": 10,
+      "agreeableness": 47,
+      "neuroticism": 94
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.63
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

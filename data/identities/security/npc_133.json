@@ -1,23 +1,23 @@
 {
   "id": "npc_133",
   "bio": {
-    "full_name": "Christopher Muller",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 58,
-    "blood_type": "A+",
-    "genetic_stability": 0.911,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Thomas Jones",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 50,
+    "blood_type": "B+",
+    "genetic_stability": 0.92,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 101,
+    "height_cm": 177,
+    "weight_kg": 108,
     "build": "Frail",
     "physical_features": {
-      "hair": "Black, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "White, Pixie cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 22,
-      "Engineering": 66,
-      "Medicine": 26
+      "Persuasion": 43,
+      "Medicine": 20,
+      "Occult_Research": 36
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 84,
-      "conscientiousness": 47,
-      "extraversion": 94,
-      "agreeableness": 98,
-      "neuroticism": 13
+      "openness": 36,
+      "conscientiousness": 30,
+      "extraversion": 45,
+      "agreeableness": 74,
+      "neuroticism": 45
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

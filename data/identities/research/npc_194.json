@@ -1,0 +1,60 @@
+{
+  "id": "npc_194",
+  "bio": {
+    "full_name": "Fatima Schmidt",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 26,
+    "blood_type": "A+",
+    "genetic_stability": 0.859,
+    "origin": "Brilliant mathematician with a history of mental instability"
+  },
+  "appearance": {
+    "height_cm": 190,
+    "weight_kg": 66,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "Brown, Shoulder-length",
+      "eyes": "Grey",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Containment_Logic": 38,
+      "Engineering": 34,
+      "Occult_Research": 59
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 100,
+      "conscientiousness": 83,
+      "extraversion": 96,
+      "agreeableness": 68,
+      "neuroticism": 85
+    },
+    "phobias": [
+      "Achluophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.89
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

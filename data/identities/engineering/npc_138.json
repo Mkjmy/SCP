@@ -1,23 +1,23 @@
 {
   "id": "npc_138",
   "bio": {
-    "full_name": "Chen Sato",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 57,
-    "blood_type": "AB-",
-    "genetic_stability": 0.861,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Donald Garcia",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 46,
+    "blood_type": "A-",
+    "genetic_stability": 0.931,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 51,
-    "build": "Frail",
+    "height_cm": 178,
+    "weight_kg": 52,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Silver, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 82,
-      "Persuasion": 22,
-      "Medicine": 46
+      "Persuasion": 74,
+      "Occult_Research": 67,
+      "Stealth": 72
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 69,
-      "extraversion": 55,
-      "agreeableness": 45,
-      "neuroticism": 42
+      "openness": 51,
+      "conscientiousness": 35,
+      "extraversion": 12,
+      "agreeableness": 83,
+      "neuroticism": 18
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

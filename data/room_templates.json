@@ -1,202 +1,210 @@
 [
   {
     "id": "cell",
-    "name": "D-Class Dormitory",
-    "description": "A large, sterile dormitory shared by eight D-Class personnel. Rows of metallic bunk beds are bolted to the floor. The air is thick with the smell of sweat and recycled oxygen. A heavy, reinforced door with a high-clearance keypad is the only way out.",
+    "name": "Class-D Living Quarters",
+    "description": "A hyper-modern, clinical dormitory. The walls are composed of seamless white polymer, glowing faintly from recessed LED strips along the ceiling. Eight sleek, integrated bunks are built directly into the structure. The air is filtered to a perfect, scentless chill. A smooth, touch-sensitive blast door is the only exit.",
     "exits": ["north"],
-    "tags": ["start", "end"],
+    "tags": ["start", "end", "dormitory"],
     "details": {
-      "bunk_beds": {
-        "description": "Spartan bunk beds with thin, gray mattresses. Most are occupied by huddled figures."
+      "integrated_bunks": {
+        "description": "Ergonomic sleeping pods with antimicrobial white linens. They look more like laboratory equipment than beds."
       },
-      "security_keypad": {
-        "description": "A modern biometric and card-based keypad. It glows with a forbidding red light. Level 3 clearance required."
+      "blast_door": {
+        "description": "A seamless slab of reinforced composite. No handle is visible, only a sleek glass interface glowing with a Level 3 security lock."
       }
     }
   },
   {
     "id": "dead_end_s",
-    "name": "Storage Nook",
-    "description": "A small dead end with some empty crates.",
+    "name": "Automated Storage Hub",
+    "description": "A pristine white room where robotic arms handle sterile crates behind glass partitions.",
     "exits": ["south"],
     "tags": ["end"],
     "details": {}
   },
   {
     "id": "dead_end_e",
-    "name": "Utility Closet",
-    "description": "A cramped closet containing cleaning supplies.",
+    "name": "Sanitation Bay",
+    "description": "A brightly lit closet containing high-efficiency chemical scrubbers and automated cleaning drones.",
     "exits": ["east"],
     "tags": ["end"],
     "details": {}
   },
   {
     "id": "dead_end_w",
-    "name": "Observation Deck",
-    "description": "A small platform overlooking a dark maintenance shaft.",
+    "name": "Observation Mezzanine",
+    "description": "A sleek platform with a panoramic smart-glass window overlooking the lower maintenance conduits.",
     "exits": ["west"],
     "tags": ["end"],
     "details": {}
   },
   {
     "id": "hallway_ns",
-    "name": "Sterile Hallway",
-    "description": "A long, sterile hallway stretching to the north and south.",
+    "name": "Main Transit Corridor",
+    "description": "A long, curved hallway with blindingly white floors and walls. Holographic signs point toward different sectors.",
     "exits": ["north", "south"],
     "tags": ["hallway"],
     "details": {}
   },
   {
     "id": "hallway_ew",
-    "name": "Sterile Hallway",
-    "description": "A long, sterile hallway stretching to the east and west.",
+    "name": "Main Transit Corridor",
+    "description": "A perfectly sterile hallway stretching east and west. The lighting is so bright it leaves no shadows.",
     "exits": ["east", "west"],
     "tags": ["hallway"],
     "details": {}
   },
   {
     "id": "corner_ne",
-    "name": "Hallway Corner",
-    "description": "The hallway turns here, leading north and east.",
+    "name": "Sector Junction",
+    "description": "A sleek corner where the white walls curve seamlessly to the north and east.",
     "exits": ["north", "east"],
     "tags": ["corner"],
     "details": {}
   },
   {
     "id": "corner_nw",
-    "name": "Hallway Corner",
-    "description": "The hallway turns here, leading north and west.",
+    "name": "Sector Junction",
+    "description": "A pristine corner where the white walls curve to the north and west.",
     "exits": ["north", "west"],
     "tags": ["corner"],
     "details": {}
   },
   {
     "id": "corner_se",
-    "name": "Hallway Corner",
-    "description": "The hallway turns here, leading south and east.",
+    "name": "Sector Junction",
+    "description": "The hallway turns sharply here. Every surface is polished to a mirror-like sheen.",
     "exits": ["south", "east"],
     "tags": ["corner"],
     "details": {}
   },
   {
     "id": "corner_sw",
-    "name": "Hallway Corner",
-    "description": "The hallway turns here, leading south and west.",
+    "name": "Sector Junction",
+    "description": "A curved intersection under the constant hum of high-tech ventilation.",
     "exits": ["south", "west"],
     "tags": ["corner"],
     "details": {}
   },
   {
     "id": "t_junction_n",
-    "name": "T-Junction",
-    "description": "A three-way junction leading north, east, and west.",
+    "name": "Sector Cross-Link",
+    "description": "A three-way transit point leading north, east, and west through the clinical white labyrinth.",
     "exits": ["north", "east", "west"],
     "tags": ["junction"],
     "details": {}
   },
   {
     "id": "t_junction_s",
-    "name": "T-Junction",
-    "description": "A three-way junction leading south, east, and west.",
+    "name": "Sector Cross-Link",
+    "description": "An automated junction where corridors diverge. The ceiling is lined with 360-degree security cameras.",
     "exits": ["south", "east", "west"],
     "tags": ["junction"],
     "details": {}
   },
   {
     "id": "t_junction_e",
-    "name": "T-Junction",
-    "description": "A three-way junction leading north, south, and east.",
+    "name": "Sector Cross-Link",
+    "description": "A sterile T-junction where the white polymer walls intersect seamlessly.",
     "exits": ["north", "south", "east"],
     "tags": ["junction"],
     "details": {}
   },
   {
     "id": "t_junction_w",
-    "name": "T-Junction",
-    "description": "A three-way junction leading north, south, and west.",
+    "name": "Sector Cross-Link",
+    "description": "A transit node leading through the heart of the modern facility.",
     "exits": ["north", "south", "west"],
     "tags": ["junction"],
     "details": {}
   },
   {
     "id": "crossroads",
-    "name": "Main Intersection",
-    "description": "A major crossroads with hallways leading in all four directions.",
+    "name": "Central Hub",
+    "description": "A massive, circular intersection. The floor is made of reinforced smart-glass, showing the core's blueprints beneath your feet.",
     "exits": ["north", "south", "east", "west"],
     "tags": ["junction"],
     "details": {}
   },
   {
     "id": "security_station",
-    "name": "Security Checkpoint",
-    "description": "A fortified checkpoint with reinforced glass and a monitoring station. A Level 2 keycard is sitting on the desk.",
+    "name": "Security Screening Point",
+    "description": "A high-tech checkpoint with scanning archways and biometric sensors. A transparent Level 2 Keycard is on the console.",
     "exits": ["north", "south"],
     "tags": ["security", "junction"],
     "details": {
-      "desk": {
-        "description": "A heavy metal desk with several monitors showing static."
+      "biometric_console": {
+        "description": "A sleek, glowing terminal used for scanning personnel."
       }
     },
     "items": ["keycard_l2"]
   },
   {
     "id": "hallway_ns_alt",
-    "name": "Dimly Lit Hallway",
-    "description": "The lights flicker overhead in this long, north-south hallway. Scrape marks are visible on the floor.",
+    "name": "Observation Corridor",
+    "description": "A hallway with one side made entirely of reinforced glass, providing a view of the containment pits.",
     "exits": ["north", "south"],
     "tags": ["hallway"],
     "details": {}
   },
   {
     "id": "control_room_small",
-    "name": "Sub-Control Room",
-    "description": "A cramped room filled with server racks and diagnostic terminals.",
+    "name": "Local Logic Core",
+    "description": "A room filled with humming supercomputer racks and holographic diagnostic screens.",
     "exits": ["east"],
-    "tags": ["end", "security"],
+    "tags": ["end", "security", "office"],
     "details": {}
   },
   {
     "id": "containment_lobby",
-    "name": "Containment Suite Lobby",
-    "description": "A small, sterile entrance area leading to a specific containment unit. A heavy blast door is to the north, and a reinforced glass window looks into a room to the east.",
+    "name": "Anomaly Entrance Suite",
+    "description": "A stark white transition area. Automated decontamination sprayers are mounted on the ceiling.",
     "exits": ["south", "north", "east"],
     "tags": ["suite", "junction"],
     "details": {}
   },
   {
     "id": "containment_observation",
-    "name": "Observation Room",
-    "description": "A room filled with monitoring equipment and recording devices. A large pane of ballistic glass provides a view of the containment chamber.",
+    "name": "Research Observation Pod",
+    "description": "A clinical room overlooking a containment unit. Holographic telemetry data floats in the air.",
     "exits": ["west"],
-    "tags": ["suite", "security", "end"],
+    "tags": ["suite", "security", "end", "office"],
     "details": {
-      "monitors": {
-        "description": "Dozens of screens showing various telemetry and a live video feed of the chamber."
+      "holographic_data": {
+        "description": "Live graphs and reality-stability metrics pulsing in soft blue light."
       }
     }
   },
   {
     "id": "containment_chamber",
-    "name": "Containment Chamber",
-    "description": "A heavily reinforced chamber designed to hold anomalous entities. The walls are lined with specialized alloys.",
+    "name": "Containment Unit",
+    "description": "A high-security chamber. The walls are a mirror-finish alloy capable of withstanding extreme reality-warping events.",
     "exits": ["south"],
     "tags": ["suite", "chamber", "end"],
     "details": {}
   },
   {
     "id": "room_office",
-    "name": "Vacant Office",
-    "description": "A small, tidy office. A single desk sits in the corner. The computer terminal is dark.",
+    "name": "Researcher Station",
+    "description": "A tidy, high-tech workspace. A sleek, paperless desk sits in the corner under a bright spotlight.",
     "exits": ["south"],
-    "tags": ["end"],
+    "tags": ["end", "office"],
     "details": {
-      "desk": {
-        "description": "A standard office desk. The drawers are empty."
+      "smart_desk": {
+        "description": "An interactive surface currently displaying a screensaver of the Foundation logo."
       },
       "terminal": {
-        "description": "The computer terminal is offline. A sticky note on the monitor has 'skill_basic_lockpicking' written on it.",
+        "description": "An advanced computing terminal. A digital sticky note is visible in the corner of the display.",
         "learns_knowledge": "skill_basic_lockpicking"
       }
     }
+  },
+  {
+    "id": "cafeteria",
+    "name": "Personnel Nutrition Center",
+    "description": "A massive, white hall where automated dispensers serve synthetic meals to rows of clean, white tables.",
+    "exits": ["south", "east"],
+    "tags": ["end", "cafeteria"],
+    "details": {}
   }
 ]

@@ -1,23 +1,23 @@
 {
   "id": "npc_099",
   "bio": {
-    "full_name": "Olga Miller",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 43,
-    "blood_type": "B+",
-    "genetic_stability": 0.883,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Matthew Garcia",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "A-",
+    "genetic_stability": 0.864,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 63,
-    "build": "Heavily Muscular",
+    "height_cm": 171,
+    "weight_kg": 58,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Bald",
+      "hair": "Blonde, Messy",
       "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 29,
-      "Stealth": 82,
-      "Firearms": 58
+      "Stealth": 57,
+      "Perception": 50,
+      "Athletics": 88
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 29,
-      "extraversion": 51,
-      "agreeableness": 91,
-      "neuroticism": 36
+      "openness": 22,
+      "conscientiousness": 6,
+      "extraversion": 43,
+      "agreeableness": 0,
+      "neuroticism": 45
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.92
+    "mental_stability": 0.69
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "None"
   }
 }

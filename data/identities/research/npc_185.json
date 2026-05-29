@@ -1,0 +1,60 @@
+{
+  "id": "npc_185",
+  "bio": {
+    "full_name": "Robert Gupta",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 63,
+    "blood_type": "O+",
+    "genetic_stability": 0.984,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 84,
+    "build": "Frail",
+    "physical_features": {
+      "hair": "White, Pompadour",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Twirls a pen between fingers"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 35,
+      "Athletics": 86,
+      "Firearms": 55
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 164,
+    "personality_matrix": {
+      "openness": 12,
+      "conscientiousness": 4,
+      "extraversion": 56,
+      "agreeableness": 51,
+      "neuroticism": 25
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.47
+  },
+  "social_and_secrets": {
+    "family": "Divorced",
+    "debts": {
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_affiliation": "None"
+  }
+}

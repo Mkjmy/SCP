@@ -1,60 +1,60 @@
 {
   "id": "npc_145",
   "bio": {
-    "full_name": "Chen Jones",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 29,
-    "blood_type": "AB-",
-    "genetic_stability": 0.919,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Olga Williams",
+    "gender": "Transgender",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "B-",
+    "genetic_stability": 0.853,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 76,
-    "build": "Average",
+    "height_cm": 189,
+    "weight_kg": 91,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Bald",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Firearms": 80,
-      "Athletics": 25,
-      "Containment_Logic": 46
+      "Medicine": 11,
+      "Perception": 93,
+      "Stealth": 50
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 107,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 49,
-      "extraversion": 80,
-      "agreeableness": 97,
+      "openness": 100,
+      "conscientiousness": 37,
+      "extraversion": 62,
+      "agreeableness": 43,
       "neuroticism": 52
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.45
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_029",
   "bio": {
-    "full_name": "Thomas Dubois",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 39,
-    "blood_type": "AB+",
-    "genetic_stability": 0.958,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Joseph O'Connor",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.928,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 160,
-    "weight_kg": 99,
-    "build": "Lithe",
+    "height_cm": 199,
+    "weight_kg": 106,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Emerald green",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Athletics": 46,
-      "Occult_Research": 62,
-      "Perception": 16
+      "Engineering": 47,
+      "Stealth": 37,
+      "Persuasion": 59
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 89,
     "personality_matrix": {
-      "openness": 93,
-      "conscientiousness": 90,
-      "extraversion": 27,
-      "agreeableness": 72,
-      "neuroticism": 47
+      "openness": 11,
+      "conscientiousness": 66,
+      "extraversion": 11,
+      "agreeableness": 37,
+      "neuroticism": 86
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.64
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

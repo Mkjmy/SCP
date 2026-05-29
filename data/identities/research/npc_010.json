@@ -1,23 +1,23 @@
 {
   "id": "npc_010",
   "bio": {
-    "full_name": "Lars Bakker",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 26,
-    "blood_type": "A+",
-    "genetic_stability": 0.938,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Kenji Wong",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.928,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 53,
-    "build": "Overweight",
+    "height_cm": 192,
+    "weight_kg": 102,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Ponytail",
+      "hair": "Silver, Manicured",
       "eyes": "Sharp blue",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 87,
-      "Stealth": 26,
-      "Medicine": 87
+      "Athletics": 33,
+      "Medicine": 42,
+      "Containment_Logic": 76
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
     "iq": 148,
     "personality_matrix": {
-      "openness": 13,
-      "conscientiousness": 28,
-      "extraversion": 19,
-      "agreeableness": 58,
-      "neuroticism": 83
+      "openness": 18,
+      "conscientiousness": 83,
+      "extraversion": 7,
+      "agreeableness": 73,
+      "neuroticism": 28
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

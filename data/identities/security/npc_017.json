@@ -1,23 +1,23 @@
 {
   "id": "npc_017",
   "bio": {
-    "full_name": "Maria Dubois",
-    "gender": "Non-binary",
+    "full_name": "Charles Wong",
+    "gender": "Agender",
     "orientation": "Bisexual",
-    "age": 52,
-    "blood_type": "AB-",
-    "genetic_stability": 0.883,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 53,
+    "blood_type": "O+",
+    "genetic_stability": 0.876,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 74,
-    "build": "Lithe",
+    "height_cm": 189,
+    "weight_kg": 53,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Blonde, Ponytail",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Hacking": 67,
       "Medicine": 37,
-      "Athletics": 56
+      "Stealth": 73,
+      "Hacking": 27
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 112,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 68,
-      "extraversion": 74,
-      "agreeableness": 85,
-      "neuroticism": 27
+      "openness": 82,
+      "conscientiousness": 44,
+      "extraversion": 46,
+      "agreeableness": 54,
+      "neuroticism": 2
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.73
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

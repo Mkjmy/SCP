@@ -1,23 +1,23 @@
 {
   "id": "npc_106",
   "bio": {
-    "full_name": "Joshua Johnson",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 23,
-    "blood_type": "O+",
-    "genetic_stability": 0.939,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Fatima Schmidt",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 61,
+    "blood_type": "B+",
+    "genetic_stability": 0.909,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 57,
-    "build": "Frail",
+    "height_cm": 180,
+    "weight_kg": 107,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Blonde, Messy",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 39,
-      "Engineering": 69,
-      "Persuasion": 75
+      "Firearms": 50,
+      "Containment_Logic": 55,
+      "Medicine": 29
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 14,
-      "conscientiousness": 57,
-      "extraversion": 5,
-      "agreeableness": 44,
-      "neuroticism": 66
+      "openness": 24,
+      "conscientiousness": 89,
+      "extraversion": 29,
+      "agreeableness": 71,
+      "neuroticism": 58
     },
     "phobias": [
       "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

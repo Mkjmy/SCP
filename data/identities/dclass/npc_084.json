@@ -1,23 +1,23 @@
 {
   "id": "npc_084",
   "bio": {
-    "full_name": "Chen Bakker",
-    "gender": "Agender",
+    "full_name": "Joseph Muller",
+    "gender": "Male",
     "orientation": "Bisexual",
-    "age": 25,
-    "blood_type": "B+",
-    "genetic_stability": 0.984,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.907,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 68,
-    "build": "Average",
+    "height_cm": 199,
+    "weight_kg": 62,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Grey, Manicured",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 56,
-      "Containment_Logic": 66,
-      "Athletics": 11
+      "Occult_Research": 81,
+      "Persuasion": 55,
+      "Athletics": 60
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 87,
+    "iq": 85,
     "personality_matrix": {
-      "openness": 90,
-      "conscientiousness": 87,
-      "extraversion": 18,
-      "agreeableness": 14,
-      "neuroticism": 87
+      "openness": 12,
+      "conscientiousness": 57,
+      "extraversion": 65,
+      "agreeableness": 39,
+      "neuroticism": 29
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
       "amount": 0,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

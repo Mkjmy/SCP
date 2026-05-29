@@ -1,23 +1,23 @@
 {
   "id": "npc_092",
   "bio": {
-    "full_name": "Elena O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 30,
-    "blood_type": "A+",
-    "genetic_stability": 0.952,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Andrew Schmidt",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.967,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 176,
-    "weight_kg": 102,
-    "build": "Athletic",
+    "height_cm": 175,
+    "weight_kg": 91,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Amber",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 19,
-      "Medicine": 28,
-      "Perception": 87
+      "Containment_Logic": 54,
+      "Persuasion": 21,
+      "Stealth": 77
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 83,
     "personality_matrix": {
-      "openness": 76,
-      "conscientiousness": 86,
-      "extraversion": 2,
-      "agreeableness": 25,
-      "neuroticism": 45
+      "openness": 43,
+      "conscientiousness": 80,
+      "extraversion": 80,
+      "agreeableness": 8,
+      "neuroticism": 29
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.78
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

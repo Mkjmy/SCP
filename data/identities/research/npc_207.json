@@ -1,23 +1,23 @@
 {
   "id": "npc_207",
   "bio": {
-    "full_name": "Sven Tanaka",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 30,
-    "blood_type": "B-",
-    "genetic_stability": 0.953,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Yuki Johnson",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 45,
+    "blood_type": "AB-",
+    "genetic_stability": 0.95,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 70,
-    "build": "Athletic",
+    "height_cm": 191,
+    "weight_kg": 58,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Grey",
+      "hair": "White, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Stealth": 77,
-      "Perception": 61,
-      "Medicine": 89
+      "Occult_Research": 63,
+      "Hacking": 46,
+      "Perception": 94
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 165,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 60,
-      "extraversion": 60,
-      "agreeableness": 35,
-      "neuroticism": 19
+      "openness": 55,
+      "conscientiousness": 90,
+      "extraversion": 58,
+      "agreeableness": 48,
+      "neuroticism": 93
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

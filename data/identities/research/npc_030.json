@@ -1,21 +1,21 @@
 {
   "id": "npc_030",
   "bio": {
-    "full_name": "Daniel Johnson",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 28,
-    "blood_type": "AB-",
-    "genetic_stability": 0.896,
+    "full_name": "Yuki Jones",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 56,
+    "blood_type": "B-",
+    "genetic_stability": 0.983,
     "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 100,
-    "build": "Lithe",
+    "height_cm": 185,
+    "weight_kg": 97,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Messy",
-      "eyes": "Amber",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Stealth": 64,
-      "Occult_Research": 59,
-      "Containment_Logic": 30
+      "Stealth": 35,
+      "Containment_Logic": 57,
+      "Medicine": 47
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 94,
-      "extraversion": 22,
-      "agreeableness": 13,
-      "neuroticism": 69
+      "openness": 14,
+      "conscientiousness": 74,
+      "extraversion": 78,
+      "agreeableness": 54,
+      "neuroticism": 18
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

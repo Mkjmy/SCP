@@ -1,21 +1,21 @@
 {
   "id": "npc_134",
   "bio": {
-    "full_name": "Steven Vasiliev",
+    "full_name": "Robert Dubois",
     "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 62,
-    "blood_type": "B-",
-    "genetic_stability": 0.946,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "O-",
+    "genetic_stability": 0.882,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 62,
-    "build": "Heavily Muscular",
+    "height_cm": 179,
+    "weight_kg": 57,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Brown, Fade",
+      "eyes": "Hazel",
       "notable_marks": [
         "Talks to self in whispers"
       ]
@@ -27,30 +27,30 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 46,
-      "Stealth": 37,
-      "Hacking": 86
+      "Engineering": 44,
+      "Firearms": 63,
+      "Stealth": 53
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 19,
-      "extraversion": 87,
-      "agreeableness": 88,
-      "neuroticism": 100
+      "openness": 25,
+      "conscientiousness": 92,
+      "extraversion": 37,
+      "agreeableness": 98,
+      "neuroticism": 63
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
+      "amount": 0,
       "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",

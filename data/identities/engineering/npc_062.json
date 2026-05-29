@@ -1,60 +1,60 @@
 {
   "id": "npc_062",
   "bio": {
-    "full_name": "Maria Muller",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 45,
-    "blood_type": "O+",
-    "genetic_stability": 0.92,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Lars Vasiliev",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "AB-",
+    "genetic_stability": 0.94,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 56,
-    "build": "Slender",
+    "height_cm": 190,
+    "weight_kg": 96,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Manicured",
-      "eyes": "Sharp blue",
+      "hair": "Silver, Manicured",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 25,
-      "Athletics": 31,
-      "Hacking": 79
+      "Athletics": 58,
+      "Occult_Research": 42,
+      "Stealth": 28
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 45,
-      "extraversion": 44,
-      "agreeableness": 60,
-      "neuroticism": 35
+      "openness": 68,
+      "conscientiousness": 17,
+      "extraversion": 43,
+      "agreeableness": 49,
+      "neuroticism": 31
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.41
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

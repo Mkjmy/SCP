@@ -1,60 +1,60 @@
 {
   "id": "npc_184",
   "bio": {
-    "full_name": "Chen Brown",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 48,
-    "blood_type": "B-",
-    "genetic_stability": 0.857,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "William Wong",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 41,
+    "blood_type": "A-",
+    "genetic_stability": 0.908,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 81,
-    "build": "Heavily Muscular",
+    "height_cm": 166,
+    "weight_kg": 101,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Wild and unkempt",
-      "eyes": "Deep brown",
+      "hair": "Grey, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 28,
-      "Medicine": 57,
-      "Occult_Research": 94
+      "Medicine": 32,
+      "Firearms": 95,
+      "Hacking": 16
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 85,
-      "conscientiousness": 74,
-      "extraversion": 58,
-      "agreeableness": 87,
-      "neuroticism": 0
+      "openness": 18,
+      "conscientiousness": 91,
+      "extraversion": 90,
+      "agreeableness": 51,
+      "neuroticism": 22
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.5
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
+      "amount": 100000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

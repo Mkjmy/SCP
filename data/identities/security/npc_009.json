@@ -1,23 +1,23 @@
 {
   "id": "npc_009",
   "bio": {
-    "full_name": "Paul Davis",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 35,
-    "blood_type": "B-",
-    "genetic_stability": 0.888,
+    "full_name": "Yuki Smith",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.985,
     "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 92,
-    "build": "Lithe",
+    "height_cm": 198,
+    "weight_kg": 74,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Firearms": 40,
-      "Medicine": 44,
-      "Persuasion": 32
+      "Perception": 78,
+      "Medicine": 54,
+      "Firearms": 71
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 93,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 67,
-      "conscientiousness": 61,
-      "extraversion": 27,
-      "agreeableness": 6,
-      "neuroticism": 49
+      "openness": 97,
+      "conscientiousness": 24,
+      "extraversion": 28,
+      "agreeableness": 72,
+      "neuroticism": 34
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

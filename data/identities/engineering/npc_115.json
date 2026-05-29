@@ -1,60 +1,60 @@
 {
   "id": "npc_115",
   "bio": {
-    "full_name": "Arjun O'Connor",
+    "full_name": "Sven O'Connor",
     "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 27,
-    "blood_type": "AB+",
-    "genetic_stability": 0.956,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "orientation": "Asexual",
+    "age": 35,
+    "blood_type": "O-",
+    "genetic_stability": 0.926,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 66,
-    "build": "Stocky",
+    "height_cm": 168,
+    "weight_kg": 89,
+    "build": "Average",
     "physical_features": {
-      "hair": "Black, Buzz cut",
-      "eyes": "Hazel",
+      "hair": "White, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 91,
-      "Engineering": 52,
-      "Firearms": 19
+      "Hacking": 58,
+      "Firearms": 60,
+      "Persuasion": 41
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 128,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 42,
-      "extraversion": 62,
-      "agreeableness": 23,
-      "neuroticism": 34
+      "openness": 47,
+      "conscientiousness": 94,
+      "extraversion": 42,
+      "agreeableness": 73,
+      "neuroticism": 33
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_087",
   "bio": {
-    "full_name": "Robert Bakker",
+    "full_name": "Olga Smith",
     "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 30,
-    "blood_type": "O+",
-    "genetic_stability": 0.942,
-    "origin": "Rescued from a defunct GOI cell"
+    "orientation": "Heterosexual",
+    "age": 25,
+    "blood_type": "A+",
+    "genetic_stability": 0.93,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 163,
-    "weight_kg": 102,
-    "build": "Average",
+    "height_cm": 166,
+    "weight_kg": 68,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Grey, Ponytail",
-      "eyes": "Emerald green",
+      "hair": "Silver, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Nail biter"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 42,
-      "Engineering": 62,
-      "Occult_Research": 51
+      "Engineering": 13,
+      "Firearms": 18,
+      "Containment_Logic": 12
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 98,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 76,
-      "extraversion": 96,
-      "agreeableness": 61,
-      "neuroticism": 98
+      "openness": 67,
+      "conscientiousness": 47,
+      "extraversion": 80,
+      "agreeableness": 76,
+      "neuroticism": 87
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Obsessed with reaching Site-01",

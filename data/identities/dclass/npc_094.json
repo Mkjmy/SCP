@@ -1,23 +1,23 @@
 {
   "id": "npc_094",
   "bio": {
-    "full_name": "Andrew Bakker",
-    "gender": "Transgender",
-    "orientation": "Homosexual",
-    "age": 45,
-    "blood_type": "O+",
-    "genetic_stability": 0.907,
+    "full_name": "Maria Garcia",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 38,
+    "blood_type": "O-",
+    "genetic_stability": 0.927,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 50,
-    "build": "Average",
+    "height_cm": 170,
+    "weight_kg": 78,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Bald",
-      "eyes": "Hazel",
+      "hair": "Brown, Messy",
+      "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 17,
-      "Occult_Research": 62,
-      "Persuasion": 53
+      "Firearms": 86,
+      "Hacking": 77,
+      "Persuasion": 55
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 111,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 64,
-      "extraversion": 70,
-      "agreeableness": 27,
-      "neuroticism": 47
+      "openness": 98,
+      "conscientiousness": 1,
+      "extraversion": 40,
+      "agreeableness": 30,
+      "neuroticism": 1
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

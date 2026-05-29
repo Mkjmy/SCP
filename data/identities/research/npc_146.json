@@ -1,23 +1,23 @@
 {
   "id": "npc_146",
   "bio": {
-    "full_name": "Elena Garcia",
+    "full_name": "Paul Miller",
     "gender": "Female",
     "orientation": "Pansexual",
-    "age": 54,
+    "age": 32,
     "blood_type": "A+",
-    "genetic_stability": 0.93,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.97,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 97,
-    "build": "Heavily Muscular",
+    "height_cm": 159,
+    "weight_kg": 57,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Sharp blue",
+      "hair": "Black, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 78,
-      "Stealth": 39,
-      "Containment_Logic": 63
+      "Medicine": 50,
+      "Stealth": 22,
+      "Occult_Research": 68
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 129,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 87,
-      "conscientiousness": 69,
-      "extraversion": 61,
-      "agreeableness": 59,
-      "neuroticism": 21
+      "openness": 18,
+      "conscientiousness": 98,
+      "extraversion": 43,
+      "agreeableness": 39,
+      "neuroticism": 96
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 100000,
+      "amount": 20000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

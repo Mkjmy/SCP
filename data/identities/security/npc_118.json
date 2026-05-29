@@ -1,23 +1,23 @@
 {
   "id": "npc_118",
   "bio": {
-    "full_name": "Charles Jones",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 33,
-    "blood_type": "AB-",
-    "genetic_stability": 0.895,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Sven Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "B+",
+    "genetic_stability": 0.913,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 102,
-    "build": "Stocky",
+    "height_cm": 156,
+    "weight_kg": 84,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Buzz cut",
+      "hair": "Red, Ponytail",
       "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Hacking": 93,
-      "Occult_Research": 65,
-      "Medicine": 25
+      "Athletics": 22,
+      "Persuasion": 71,
+      "Containment_Logic": 67
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 95,
     "personality_matrix": {
-      "openness": 38,
-      "conscientiousness": 28,
-      "extraversion": 81,
-      "agreeableness": 91,
-      "neuroticism": 32
+      "openness": 99,
+      "conscientiousness": 31,
+      "extraversion": 74,
+      "agreeableness": 18,
+      "neuroticism": 57
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.98
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
+      "amount": 0,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

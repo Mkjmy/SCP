@@ -1,23 +1,23 @@
 {
   "id": "npc_101",
   "bio": {
-    "full_name": "Christopher Ivanov",
-    "gender": "Male",
+    "full_name": "David Muller",
+    "gender": "Agender",
     "orientation": "Homosexual",
-    "age": 41,
-    "blood_type": "A+",
-    "genetic_stability": 0.886,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 28,
+    "blood_type": "B+",
+    "genetic_stability": 0.994,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 80,
-    "build": "Slender",
+    "height_cm": 179,
+    "weight_kg": 54,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Wild and unkempt",
-      "eyes": "Sharp blue",
+      "hair": "White, Shoulder-length",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 70,
-      "Medicine": 82,
-      "Containment_Logic": 12
+      "Firearms": 18,
+      "Medicine": 41,
+      "Persuasion": 27
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 102,
+    "iq": 96,
     "personality_matrix": {
-      "openness": 58,
-      "conscientiousness": 25,
-      "extraversion": 47,
-      "agreeableness": 25,
-      "neuroticism": 34
+      "openness": 92,
+      "conscientiousness": 63,
+      "extraversion": 40,
+      "agreeableness": 94,
+      "neuroticism": 25
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_034",
   "bio": {
-    "full_name": "Richard Kovacs",
-    "gender": "Non-binary",
-    "orientation": "Heterosexual",
-    "age": 27,
-    "blood_type": "AB-",
-    "genetic_stability": 0.996,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Richard Gupta",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 28,
+    "blood_type": "B-",
+    "genetic_stability": 0.912,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 105,
-    "build": "Stocky",
+    "height_cm": 191,
+    "weight_kg": 71,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Manicured",
-      "eyes": "Hazel",
+      "hair": "Silver, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 14,
-      "Athletics": 58,
-      "Engineering": 24
+      "Medicine": 60,
+      "Firearms": 74,
+      "Persuasion": 42
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 82,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 2,
-      "conscientiousness": 32,
-      "extraversion": 0,
-      "agreeableness": 33,
-      "neuroticism": 19
+      "openness": 5,
+      "conscientiousness": 94,
+      "extraversion": 55,
+      "agreeableness": 36,
+      "neuroticism": 70
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
       "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Obsessed with reaching Site-01",

@@ -1,60 +1,60 @@
 {
   "id": "npc_148",
   "bio": {
-    "full_name": "David Smith",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.891,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Kenji O'Connor",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 37,
+    "blood_type": "O+",
+    "genetic_stability": 0.992,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 50,
-    "build": "Overweight",
+    "height_cm": 165,
+    "weight_kg": 80,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Buzz cut",
-      "eyes": "Emerald green",
+      "hair": "White, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 36,
-      "Engineering": 48,
-      "Firearms": 22
+      "Containment_Logic": 80,
+      "Persuasion": 23,
+      "Hacking": 13
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 132,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 9,
-      "extraversion": 64,
-      "agreeableness": 17,
-      "neuroticism": 44
+      "openness": 92,
+      "conscientiousness": 72,
+      "extraversion": 91,
+      "agreeableness": 98,
+      "neuroticism": 96
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.96
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

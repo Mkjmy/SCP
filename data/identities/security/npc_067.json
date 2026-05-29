@@ -1,23 +1,23 @@
 {
   "id": "npc_067",
   "bio": {
-    "full_name": "William Smith",
+    "full_name": "Christopher Brown",
     "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 59,
-    "blood_type": "A+",
-    "genetic_stability": 0.974,
+    "orientation": "Asexual",
+    "age": 48,
+    "blood_type": "AB+",
+    "genetic_stability": 0.983,
     "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 80,
+    "height_cm": 169,
+    "weight_kg": 57,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Bald",
-      "eyes": "Emerald green",
+      "hair": "Black, Fade",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Engineering": 35,
-      "Occult_Research": 33,
-      "Persuasion": 89
+      "Hacking": 39,
+      "Stealth": 84,
+      "Athletics": 87
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
     "iq": 132,
     "personality_matrix": {
-      "openness": 96,
-      "conscientiousness": 5,
-      "extraversion": 46,
-      "agreeableness": 92,
-      "neuroticism": 96
+      "openness": 100,
+      "conscientiousness": 21,
+      "extraversion": 55,
+      "agreeableness": 17,
+      "neuroticism": 88
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.71
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

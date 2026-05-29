@@ -1,60 +1,60 @@
 {
   "id": "npc_092",
   "bio": {
-    "full_name": "Richard Brown",
+    "full_name": "James Williams",
     "gender": "Male",
     "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "O+",
-    "genetic_stability": 0.925,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.931,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 57,
-    "build": "Heavily Muscular",
+    "height_cm": 196,
+    "weight_kg": 54,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Wild and unkempt",
-      "eyes": "Hazel",
+      "hair": "Brown, Ponytail",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 49,
-      "Containment_Logic": 45,
-      "Engineering": 30
+      "Firearms": 95,
+      "Athletics": 17,
+      "Stealth": 28
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
     "iq": 102,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 79,
-      "extraversion": 81,
-      "agreeableness": 89,
-      "neuroticism": 64
+      "openness": 34,
+      "conscientiousness": 26,
+      "extraversion": 0,
+      "agreeableness": 40,
+      "neuroticism": 79
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
       "amount": 20000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
   }
 }

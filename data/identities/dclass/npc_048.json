@@ -1,23 +1,23 @@
 {
   "id": "npc_048",
   "bio": {
-    "full_name": "Charles Kovacs",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 20,
-    "blood_type": "B+",
-    "genetic_stability": 0.978,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Matthew Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 33,
+    "blood_type": "O+",
+    "genetic_stability": 0.877,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 84,
+    "height_cm": 181,
+    "weight_kg": 70,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Black, Bald",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 45,
-      "Medicine": 12,
-      "Containment_Logic": 81
+      "Medicine": 63,
+      "Athletics": 13,
+      "Stealth": 29
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 89,
     "personality_matrix": {
-      "openness": 64,
-      "conscientiousness": 76,
-      "extraversion": 23,
-      "agreeableness": 98,
-      "neuroticism": 57
+      "openness": 100,
+      "conscientiousness": 51,
+      "extraversion": 82,
+      "agreeableness": 15,
+      "neuroticism": 19
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

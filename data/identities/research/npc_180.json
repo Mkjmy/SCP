@@ -1,23 +1,23 @@
 {
   "id": "npc_180",
   "bio": {
-    "full_name": "Sven Kovacs",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 45,
-    "blood_type": "A+",
-    "genetic_stability": 0.969,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Kenji Muller",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 50,
+    "blood_type": "A-",
+    "genetic_stability": 0.983,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 104,
-    "build": "Average",
+    "height_cm": 188,
+    "weight_kg": 70,
+    "build": "Slender",
     "physical_features": {
-      "hair": "White, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Blonde, Wild and unkempt",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Engineering": 60,
-      "Containment_Logic": 62,
-      "Perception": 39
+      "Hacking": 25,
+      "Stealth": 59,
+      "Occult_Research": 26
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 135,
+    "iq": 139,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 55,
-      "extraversion": 92,
-      "agreeableness": 38,
-      "neuroticism": 8
+      "openness": 68,
+      "conscientiousness": 69,
+      "extraversion": 31,
+      "agreeableness": 87,
+      "neuroticism": 44
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.93
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Trying to clear their family name",

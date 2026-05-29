@@ -1,23 +1,23 @@
 {
   "id": "npc_148",
   "bio": {
-    "full_name": "Anthony Wong",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 54,
-    "blood_type": "A-",
+    "full_name": "John Wong",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 48,
+    "blood_type": "B+",
     "genetic_stability": 0.993,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 200,
-    "weight_kg": 101,
+    "height_cm": 188,
+    "weight_kg": 54,
     "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Ponytail",
+      "hair": "Black, Ponytail",
       "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Athletics": 53,
-      "Stealth": 57,
-      "Engineering": 65
+      "Athletics": 86,
+      "Containment_Logic": 13,
+      "Engineering": 44
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 136,
+    "iq": 122,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 4,
-      "extraversion": 54,
-      "agreeableness": 41,
-      "neuroticism": 75
+      "openness": 18,
+      "conscientiousness": 1,
+      "extraversion": 91,
+      "agreeableness": 93,
+      "neuroticism": 20
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

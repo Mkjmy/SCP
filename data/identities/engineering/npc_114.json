@@ -1,60 +1,60 @@
 {
   "id": "npc_114",
   "bio": {
-    "full_name": "Charles Muller",
-    "gender": "Male",
+    "full_name": "Donald Johnson",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 37,
-    "blood_type": "O+",
-    "genetic_stability": 0.921,
-    "origin": "Former investigative journalist who dug too deep"
+    "age": 43,
+    "blood_type": "AB+",
+    "genetic_stability": 0.977,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 74,
-    "build": "Lithe",
+    "height_cm": 162,
+    "weight_kg": 70,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Pompadour",
-      "eyes": "Amber",
+      "hair": "White, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 94,
-      "Firearms": 65,
-      "Stealth": 13
+      "Stealth": 45,
+      "Persuasion": 67,
+      "Containment_Logic": 30
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 91,
+    "iq": 108,
     "personality_matrix": {
-      "openness": 64,
-      "conscientiousness": 60,
-      "extraversion": 13,
+      "openness": 29,
+      "conscientiousness": 47,
+      "extraversion": 76,
       "agreeableness": 82,
-      "neuroticism": 62
+      "neuroticism": 59
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.78
+    "mental_stability": 0.72
   },
   "social_and_secrets": {
     "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

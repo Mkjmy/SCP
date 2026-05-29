@@ -1,23 +1,23 @@
 {
   "id": "npc_117",
   "bio": {
-    "full_name": "Robert Dubois",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 32,
-    "blood_type": "A-",
-    "genetic_stability": 0.988,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Maria O'Connor",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 42,
+    "blood_type": "AB+",
+    "genetic_stability": 0.963,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 64,
-    "build": "Lithe",
+    "height_cm": 168,
+    "weight_kg": 110,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Amber",
+      "hair": "Dyed green, Wild and unkempt",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 46,
-      "Engineering": 76,
-      "Athletics": 70
+      "Perception": 84,
+      "Medicine": 80,
+      "Engineering": 53
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 95,
+    "iq": 84,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 15,
-      "extraversion": 71,
-      "agreeableness": 96,
-      "neuroticism": 31
+      "openness": 97,
+      "conscientiousness": 65,
+      "extraversion": 79,
+      "agreeableness": 30,
+      "neuroticism": 5
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.9
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
       "amount": 1000,
-      "creditor": "Local Mob"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

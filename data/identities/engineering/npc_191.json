@@ -1,60 +1,60 @@
 {
   "id": "npc_191",
   "bio": {
-    "full_name": "Lars Smith",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 27,
-    "blood_type": "AB+",
-    "genetic_stability": 0.953,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Olga Gupta",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 51,
+    "blood_type": "B+",
+    "genetic_stability": 0.925,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 62,
-    "build": "Frail",
+    "height_cm": 171,
+    "weight_kg": 53,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 21,
-      "Perception": 42,
-      "Firearms": 43
+      "Persuasion": 47,
+      "Perception": 65,
+      "Hacking": 65
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 130,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 38,
+      "openness": 28,
+      "conscientiousness": 21,
       "extraversion": 11,
-      "agreeableness": 39,
-      "neuroticism": 45
+      "agreeableness": 34,
+      "neuroticism": 71
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.44
   },
   "social_and_secrets": {
     "family": "Married, no children",
     "debts": {
-      "amount": 100000,
+      "amount": 0,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

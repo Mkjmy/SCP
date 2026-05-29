@@ -1,60 +1,60 @@
 {
   "id": "npc_133",
   "bio": {
-    "full_name": "Yuki Garcia",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 32,
-    "blood_type": "B-",
+    "full_name": "Thomas Davis",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 47,
+    "blood_type": "B+",
     "genetic_stability": 0.997,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
     "height_cm": 177,
-    "weight_kg": 56,
+    "weight_kg": 64,
     "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Grey, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 26,
-      "Stealth": 82,
-      "Perception": 56
+      "Medicine": 26,
+      "Persuasion": 50,
+      "Engineering": 55
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 112,
     "personality_matrix": {
-      "openness": 47,
-      "conscientiousness": 23,
-      "extraversion": 27,
-      "agreeableness": 78,
-      "neuroticism": 55
+      "openness": 67,
+      "conscientiousness": 32,
+      "extraversion": 72,
+      "agreeableness": 59,
+      "neuroticism": 19
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
       "amount": 100000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_142",
   "bio": {
-    "full_name": "Andrew Jones",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 23,
-    "blood_type": "A-",
-    "genetic_stability": 0.854,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Joseph Williams",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 44,
+    "blood_type": "B-",
+    "genetic_stability": 0.883,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 81,
-    "build": "Average",
+    "height_cm": 191,
+    "weight_kg": 109,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Silver, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Medicine": 91,
-      "Occult_Research": 24,
-      "Persuasion": 70
+      "Stealth": 65,
+      "Occult_Research": 41,
+      "Athletics": 46
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 21,
-      "conscientiousness": 79,
-      "extraversion": 61,
-      "agreeableness": 82,
-      "neuroticism": 52
+      "openness": 3,
+      "conscientiousness": 8,
+      "extraversion": 67,
+      "agreeableness": 10,
+      "neuroticism": 56
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

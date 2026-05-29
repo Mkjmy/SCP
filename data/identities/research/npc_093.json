@@ -1,23 +1,23 @@
 {
   "id": "npc_093",
   "bio": {
-    "full_name": "Chen Dubois",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 48,
+    "full_name": "Richard Jones",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 64,
     "blood_type": "B-",
-    "genetic_stability": 0.855,
+    "genetic_stability": 0.877,
     "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 108,
-    "build": "Overweight",
+    "height_cm": 196,
+    "weight_kg": 59,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Hazel",
+      "hair": "Black, Buzz cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Stealth": 22,
-      "Medicine": 17,
-      "Engineering": 90
+      "Firearms": 84,
+      "Containment_Logic": 61,
+      "Stealth": 43
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 133,
     "personality_matrix": {
-      "openness": 44,
-      "conscientiousness": 28,
-      "extraversion": 38,
-      "agreeableness": 21,
-      "neuroticism": 33
+      "openness": 49,
+      "conscientiousness": 86,
+      "extraversion": 17,
+      "agreeableness": 54,
+      "neuroticism": 56
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.8
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

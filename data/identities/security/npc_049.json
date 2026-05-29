@@ -1,60 +1,60 @@
 {
   "id": "npc_049",
   "bio": {
-    "full_name": "Richard Johnson",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 63,
-    "blood_type": "A-",
+    "full_name": "Elena Wong",
+    "gender": "Agender",
+    "orientation": "Pansexual",
+    "age": 49,
+    "blood_type": "B-",
     "genetic_stability": 0.974,
-    "origin": "Former investigative journalist who dug too deep"
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 51,
-    "build": "Heavily Muscular",
+    "height_cm": 188,
+    "weight_kg": 104,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Persuasion": 38,
-      "Occult_Research": 11,
-      "Hacking": 53
+      "Perception": 29,
+      "Persuasion": 56,
+      "Athletics": 58
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 136,
     "personality_matrix": {
-      "openness": 93,
-      "conscientiousness": 21,
-      "extraversion": 36,
-      "agreeableness": 59,
-      "neuroticism": 61
+      "openness": 10,
+      "conscientiousness": 52,
+      "extraversion": 20,
+      "agreeableness": 84,
+      "neuroticism": 33
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.87
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

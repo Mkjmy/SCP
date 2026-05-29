@@ -1,60 +1,60 @@
 {
   "id": "npc_098",
   "bio": {
-    "full_name": "Maria Ivanov",
-    "gender": "Female",
+    "full_name": "Fatima Brown",
+    "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 29,
-    "blood_type": "A+",
-    "genetic_stability": 0.923,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "age": 30,
+    "blood_type": "AB-",
+    "genetic_stability": 0.993,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 78,
+    "height_cm": 163,
+    "weight_kg": 102,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Silver, Messy",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 20,
-      "Occult_Research": 52,
-      "Persuasion": 75
+      "Containment_Logic": 58,
+      "Athletics": 66,
+      "Stealth": 76
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 110,
+    "iq": 101,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 90,
-      "extraversion": 35,
-      "agreeableness": 90,
-      "neuroticism": 79
+      "openness": 38,
+      "conscientiousness": 95,
+      "extraversion": 8,
+      "agreeableness": 71,
+      "neuroticism": 18
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
-    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
+    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_affiliation": "None"
   }
 }

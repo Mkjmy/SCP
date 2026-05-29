@@ -1,0 +1,60 @@
+{
+  "id": "npc_100",
+  "bio": {
+    "full_name": "Fatima Kovacs",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 64,
+    "blood_type": "O+",
+    "genetic_stability": 0.889,
+    "origin": "Rescued from a defunct GOI cell"
+  },
+  "appearance": {
+    "height_cm": 162,
+    "weight_kg": 58,
+    "build": "Stocky",
+    "physical_features": {
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Nail biter"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 4,
+    "skills": {
+      "Medicine": 21,
+      "Persuasion": 58,
+      "Containment_Logic": 75
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 144,
+    "personality_matrix": {
+      "openness": 16,
+      "conscientiousness": 23,
+      "extraversion": 32,
+      "agreeableness": 51,
+      "neuroticism": 42
+    },
+    "phobias": [
+      "Kenophobia (Fear of voids or empty spaces)"
+    ],
+    "mental_stability": 0.45
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 5000,
+      "creditor": "Student Loans"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
+  }
+}

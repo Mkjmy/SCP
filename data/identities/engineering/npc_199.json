@@ -1,23 +1,23 @@
 {
   "id": "npc_199",
   "bio": {
-    "full_name": "Anthony Muller",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 57,
-    "blood_type": "AB+",
-    "genetic_stability": 0.933,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Robert O'Connor",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 56,
+    "blood_type": "B+",
+    "genetic_stability": 0.876,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 198,
-    "weight_kg": 98,
-    "build": "Slender",
+    "height_cm": 200,
+    "weight_kg": 103,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Pixie cut",
-      "eyes": "Amber",
+      "hair": "Red, Fade",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 27,
-      "Athletics": 16,
-      "Perception": 95
+      "Persuasion": 92,
+      "Stealth": 81,
+      "Perception": 25
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 85,
-      "extraversion": 83,
-      "agreeableness": 17,
-      "neuroticism": 16
+      "openness": 67,
+      "conscientiousness": 51,
+      "extraversion": 92,
+      "agreeableness": 4,
+      "neuroticism": 30
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.61
+    "mental_stability": 0.77
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

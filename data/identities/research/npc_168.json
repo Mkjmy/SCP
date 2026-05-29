@@ -1,20 +1,20 @@
 {
   "id": "npc_168",
   "bio": {
-    "full_name": "Joseph Smith",
-    "gender": "Transgender",
+    "full_name": "Yuki Sato",
+    "gender": "Male",
     "orientation": "Homosexual",
-    "age": 36,
-    "blood_type": "B-",
-    "genetic_stability": 0.987,
+    "age": 50,
+    "blood_type": "A-",
+    "genetic_stability": 0.89,
     "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 84,
-    "build": "Average",
+    "height_cm": 174,
+    "weight_kg": 61,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Black, Pompadour",
+      "hair": "White, Bald",
       "eyes": "Deep brown",
       "notable_marks": [
         "Drinks black coffee constantly"
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Athletics": 56,
-      "Engineering": 27,
-      "Perception": 90
+      "Persuasion": 28,
+      "Hacking": 29,
+      "Athletics": 12
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 164,
+    "iq": 163,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 99,
-      "extraversion": 24,
-      "agreeableness": 2,
-      "neuroticism": 0
+      "openness": 68,
+      "conscientiousness": 54,
+      "extraversion": 72,
+      "agreeableness": 33,
+      "neuroticism": 62
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.49
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 100000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_015",
   "bio": {
-    "full_name": "Paul Bakker",
+    "full_name": "Paul Davis",
     "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 28,
-    "blood_type": "AB-",
-    "genetic_stability": 0.9,
-    "origin": "Former university professor specialized in anomalous biology"
+    "orientation": "Bisexual",
+    "age": 50,
+    "blood_type": "A+",
+    "genetic_stability": 0.997,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 155,
-    "weight_kg": 78,
-    "build": "Lithe",
+    "height_cm": 191,
+    "weight_kg": 62,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Firearms": 27,
-      "Containment_Logic": 39,
-      "Perception": 32
+      "Stealth": 80,
+      "Hacking": 71,
+      "Engineering": 17
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 121,
+    "iq": 152,
     "personality_matrix": {
-      "openness": 3,
-      "conscientiousness": 66,
-      "extraversion": 29,
-      "agreeableness": 7,
-      "neuroticism": 74
+      "openness": 51,
+      "conscientiousness": 97,
+      "extraversion": 93,
+      "agreeableness": 75,
+      "neuroticism": 46
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.94
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

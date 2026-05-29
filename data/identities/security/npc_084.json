@@ -1,60 +1,60 @@
 {
   "id": "npc_084",
   "bio": {
-    "full_name": "Lars Ivanov",
-    "gender": "Female",
+    "full_name": "Joshua Johnson",
+    "gender": "Male",
     "orientation": "Bisexual",
-    "age": 55,
-    "blood_type": "O+",
-    "genetic_stability": 0.995,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "age": 63,
+    "blood_type": "B-",
+    "genetic_stability": 0.999,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 170,
-    "weight_kg": 99,
-    "build": "Average",
+    "height_cm": 171,
+    "weight_kg": 52,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Icy blue",
+      "hair": "Silver, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 71,
-      "Hacking": 92,
-      "Medicine": 67
+      "Persuasion": 28,
+      "Perception": 80,
+      "Occult_Research": 30
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 128,
+    "iq": 151,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 65,
-      "extraversion": 50,
-      "agreeableness": 40,
-      "neuroticism": 93
+      "openness": 25,
+      "conscientiousness": 39,
+      "extraversion": 81,
+      "agreeableness": 91,
+      "neuroticism": 88
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
+      "amount": 5000,
       "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

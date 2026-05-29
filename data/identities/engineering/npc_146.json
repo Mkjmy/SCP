@@ -1,60 +1,60 @@
 {
   "id": "npc_146",
   "bio": {
-    "full_name": "David Ivanov",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "A-",
-    "genetic_stability": 0.936,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Richard Dubois",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 53,
+    "blood_type": "A+",
+    "genetic_stability": 0.997,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 90,
-    "build": "Overweight",
+    "height_cm": 160,
+    "weight_kg": 86,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Brown, Bald",
-      "eyes": "Deep brown",
+      "hair": "Red, Ponytail",
+      "eyes": "Grey",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Engineering": 85,
-      "Persuasion": 28,
-      "Stealth": 90
+      "Occult_Research": 69,
+      "Hacking": 73,
+      "Firearms": 71
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 102,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 91,
-      "extraversion": 99,
-      "agreeableness": 22,
-      "neuroticism": 15
+      "openness": 30,
+      "conscientiousness": 92,
+      "extraversion": 70,
+      "agreeableness": 67,
+      "neuroticism": 69
     },
     "phobias": [
-      "Kenophobia (Fear of voids or empty spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.85
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

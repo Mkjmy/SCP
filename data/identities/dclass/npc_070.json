@@ -1,23 +1,23 @@
 {
   "id": "npc_070",
   "bio": {
-    "full_name": "Michael Miller",
+    "full_name": "Olga Kovacs",
     "gender": "Agender",
     "orientation": "Homosexual",
-    "age": 23,
-    "blood_type": "O+",
-    "genetic_stability": 0.964,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 22,
+    "blood_type": "A+",
+    "genetic_stability": 0.947,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 74,
+    "height_cm": 190,
+    "weight_kg": 90,
     "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
-      "eyes": "Emerald green",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 25,
-      "Perception": 58,
-      "Hacking": 77
+      "Perception": 95,
+      "Containment_Logic": 82,
+      "Firearms": 26
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 82,
+    "iq": 98,
     "personality_matrix": {
-      "openness": 84,
-      "conscientiousness": 88,
-      "extraversion": 12,
-      "agreeableness": 32,
-      "neuroticism": 74
+      "openness": 47,
+      "conscientiousness": 96,
+      "extraversion": 83,
+      "agreeableness": 78,
+      "neuroticism": 87
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_167",
   "bio": {
-    "full_name": "Donald Schmidt",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 31,
-    "blood_type": "B-",
-    "genetic_stability": 0.864,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "William Smith",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 65,
+    "blood_type": "A+",
+    "genetic_stability": 0.893,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 185,
-    "weight_kg": 104,
-    "build": "Slender",
+    "height_cm": 191,
+    "weight_kg": 77,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Bald",
-      "eyes": "Deep brown",
+      "hair": "Grey, Messy",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Hums classical music"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Occult_Research": 49,
-      "Containment_Logic": 82,
-      "Medicine": 10
+      "Athletics": 40,
+      "Occult_Research": 81,
+      "Hacking": 94
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 161,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 19,
-      "conscientiousness": 84,
-      "extraversion": 79,
-      "agreeableness": 46,
-      "neuroticism": 44
+      "openness": 16,
+      "conscientiousness": 95,
+      "extraversion": 39,
+      "agreeableness": 88,
+      "neuroticism": 42
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 1.0
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

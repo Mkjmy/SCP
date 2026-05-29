@@ -1,21 +1,21 @@
 {
   "id": "npc_193",
   "bio": {
-    "full_name": "Kenji Muller",
-    "gender": "Agender",
-    "orientation": "Pansexual",
-    "age": 23,
-    "blood_type": "A-",
-    "genetic_stability": 0.863,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Arjun O'Connor",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 38,
+    "blood_type": "AB-",
+    "genetic_stability": 0.922,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 104,
+    "height_cm": 176,
+    "weight_kg": 63,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Black, Bald",
+      "eyes": "Grey",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Engineering": 23,
-      "Stealth": 88,
-      "Medicine": 95
+      "Stealth": 81,
+      "Athletics": 19,
+      "Occult_Research": 68
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 127,
     "personality_matrix": {
-      "openness": 9,
-      "conscientiousness": 24,
-      "extraversion": 79,
-      "agreeableness": 59,
-      "neuroticism": 55
+      "openness": 52,
+      "conscientiousness": 83,
+      "extraversion": 85,
+      "agreeableness": 50,
+      "neuroticism": 92
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

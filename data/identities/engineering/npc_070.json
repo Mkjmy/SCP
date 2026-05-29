@@ -1,23 +1,23 @@
 {
   "id": "npc_070",
   "bio": {
-    "full_name": "Michael Gupta",
-    "gender": "Agender",
+    "full_name": "Daniel Davis",
+    "gender": "Non-binary",
     "orientation": "Pansexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.856,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 39,
+    "blood_type": "A+",
+    "genetic_stability": 0.992,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 162,
-    "weight_kg": 62,
-    "build": "Overweight",
+    "height_cm": 187,
+    "weight_kg": 78,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Black, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 17,
-      "Persuasion": 79,
-      "Firearms": 56
+      "Engineering": 95,
+      "Firearms": 41,
+      "Occult_Research": 56
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 146,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 88,
-      "conscientiousness": 66,
-      "extraversion": 6,
-      "agreeableness": 51,
-      "neuroticism": 38
+      "openness": 89,
+      "conscientiousness": 9,
+      "extraversion": 56,
+      "agreeableness": 42,
+      "neuroticism": 64
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.55
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 1000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

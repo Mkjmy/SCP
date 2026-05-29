@@ -1,60 +1,60 @@
 {
   "id": "npc_128",
   "bio": {
-    "full_name": "Joseph Tanaka",
-    "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 32,
+    "full_name": "Thomas Gupta",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 48,
     "blood_type": "B+",
-    "genetic_stability": 0.862,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.915,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 182,
-    "weight_kg": 63,
-    "build": "Athletic",
+    "height_cm": 170,
+    "weight_kg": 91,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Black, Ponytail",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Perception": 56,
-      "Stealth": 90,
-      "Containment_Logic": 73
+      "Stealth": 82,
+      "Occult_Research": 54,
+      "Firearms": 94
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 125,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 41,
-      "extraversion": 92,
-      "agreeableness": 44,
-      "neuroticism": 28
+      "openness": 5,
+      "conscientiousness": 52,
+      "extraversion": 24,
+      "agreeableness": 86,
+      "neuroticism": 12
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

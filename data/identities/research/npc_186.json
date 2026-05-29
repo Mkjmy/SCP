@@ -1,23 +1,23 @@
 {
   "id": "npc_186",
   "bio": {
-    "full_name": "Daniel Wong",
-    "gender": "Female",
-    "orientation": "Homosexual",
-    "age": 56,
-    "blood_type": "B+",
-    "genetic_stability": 0.918,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Arjun Davis",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 48,
+    "blood_type": "A-",
+    "genetic_stability": 0.991,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 189,
-    "weight_kg": 53,
-    "build": "Athletic",
+    "height_cm": 166,
+    "weight_kg": 88,
+    "build": "Average",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Athletics": 28,
-      "Engineering": 15,
-      "Perception": 21
+      "Engineering": 60,
+      "Perception": 29,
+      "Occult_Research": 69
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 161,
+    "iq": 157,
     "personality_matrix": {
-      "openness": 31,
-      "conscientiousness": 14,
-      "extraversion": 46,
-      "agreeableness": 77,
-      "neuroticism": 61
+      "openness": 11,
+      "conscientiousness": 45,
+      "extraversion": 12,
+      "agreeableness": 71,
+      "neuroticism": 7
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
     "family": "Married, 2 children",
     "debts": {
       "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Obsessed with reaching Site-01",

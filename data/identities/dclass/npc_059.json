@@ -1,23 +1,23 @@
 {
   "id": "npc_059",
   "bio": {
-    "full_name": "Daniel Dubois",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 44,
-    "blood_type": "A-",
-    "genetic_stability": 0.916,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Christopher Sato",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.99,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 199,
-    "weight_kg": 98,
-    "build": "Frail",
+    "height_cm": 190,
+    "weight_kg": 77,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Buzz cut",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 83,
-      "Persuasion": 22,
-      "Engineering": 77
+      "Hacking": 47,
+      "Engineering": 25,
+      "Medicine": 34
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 96,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 63,
-      "conscientiousness": 80,
-      "extraversion": 69,
-      "agreeableness": 80,
-      "neuroticism": 22
+      "openness": 19,
+      "conscientiousness": 78,
+      "extraversion": 76,
+      "agreeableness": 51,
+      "neuroticism": 43
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.46
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking promotion at any cost",
-    "hidden_affiliation": "None"
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

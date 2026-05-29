@@ -1,23 +1,23 @@
 {
   "id": "npc_077",
   "bio": {
-    "full_name": "Matthew Ivanov",
-    "gender": "Transgender",
-    "orientation": "Pansexual",
-    "age": 47,
-    "blood_type": "B+",
-    "genetic_stability": 0.986,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Arjun Ivanov",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 31,
+    "blood_type": "O-",
+    "genetic_stability": 0.999,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 98,
-    "build": "Stocky",
+    "height_cm": 166,
+    "weight_kg": 87,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Grey, Fade",
-      "eyes": "Amber",
+      "hair": "Silver, Pompadour",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Perception": 17,
-      "Medicine": 32,
-      "Engineering": 69
+      "Athletics": 38,
+      "Persuasion": 54,
+      "Medicine": 51
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 36,
-      "extraversion": 76,
-      "agreeableness": 75,
-      "neuroticism": 40
+      "openness": 66,
+      "conscientiousness": 85,
+      "extraversion": 92,
+      "agreeableness": 30,
+      "neuroticism": 14
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.75
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_156",
   "bio": {
-    "full_name": "Matthew Bakker",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 36,
-    "blood_type": "A+",
-    "genetic_stability": 0.872,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "James Brown",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 24,
+    "blood_type": "A-",
+    "genetic_stability": 0.895,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 88,
-    "build": "Lithe",
+    "height_cm": 183,
+    "weight_kg": 58,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Silver, Shoulder-length",
-      "eyes": "Sharp blue",
+      "hair": "Dyed blue, Shoulder-length",
+      "eyes": "Amber",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 19,
-      "Stealth": 60,
-      "Persuasion": 77
+      "Perception": 17,
+      "Athletics": 33,
+      "Containment_Logic": 71
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 86,
+    "iq": 99,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 70,
-      "extraversion": 80,
-      "agreeableness": 76,
-      "neuroticism": 70
+      "openness": 84,
+      "conscientiousness": 48,
+      "extraversion": 98,
+      "agreeableness": 13,
+      "neuroticism": 90
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.96
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Orphaned",
     "debts": {
-      "amount": 5000,
+      "amount": 100000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

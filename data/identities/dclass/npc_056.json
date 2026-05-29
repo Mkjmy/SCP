@@ -1,23 +1,23 @@
 {
   "id": "npc_056",
   "bio": {
-    "full_name": "Maria Gupta",
-    "gender": "Agender",
+    "full_name": "Olga Gupta",
+    "gender": "Male",
     "orientation": "Heterosexual",
-    "age": 43,
-    "blood_type": "A-",
-    "genetic_stability": 0.895,
-    "origin": "Former university professor specialized in anomalous biology"
+    "age": 20,
+    "blood_type": "B-",
+    "genetic_stability": 0.924,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 91,
-    "build": "Athletic",
+    "height_cm": 181,
+    "weight_kg": 90,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Dyed blue, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Grey, Shoulder-length",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 92,
-      "Hacking": 59,
-      "Containment_Logic": 27
+      "Engineering": 77,
+      "Persuasion": 21,
+      "Containment_Logic": 75
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 97,
+    "iq": 113,
     "personality_matrix": {
-      "openness": 80,
-      "conscientiousness": 78,
-      "extraversion": 82,
-      "agreeableness": 39,
-      "neuroticism": 46
+      "openness": 25,
+      "conscientiousness": 3,
+      "extraversion": 16,
+      "agreeableness": 91,
+      "neuroticism": 39
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

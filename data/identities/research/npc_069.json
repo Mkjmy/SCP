@@ -1,21 +1,21 @@
 {
   "id": "npc_069",
   "bio": {
-    "full_name": "Charles Bakker",
-    "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 65,
-    "blood_type": "O+",
-    "genetic_stability": 0.907,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Richard Bakker",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 55,
+    "blood_type": "A-",
+    "genetic_stability": 0.931,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 87,
-    "build": "Frail",
+    "height_cm": 174,
+    "weight_kg": 79,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 15,
-      "Engineering": 84,
-      "Medicine": 95
+      "Stealth": 86,
+      "Containment_Logic": 92,
+      "Persuasion": 31
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 164,
     "personality_matrix": {
-      "openness": 38,
-      "conscientiousness": 95,
-      "extraversion": 29,
-      "agreeableness": 71,
-      "neuroticism": 44
+      "openness": 93,
+      "conscientiousness": 64,
+      "extraversion": 36,
+      "agreeableness": 81,
+      "neuroticism": 33
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.66
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
-      "creditor": "None"
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

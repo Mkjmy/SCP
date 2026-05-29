@@ -1,23 +1,23 @@
 {
   "id": "npc_068",
   "bio": {
-    "full_name": "David Kovacs",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 36,
+    "full_name": "Arjun Johnson",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 30,
     "blood_type": "B-",
-    "genetic_stability": 0.872,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "genetic_stability": 0.889,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
     "height_cm": 184,
-    "weight_kg": 93,
+    "weight_kg": 50,
     "build": "Average",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Black, Manicured",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 89,
-      "Persuasion": 23,
-      "Perception": 74
+      "Athletics": 40,
+      "Containment_Logic": 68,
+      "Hacking": 87
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 111,
+    "iq": 90,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 68,
-      "extraversion": 3,
-      "agreeableness": 55,
-      "neuroticism": 36
+      "openness": 18,
+      "conscientiousness": 74,
+      "extraversion": 38,
+      "agreeableness": 30,
+      "neuroticism": 66
     },
     "phobias": [
       "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.4
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_197",
   "bio": {
-    "full_name": "Anthony Bakker",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 53,
-    "blood_type": "B+",
-    "genetic_stability": 0.889,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Thomas Miller",
+    "gender": "Male",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "A-",
+    "genetic_stability": 0.958,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 164,
-    "weight_kg": 69,
-    "build": "Slender",
+    "height_cm": 185,
+    "weight_kg": 52,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Pompadour",
-      "eyes": "Hazel",
+      "hair": "Black, Fade",
+      "eyes": "Grey",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Engineering": 13,
-      "Persuasion": 81,
-      "Athletics": 21
+      "Hacking": 24,
+      "Perception": 33,
+      "Engineering": 24
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 131,
     "personality_matrix": {
       "openness": 1,
-      "conscientiousness": 27,
-      "extraversion": 46,
-      "agreeableness": 51,
-      "neuroticism": 84
+      "conscientiousness": 56,
+      "extraversion": 12,
+      "agreeableness": 6,
+      "neuroticism": 83
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
       "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

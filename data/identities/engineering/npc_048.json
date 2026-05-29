@@ -1,21 +1,21 @@
 {
   "id": "npc_048",
   "bio": {
-    "full_name": "James Dubois",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 27,
+    "full_name": "David Bakker",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 58,
     "blood_type": "O-",
-    "genetic_stability": 0.986,
-    "origin": "Rescued from a defunct GOI cell"
+    "genetic_stability": 0.984,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 56,
+    "height_cm": 180,
+    "weight_kg": 60,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Fade",
-      "eyes": "Emerald green",
+      "hair": "Grey, Fade",
+      "eyes": "Hazel",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 51,
-      "Perception": 56,
-      "Occult_Research": 86
+      "Containment_Logic": 13,
+      "Firearms": 68,
+      "Medicine": 85
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 122,
+    "iq": 142,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 22,
-      "extraversion": 79,
-      "agreeableness": 24,
-      "neuroticism": 84
+      "openness": 5,
+      "conscientiousness": 82,
+      "extraversion": 32,
+      "agreeableness": 95,
+      "neuroticism": 81
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.53
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Divorced",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 100000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

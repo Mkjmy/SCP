@@ -1,60 +1,60 @@
 {
   "id": "npc_124",
   "bio": {
-    "full_name": "Olga Davis",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
+    "full_name": "Fatima Wong",
+    "gender": "Male",
+    "orientation": "Heterosexual",
     "age": 60,
-    "blood_type": "A-",
-    "genetic_stability": 0.972,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "blood_type": "B+",
+    "genetic_stability": 0.861,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 158,
-    "weight_kg": 100,
-    "build": "Frail",
+    "height_cm": 172,
+    "weight_kg": 61,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Occult_Research": 61,
-      "Stealth": 53,
-      "Perception": 55
+      "Stealth": 49,
+      "Persuasion": 40,
+      "Firearms": 86
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 108,
+    "iq": 144,
     "personality_matrix": {
-      "openness": 10,
-      "conscientiousness": 4,
-      "extraversion": 34,
-      "agreeableness": 4,
-      "neuroticism": 48
+      "openness": 98,
+      "conscientiousness": 58,
+      "extraversion": 63,
+      "agreeableness": 79,
+      "neuroticism": 23
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_160",
   "bio": {
-    "full_name": "Daniel Gupta",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 29,
+    "full_name": "Mark Smith",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 21,
     "blood_type": "B-",
-    "genetic_stability": 0.926,
-    "origin": "Former NASA engineer who saw too much"
+    "genetic_stability": 0.871,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 63,
-    "build": "Heavily Muscular",
+    "height_cm": 198,
+    "weight_kg": 56,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Emerald green",
+      "hair": "Brown, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 39,
-      "Perception": 22,
-      "Firearms": 32
+      "Perception": 36,
+      "Hacking": 87,
+      "Persuasion": 27
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 81,
+    "iq": 89,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 85,
-      "extraversion": 21,
-      "agreeableness": 10,
-      "neuroticism": 69
+      "openness": 31,
+      "conscientiousness": 25,
+      "extraversion": 20,
+      "agreeableness": 77,
+      "neuroticism": 28
     },
     "phobias": [
       "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.97
+    "mental_stability": 0.88
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Divorced",
     "debts": {
       "amount": 5000,
-      "creditor": "Student Loans"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

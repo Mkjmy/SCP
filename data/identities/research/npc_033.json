@@ -1,23 +1,23 @@
 {
   "id": "npc_033",
   "bio": {
-    "full_name": "James Kovacs",
+    "full_name": "Joseph O'Connor",
     "gender": "Agender",
     "orientation": "Homosexual",
-    "age": 60,
-    "blood_type": "O-",
-    "genetic_stability": 0.87,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 59,
+    "blood_type": "AB+",
+    "genetic_stability": 0.876,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 67,
-    "build": "Average",
+    "height_cm": 182,
+    "weight_kg": 54,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Pompadour",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Grey, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Medicine": 87,
-      "Athletics": 30,
-      "Occult_Research": 68
+      "Firearms": 36,
+      "Medicine": 53,
+      "Engineering": 86
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 158,
+    "iq": 121,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 25,
-      "extraversion": 15,
-      "agreeableness": 24,
-      "neuroticism": 88
+      "openness": 84,
+      "conscientiousness": 42,
+      "extraversion": 5,
+      "agreeableness": 80,
+      "neuroticism": 5
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

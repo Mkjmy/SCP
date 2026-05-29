@@ -1,0 +1,60 @@
+{
+  "id": "npc_190",
+  "bio": {
+    "full_name": "Maria Williams",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 53,
+    "blood_type": "O+",
+    "genetic_stability": 0.921,
+    "origin": "Former university professor specialized in anomalous biology"
+  },
+  "appearance": {
+    "height_cm": 163,
+    "weight_kg": 56,
+    "build": "Slender",
+    "physical_features": {
+      "hair": "Brown, Buzz cut",
+      "eyes": "Deep brown",
+      "notable_marks": [
+        "Cracks knuckles frequently"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Occult_Research": 94,
+      "Medicine": 14,
+      "Firearms": 94
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 159,
+    "personality_matrix": {
+      "openness": 47,
+      "conscientiousness": 96,
+      "extraversion": 75,
+      "agreeableness": 53,
+      "neuroticism": 5
+    },
+    "phobias": [
+      "Nyctophobia (Fear of darkness)"
+    ],
+    "mental_stability": 0.82
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 20000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

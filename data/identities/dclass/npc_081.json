@@ -1,23 +1,23 @@
 {
   "id": "npc_081",
   "bio": {
-    "full_name": "Matthew Kovacs",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 25,
-    "blood_type": "A-",
-    "genetic_stability": 0.897,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "full_name": "Thomas Ivanov",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "AB+",
+    "genetic_stability": 0.852,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
     "height_cm": 173,
-    "weight_kg": 98,
-    "build": "Lithe",
+    "weight_kg": 102,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Messy",
-      "eyes": "Deep brown",
+      "hair": "White, Pompadour",
+      "eyes": "Amber",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 47,
-      "Persuasion": 59,
-      "Firearms": 40
+      "Stealth": 47,
+      "Hacking": 86,
+      "Containment_Logic": 92
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 84,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 39,
-      "conscientiousness": 71,
-      "extraversion": 27,
-      "agreeableness": 28,
-      "neuroticism": 87
+      "openness": 81,
+      "conscientiousness": 86,
+      "extraversion": 14,
+      "agreeableness": 65,
+      "neuroticism": 40
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.65
+    "mental_stability": 0.71
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

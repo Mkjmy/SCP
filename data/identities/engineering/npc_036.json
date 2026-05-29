@@ -1,23 +1,23 @@
 {
   "id": "npc_036",
   "bio": {
-    "full_name": "Anthony Gupta",
-    "gender": "Transgender",
+    "full_name": "Lars O'Connor",
+    "gender": "Agender",
     "orientation": "Asexual",
-    "age": 24,
-    "blood_type": "B+",
-    "genetic_stability": 0.969,
+    "age": 64,
+    "blood_type": "A+",
+    "genetic_stability": 0.964,
     "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
     "height_cm": 185,
-    "weight_kg": 54,
-    "build": "Athletic",
+    "weight_kg": 83,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 79,
-      "Hacking": 30,
-      "Engineering": 50
+      "Persuasion": 55,
+      "Firearms": 64,
+      "Hacking": 33
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 101,
+    "iq": 140,
     "personality_matrix": {
-      "openness": 94,
-      "conscientiousness": 74,
-      "extraversion": 74,
-      "agreeableness": 37,
-      "neuroticism": 17
+      "openness": 62,
+      "conscientiousness": 28,
+      "extraversion": 26,
+      "agreeableness": 41,
+      "neuroticism": 73
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
     "mental_stability": 0.46
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

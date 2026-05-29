@@ -1,23 +1,23 @@
 {
   "id": "npc_016",
   "bio": {
-    "full_name": "Maria Tanaka",
+    "full_name": "Paul Vasiliev",
     "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 34,
-    "blood_type": "AB+",
-    "genetic_stability": 0.935,
-    "origin": "Former NASA engineer who saw too much"
+    "age": 23,
+    "blood_type": "O+",
+    "genetic_stability": 0.858,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 103,
-    "build": "Frail",
+    "height_cm": 178,
+    "weight_kg": 62,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Perception": 63,
-      "Hacking": 44,
-      "Stealth": 77
+      "Occult_Research": 73,
+      "Medicine": 68,
+      "Athletics": 23
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 139,
+    "iq": 156,
     "personality_matrix": {
-      "openness": 12,
-      "conscientiousness": 79,
-      "extraversion": 91,
-      "agreeableness": 9,
-      "neuroticism": 8
+      "openness": 15,
+      "conscientiousness": 56,
+      "extraversion": 63,
+      "agreeableness": 34,
+      "neuroticism": 64
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
     "mental_stability": 0.85
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Widowed",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost"
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_affiliation": "None"
   }
 }

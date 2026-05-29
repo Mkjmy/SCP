@@ -1,21 +1,21 @@
 {
   "id": "npc_033",
   "bio": {
-    "full_name": "Richard Wong",
-    "gender": "Female",
-    "orientation": "Asexual",
+    "full_name": "Chen Muller",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
     "age": 60,
-    "blood_type": "B+",
-    "genetic_stability": 0.95,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "blood_type": "A+",
+    "genetic_stability": 0.921,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 169,
-    "weight_kg": 51,
-    "build": "Lithe",
+    "height_cm": 168,
+    "weight_kg": 77,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Buzz cut",
-      "eyes": "Icy blue",
+      "hair": "Black, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Persuasion": 75,
-      "Medicine": 25,
-      "Engineering": 54
+      "Containment_Logic": 68,
+      "Hacking": 64,
+      "Perception": 48
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 117,
+    "iq": 118,
     "personality_matrix": {
-      "openness": 80,
-      "conscientiousness": 97,
-      "extraversion": 44,
-      "agreeableness": 3,
-      "neuroticism": 38
+      "openness": 55,
+      "conscientiousness": 82,
+      "extraversion": 91,
+      "agreeableness": 91,
+      "neuroticism": 6
     },
     "phobias": [
       "Arachnophobia (Fear of spiders)"
     ],
-    "mental_stability": 0.62
+    "mental_stability": 0.86
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

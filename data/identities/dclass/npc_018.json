@@ -1,23 +1,23 @@
 {
   "id": "npc_018",
   "bio": {
-    "full_name": "Mark Brown",
+    "full_name": "Christopher Smith",
     "gender": "Non-binary",
-    "orientation": "Bisexual",
+    "orientation": "Asexual",
     "age": 26,
     "blood_type": "O+",
-    "genetic_stability": 0.958,
-    "origin": "Former university professor specialized in anomalous biology"
+    "genetic_stability": 0.964,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 72,
-    "build": "Athletic",
+    "height_cm": 159,
+    "weight_kg": 81,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "White, Buzz cut",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Hacking": 47,
+      "Containment_Logic": 35,
       "Perception": 59,
-      "Containment_Logic": 48
+      "Engineering": 41
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 106,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 33,
-      "conscientiousness": 2,
-      "extraversion": 34,
-      "agreeableness": 35,
-      "neuroticism": 0
+      "openness": 44,
+      "conscientiousness": 93,
+      "extraversion": 57,
+      "agreeableness": 97,
+      "neuroticism": 95
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

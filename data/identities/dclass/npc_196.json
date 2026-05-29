@@ -1,23 +1,23 @@
 {
   "id": "npc_196",
   "bio": {
-    "full_name": "James Dubois",
+    "full_name": "Christopher Kovacs",
     "gender": "Transgender",
     "orientation": "Asexual",
-    "age": 43,
-    "blood_type": "B-",
-    "genetic_stability": 0.872,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "age": 29,
+    "blood_type": "O+",
+    "genetic_stability": 0.855,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 173,
-    "weight_kg": 51,
-    "build": "Frail",
+    "height_cm": 185,
+    "weight_kg": 66,
+    "build": "Average",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Buzz cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Persuasion": 34,
-      "Containment_Logic": 37,
-      "Perception": 51
+      "Firearms": 82,
+      "Engineering": 15,
+      "Persuasion": 66
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 87,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 7,
-      "conscientiousness": 50,
-      "extraversion": 91,
-      "agreeableness": 10,
-      "neuroticism": 95
+      "openness": 67,
+      "conscientiousness": 34,
+      "extraversion": 65,
+      "agreeableness": 75,
+      "neuroticism": 25
     },
     "phobias": [
       "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.7
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
     "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

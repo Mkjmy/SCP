@@ -1,21 +1,21 @@
 {
   "id": "npc_120",
   "bio": {
-    "full_name": "Charles Muller",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 36,
-    "blood_type": "O-",
-    "genetic_stability": 0.872,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Michael Miller",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 47,
+    "blood_type": "B+",
+    "genetic_stability": 0.977,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
     "height_cm": 198,
-    "weight_kg": 59,
-    "build": "Slender",
+    "weight_kg": 98,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Ponytail",
-      "eyes": "Deep brown",
+      "hair": "Brown, Messy",
+      "eyes": "Grey",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Engineering": 46,
-      "Firearms": 54,
-      "Containment_Logic": 26
+      "Engineering": 21,
+      "Athletics": 43,
+      "Hacking": 25
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 74,
-      "conscientiousness": 84,
-      "extraversion": 8,
-      "agreeableness": 33,
-      "neuroticism": 45
+      "openness": 73,
+      "conscientiousness": 18,
+      "extraversion": 84,
+      "agreeableness": 95,
+      "neuroticism": 28
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.53
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

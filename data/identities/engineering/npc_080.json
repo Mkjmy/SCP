@@ -1,60 +1,60 @@
 {
   "id": "npc_080",
   "bio": {
-    "full_name": "James Vasiliev",
+    "full_name": "Arjun Tanaka",
     "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 38,
-    "blood_type": "O-",
-    "genetic_stability": 0.866,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Bisexual",
+    "age": 32,
+    "blood_type": "B+",
+    "genetic_stability": 0.884,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 177,
-    "weight_kg": 60,
-    "build": "Stocky",
+    "height_cm": 168,
+    "weight_kg": 94,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Blonde, Manicured",
-      "eyes": "Grey",
+      "hair": "Blonde, Bald",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 39,
-      "Stealth": 14,
-      "Containment_Logic": 48
+      "Athletics": 54,
+      "Containment_Logic": 30,
+      "Medicine": 34
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 153,
+    "iq": 131,
     "personality_matrix": {
-      "openness": 45,
-      "conscientiousness": 39,
-      "extraversion": 22,
-      "agreeableness": 85,
-      "neuroticism": 88
+      "openness": 3,
+      "conscientiousness": 46,
+      "extraversion": 51,
+      "agreeableness": 5,
+      "neuroticism": 45
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.68
+    "mental_stability": 0.43
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 1000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

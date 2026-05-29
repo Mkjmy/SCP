@@ -1,23 +1,23 @@
 {
   "id": "npc_175",
   "bio": {
-    "full_name": "Yuki Wong",
-    "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 25,
-    "blood_type": "AB-",
-    "genetic_stability": 0.893,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Fatima Miller",
+    "gender": "Male",
+    "orientation": "Asexual",
+    "age": 34,
+    "blood_type": "B+",
+    "genetic_stability": 0.875,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 193,
-    "weight_kg": 91,
-    "build": "Frail",
+    "height_cm": 184,
+    "weight_kg": 62,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Brown, Pixie cut",
-      "eyes": "Emerald green",
+      "hair": "Silver, Fade",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Nail biter"
+        "Smokes heavily"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Engineering": 73,
-      "Medicine": 87,
-      "Occult_Research": 20
+      "Medicine": 94,
+      "Persuasion": 63,
+      "Perception": 55
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 60,
+      "openness": 12,
       "conscientiousness": 37,
-      "extraversion": 28,
-      "agreeableness": 12,
-      "neuroticism": 74
+      "extraversion": 23,
+      "agreeableness": 98,
+      "neuroticism": 65
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.84
+    "mental_stability": 0.48
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 1000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

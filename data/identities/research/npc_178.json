@@ -1,21 +1,21 @@
 {
   "id": "npc_178",
   "bio": {
-    "full_name": "Paul Miller",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 62,
-    "blood_type": "AB+",
-    "genetic_stability": 0.952,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Andrew Tanaka",
+    "gender": "Non-binary",
+    "orientation": "Asexual",
+    "age": 45,
+    "blood_type": "AB-",
+    "genetic_stability": 0.951,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 191,
-    "weight_kg": 86,
-    "build": "Average",
+    "height_cm": 163,
+    "weight_kg": 92,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Messy",
-      "eyes": "Hazel",
+      "hair": "Blonde, Manicured",
+      "eyes": "Grey",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 2,
     "skills": {
-      "Containment_Logic": 27,
-      "Occult_Research": 62,
-      "Stealth": 76
+      "Containment_Logic": 26,
+      "Persuasion": 20,
+      "Occult_Research": 90
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 148,
+    "iq": 147,
     "personality_matrix": {
-      "openness": 60,
-      "conscientiousness": 99,
-      "extraversion": 69,
-      "agreeableness": 11,
-      "neuroticism": 79
+      "openness": 25,
+      "conscientiousness": 100,
+      "extraversion": 37,
+      "agreeableness": 57,
+      "neuroticism": 31
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.58
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

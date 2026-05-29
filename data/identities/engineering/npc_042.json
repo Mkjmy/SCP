@@ -1,60 +1,60 @@
 {
   "id": "npc_042",
   "bio": {
-    "full_name": "Anthony Ivanov",
+    "full_name": "Charles Brown",
     "gender": "Transgender",
-    "orientation": "Bisexual",
-    "age": 34,
-    "blood_type": "A+",
-    "genetic_stability": 0.903,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "orientation": "Heterosexual",
+    "age": 23,
+    "blood_type": "AB+",
+    "genetic_stability": 0.865,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
     "height_cm": 164,
-    "weight_kg": 97,
-    "build": "Average",
+    "weight_kg": 58,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Grey",
+      "hair": "Silver, Messy",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Occult_Research": 20,
-      "Medicine": 49,
-      "Containment_Logic": 21
+      "Stealth": 48,
+      "Perception": 13,
+      "Engineering": 83
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 94,
     "personality_matrix": {
-      "openness": 50,
-      "conscientiousness": 26,
-      "extraversion": 84,
-      "agreeableness": 56,
-      "neuroticism": 69
+      "openness": 98,
+      "conscientiousness": 28,
+      "extraversion": 30,
+      "agreeableness": 97,
+      "neuroticism": 3
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.59
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Orphaned",
     "debts": {
       "amount": 1000,
-      "creditor": "Student Loans"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

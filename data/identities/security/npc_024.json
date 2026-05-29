@@ -1,23 +1,23 @@
 {
   "id": "npc_024",
   "bio": {
-    "full_name": "David Smith",
-    "gender": "Male",
-    "orientation": "Asexual",
-    "age": 53,
+    "full_name": "Matthew Wong",
+    "gender": "Agender",
+    "orientation": "Bisexual",
+    "age": 41,
     "blood_type": "O-",
-    "genetic_stability": 0.9,
-    "origin": "Ex-military police recruited after a classified incident"
+    "genetic_stability": 0.879,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 106,
-    "build": "Stocky",
+    "height_cm": 184,
+    "weight_kg": 51,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Brown, Wild and unkempt",
-      "eyes": "Icy blue",
+      "hair": "Grey, Fade",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Hums classical music"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Firearms": 95,
-      "Occult_Research": 17,
-      "Containment_Logic": 75
+      "Perception": 61,
+      "Containment_Logic": 16,
+      "Occult_Research": 68
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 97,
-      "extraversion": 11,
-      "agreeableness": 9,
-      "neuroticism": 7
+      "openness": 74,
+      "conscientiousness": 12,
+      "extraversion": 80,
+      "agreeableness": 7,
+      "neuroticism": 97
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.64
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 5000,
+      "amount": 0,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

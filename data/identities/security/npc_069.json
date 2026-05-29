@@ -1,60 +1,60 @@
 {
   "id": "npc_069",
   "bio": {
-    "full_name": "Arjun Bakker",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 59,
-    "blood_type": "B-",
-    "genetic_stability": 0.878,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "James Wong",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 61,
+    "blood_type": "O-",
+    "genetic_stability": 0.904,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 94,
+    "height_cm": 162,
+    "weight_kg": 51,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed green, Wild and unkempt",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 2,
     "skills": {
-      "Persuasion": 25,
-      "Firearms": 88,
-      "Hacking": 14
+      "Perception": 19,
+      "Athletics": 16,
+      "Occult_Research": 64
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 116,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 76,
-      "extraversion": 55,
-      "agreeableness": 74,
-      "neuroticism": 63
+      "openness": 57,
+      "conscientiousness": 33,
+      "extraversion": 85,
+      "agreeableness": 21,
+      "neuroticism": 81
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.55
+    "mental_stability": 0.61
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Single",
     "debts": {
-      "amount": 20000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "amount": 0,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

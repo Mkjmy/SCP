@@ -1,23 +1,23 @@
 {
   "id": "npc_133",
   "bio": {
-    "full_name": "William Brown",
+    "full_name": "Daniel Kovacs",
     "gender": "Non-binary",
-    "orientation": "Asexual",
-    "age": 53,
-    "blood_type": "O+",
-    "genetic_stability": 0.906,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "A+",
+    "genetic_stability": 0.924,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 92,
-    "build": "Athletic",
+    "height_cm": 155,
+    "weight_kg": 63,
+    "build": "Average",
     "physical_features": {
-      "hair": "Red, Ponytail",
-      "eyes": "Hazel",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 4,
     "skills": {
-      "Stealth": 23,
-      "Perception": 49,
-      "Engineering": 41
+      "Engineering": 45,
+      "Medicine": 85,
+      "Perception": 13
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 144,
+    "iq": 126,
     "personality_matrix": {
-      "openness": 37,
-      "conscientiousness": 68,
-      "extraversion": 30,
-      "agreeableness": 91,
-      "neuroticism": 83
+      "openness": 12,
+      "conscientiousness": 84,
+      "extraversion": 93,
+      "agreeableness": 92,
+      "neuroticism": 54
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.67
+    "mental_stability": 0.83
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

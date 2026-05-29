@@ -1,23 +1,23 @@
 {
   "id": "npc_140",
   "bio": {
-    "full_name": "Thomas Johnson",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 45,
-    "blood_type": "A+",
-    "genetic_stability": 0.991,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Richard Johnson",
+    "gender": "Male",
+    "orientation": "Pansexual",
+    "age": 35,
+    "blood_type": "AB+",
+    "genetic_stability": 0.979,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 180,
-    "weight_kg": 65,
-    "build": "Average",
+    "height_cm": 184,
+    "weight_kg": 76,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Sharp blue",
+      "hair": "Dyed blue, Fade",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 94,
-      "Containment_Logic": 79,
-      "Persuasion": 74
+      "Perception": 30,
+      "Athletics": 18,
+      "Firearms": 52
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 84,
+    "iq": 86,
     "personality_matrix": {
-      "openness": 8,
-      "conscientiousness": 4,
-      "extraversion": 57,
-      "agreeableness": 44,
-      "neuroticism": 33
+      "openness": 15,
+      "conscientiousness": 56,
+      "extraversion": 11,
+      "agreeableness": 50,
+      "neuroticism": 88
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.44
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

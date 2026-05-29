@@ -1,23 +1,23 @@
 {
   "id": "npc_061",
   "bio": {
-    "full_name": "John Brown",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 27,
-    "blood_type": "O-",
-    "genetic_stability": 0.984,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Olga Johnson",
+    "gender": "Non-binary",
+    "orientation": "Homosexual",
+    "age": 33,
+    "blood_type": "A+",
+    "genetic_stability": 0.851,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 194,
-    "weight_kg": 81,
-    "build": "Stocky",
+    "height_cm": 195,
+    "weight_kg": 66,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Blonde, Buzz cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Silver, Pixie cut",
+      "eyes": "Grey",
       "notable_marks": [
-        "Check their watch every 30 seconds"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Medicine": 72,
-      "Perception": 81,
-      "Containment_Logic": 59
+      "Perception": 73,
+      "Hacking": 64,
+      "Containment_Logic": 37
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 123,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 48,
-      "conscientiousness": 58,
-      "extraversion": 4,
-      "agreeableness": 69,
-      "neuroticism": 99
+      "openness": 92,
+      "conscientiousness": 96,
+      "extraversion": 92,
+      "agreeableness": 55,
+      "neuroticism": 52
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.81
+    "mental_stability": 0.75
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Seeking promotion at any cost",

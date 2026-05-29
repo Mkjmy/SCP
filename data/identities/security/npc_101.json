@@ -1,60 +1,60 @@
 {
   "id": "npc_101",
   "bio": {
-    "full_name": "Chen Sato",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 40,
-    "blood_type": "B-",
-    "genetic_stability": 0.852,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Charles Dubois",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 57,
+    "blood_type": "O-",
+    "genetic_stability": 0.858,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 99,
+    "height_cm": 196,
+    "weight_kg": 105,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Manicured",
+      "hair": "Red, Shoulder-length",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 3,
+    "clearance": 1,
     "skills": {
-      "Engineering": 68,
-      "Persuasion": 14,
-      "Containment_Logic": 34
+      "Occult_Research": 22,
+      "Firearms": 84,
+      "Hacking": 41
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 154,
+    "iq": 92,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 55,
-      "extraversion": 10,
-      "agreeableness": 54,
-      "neuroticism": 99
+      "openness": 49,
+      "conscientiousness": 54,
+      "extraversion": 72,
+      "agreeableness": 50,
+      "neuroticism": 82
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.88
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Widowed",
     "debts": {
-      "amount": 5000,
+      "amount": 1000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_affiliation": "None"
   }
 }

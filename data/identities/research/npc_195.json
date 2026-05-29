@@ -1,0 +1,60 @@
+{
+  "id": "npc_195",
+  "bio": {
+    "full_name": "Charles Miller",
+    "gender": "Female",
+    "orientation": "Bisexual",
+    "age": 35,
+    "blood_type": "B-",
+    "genetic_stability": 0.909,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 175,
+    "weight_kg": 73,
+    "build": "Lithe",
+    "physical_features": {
+      "hair": "Red, Messy",
+      "eyes": "Hazel",
+      "notable_marks": [
+        "Check their watch every 30 seconds"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Hacking": 51,
+      "Perception": 94,
+      "Athletics": 34
+    },
+    "salary_level": "Grade-A"
+  },
+  "psychological_profile": {
+    "iq": 133,
+    "personality_matrix": {
+      "openness": 53,
+      "conscientiousness": 18,
+      "extraversion": 25,
+      "agreeableness": 23,
+      "neuroticism": 77
+    },
+    "phobias": [
+      "Scopophobia (Fear of being stared at)"
+    ],
+    "mental_stability": 0.73
+  },
+  "social_and_secrets": {
+    "family": "Single",
+    "debts": {
+      "amount": 0,
+      "creditor": "None"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_affiliation": "None"
+  }
+}

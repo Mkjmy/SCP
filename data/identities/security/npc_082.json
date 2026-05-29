@@ -1,23 +1,23 @@
 {
   "id": "npc_082",
   "bio": {
-    "full_name": "William O'Connor",
-    "gender": "Non-binary",
-    "orientation": "Bisexual",
-    "age": 57,
-    "blood_type": "A-",
-    "genetic_stability": 0.922,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Fatima Davis",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 60,
+    "blood_type": "B+",
+    "genetic_stability": 0.996,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 104,
-    "build": "Athletic",
+    "height_cm": 155,
+    "weight_kg": 67,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Fade",
-      "eyes": "Grey",
+      "hair": "Grey, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Drinks black coffee constantly"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 62,
-      "Hacking": 28,
-      "Perception": 56
+      "Medicine": 92,
+      "Occult_Research": 70,
+      "Stealth": 88
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 151,
+    "iq": 137,
     "personality_matrix": {
-      "openness": 0,
-      "conscientiousness": 65,
-      "extraversion": 69,
-      "agreeableness": 7,
-      "neuroticism": 38
+      "openness": 6,
+      "conscientiousness": 75,
+      "extraversion": 94,
+      "agreeableness": 63,
+      "neuroticism": 10
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 1.0
   },
   "social_and_secrets": {
-    "family": "Married, 2 children",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

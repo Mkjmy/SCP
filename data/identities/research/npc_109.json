@@ -1,21 +1,21 @@
 {
   "id": "npc_109",
   "bio": {
-    "full_name": "Lars Williams",
+    "full_name": "Sven O'Connor",
     "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 58,
-    "blood_type": "O+",
-    "genetic_stability": 0.9,
+    "orientation": "Pansexual",
+    "age": 45,
+    "blood_type": "B-",
+    "genetic_stability": 0.851,
     "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 197,
-    "weight_kg": 66,
-    "build": "Athletic",
+    "height_cm": 178,
+    "weight_kg": 85,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Black, Manicured",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Ponytail",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Twirls a pen between fingers"
       ]
@@ -25,33 +25,33 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Containment_Logic": 42,
-      "Engineering": 55,
-      "Persuasion": 48
+      "Engineering": 11,
+      "Occult_Research": 50,
+      "Stealth": 16
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 161,
+    "iq": 160,
     "personality_matrix": {
-      "openness": 55,
-      "conscientiousness": 47,
-      "extraversion": 36,
-      "agreeableness": 16,
-      "neuroticism": 78
+      "openness": 5,
+      "conscientiousness": 48,
+      "extraversion": 82,
+      "agreeableness": 23,
+      "neuroticism": 17
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.82
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",

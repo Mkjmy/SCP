@@ -1,23 +1,23 @@
 {
   "id": "npc_135",
   "bio": {
-    "full_name": "Richard Garcia",
-    "gender": "Agender",
-    "orientation": "Heterosexual",
-    "age": 38,
-    "blood_type": "A+",
-    "genetic_stability": 0.907,
+    "full_name": "John Garcia",
+    "gender": "Non-binary",
+    "orientation": "Bisexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.984,
     "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 101,
-    "build": "Slender",
+    "height_cm": 199,
+    "weight_kg": 51,
+    "build": "Athletic",
     "physical_features": {
       "hair": "Black, Bald",
-      "eyes": "Icy blue",
+      "eyes": "Grey",
       "notable_marks": [
-        "Cracks knuckles frequently"
+        "Nail biter"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 62,
-      "Stealth": 85,
-      "Athletics": 92
+      "Occult_Research": 63,
+      "Athletics": 55,
+      "Firearms": 16
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 103,
+    "iq": 87,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 52,
-      "extraversion": 60,
-      "agreeableness": 27,
-      "neuroticism": 10
+      "openness": 29,
+      "conscientiousness": 51,
+      "extraversion": 74,
+      "agreeableness": 47,
+      "neuroticism": 89
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
+      "amount": 100000,
       "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Obsessed with reaching Site-01",
     "hidden_affiliation": "None"
   }
 }

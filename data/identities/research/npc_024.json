@@ -1,23 +1,23 @@
 {
   "id": "npc_024",
   "bio": {
-    "full_name": "Charles O'Connor",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 22,
-    "blood_type": "O+",
-    "genetic_stability": 0.865,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "Olga Bakker",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 23,
+    "blood_type": "A+",
+    "genetic_stability": 0.982,
+    "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 172,
-    "weight_kg": 110,
-    "build": "Overweight",
+    "height_cm": 193,
+    "weight_kg": 107,
+    "build": "Frail",
     "physical_features": {
-      "hair": "Grey, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Brown, Pompadour",
+      "eyes": "Hazel",
       "notable_marks": [
-        "Nail biter"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -25,35 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Stealth": 80,
-      "Athletics": 24,
-      "Firearms": 47
+      "Athletics": 13,
+      "Medicine": 46,
+      "Stealth": 94
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 127,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 65,
-      "conscientiousness": 68,
-      "extraversion": 76,
-      "agreeableness": 53,
-      "neuroticism": 20
+      "openness": 48,
+      "conscientiousness": 80,
+      "extraversion": 86,
+      "agreeableness": 51,
+      "neuroticism": 56
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Nyctophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.6
+    "mental_stability": 0.79
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Single",
     "debts": {
       "amount": 1000,
-      "creditor": "Marshall, Carter & Dark Ltd."
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd."
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "None"
   }
 }

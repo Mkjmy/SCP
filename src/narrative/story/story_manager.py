@@ -36,6 +36,10 @@ class StoryManager:
                         self.completed_events.add(event_id)
                         continue
 
+                    # Check for NPCs to spawn
+                    if "spawns" in event:
+                        triggered_data["spawns"] = event["spawns"]
+
                     # If it's a CHOICE, we return the whole event to main_loop for processing
                     if event.get("type") == "CHOICE":
                         triggered_data["event"] = event
@@ -51,18 +55,36 @@ class StoryManager:
         """Executes the results of a player choosing an option in an event."""
         chosen_option = next((opt for opt in event.get("options", []) if opt["id"] == choice_id), None)
         if not chosen_option: return "Invalid choice."
-        
+
+        msg = chosen_option.get("log", "Event completed.")
         effects = chosen_option.get("effect", {})
-        msg = chosen_option.get("log", "Choice processed.")
-        
-        # Apply hidden effects
+
+        # Apply Effects
         if "morale" in effects: player.change_morale(effects["morale"])
         if "health" in effects: player.health += effects["health"]
+        if "stamina" in effects: player.stamina += effects["stamina"]
         if "sanity" in effects: player.change_sanity(effects.get("sanity", 0))
-        
+
+        # New Social/Anatomy Effects
+        if "inventory" in effects:
+            player.inventory.append(effects["inventory"])
+            msg += f"\n[Obtained: {effects['inventory']}]"
+
+        if "injury" in effects:
+            part, severity = effects["injury"].split(":")
+            # Use 'neck' as a proxy for 'spine' or 'skull' if exact part is missing
+            injury_res = player.apply_injury(part if part in player.body_parts else 'spine', severity)
+            msg += f"\n{injury_res}"
+
+        if "loyalty" in effects:
+            # We'll assume player.loyalty exists or just store in discovered_intel
+            player.discovered_intel.append(f"Loyalty: {effects['loyalty']}")
+            msg += f"\nYour status with the Foundation has shifted: {effects['loyalty']}"
+
         # Log the social/narrative result
         self.completed_events.add(event.get("id"))
-        return chosen_option.get("text") + "\n" + msg
+        return f"Selection: {chosen_option.get('text')}\n\nResult: {msg}"
+
 
     def execute_event(self, event, player, npc_manager, scp_manager):
         """Executes non-choice events."""

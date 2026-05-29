@@ -1,23 +1,23 @@
 {
   "id": "npc_112",
   "bio": {
-    "full_name": "Charles Kovacs",
+    "full_name": "Joshua Vasiliev",
     "gender": "Male",
-    "orientation": "Heterosexual",
-    "age": 46,
-    "blood_type": "A-",
-    "genetic_stability": 0.96,
-    "origin": "Former NASA engineer who saw too much"
+    "orientation": "Asexual",
+    "age": 65,
+    "blood_type": "O+",
+    "genetic_stability": 0.941,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 168,
-    "weight_kg": 58,
-    "build": "Heavily Muscular",
+    "height_cm": 177,
+    "weight_kg": 67,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Bald",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Grey, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Hums classical music"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Perception": 41,
-      "Stealth": 65,
-      "Engineering": 28
+      "Firearms": 70,
+      "Engineering": 46,
+      "Occult_Research": 39
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 149,
+    "iq": 153,
     "personality_matrix": {
-      "openness": 66,
-      "conscientiousness": 73,
-      "extraversion": 59,
-      "agreeableness": 38,
-      "neuroticism": 91
+      "openness": 57,
+      "conscientiousness": 89,
+      "extraversion": 24,
+      "agreeableness": 73,
+      "neuroticism": 95
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.8
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

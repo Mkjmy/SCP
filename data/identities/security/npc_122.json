@@ -1,60 +1,60 @@
 {
   "id": "npc_122",
   "bio": {
-    "full_name": "Maria Wong",
-    "gender": "Transgender",
+    "full_name": "Elena Jones",
+    "gender": "Male",
     "orientation": "Pansexual",
-    "age": 64,
-    "blood_type": "AB+",
-    "genetic_stability": 0.928,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 26,
+    "blood_type": "A+",
+    "genetic_stability": 0.911,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 56,
-    "build": "Lithe",
+    "height_cm": 192,
+    "weight_kg": 54,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Grey, Bald",
+      "hair": "White, Manicured",
       "eyes": "Grey",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Drinks black coffee constantly"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Perception": 88,
-      "Medicine": 53,
-      "Stealth": 87
+      "Perception": 60,
+      "Engineering": 78,
+      "Hacking": 90
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 133,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 91,
-      "conscientiousness": 37,
-      "extraversion": 38,
-      "agreeableness": 93,
-      "neuroticism": 28
+      "openness": 63,
+      "conscientiousness": 28,
+      "extraversion": 46,
+      "agreeableness": 27,
+      "neuroticism": 40
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.95
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Estranged from family",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_031",
   "bio": {
-    "full_name": "Fatima Sato",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 55,
-    "blood_type": "A+",
-    "genetic_stability": 0.86,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Sven Tanaka",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 28,
+    "blood_type": "O-",
+    "genetic_stability": 0.892,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 98,
-    "build": "Average",
+    "height_cm": 166,
+    "weight_kg": 103,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Red, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Grey, Pixie cut",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Janitor",
+    "role": "Engineer",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 38,
-      "Athletics": 81,
-      "Engineering": 62
+      "Hacking": 44,
+      "Containment_Logic": 68,
+      "Engineering": 91
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 120,
+    "iq": 135,
     "personality_matrix": {
       "openness": 13,
-      "conscientiousness": 1,
-      "extraversion": 15,
-      "agreeableness": 45,
-      "neuroticism": 55
+      "conscientiousness": 16,
+      "extraversion": 76,
+      "agreeableness": 58,
+      "neuroticism": 28
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.77
+    "mental_stability": 0.62
   },
   "social_and_secrets": {
     "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

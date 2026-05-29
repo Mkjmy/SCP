@@ -1,23 +1,23 @@
 {
   "id": "npc_023",
   "bio": {
-    "full_name": "Thomas Davis",
-    "gender": "Agender",
-    "orientation": "Asexual",
-    "age": 34,
-    "blood_type": "B-",
-    "genetic_stability": 0.89,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "James Schmidt",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 25,
+    "blood_type": "AB+",
+    "genetic_stability": 0.92,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 87,
+    "height_cm": 185,
+    "weight_kg": 101,
     "build": "Lithe",
     "physical_features": {
-      "hair": "Black, Shoulder-length",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Pixie cut",
+      "eyes": "Icy blue",
       "notable_marks": [
-        "Drinks black coffee constantly"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 51,
-      "Athletics": 55,
-      "Medicine": 35
+      "Containment_Logic": 59,
+      "Engineering": 38,
+      "Occult_Research": 84
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 85,
     "personality_matrix": {
-      "openness": 93,
-      "conscientiousness": 67,
-      "extraversion": 30,
-      "agreeableness": 83,
-      "neuroticism": 97
+      "openness": 10,
+      "conscientiousness": 4,
+      "extraversion": 20,
+      "agreeableness": 20,
+      "neuroticism": 10
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.65
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 100000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

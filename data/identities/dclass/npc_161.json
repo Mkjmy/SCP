@@ -1,23 +1,23 @@
 {
   "id": "npc_161",
   "bio": {
-    "full_name": "Arjun Smith",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 27,
-    "blood_type": "AB+",
-    "genetic_stability": 0.936,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Andrew Schmidt",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 32,
+    "blood_type": "O-",
+    "genetic_stability": 0.887,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 186,
-    "weight_kg": 53,
-    "build": "Stocky",
+    "height_cm": 171,
+    "weight_kg": 103,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Brown, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 64,
-      "Containment_Logic": 60,
-      "Perception": 21
+      "Perception": 36,
+      "Hacking": 11,
+      "Persuasion": 79
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 100,
+    "iq": 110,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 89,
-      "extraversion": 15,
-      "agreeableness": 71,
-      "neuroticism": 12
+      "openness": 29,
+      "conscientiousness": 25,
+      "extraversion": 60,
+      "agreeableness": 99,
+      "neuroticism": 17
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.89
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

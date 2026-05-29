@@ -1,21 +1,21 @@
 {
   "id": "npc_110",
   "bio": {
-    "full_name": "Donald Garcia",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 37,
-    "blood_type": "B+",
-    "genetic_stability": 0.934,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Paul Kovacs",
+    "gender": "Male",
+    "orientation": "Bisexual",
+    "age": 44,
+    "blood_type": "A+",
+    "genetic_stability": 0.88,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 105,
-    "build": "Lithe",
+    "height_cm": 159,
+    "weight_kg": 73,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Bald",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Messy",
+      "eyes": "Amber",
       "notable_marks": [
         "Nail biter"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 74,
-      "Firearms": 83,
-      "Athletics": 25
+      "Containment_Logic": 88,
+      "Occult_Research": 91,
+      "Perception": 60
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 88,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 30,
-      "conscientiousness": 29,
-      "extraversion": 7,
-      "agreeableness": 59,
-      "neuroticism": 68
+      "openness": 50,
+      "conscientiousness": 86,
+      "extraversion": 100,
+      "agreeableness": 1,
+      "neuroticism": 92
     },
     "phobias": [
       "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.69
+    "mental_stability": 0.6
   },
   "social_and_secrets": {
-    "family": "Estranged from family",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

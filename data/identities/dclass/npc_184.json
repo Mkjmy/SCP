@@ -1,23 +1,23 @@
 {
   "id": "npc_184",
   "bio": {
-    "full_name": "Joseph Muller",
-    "gender": "Female",
-    "orientation": "Bisexual",
-    "age": 33,
-    "blood_type": "B-",
-    "genetic_stability": 0.977,
-    "origin": "Rescued from a defunct GOI cell"
+    "full_name": "Olga Jones",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 30,
+    "blood_type": "A-",
+    "genetic_stability": 0.97,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 196,
-    "weight_kg": 98,
-    "build": "Average",
+    "height_cm": 159,
+    "weight_kg": 59,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Grey",
+      "hair": "Silver, Wild and unkempt",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Nail biter"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Firearms": 92,
       "Containment_Logic": 61,
-      "Engineering": 54
+      "Persuasion": 22,
+      "Perception": 39
     },
     "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 88,
     "personality_matrix": {
-      "openness": 79,
-      "conscientiousness": 38,
-      "extraversion": 88,
-      "agreeableness": 78,
-      "neuroticism": 47
+      "openness": 21,
+      "conscientiousness": 42,
+      "extraversion": 14,
+      "agreeableness": 55,
+      "neuroticism": 95
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 1000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

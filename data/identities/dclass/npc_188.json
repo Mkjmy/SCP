@@ -1,21 +1,21 @@
 {
   "id": "npc_188",
   "bio": {
-    "full_name": "Maria Garcia",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 39,
-    "blood_type": "B-",
-    "genetic_stability": 0.924,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Richard Bakker",
+    "gender": "Female",
+    "orientation": "Heterosexual",
+    "age": 27,
+    "blood_type": "AB+",
+    "genetic_stability": 0.904,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 156,
-    "weight_kg": 68,
-    "build": "Overweight",
+    "height_cm": 155,
+    "weight_kg": 69,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Icy blue",
+      "hair": "Blonde, Shoulder-length",
+      "eyes": "Grey",
       "notable_marks": [
         "Smokes heavily"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 87,
-      "Firearms": 24,
-      "Perception": 54
+      "Hacking": 81,
+      "Engineering": 38,
+      "Athletics": 31
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 83,
+    "iq": 80,
     "personality_matrix": {
-      "openness": 73,
-      "conscientiousness": 18,
+      "openness": 78,
+      "conscientiousness": 8,
       "extraversion": 67,
-      "agreeableness": 46,
-      "neuroticism": 73
+      "agreeableness": 1,
+      "neuroticism": 52
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.68
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
       "amount": 5000,
-      "creditor": "None"
+      "creditor": "Foundation Housing Loan"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

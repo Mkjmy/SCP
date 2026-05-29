@@ -1,0 +1,60 @@
+{
+  "id": "npc_203",
+  "bio": {
+    "full_name": "Richard Wong",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 38,
+    "blood_type": "AB+",
+    "genetic_stability": 0.978,
+    "origin": "Ex-military police recruited after a classified incident"
+  },
+  "appearance": {
+    "height_cm": 199,
+    "weight_kg": 90,
+    "build": "Overweight",
+    "physical_features": {
+      "hair": "White, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
+      "notable_marks": [
+        "Drinks black coffee constantly"
+      ]
+    }
+  },
+  "professional_file": {
+    "role": "Scientist",
+    "department": "Research & Science",
+    "assigned_scp": null,
+    "clearance": 3,
+    "skills": {
+      "Athletics": 89,
+      "Perception": 11,
+      "Hacking": 23
+    },
+    "salary_level": "Grade-B"
+  },
+  "psychological_profile": {
+    "iq": 146,
+    "personality_matrix": {
+      "openness": 22,
+      "conscientiousness": 23,
+      "extraversion": 71,
+      "agreeableness": 34,
+      "neuroticism": 73
+    },
+    "phobias": [
+      "Aphenphosmphobia (Fear of intimacy)"
+    ],
+    "mental_stability": 0.94
+  },
+  "social_and_secrets": {
+    "family": "Widowed",
+    "debts": {
+      "amount": 100000,
+      "creditor": "Local Mob"
+    },
+    "loyalty_status": "LOYAL",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_affiliation": "None"
+  }
+}

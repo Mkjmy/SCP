@@ -1,23 +1,23 @@
 {
   "id": "npc_134",
   "bio": {
-    "full_name": "Matthew Kovacs",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 27,
-    "blood_type": "AB-",
-    "genetic_stability": 0.898,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Matthew Johnson",
+    "gender": "Female",
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "O+",
+    "genetic_stability": 0.957,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 174,
-    "weight_kg": 76,
-    "build": "Average",
+    "height_cm": 186,
+    "weight_kg": 79,
+    "build": "Heavily Muscular",
     "physical_features": {
-      "hair": "White, Wild and unkempt",
+      "hair": "White, Buzz cut",
       "eyes": "Hazel",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Perception": 31,
-      "Containment_Logic": 69,
-      "Medicine": 28
+      "Persuasion": 77,
+      "Perception": 36,
+      "Occult_Research": 65
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 85,
+    "iq": 89,
     "personality_matrix": {
-      "openness": 72,
-      "conscientiousness": 46,
-      "extraversion": 10,
-      "agreeableness": 80,
-      "neuroticism": 95
+      "openness": 68,
+      "conscientiousness": 94,
+      "extraversion": 0,
+      "agreeableness": 64,
+      "neuroticism": 75
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.45
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Orphaned",
     "debts": {
       "amount": 20000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Attempting to steal a specific SCP object",
     "hidden_affiliation": "None"
   }
 }

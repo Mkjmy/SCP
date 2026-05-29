@@ -1,23 +1,23 @@
 {
   "id": "npc_027",
   "bio": {
-    "full_name": "Joshua Wong",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 25,
-    "blood_type": "O-",
-    "genetic_stability": 0.868,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Olga Garcia",
+    "gender": "Non-binary",
+    "orientation": "Pansexual",
+    "age": 24,
+    "blood_type": "B-",
+    "genetic_stability": 0.881,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 60,
-    "build": "Overweight",
+    "height_cm": 157,
+    "weight_kg": 103,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
+      "hair": "Brown, Ponytail",
       "eyes": "Grey",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Cracks knuckles frequently"
       ]
     }
   },
@@ -27,31 +27,31 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 81,
-      "Engineering": 46,
-      "Medicine": 63
+      "Engineering": 10,
+      "Perception": 13,
+      "Stealth": 68
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 113,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 31,
-      "conscientiousness": 15,
-      "extraversion": 67,
-      "agreeableness": 11,
-      "neuroticism": 10
+      "openness": 5,
+      "conscientiousness": 29,
+      "extraversion": 22,
+      "agreeableness": 30,
+      "neuroticism": 52
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.42
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
     "hidden_agenda": "Attempting to steal a specific SCP object",

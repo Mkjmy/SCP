@@ -1,60 +1,60 @@
 {
   "id": "npc_191",
   "bio": {
-    "full_name": "Andrew Garcia",
-    "gender": "Female",
-    "orientation": "Pansexual",
-    "age": 52,
-    "blood_type": "B-",
-    "genetic_stability": 0.866,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Charles Vasiliev",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 29,
+    "blood_type": "O-",
+    "genetic_stability": 0.987,
+    "origin": "Raised in a Foundation-sponsored orphanage"
   },
   "appearance": {
-    "height_cm": 187,
-    "weight_kg": 61,
-    "build": "Stocky",
+    "height_cm": 194,
+    "weight_kg": 78,
+    "build": "Average",
     "physical_features": {
-      "hair": "Dyed blue, Bald",
-      "eyes": "Grey",
+      "hair": "Dyed blue, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Hums classical music"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 3,
     "skills": {
-      "Hacking": 93,
-      "Persuasion": 35,
-      "Stealth": 20
+      "Medicine": 25,
+      "Stealth": 59,
+      "Firearms": 56
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 135,
     "personality_matrix": {
-      "openness": 89,
-      "conscientiousness": 61,
-      "extraversion": 57,
-      "agreeableness": 74,
-      "neuroticism": 70
+      "openness": 8,
+      "conscientiousness": 92,
+      "extraversion": 76,
+      "agreeableness": 71,
+      "neuroticism": 72
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.54
+    "mental_stability": 0.57
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Single",
     "debts": {
       "amount": 0,
-      "creditor": "Local Mob"
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }

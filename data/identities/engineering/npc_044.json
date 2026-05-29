@@ -1,23 +1,23 @@
 {
   "id": "npc_044",
   "bio": {
-    "full_name": "Mark Davis",
-    "gender": "Male",
-    "orientation": "Bisexual",
-    "age": 24,
-    "blood_type": "A-",
-    "genetic_stability": 0.922,
-    "origin": "Former investigative journalist who dug too deep"
+    "full_name": "Olga Bakker",
+    "gender": "Female",
+    "orientation": "Asexual",
+    "age": 54,
+    "blood_type": "B-",
+    "genetic_stability": 0.966,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 181,
-    "weight_kg": 109,
-    "build": "Athletic",
+    "height_cm": 164,
+    "weight_kg": 69,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Silver, Fade",
-      "eyes": "Icy blue",
+      "hair": "Dyed blue, Pompadour",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Hacking": 60,
-      "Stealth": 55,
-      "Perception": 90
+      "Firearms": 88,
+      "Medicine": 87,
+      "Occult_Research": 59
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 105,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 6,
-      "conscientiousness": 75,
-      "extraversion": 78,
-      "agreeableness": 62,
-      "neuroticism": 92
+      "openness": 10,
+      "conscientiousness": 32,
+      "extraversion": 0,
+      "agreeableness": 4,
+      "neuroticism": 20
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.99
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 20000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

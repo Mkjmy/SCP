@@ -1,23 +1,23 @@
 {
   "id": "npc_123",
   "bio": {
-    "full_name": "Steven Schmidt",
-    "gender": "Transgender",
-    "orientation": "Heterosexual",
-    "age": 22,
-    "blood_type": "A+",
-    "genetic_stability": 0.974,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Elena Vasiliev",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 58,
+    "blood_type": "AB+",
+    "genetic_stability": 0.856,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 89,
-    "build": "Athletic",
+    "height_cm": 161,
+    "weight_kg": 59,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Dyed green, Messy",
-      "eyes": "Sharp blue",
+      "hair": "Grey, Manicured",
+      "eyes": "Emerald green",
       "notable_marks": [
-        "Talks to self in whispers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Scientist",
     "department": "Research & Science",
     "assigned_scp": null,
-    "clearance": 4,
+    "clearance": 3,
     "skills": {
-      "Athletics": 84,
-      "Medicine": 84,
-      "Occult_Research": 25
+      "Athletics": 85,
+      "Perception": 41,
+      "Engineering": 14
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 145,
+    "iq": 150,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 77,
-      "extraversion": 11,
-      "agreeableness": 84,
-      "neuroticism": 94
+      "openness": 10,
+      "conscientiousness": 13,
+      "extraversion": 54,
+      "agreeableness": 21,
+      "neuroticism": 93
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.56
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
       "amount": 5000,
-      "creditor": "Foundation Housing Loan"
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

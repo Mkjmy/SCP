@@ -1,60 +1,60 @@
 {
   "id": "npc_090",
   "bio": {
-    "full_name": "Thomas Dubois",
+    "full_name": "Mark Garcia",
     "gender": "Agender",
-    "orientation": "Homosexual",
-    "age": 29,
-    "blood_type": "AB+",
-    "genetic_stability": 0.986,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "orientation": "Pansexual",
+    "age": 22,
+    "blood_type": "A-",
+    "genetic_stability": 0.979,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 195,
-    "weight_kg": 87,
-    "build": "Frail",
+    "height_cm": 165,
+    "weight_kg": 60,
+    "build": "Overweight",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Amber",
+      "hair": "Black, Fade",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Smokes heavily"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Occult_Research": 34,
-      "Athletics": 57,
-      "Engineering": 19
+      "Medicine": 79,
+      "Stealth": 54,
+      "Containment_Logic": 33
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 134,
+    "iq": 120,
     "personality_matrix": {
-      "openness": 93,
-      "conscientiousness": 95,
-      "extraversion": 25,
-      "agreeableness": 61,
-      "neuroticism": 12
+      "openness": 97,
+      "conscientiousness": 22,
+      "extraversion": 32,
+      "agreeableness": 80,
+      "neuroticism": 17
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.59
+    "mental_stability": 0.99
   },
   "social_and_secrets": {
-    "family": "Married, no children",
+    "family": "Divorced",
     "debts": {
       "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "None"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "CHAOS_INSURGENCY_SPY"
   }
 }

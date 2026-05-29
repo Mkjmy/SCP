@@ -1,23 +1,23 @@
 {
   "id": "npc_193",
   "bio": {
-    "full_name": "David Brown",
-    "gender": "Male",
-    "orientation": "Homosexual",
-    "age": 21,
-    "blood_type": "O+",
-    "genetic_stability": 0.957,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "Andrew Miller",
+    "gender": "Agender",
+    "orientation": "Heterosexual",
+    "age": 45,
+    "blood_type": "AB-",
+    "genetic_stability": 0.885,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 184,
-    "weight_kg": 59,
-    "build": "Lithe",
+    "height_cm": 178,
+    "weight_kg": 82,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Pompadour",
-      "eyes": "Grey",
+      "hair": "Silver, Fade",
+      "eyes": "Deep brown",
       "notable_marks": [
-        "Obsessively cleans their glasses"
+        "Check their watch every 30 seconds"
       ]
     }
   },
@@ -27,33 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 17,
-      "Persuasion": 81,
-      "Athletics": 42
+      "Perception": 35,
+      "Containment_Logic": 59,
+      "Engineering": 93
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 92,
+    "iq": 109,
     "personality_matrix": {
-      "openness": 70,
-      "conscientiousness": 97,
-      "extraversion": 67,
-      "agreeableness": 87,
-      "neuroticism": 8
+      "openness": 30,
+      "conscientiousness": 4,
+      "extraversion": 10,
+      "agreeableness": 32,
+      "neuroticism": 5
     },
     "phobias": [
-      "Achluophobia (Fear of darkness)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.83
+    "mental_stability": 0.7
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Orphaned",
     "debts": {
-      "amount": 100000,
-      "creditor": "None"
+      "amount": 20000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent"
+    "hidden_agenda": "Trying to clear their family name",
+    "hidden_affiliation": "ISD_UNDERCOVER"
   }
 }

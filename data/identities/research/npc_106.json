@@ -1,21 +1,21 @@
 {
   "id": "npc_106",
   "bio": {
-    "full_name": "Donald Garcia",
-    "gender": "Female",
+    "full_name": "William Bakker",
+    "gender": "Transgender",
     "orientation": "Bisexual",
-    "age": 23,
+    "age": 41,
     "blood_type": "B-",
-    "genetic_stability": 0.961,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "genetic_stability": 0.867,
+    "origin": "Former university professor specialized in anomalous biology"
   },
   "appearance": {
-    "height_cm": 165,
-    "weight_kg": 92,
-    "build": "Overweight",
+    "height_cm": 183,
+    "weight_kg": 85,
+    "build": "Average",
     "physical_features": {
-      "hair": "Silver, Ponytail",
-      "eyes": "Sharp blue",
+      "hair": "White, Shoulder-length",
+      "eyes": "Emerald green",
       "notable_marks": [
         "Drinks black coffee constantly"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 4,
     "skills": {
-      "Athletics": 52,
-      "Hacking": 46,
-      "Medicine": 46
+      "Persuasion": 94,
+      "Containment_Logic": 38,
+      "Hacking": 62
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 141,
+    "iq": 142,
     "personality_matrix": {
-      "openness": 29,
-      "conscientiousness": 31,
-      "extraversion": 24,
-      "agreeableness": 57,
-      "neuroticism": 76
+      "openness": 18,
+      "conscientiousness": 69,
+      "extraversion": 100,
+      "agreeableness": 69,
+      "neuroticism": 62
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.57
+    "mental_stability": 0.63
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Single",
     "debts": {
-      "amount": 0,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Obsessed with reaching Site-01",
+    "hidden_agenda": "Seeking promotion at any cost",
     "hidden_affiliation": "None"
   }
 }

@@ -1,60 +1,60 @@
 {
   "id": "npc_074",
   "bio": {
-    "full_name": "Arjun Davis",
-    "gender": "Agender",
-    "orientation": "Bisexual",
-    "age": 46,
-    "blood_type": "A-",
-    "genetic_stability": 0.913,
-    "origin": "Brilliant mathematician with a history of mental instability"
+    "full_name": "Daniel Bakker",
+    "gender": "Non-binary",
+    "orientation": "Heterosexual",
+    "age": 31,
+    "blood_type": "B-",
+    "genetic_stability": 0.866,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 167,
-    "weight_kg": 80,
-    "build": "Athletic",
+    "height_cm": 170,
+    "weight_kg": 69,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "White, Pixie cut",
-      "eyes": "Grey",
+      "hair": "Blonde, Buzz cut",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Taps fingers rhythmically"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 1,
     "skills": {
-      "Stealth": 89,
-      "Occult_Research": 72,
-      "Athletics": 53
+      "Athletics": 54,
+      "Engineering": 79,
+      "Persuasion": 31
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 143,
+    "iq": 130,
     "personality_matrix": {
-      "openness": 18,
-      "conscientiousness": 57,
-      "extraversion": 10,
-      "agreeableness": 90,
-      "neuroticism": 28
+      "openness": 7,
+      "conscientiousness": 33,
+      "extraversion": 69,
+      "agreeableness": 83,
+      "neuroticism": 13
     },
     "phobias": [
-      "Automatonophobia (Fear of human-like figures)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.94
+    "mental_stability": 0.81
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, no children",
     "debts": {
-      "amount": 1000,
-      "creditor": "None"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

@@ -1,23 +1,23 @@
 {
   "id": "npc_145",
   "bio": {
-    "full_name": "Christopher Ivanov",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 26,
-    "blood_type": "O+",
-    "genetic_stability": 0.973,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "full_name": "Olga Williams",
+    "gender": "Agender",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "AB-",
+    "genetic_stability": 0.962,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 161,
-    "weight_kg": 89,
-    "build": "Lithe",
+    "height_cm": 196,
+    "weight_kg": 105,
+    "build": "Average",
     "physical_features": {
-      "hair": "White, Fade",
-      "eyes": "Icy blue",
+      "hair": "Brown, Ponytail",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Smokes heavily"
+        "Twirls a pen between fingers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Stealth": 56,
-      "Engineering": 26,
-      "Medicine": 54
+      "Hacking": 92,
+      "Persuasion": 43,
+      "Perception": 40
     },
     "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 109,
+    "iq": 91,
     "personality_matrix": {
-      "openness": 86,
-      "conscientiousness": 72,
-      "extraversion": 6,
+      "openness": 22,
+      "conscientiousness": 51,
+      "extraversion": 86,
       "agreeableness": 92,
-      "neuroticism": 30
+      "neuroticism": 4
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Achluophobia (Fear of darkness)"
     ],
-    "mental_stability": 0.51
+    "mental_stability": 0.54
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Widowed",
     "debts": {
       "amount": 20000,
       "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Undercover ISD agent",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

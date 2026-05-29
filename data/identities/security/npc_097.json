@@ -1,23 +1,23 @@
 {
   "id": "npc_097",
   "bio": {
-    "full_name": "Anthony Johnson",
-    "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 49,
-    "blood_type": "AB+",
-    "genetic_stability": 0.886,
-    "origin": "Raised in a Foundation-sponsored orphanage"
+    "full_name": "Paul Sato",
+    "gender": "Female",
+    "orientation": "Homosexual",
+    "age": 39,
+    "blood_type": "B+",
+    "genetic_stability": 0.876,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 171,
-    "weight_kg": 78,
+    "height_cm": 179,
+    "weight_kg": 69,
     "build": "Overweight",
     "physical_features": {
-      "hair": "Red, Manicured",
-      "eyes": "Emerald green",
+      "hair": "Silver, Fade",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Hums classical music"
+        "Talks to self in whispers"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Occult_Research": 13,
-      "Perception": 36,
-      "Engineering": 61
+      "Athletics": 85,
+      "Medicine": 81,
+      "Containment_Logic": 25
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 137,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 68,
-      "conscientiousness": 60,
-      "extraversion": 19,
-      "agreeableness": 10,
-      "neuroticism": 71
+      "openness": 55,
+      "conscientiousness": 86,
+      "extraversion": 90,
+      "agreeableness": 42,
+      "neuroticism": 24
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Kenophobia (Fear of voids or empty spaces)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.92
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 100000,
+      "amount": 1000,
       "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

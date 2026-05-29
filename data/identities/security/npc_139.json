@@ -1,60 +1,60 @@
 {
   "id": "npc_139",
   "bio": {
-    "full_name": "Arjun Wong",
+    "full_name": "Charles Gupta",
     "gender": "Female",
     "orientation": "Pansexual",
-    "age": 29,
-    "blood_type": "AB-",
-    "genetic_stability": 0.974,
-    "origin": "Rescued from a defunct GOI cell"
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.882,
+    "origin": "Former NASA engineer who saw too much"
   },
   "appearance": {
-    "height_cm": 190,
-    "weight_kg": 98,
+    "height_cm": 174,
+    "weight_kg": 90,
     "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed blue, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Black, Buzz cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Talks to self in whispers"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Medicine": 51,
-      "Engineering": 94,
-      "Stealth": 68
+      "Occult_Research": 50,
+      "Hacking": 50,
+      "Containment_Logic": 13
     },
-    "salary_level": "Grade-A"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 160,
+    "iq": 129,
     "personality_matrix": {
-      "openness": 73,
-      "conscientiousness": 96,
-      "extraversion": 38,
-      "agreeableness": 36,
-      "neuroticism": 70
+      "openness": 72,
+      "conscientiousness": 90,
+      "extraversion": 4,
+      "agreeableness": 87,
+      "neuroticism": 51
     },
     "phobias": [
-      "Scopophobia (Fear of being stared at)"
+      "Claustrophobia (Fear of confined spaces)"
     ],
-    "mental_stability": 0.43
+    "mental_stability": 0.49
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Married, 2 children",
     "debts": {
       "amount": 1000,
-      "creditor": "None"
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Spying for the Chaos Insurgency",
     "hidden_affiliation": "None"
   }
 }

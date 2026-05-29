@@ -1,60 +1,60 @@
 {
   "id": "npc_183",
   "bio": {
-    "full_name": "Andrew Jones",
-    "gender": "Female",
-    "orientation": "Asexual",
-    "age": 47,
-    "blood_type": "AB-",
-    "genetic_stability": 0.964,
-    "origin": "Ex-military police recruited after a classified incident"
+    "full_name": "Yuki Dubois",
+    "gender": "Male",
+    "orientation": "Homosexual",
+    "age": 51,
+    "blood_type": "AB+",
+    "genetic_stability": 0.901,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 102,
-    "build": "Lithe",
+    "height_cm": 174,
+    "weight_kg": 96,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Dyed green, Pompadour",
-      "eyes": "Sharp blue",
+      "hair": "Blonde, Manicured",
+      "eyes": "Amber",
       "notable_marks": [
-        "Hums classical music"
+        "Nail biter"
       ]
     }
   },
   "professional_file": {
-    "role": "Engineer",
+    "role": "Janitor",
     "department": "Engineering",
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Containment_Logic": 84,
-      "Occult_Research": 93,
-      "Firearms": 70
+      "Medicine": 51,
+      "Occult_Research": 66,
+      "Persuasion": 76
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 118,
+    "iq": 141,
     "personality_matrix": {
-      "openness": 4,
-      "conscientiousness": 88,
-      "extraversion": 71,
-      "agreeableness": 88,
-      "neuroticism": 18
+      "openness": 81,
+      "conscientiousness": 80,
+      "extraversion": 20,
+      "agreeableness": 16,
+      "neuroticism": 43
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of being touched)"
+      "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.5
+    "mental_stability": 0.84
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, no children",
     "debts": {
-      "amount": 100000,
-      "creditor": "Student Loans"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
+    "hidden_agenda": "Undercover ISD agent",
     "hidden_affiliation": "None"
   }
 }

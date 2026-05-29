@@ -1,60 +1,60 @@
 {
   "id": "npc_199",
   "bio": {
-    "full_name": "Maria Wong",
-    "gender": "Female",
-    "orientation": "Heterosexual",
-    "age": 29,
-    "blood_type": "O+",
-    "genetic_stability": 0.987,
+    "full_name": "Andrew Ivanov",
+    "gender": "Transgender",
+    "orientation": "Bisexual",
+    "age": 36,
+    "blood_type": "O-",
+    "genetic_stability": 0.944,
     "origin": "Brilliant mathematician with a history of mental instability"
   },
   "appearance": {
-    "height_cm": 192,
-    "weight_kg": 109,
-    "build": "Frail",
+    "height_cm": 194,
+    "weight_kg": 59,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Red, Shoulder-length",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Pompadour",
+      "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
         "Check their watch every 30 seconds"
       ]
     }
   },
   "professional_file": {
-    "role": "ISD Agent",
+    "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 3,
     "skills": {
-      "Occult_Research": 22,
-      "Perception": 16,
-      "Hacking": 83
+      "Medicine": 52,
+      "Persuasion": 86,
+      "Perception": 49
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 112,
+    "iq": 155,
     "personality_matrix": {
-      "openness": 28,
-      "conscientiousness": 20,
-      "extraversion": 54,
-      "agreeableness": 52,
-      "neuroticism": 40
+      "openness": 12,
+      "conscientiousness": 73,
+      "extraversion": 82,
+      "agreeableness": 86,
+      "neuroticism": 59
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Chronophobia (Fear of time passing)"
     ],
-    "mental_stability": 0.76
+    "mental_stability": 0.82
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Estranged from family",
     "debts": {
-      "amount": 5000,
-      "creditor": "Local Mob"
+      "amount": 0,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

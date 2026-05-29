@@ -1,23 +1,23 @@
 {
   "id": "npc_063",
   "bio": {
-    "full_name": "Joseph Bakker",
+    "full_name": "Kenji Brown",
     "gender": "Female",
     "orientation": "Pansexual",
-    "age": 33,
+    "age": 41,
     "blood_type": "B-",
-    "genetic_stability": 0.977,
-    "origin": "Former deep-sea diver with encounters in the Pacific"
+    "genetic_stability": 0.921,
+    "origin": "Rescued from a defunct GOI cell"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 90,
+    "height_cm": 182,
+    "weight_kg": 70,
     "build": "Overweight",
     "physical_features": {
-      "hair": "White, Ponytail",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Blonde, Pixie cut",
+      "eyes": "Amber",
       "notable_marks": [
-        "Smokes heavily"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Occult_Research": 79,
-      "Stealth": 45,
-      "Persuasion": 63
+      "Perception": 71,
+      "Engineering": 79,
+      "Hacking": 85
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-C"
   },
   "psychological_profile": {
-    "iq": 89,
+    "iq": 93,
     "personality_matrix": {
-      "openness": 46,
-      "conscientiousness": 3,
-      "extraversion": 67,
-      "agreeableness": 81,
-      "neuroticism": 55
+      "openness": 81,
+      "conscientiousness": 50,
+      "extraversion": 41,
+      "agreeableness": 54,
+      "neuroticism": 89
     },
     "phobias": [
-      "Claustrophobia (Fear of confined spaces)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.91
+    "mental_stability": 0.74
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Married, 2 children",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 5000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
-    "hidden_affiliation": "ISD_UNDERCOVER"
+    "hidden_agenda": "Seeking promotion at any cost",
+    "hidden_affiliation": "None"
   }
 }

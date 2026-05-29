@@ -1,23 +1,23 @@
 {
   "id": "npc_017",
   "bio": {
-    "full_name": "Michael Davis",
+    "full_name": "David Dubois",
     "gender": "Non-binary",
     "orientation": "Bisexual",
-    "age": 63,
-    "blood_type": "A+",
-    "genetic_stability": 0.993,
-    "origin": "Ex-military police recruited after a classified incident"
+    "age": 62,
+    "blood_type": "O+",
+    "genetic_stability": 0.971,
+    "origin": "Ex-special forces with experience in urban warfare"
   },
   "appearance": {
-    "height_cm": 178,
-    "weight_kg": 54,
-    "build": "Frail",
+    "height_cm": 182,
+    "weight_kg": 99,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Grey, Pompadour",
-      "eyes": "Icy blue",
+      "hair": "White, Pompadour",
+      "eyes": "Sharp blue",
       "notable_marks": [
-        "Smokes heavily"
+        "Taps fingers rhythmically"
       ]
     }
   },
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Medicine": 59,
-      "Persuasion": 55,
-      "Engineering": 37
+      "Persuasion": 23,
+      "Hacking": 79,
+      "Medicine": 52
     },
     "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 104,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 55,
-      "extraversion": 62,
-      "agreeableness": 65,
-      "neuroticism": 91
+      "openness": 94,
+      "conscientiousness": 50,
+      "extraversion": 40,
+      "agreeableness": 82,
+      "neuroticism": 27
     },
     "phobias": [
       "Scopophobia (Fear of being stared at)"
     ],
-    "mental_stability": 0.56
+    "mental_stability": 0.47
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 0,
-      "creditor": "None"
+      "amount": 1000,
+      "creditor": "Student Loans"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Trying to clear their family name",
+    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
     "hidden_affiliation": "None"
   }
 }

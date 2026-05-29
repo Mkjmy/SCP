@@ -1,23 +1,23 @@
 {
   "id": "npc_131",
   "bio": {
-    "full_name": "Michael Williams",
-    "gender": "Non-binary",
-    "orientation": "Pansexual",
-    "age": 62,
-    "blood_type": "B+",
-    "genetic_stability": 0.872,
-    "origin": "Ex-special forces with experience in urban warfare"
+    "full_name": "Charles Muller",
+    "gender": "Transgender",
+    "orientation": "Homosexual",
+    "age": 42,
+    "blood_type": "AB-",
+    "genetic_stability": 0.878,
+    "origin": "Former deep-sea diver with encounters in the Pacific"
   },
   "appearance": {
-    "height_cm": 157,
-    "weight_kg": 75,
-    "build": "Heavily Muscular",
+    "height_cm": 155,
+    "weight_kg": 107,
+    "build": "Lithe",
     "physical_features": {
-      "hair": "Dyed green, Buzz cut",
+      "hair": "Black, Manicured",
       "eyes": "Heterochromatic (Grey/Blue)",
       "notable_marks": [
-        "Twirls a pen between fingers"
+        "Obsessively cleans their glasses"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 1,
+    "clearance": 2,
     "skills": {
-      "Perception": 12,
-      "Occult_Research": 26,
-      "Hacking": 83
+      "Persuasion": 92,
+      "Engineering": 77,
+      "Perception": 36
     },
-    "salary_level": "Grade-B"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 99,
+    "iq": 134,
     "personality_matrix": {
-      "openness": 65,
-      "conscientiousness": 74,
+      "openness": 60,
+      "conscientiousness": 81,
       "extraversion": 72,
-      "agreeableness": 28,
-      "neuroticism": 81
+      "agreeableness": 10,
+      "neuroticism": 90
     },
     "phobias": [
-      "Nyctophobia (Fear of darkness)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.41
+    "mental_stability": 0.87
   },
   "social_and_secrets": {
-    "family": "Orphaned",
+    "family": "Married, no children",
     "debts": {
-      "amount": 20000,
-      "creditor": "Foundation Housing Loan"
+      "amount": 5000,
+      "creditor": "None"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "In debt to Marshall, Carter & Dark Ltd.",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

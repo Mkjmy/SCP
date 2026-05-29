@@ -1,60 +1,60 @@
 {
   "id": "npc_070",
   "bio": {
-    "full_name": "Lars Muller",
+    "full_name": "Lars Garcia",
     "gender": "Transgender",
-    "orientation": "Asexual",
-    "age": 32,
-    "blood_type": "AB-",
-    "genetic_stability": 0.932,
-    "origin": "Former investigative journalist who dug too deep"
+    "orientation": "Bisexual",
+    "age": 51,
+    "blood_type": "O+",
+    "genetic_stability": 0.864,
+    "origin": "Ex-military police recruited after a classified incident"
   },
   "appearance": {
     "height_cm": 176,
-    "weight_kg": 80,
-    "build": "Overweight",
+    "weight_kg": 81,
+    "build": "Average",
     "physical_features": {
-      "hair": "Grey, Manicured",
-      "eyes": "Deep brown",
+      "hair": "Red, Bald",
+      "eyes": "Amber",
       "notable_marks": [
         "Cracks knuckles frequently"
       ]
     }
   },
   "professional_file": {
-    "role": "Guard",
+    "role": "ISD Agent",
     "department": "Security",
     "assigned_scp": null,
     "clearance": 1,
     "skills": {
-      "Occult_Research": 84,
-      "Stealth": 52,
-      "Hacking": 41
+      "Athletics": 56,
+      "Persuasion": 94,
+      "Hacking": 39
     },
     "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 150,
+    "iq": 145,
     "personality_matrix": {
-      "openness": 99,
-      "conscientiousness": 67,
-      "extraversion": 17,
-      "agreeableness": 100,
-      "neuroticism": 32
+      "openness": 76,
+      "conscientiousness": 64,
+      "extraversion": 59,
+      "agreeableness": 72,
+      "neuroticism": 9
     },
     "phobias": [
-      "Chronophobia (Fear of time passing)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.72
+    "mental_stability": 0.76
   },
   "social_and_secrets": {
-    "family": "Single",
+    "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 100000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Trying to clear their family name",
     "hidden_affiliation": "None"
   }
 }

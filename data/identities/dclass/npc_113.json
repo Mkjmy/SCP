@@ -1,21 +1,21 @@
 {
   "id": "npc_113",
   "bio": {
-    "full_name": "Fatima Davis",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 33,
-    "blood_type": "A+",
-    "genetic_stability": 0.924,
-    "origin": "Former university professor specialized in anomalous biology"
+    "full_name": "John Jones",
+    "gender": "Transgender",
+    "orientation": "Asexual",
+    "age": 32,
+    "blood_type": "A-",
+    "genetic_stability": 0.95,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 179,
-    "weight_kg": 66,
-    "build": "Heavily Muscular",
+    "height_cm": 195,
+    "weight_kg": 87,
+    "build": "Athletic",
     "physical_features": {
-      "hair": "Silver, Pixie cut",
-      "eyes": "Deep brown",
+      "hair": "Dyed green, Manicured",
+      "eyes": "Sharp blue",
       "notable_marks": [
         "Hums classical music"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 0,
     "skills": {
-      "Containment_Logic": 57,
-      "Medicine": 15,
-      "Persuasion": 37
+      "Occult_Research": 25,
+      "Engineering": 46,
+      "Athletics": 31
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-B"
   },
   "psychological_profile": {
-    "iq": 114,
+    "iq": 97,
     "personality_matrix": {
-      "openness": 69,
-      "conscientiousness": 40,
-      "extraversion": 33,
-      "agreeableness": 12,
-      "neuroticism": 24
+      "openness": 11,
+      "conscientiousness": 90,
+      "extraversion": 68,
+      "agreeableness": 75,
+      "neuroticism": 100
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Automatonophobia (Fear of human-like figures)"
     ],
-    "mental_stability": 0.47
+    "mental_stability": 0.52
   },
   "social_and_secrets": {
-    "family": "Divorced",
+    "family": "Single",
     "debts": {
-      "amount": 1000,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Spying for the Chaos Insurgency",
+    "hidden_agenda": "Secretly worships the Scarlet King",
     "hidden_affiliation": "None"
   }
 }

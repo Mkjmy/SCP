@@ -1,23 +1,23 @@
 {
   "id": "npc_034",
   "bio": {
-    "full_name": "William Garcia",
-    "gender": "Non-binary",
-    "orientation": "Homosexual",
-    "age": 35,
-    "blood_type": "A+",
-    "genetic_stability": 0.897,
-    "origin": "Former NASA engineer who saw too much"
+    "full_name": "John Jones",
+    "gender": "Transgender",
+    "orientation": "Heterosexual",
+    "age": 58,
+    "blood_type": "O-",
+    "genetic_stability": 0.944,
+    "origin": "Convicted felon given a choice between execution and Foundation service"
   },
   "appearance": {
-    "height_cm": 183,
-    "weight_kg": 86,
-    "build": "Athletic",
+    "height_cm": 158,
+    "weight_kg": 57,
+    "build": "Slender",
     "physical_features": {
-      "hair": "Blonde, Shoulder-length",
-      "eyes": "Emerald green",
+      "hair": "Red, Messy",
+      "eyes": "Amber",
       "notable_marks": [
-        "Taps fingers rhythmically"
+        "Smokes heavily"
       ]
     }
   },
@@ -25,36 +25,36 @@
     "role": "Guard",
     "department": "Security",
     "assigned_scp": null,
-    "clearance": 2,
+    "clearance": 3,
     "skills": {
-      "Hacking": 54,
-      "Engineering": 56,
-      "Occult_Research": 66
+      "Containment_Logic": 22,
+      "Athletics": 35,
+      "Perception": 20
     },
-    "salary_level": "Grade-C"
+    "salary_level": "Grade-D"
   },
   "psychological_profile": {
-    "iq": 155,
+    "iq": 125,
     "personality_matrix": {
-      "openness": 53,
-      "conscientiousness": 66,
-      "extraversion": 86,
-      "agreeableness": 73,
-      "neuroticism": 8
+      "openness": 61,
+      "conscientiousness": 72,
+      "extraversion": 99,
+      "agreeableness": 14,
+      "neuroticism": 27
     },
     "phobias": [
-      "Aphenphosmphobia (Fear of intimacy)"
+      "Aphenphosmphobia (Fear of being touched)"
     ],
-    "mental_stability": 0.46
+    "mental_stability": 0.42
   },
   "social_and_secrets": {
-    "family": "Widowed",
+    "family": "Divorced",
     "debts": {
-      "amount": 0,
-      "creditor": "Student Loans"
+      "amount": 100000,
+      "creditor": "Local Mob"
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Secretly worships the Scarlet King",
+    "hidden_agenda": "Planning to leak documents to the Serpent's Hand",
     "hidden_affiliation": "None"
   }
 }

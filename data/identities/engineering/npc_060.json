@@ -1,21 +1,21 @@
 {
   "id": "npc_060",
   "bio": {
-    "full_name": "Arjun Miller",
-    "gender": "Male",
+    "full_name": "Donald Jones",
+    "gender": "Non-binary",
     "orientation": "Bisexual",
-    "age": 29,
-    "blood_type": "A-",
-    "genetic_stability": 0.915,
-    "origin": "Convicted felon given a choice between execution and Foundation service"
+    "age": 52,
+    "blood_type": "AB+",
+    "genetic_stability": 0.934,
+    "origin": "Former investigative journalist who dug too deep"
   },
   "appearance": {
-    "height_cm": 159,
-    "weight_kg": 105,
-    "build": "Athletic",
+    "height_cm": 175,
+    "weight_kg": 74,
+    "build": "Stocky",
     "physical_features": {
-      "hair": "Blonde, Pixie cut",
-      "eyes": "Heterochromatic (Grey/Blue)",
+      "hair": "Red, Wild and unkempt",
+      "eyes": "Icy blue",
       "notable_marks": [
         "Obsessively cleans their glasses"
       ]
@@ -27,34 +27,34 @@
     "assigned_scp": null,
     "clearance": 2,
     "skills": {
-      "Stealth": 44,
-      "Perception": 90,
-      "Occult_Research": 82
+      "Hacking": 92,
+      "Containment_Logic": 51,
+      "Stealth": 50
     },
-    "salary_level": "Grade-D"
+    "salary_level": "Grade-A"
   },
   "psychological_profile": {
-    "iq": 159,
+    "iq": 132,
     "personality_matrix": {
-      "openness": 22,
-      "conscientiousness": 17,
-      "extraversion": 25,
-      "agreeableness": 93,
-      "neuroticism": 33
+      "openness": 14,
+      "conscientiousness": 41,
+      "extraversion": 79,
+      "agreeableness": 42,
+      "neuroticism": 95
     },
     "phobias": [
-      "Arachnophobia (Fear of spiders)"
+      "Aphenphosmphobia (Fear of intimacy)"
     ],
-    "mental_stability": 0.93
+    "mental_stability": 0.89
   },
   "social_and_secrets": {
     "family": "Widowed",
     "debts": {
-      "amount": 0,
-      "creditor": "Local Mob"
+      "amount": 5000,
+      "creditor": "Marshall, Carter & Dark Ltd."
     },
     "loyalty_status": "LOYAL",
-    "hidden_agenda": "Attempting to steal a specific SCP object",
+    "hidden_agenda": "Seeking a way to resurrect a loved one using anomalous means",
     "hidden_affiliation": "None"
   }
 }
